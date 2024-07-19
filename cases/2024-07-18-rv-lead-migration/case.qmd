@@ -1,0 +1,50 @@
+---
+title: High Risk CVD Cases
+subtitle: RV Lead Migration
+format:
+  revealjs:
+    transition: fade
+---
+
+## History
+
+81M with RV lead migration
+
+- Single-chamber pacemaker implanted September 2023 for high grade AV block
+- Paroxysmal AF on apixaban and digoxin
+- COPD on home O2, HTN, DM, distant MI (1987)
+
+## Presentation {.smaller}
+
+- 3-4 days of left-sided chest pain & increased dyspnea
+- Presents to St. Luke's (Idaho), and CT scan showing...
+
+> "...pacer lead that transverses the apex of the right ventricle with a small pericardial hematoma and a few small foci of air within the pericardial region."
+
+- Transferred to St. Alphonsus (Idaho), with urgent chest tube placement (7/14)
+- TVP placed for worsening lead measurements and intermittent heart block (7/17)
+- Transferred to University for "higher level of care" (7/18)
+
+## {background-image="cxr.png" background-size="contain"}
+
+## {background-image="echo.gif" background-size="contain"}
+
+## {background-image="ct.png" background-size="contain"}
+
+## Current status {.smaller}
+
+- Last anticoagulant dose 7/13 AM (Hb 14, PLT 100)
+- Small hemopericardium seen on echo and CT
+- Resolving left pneumothorax with chest tube
+- Has intrinsic rhythm with current adequate permanent pacemaker parameters (VVI 60)
+- TVP in place with (backup VVI 40)
+
+## Considerations {.smaller}
+
+Lead explantation/extraction with cardiothoracic surgery support:
+
+- Likely mobile and not adherent to pericardium
+- Risk of worsening pericardial bleeding (may benefit from prophylactic pericardial drain)
+- High risk of inpatient mortality if requiring emergent surgery/sternotomy
+- Will need long-term AC for CVA protection, difficult with migrating RV lead
+- If delayed (weeks to months), may lead to more difficult extraction due to fibrosis/adherence to pericardium/RV apex
