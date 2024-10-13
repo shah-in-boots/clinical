@@ -1,0 +1,195 @@
+---
+title: "Cath Conference"
+subtitle: "UIC Cardiac Catheterization Lab"
+date: "November 23, 2021"
+author: "Anish Sanjay Shah, MD<br><span style = 'font-size: 70%;'>Cardiology Fellow<br>University of Illinois at Chicago</span>"
+output:
+  xaringan::moon_reader:
+    css: xaringan-themer.css
+    self_contained: false
+    nature:
+      titleSlideClass: [center, middle, inverse]
+      highlightLines: true
+---
+
+```{r setup, echo = FALSE, include = FALSE}
+library(tidyverse)
+
+print.tbl_df <- function(x, ...) {
+	print.data.frame(x, right = FALSE, ...)
+	invisible(x)
+}
+
+# Options
+options(digits = 1)
+```
+
+```{r themer, echo=FALSE, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_duo_accent(primary_color = "#091F40", secondary_color = "#AC1E2D")
+```
+
+class: center, middle, inverse
+# Case PW
+
+77M h/o HTN, DVT s/p IVC filter  
+p/w RMCA CVA and elevated troponin  
+ECG = anterior STEMI pattern  
+Troponin = 18  
+
+---
+
+.pull-left[
+#### Access
+Right CFA, 6F brite tip  
+RCA with 5F JR-4  
+LCA with EBU 4.0 guide (and guideliner)  
+
+#### Interventions
+OCT of LAD  
+Pre-dilation with 2.5 SC balloon  
+PCI to mLAD x2  
+Post-dilation  
+Perclose  
+]
+
+.pull-right[
+#### Outcomes
+- DES x 2 (2.5 x 38, 3.0 x 12) overlapping
+- Ticagrelor / IV cangrelor
+- ASA desensitization
+]
+
+---
+background-image: url("pw-01-femoral.gif")
+background-size: contain
+
+---
+background-image: url("pw-02-rca.gif")
+background-size: contain
+
+---
+background-image: url("pw-03-lca.gif")
+background-size: contain
+
+---
+background-image: url("pw-04-lad-wire.gif")
+background-size: contain
+
+---
+background-image: url("pw-05-stent-positioning.gif")
+background-size: contain
+
+---
+background-image: url("pw-06-pre-balloon.gif")
+background-size: contain
+
+---
+background-image: url("pw-07-stent-placed.gif")
+background-size: contain
+
+---
+background-image: url("pw-08-post-dilation.gif")
+background-size: contain
+
+---
+background-image: url("pw-09-second-stent.gif")
+background-size: contain
+
+---
+background-image: url("pw-10-post-balloon.gif")
+background-size: contain
+
+---
+background-image: url("pw-11-final.gif")
+background-size: contain
+
+---
+
+class: center, middle, inverse
+# Case SG
+
+65M h/o CAD, PAD
+p/w claudication, exertional limitations
+
+---
+
+.pull-left[
+#### Access
+Left RA, 5F sheath  
+Left CFA, 6F sheath  
+5F pigtail 
+CXI 4F microcatheter  
+
+#### Interventions
+Bilateral aorto-iliac angiography  
+Bilateral ileo-femoral angiography  
+Pre-dilation of left iliac artery  
+BMS placement  
+Post-dilation to match size  
+Manual pressure closure  
+]
+
+.pull-right[
+#### Outcomes
+- BMS 8.0 x 40 mm self-expanding  
+- DAPT x 1 month  
+]
+
+
+---
+background-image: url("sg-01.gif")
+background-size: contain
+
+---
+background-image: url("sg-02.gif")
+background-size: contain
+
+---
+background-image: url("sg-03.gif")
+background-size: contain
+
+---
+background-image: url("sg-04.gif")
+background-size: contain
+
+---
+background-image: url("sg-05.gif")
+background-size: contain
+
+---
+background-image: url("sg-06.gif")
+background-size: contain
+
+---
+background-image: url("sg-07.gif")
+background-size: contain
+
+---
+background-image: url("sg-08.gif")
+background-size: contain
+
+---
+background-image: url("sg-09.gif")
+background-size: contain
+
+---
+background-image: url("sg-10.gif")
+background-size: contain
+
+---
+background-image: url("sg-11.gif")
+background-size: contain
+
+---
+background-image: url("sg-12.gif")
+background-size: contain
+
+---
+background-image: url("sg-13.gif")
+background-size: contain
+
+---
+background-image: url("sg-14.gif")
+background-size: contain
+

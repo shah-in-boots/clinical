@@ -1,0 +1,101 @@
+---
+title: "<span style = 'font-size: 200%;'>Cardiac Tamponade</span>"
+subtitle: "POCUS Conference"
+date: December 23, 2020
+author: "Anish Sanjay Shah, MD<br><span style = 'font-size: 70%;'>University of Illinois at Chicago<br>Division of Cardiology</span>"
+output:
+  xaringan::moon_reader:
+    nature:
+      titleSlideClass: [center, middle, inverse]
+      highlightLines: true
+---
+
+```{r setup, echo = FALSE, include = FALSE}
+knitr::opts_chunk$set(fig.retina = 3)
+
+library(tidyverse)
+
+print.tbl_df <- function(x, ...) {
+	print.data.frame(x, right = FALSE, ...)
+	invisible(x)
+}
+
+# Options
+options(digits = 0)
+```
+
+# Evaluating Pericardial Effusions
+
+.pull-left[
+### Effusion
+
+- Pericardial effusion, usually circumferential
+- Right atrial collapse 
+- Respirophasic changes of regurgitant jets and LV outflow jets
+
+]
+
+.pull-right[
+### Tamponade
+
+- Dilated IVC
+- Ventricular interdependence:
+	- Tricuspid jet with $>40%$ respirophasic changes
+	- LV outflow track velocity changes $>25%$ __*__
+- RV diastolic collapse
+]
+
+.footnote[
+* Varied transmission of outflow correlates with **pulsus paradoxus**
+]
+
+---
+background-image: url("lvot-jet.jpg")
+background-size: cover
+
+---
+# Pericardiocentesis Technique
+
+.pull-left[
+**Subxiphoid**, apical, and parasternal approach
+
+*Equipment*
+
+- 18-gauge spinal needle
+- Three-way stopcock
+- 20 cc syringe
+- Guidewire
+- Drainage tubing 
+
+]
+
+.pull-right[
+
+*Ultrasound*
+
+1. direct visualization of needle entering pericardium
+1. use agitated saline to confirm wire/needle placement
+	
+*ECG* 
+
+1. attach alligator clips to needle, connected to precordial lead,
+1. advance needle until ST elevation, suggesting myocardium has been reached
+1. withdraw until segments resolve
+	
+]
+
+.footnote[
+Fitch et al. 2012, NEJM
+]
+
+---
+background-image: url("needle-through-pericardium.gif")
+background-size: cover
+
+---
+background-image: url("dilator-in-pericardium.gif")
+background-size: cover
+
+---
+class: center, middle, inverse
+# Questions?

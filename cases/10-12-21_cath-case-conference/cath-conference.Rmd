@@ -1,0 +1,311 @@
+---
+title: "Cath Conference"
+subtitle: "JBVA Cardiac Catheterization Lab"
+date: "October 12, 2021"
+author: "Anish Sanjay Shah, MD<br><span style = 'font-size: 70%;'>Cardiology Fellow<br>University of Illinois at Chicago</span>"
+output:
+  xaringan::moon_reader:
+    css: xaringan-themer.css
+    self_contained: false
+    nature:
+      titleSlideClass: [center, middle, inverse]
+      highlightLines: true
+---
+
+```{r setup, echo = FALSE, include = FALSE}
+library(tidyverse)
+
+print.tbl_df <- function(x, ...) {
+	print.data.frame(x, right = FALSE, ...)
+	invisible(x)
+}
+
+# Options
+options(digits = 0)
+```
+
+```{r themer, echo=FALSE, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_duo_accent(primary_color = "#091F40", secondary_color = "#AC1E2D")
+```
+
+class: center, middle, inverse
+# Case 1
+
+70M h/o DM, HTN, CVA, PE, ETOH abuse  
+p/w unstable angina, typical symptoms  
+EST s- evidence of ischemia  
+
+---
+background-image: url("a4682-1-femoral.gif")
+background-size: contain
+
+---
+background-image: url("a4682-2-rca.gif")
+background-size: contain
+
+---
+background-image: url("a4682-3-rca.gif")
+background-size: contain
+
+---
+background-image: url("a4682-4-rca.gif")
+background-size: contain
+
+---
+background-image: url("a4682-5-lca.gif")
+background-size: contain
+
+---
+background-image: url("a4682-6-lca.gif")
+background-size: contain
+
+---
+background-image: url("a4682-7-lca.gif")
+background-size: contain
+
+---
+background-image: url("a4682-8-lca.gif")
+background-size: contain
+
+---
+background-image: url("a4682-9-lca.gif")
+background-size: contain
+
+---
+background-image: url("a4682-10-lad-wired.gif")
+background-size: contain
+
+---
+background-image: url("a4682-11-lad-ballooned.gif")
+background-size: contain
+
+---
+background-image: url("a4682-12-lad-ballooned.gif")
+background-size: contain
+
+---
+background-image: url("a4682-13-lad-stent.gif")
+background-size: contain
+
+---
+background-image: url("a4682-14-lad-distal-bad.gif")
+background-size: contain
+
+---
+background-image: url("a4682-15-lad-mid-stent.gif")
+background-size: contain
+
+---
+background-image: url("a4682-16-lad-distal-stent.gif")
+background-size: contain
+
+---
+background-image: url("a4682-17-lad-distal-stent-opened.gif")
+background-size: contain
+
+---
+background-image: url("a4682-18-final.gif")
+background-size: contain
+
+---
+.pull-left[
+### Access
+Right Radial, 5F  
+Right Femoral, 6F  
+JR 4, JL 3.5, 5F  
+XB 4 Guide, 6F  
+BMW x 1  
+
+### Interventions
+Predilation of mLAD  
+Stent placement proximally  
+Rewire into dLAD, additional stent placement  
+]
+
+.pull-right[
+### Outcomes
+- Successful stent placement and flow in LAD
+- 2.5 x 34 mm DES to mLAD  
+- 2.25 x 38 mm DES to dLAD
+]
+
+---
+class: center, middle, inverse
+# Case 2
+
+68M h/o CVA, necrotizing myositis, OSA, DMT2, prostate CA  
+p/w urosepsis, with episodes of NSVT  
+LHC/COR: diagnostic angiogram with severe ostial RCA disease  
+
+---
+background-image: url("d8147-1-femoral.gif")
+background-size: contain
+
+---
+background-image: url("d8147-2-engaging-rca.gif")
+background-size: contain
+
+---
+background-image: url("d8147-3-shockwave.gif")
+background-size: contain
+
+---
+background-image: url("d8147-4-rca-ostia.gif")
+background-size: contain
+
+---
+background-image: url("d8147-5-stent-position.gif")
+background-size: contain
+
+---
+background-image: url("d8147-6-aorta-delineation.gif")
+background-size: contain
+
+---
+background-image: url("d8147-7-stent.gif")
+background-size: contain
+
+---
+background-image: url("d8147-8-final.gif")
+background-size: contain
+
+---
+.pull-left[
+### Access
+Right Femoral, 6F  
+AL 0.75 Guide, 6F  
+BMW, Wiggle, and Sion Blue  
+
+### Interventions
+IVUS to evaluate proximal/ostial lesion  
+Shockwave IVL 
+DES placement  
+Post-dilation  
+]
+
+.pull-right[
+### Outcomes
+- Successful stent placement to ostial RCA lesion
+- Calcium modification with Shockwave IVL 4.0 x 12 mm 
+- 4.0 x 38 mm DES to mLAD  
+]
+
+---
+class: center, middle, inverse
+# Case 3
+
+77M h/o CAD s/p PCI to LAD/OM1 (2013)  
+h/o OSA on BIPAP, obesity, HTN, HLD, CKD 3, DVT  
+p/w newly reduced EF to ~30%  
+c/s LHC/RHC/COR
+
+---
+background-image: url("p5517-1-lost.gif")
+background-size: contain
+
+---
+background-image: url("p5517-2-femoral.gif")
+background-size: contain
+
+---
+background-image: url("p5517-3-still-lost.gif")
+background-size: contain
+
+---
+background-image: url("p5517-4-lca-rao-caud.gif")
+background-size: contain
+
+---
+background-image: url("p5517-5-lca-rao-cran.gif")
+background-size: contain
+
+---
+background-image: url("p5517-6-lca-rao-cran.gif")
+background-size: contain
+
+---
+background-image: url("p5517-7-lca-lao-cran.gif")
+background-size: contain
+
+---
+background-image: url("p5517-8-lca-lao-caud.gif")
+background-size: contain
+
+---
+background-image: url("p5517-9-lca-lao-caud.gif")
+background-size: contain
+
+---
+background-image: url("p5517-10-rca.gif")
+background-size: contain
+
+---
+background-image: url("p5517-11-rca.gif")
+background-size: contain
+
+---
+.pull-left[
+### Access
+Right Radial, 5F  
+Right Femoral, 6F  
+JR 4, 6F  
+JL 5, 6F  
+
+### Interventions
+Escalation of engagement catheters  
+]
+
+.pull-right[
+### Outcomes
+- Non-ischemic etiology of newly reduced EF
+- Nonobstructive CAD, calcific/chronic  
+- Mild ISR of prior LAD stent  
+]
+
+---
+class: center, middle, inverse
+# Case 4
+
+61M h/o septic endocarditis s/p MVR (2014)  
+p/w ADHF  
+TTE/TEE c- severe MS  
+c/s preoperative angiogram  
+
+---
+background-image: url("w2171-1-lca.gif")
+background-size: contain
+
+---
+background-image: url("w2171-2-lca.gif")
+background-size: contain
+
+---
+background-image: url("w2171-3-lca.gif")
+background-size: contain
+
+---
+background-image: url("w2171-4-lca.gif")
+background-size: contain
+
+---
+background-image: url("w2171-5-rca.gif")
+background-size: contain
+
+
+---
+.pull-left[
+### Access
+Left Radial, 5F  
+Terumo Tiger, 5F  
+
+### Interventions
+None  
+]
+
+.pull-right[
+### Outcomes
+- Nonobstructive CAD, diminutive AV LCX
+- Short LCX with high caliber OM system s/p SMVR
+- High bifurcation of the RPDA  
+]

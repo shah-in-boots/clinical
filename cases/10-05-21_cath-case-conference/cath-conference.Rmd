@@ -1,0 +1,312 @@
+---
+title: "Cath Conference"
+subtitle: "JBVA Cardiac Catheterization Lab"
+date: "October 05, 2021"
+author: "Anish Sanjay Shah, MD<br><span style = 'font-size: 70%;'>Cardiology Fellow<br>University of Illinois at Chicago</span>"
+output:
+  xaringan::moon_reader:
+    css: xaringan-themer.css
+    self_contained: false
+    nature:
+      titleSlideClass: [center, middle, inverse]
+      highlightLines: true
+---
+
+```{r setup, echo = FALSE, include = FALSE}
+library(tidyverse)
+
+print.tbl_df <- function(x, ...) {
+	print.data.frame(x, right = FALSE, ...)
+	invisible(x)
+}
+
+# Options
+options(digits = 0)
+```
+
+```{r themer, echo=FALSE, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_duo_accent(primary_color = "#091F40", secondary_color = "#AC1E2D")
+```
+
+class: center, middle, inverse
+# Case 1
+
+69M h/o PAD, ESRD s/p LUE-AVF, MM, DM  
+p/w left foot gangrene (recent amputation)  
+c/s pre-op LHC for BKA  
+DSE = severe apical hypokinesis  
+PCI = DK crush  
+
+---
+class: center, middle
+## Diagnostic Component
+
+---
+background-image: url("c5912-dx-lca-ap-caud-2.gif")
+background-size: contain
+
+---
+background-image: url("c5912-dx-lca-ap-caud.gif")
+background-size: contain
+
+---
+background-image: url("c5912-dx-lca-ap-cran.gif")
+background-size: contain
+
+---
+background-image: url("c5912-dx-lca-lao-caud.gif")
+background-size: contain
+
+---
+background-image: url("c5912-dx-rca.gif")
+background-size: contain
+
+---
+class: center, middle
+## Interventional Component
+
+---
+background-image: url("c5912-tx-lca-ap-cran.gif")
+background-size: contain
+
+---
+background-image: url("c5912-tx-lca-lao-caud.gif")
+background-size: contain
+
+---
+background-image: url("c5912-tx-lca-rao-caud.gif")
+background-size: contain
+
+---
+background-image: url("c5912-tx-wire-lcx-lad.gif")
+background-size: contain
+
+---
+background-image: url("c5912-tx-lm-poba.gif")
+background-size: contain
+
+---
+background-image: url("c5912-tx-lad-poba.gif")
+background-size: contain
+
+---
+background-image: url("c5912-tx-lad-poba-2.gif")
+background-size: contain
+
+---
+background-image: url("c5912-tx-lcx-poba.gif")
+background-size: contain
+
+---
+background-image: url("c5912-tx-lad-balloon-again.gif")
+background-size: contain
+
+---
+background-image: url("c5912-tx-mlad-balloon.gif")
+background-size: contain
+
+---
+background-image: url("c5912-tx-mlad-popped-open.gif")
+background-size: contain
+
+---
+background-image: url("c5912-tx-mlad-easy-opened.gif")
+background-size: contain
+
+---
+background-image: url("c5912-tx-mlad-flow.gif")
+background-size: contain
+
+---
+background-image: url("c5912-tx-lcx-balloon.gif")
+background-size: contain
+
+---
+background-image: url("c5912-tx-dk-crush-prep.gif")
+background-size: contain
+
+---
+background-image: url("c5912-tx-dk-child-stent.gif")
+background-size: contain
+
+---
+background-image: url("c5912-tx-dk-main-balloon.gif")
+background-size: contain
+
+---
+background-image: url("c5912-tx-first-kiss.gif")
+background-size: contain
+
+---
+background-image: url("c5912-tx-main-stent.gif")
+background-size: contain
+
+---
+background-image: url("c5912-tx-rewire-lcx.gif")
+background-size: contain
+
+---
+background-image: url("c5912-tx-final-kiss.gif")
+background-size: contain
+
+---
+background-image: url("c5912-tx-bifurcation-flow.gif")
+background-size: contain
+
+---
+background-image: url("c5912-tx-final-shot.gif")
+background-size: contain
+
+
+---
+background-image: url("c5912-tx-femoral-angio.gif")
+background-size: contain
+
+---
+.pull-left[
+### Access
+Left Femoral, 7F 
+XB 3.5 guide  
+BMW x2 to wire LAD and LCX
+
+### Interventions
+IVUS of LAD and LCX to evaluate lesions  
+Shockwave (4x12) for both lesions  
+PCI of mLAD with 3x15  
+DK crush of LM lesion with 4x15 in LCX and 4x18 mm to LAD  
+Perclose and manual pressure for hemostasis  
+]
+
+.pull-right[
+### Outcomes
+- LM bifurcation disease, Medina 1,1,1
+- 270 degrees of calcium in oLAD and oLCX  
+- Utility in Shockwave to decrease wire crossing for DK crush approach  
+- Successful LM kissing stents with mLAD stent  
+]
+
+---
+class: center, middle, inverse
+# Case 2
+
+---
+background-image: url("m5874-lca-ap-caud.gif")
+background-size: contain
+
+---
+background-image: url("m5874-lca-rao-cran.gif")
+background-size: contain
+
+---
+background-image: url("m5874-rca-lao-cran.gif")
+background-size: contain
+
+---
+background-image: url("m5874-rca-rao-caud.gif")
+background-size: contain
+
+---
+background-image: url("m5874-radial.gif")
+background-size: contain
+
+---
+background-image: url("m5874-high-radial.gif")
+background-size: contain
+
+---
+background-image: url("m5874-radial-angio.gif")
+background-size: contain
+
+---
+.pull-left[
+### Access
+Right Radial, 5F  
+Terumo Tiger, 5F  
+
+### Interventions
+10 mg verapamil IA   
+Nitroglycerin 600 mcg IA  
+]
+
+.pull-right[
+### Outcomes
+- Nonobstructive CAD  
+- High right radial  
+]
+
+---
+class: center, middle, inverse
+# Case 3
+
+---
+background-image: url("t9708-dx-lao-caud.gif")
+background-size: contain
+
+---
+background-image: url("t9708-dx-lao-cran.gif")
+background-size: contain
+
+---
+background-image: url("t9708-dx-rao-caud.gif")
+background-size: contain
+
+---
+background-image: url("t9708-dx-rao-cran.gif")
+background-size: contain
+
+---
+background-image: url("t9708-dx-rca.gif")
+background-size: contain
+
+---
+background-image: url("t9708-tx-wiring-left.gif")
+background-size: contain
+
+---
+background-image: url("t9708-tx-initial-balloon.gif")
+background-size: contain
+
+---
+background-image: url("t9708-tx-corsair.gif")
+background-size: contain
+
+---
+background-image: url("t9708-tx-balloon-mid.gif")
+background-size: contain
+
+---
+background-image: url("t9708-tx-deploying-stent.gif")
+background-size: contain
+
+---
+background-image: url("t9708-tx-return-flow.gif")
+background-size: contain
+
+---
+background-image: url("t9708-tx-prox-stent.gif")
+background-size: contain
+
+---
+background-image: url("t9708-tx-final.gif")
+background-size: contain
+
+---
+.pull-left[
+### Access
+Left Radial, 6F  
+XB-4 guide for LCA  
+JR-4 guide for RCA  
+
+### Interventions
+IVUS of mLAD (360 degrees calcium in mLAD)  
+Guideliner for support  
+Orbital atherectomy (CSI)  
+Stent placed with post IVUS imaging  
+]
+
+.pull-right[
+### Outcomes
+- 3.5x38 to mLAD
+- 4.5x12 to pLAD  
+]

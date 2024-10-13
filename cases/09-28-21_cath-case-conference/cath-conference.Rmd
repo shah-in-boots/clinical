@@ -1,0 +1,208 @@
+---
+title: "Cath Conference"
+subtitle: "JBVA Cardiac Catheterization Lab"
+date: "September 28, 2021"
+author: "Anish Sanjay Shah, MD<br><span style = 'font-size: 70%;'>Cardiology Fellow<br>University of Illinois at Chicago</span>"
+output:
+  xaringan::moon_reader:
+    css: xaringan-themer.css
+    self_contained: false
+    nature:
+      titleSlideClass: [center, middle, inverse]
+      highlightLines: true
+---
+
+```{r setup, echo = FALSE, include = FALSE}
+library(tidyverse)
+
+print.tbl_df <- function(x, ...) {
+	print.data.frame(x, right = FALSE, ...)
+	invisible(x)
+}
+
+# Options
+options(digits = 0)
+```
+
+```{r themer, echo=FALSE, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_duo_accent(primary_color = "#091F40", secondary_color = "#AC1E2D")
+```
+
+class: center, middle, inverse
+# Case 1
+
+69M h/o PAD, ESRD s/p LUE-AVF, MM, DM  
+p/w left foot gangrene (recent amputation)  
+c/s pre-op LHC for BKA  
+DSE = severe apical hypokinesis  
+
+---
+background-image: url("c5912-rca.gif")
+background-size: contain
+
+---
+background-image: url("c5912-rca-2.gif")
+background-size: contain
+
+---
+.pull-left[
+### Access
+Right radial, 5F
+Terumo Tiger, 5F
+JL-3, 5F
+
+### Interventions
+None
+]
+
+.pull-right[
+### Outcomes
+- LM bifurcation disease, Medina 1,1,1
+- LAD and LCX 70% at ostia
+- LM at 60% distal
+]
+
+---
+
+class: center, middle, inverse
+# Case 2
+
+73M h/o h/o DM, HLD, HTN, prostate CA  
+p/w atrial flutter, chest pain  
+c/s troponin elevated to 1.2  
+
+---
+
+background-image: url("b1770-rca.gif")
+background-size: contain
+
+---
+
+background-image: url("b1770-lca.gif")
+background-size: contain
+
+---
+
+background-image: url("b1770-balloon-rca.gif")
+background-size: contain
+
+---
+
+background-image: url("b1770-positioning-stent.gif")
+background-size: contain
+
+---
+
+background-image: url("b1770-distal-stent.gif")
+background-size: contain
+
+---
+
+background-image: url("b1770-prox-stent.gif")
+background-size: contain
+
+---
+
+background-image: url("b1770-balloon-overlap.gif")
+background-size: contain
+
+---
+
+background-image: url("b1770-post-dil.gif")
+background-size: contain
+
+---
+
+background-image: url("b1770-final.gif")
+background-size: contain
+
+
+---
+
+.pull-left[
+### Access
+Right Radial, 6F  
+JR-4, 5F  
+JL-3.5, F5  
+XB 3.5 Guide, 5F  
+
+### Interventions
+IVUS  
+Balloon 2.5 x 15 mm  
+DES x 2 (3 x 38 mm, 4 x 38 mm)
+]
+
+.pull-right[
+### Outcomes
+- RCA mid to distal disease, 80% stenosis
+- Jailing of RV marginal branch
+]
+
+---
+
+class: center, middle, inverse
+# Case 3
+
+85M h/o melanoma on CTX (dabrafenib/trametinib), recurrent bladder cancer, HTN, hypothyroidism  
+p/w fatigue, shortness of breath, DOE  
+TTE = 55% to 20% with WMA within 3 weeks  
+
+---
+
+background-image: url("l2072-lao-caud.gif")
+background-size: contain
+
+---
+
+background-image: url("l2072-lca-lao-cran-2.gif")
+background-size: contain
+
+---
+
+background-image: url("l2072-lca-rao-caud-2.gif")
+background-size: contain
+
+---
+
+background-image: url("l2072-lca-rao-cran-1.gif")
+background-size: contain
+
+---
+
+background-image: url("l2072-rao-cran.gif")
+background-size: contain
+
+---
+
+background-image: url("l2072-rca-lao-cran.gif")
+background-size: contain
+
+---
+
+background-image: url("l2072-rao-caud.gif")
+background-size: contain
+
+
+---
+
+background-image: url("l2072-rca-lao-cran-2.gif")
+background-size: contain
+
+---
+
+.pull-left[
+### Access
+Right Radial, 6F  
+JR-4, 5F  
+JL-3.5, F5  
+
+### Interventions
+None  
+]
+
+.pull-right[
+### Outcomes
+- Severely diseased proximal/distal RCA, 90% lesions  
+- Aneurysmal lesion of pLAD into D1, Medina 1,1,1
+]

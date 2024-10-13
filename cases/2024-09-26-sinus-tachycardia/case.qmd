@@ -1,0 +1,64 @@
+---
+title: EP Didactics
+subtitle: Interesting Case Series
+author: Anish S. Shah, MD, MS
+institute: Division of Cardiology, Department of Medicine, University of Utah
+date: September 26, 2024
+format:
+  revealjs:
+    transition: fade
+    transition-speed: fast
+    slide-number: true
+    incremental: true
+    auto-animate-easing: ease-in-out
+    auto-animate-unmatched: false
+    progress: true
+    chalkboard: true
+    scrollable: true
+
+csl: ../../apa.csl
+---
+
+# Interesting Case
+
+## G6664
+
+. . .
+
+46 year old gentleman with history of LV noncompaction status post heart transplant in 08/2023, who presents with new-onset tachycardia
+
+. . .
+
+Initially evaluated for rejection, with negative biopsy and no coronary artery vasculopathy on invasive angiography
+
+. . .
+
+Was cardioverted but remained in *atrial flutter*
+
+## Baseline tachycardia
+
+## {background-image="baseline-surface-12-lead.png" background-size="cover"}
+## {background-image="baseline-surface.png" background-size="cover"}
+## {background-image="baseline-intervals-intracardiac.png" background-size="cover"}
+
+# Ventricular pacing
+
+## {background-image="vstim-progressive-fusion.png" background-size="cover"}
+## {background-image="vstim-failure-to-capture-atria.png" background-size="cover"}
+
+# Atrial Pacing
+
+## {background-image="hra-pacing.png" background-size="cover"}
+## {background-image="a-pacing-ppi.png" background-size="cover"}
+## {background-image="a-pacing-slow-pathway-jump.png" background-size="cover"}
+
+# Adenosine
+
+## {background-image="adenosine-response.png" background-size="cover"}
+## {background-image="atrial-ectopy-during-adenosine.png" background-size="cover"}
+## {background-image="intervals-during-adenosine.png" background-size="cover"}
+## {background-image="v-pacing-during-adenosine.png" background-size="cover"}
+## {background-image="v-pacicng-during-adenosine-sinus-escape.png" background-size="cover"}
+## {background-image="surface-ecg-during-adenosine.png" background-size="cover"}
+## {background-image="return-of-tachycardia-tcl-600.png" background-size="cover"}
+## {background-image="tachycardia-returns-tcl-520.png" background-size="cover"}

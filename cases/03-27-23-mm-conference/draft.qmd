@@ -1,0 +1,186 @@
+# Course 
+
+
+## Anesthesia H&P
+
+Cardio
+last saw cardiology 10/12/22
+(+)	Aortic stenosis (moderate AS and moderate AR on TEE 10/2022)
+(+)	Benign essential hypertension (on metoprolol, reports at home BPs 130s/80s, BP in office 106/74 today)
+(+)	Congestive heart failure (CMS/HCC) (EF 55 to 60% on TEE 10/2022, on Lasix, denies pedal edema or SOB (but wife reports patient "sounds like he has difficulty breathing at times"), +1-3 pillow orthopnea as well as sleeps with head of bed elevated (chronic, stable/unchanged), does not follow low salt diet)
+(+)	Longstanding persistent atrial fibrillation (CMS/HCC) (on Eliquis)
+(+)	Pulmonary hypertension (CMS/HCC) (moderate-severe on RHC 1/4/23, on sildenafil)
+(-)	Chest pain
+(-)	MI (myocardial infarction) (CMS/HCC)
+(-)	Stented coronary artery
+ 
+Pulmonary
+wife reports apneic episodes for patient but no previous sleep study
+
+
+## Post Op 
+
+
+
+### 02/04/23 Resident Note
+
+Mr. Powell is a 58 year old male who underwent a mitral and aortic valve replacement for symptomatic moderate mitral regurgitation and moderate aortic stenosis and regurgitation. He received 1 platelet intraop. He was transferred to the ICU in stable condition.  Large pericardial effusion noted on CT chest 2/3/23. 
+ 
+Cardiovascular:
+-S/p AVR and MVR on 1/27
+-POD1 single chamber pacemaker, V paced at 60
+            -Boston Scientific Model Number L310, Serial Number 834450
+            -no evidence of pocket hematoma 
+-hemodynamically stable
+-Increased lasix to 40mg BID
+-Preop medications: Toprol XL 25mg daily, Lasix 40 daily.
+            - restarted home lasix, not started BB as patient is baseline bradycardic and requiring pacing
+-LAA thrombus seen on TEE
+            -discussed indications for coumadin in the case with a history of valvular afib and left atrial thrombus. Patient prefers to be on Eliquis. 
+-Continue ASA 81mg and pre op statin
+-Preop LCEF 55%
+- repeat TTE stat
+- NPO 2/2 hemoptysis 
+
+## Consult
+
+
+### 01/31/23 TEE H&P
+
+58 yr old M with MR, AS and AR s/p surgical MVR and AVR with carpenter-edwards bioprosthetic valves (23mm aortic, 25mm mitral) on 1-27-2023, kidney transplant in 2015, pAF, pHTN who was admitted for the valve replacement surgery.  Postoperatively he had persistent junctional escape needing transvenous pacing, being planned for PPM.  Yesterday he had a TTE that showed a large left atrial echodensity concerning for thrombus, so he presents today for TEE for better evaluation.  
+
+### 01/31/23 EP Progress Note
+
+58M h/o ESRD s/p transpant in 2015 (on IS), persistent AF, and calcific VHD now s/p SMVR/SAVR on 01/27 c- Edwards-Carpentier bovine bioprosthetic valves. He had ?junctional escape in 40s, and epicardial pacer was left on 60 to help c- this block.
+ 
+Pt feels much better now, overall, and is on top of his pain medications. There was some suspicion of HIT in setting of his thrombocytopenia and need for platelets, along with this new found suspected thrombus in LA. He hasn't noticed any stroke like sx, and feels his pain is better controlled. Doesn't note any dizzy/LH/syncopal sx when his PM rate is decreased. 
+ 
+Currently c- HR in 60s c- irregular wide complex pattern and underlying AF. S1/S2 observed, distant. Less crackles noted on lateral lung fields. TTE with potential LA thrombus.
+ 
+High grade AV block in setting of persistent AF after SMVR/SAVR, with new dx of LA thrombus d/t ?HIT:
+ 
+1. As pt may have changes in AC options d/t this, we will defer DC-PPM placement until resolution or a plan is solidified. We can do this procedure under oral AC but would wait until this LA thrombus issue has resolved before proceding.
+2. Of note, he is less rate dependent on the pacemaker, as has been able to generate rates as high as mid-60s. We set his back-up rate at 50 for now.
+3. Will continue to follow along, and have initiated the conversation with IC/general cards about interventions. TEE pending.
+
+### 01/31/23 Structural Consult
+
+Echo 1/30/23:
+Mild LVH, normal LV function EF 55-60%, severely dilated LA and RA, moderate to severely elevated pulmonary artery pressure, well seated mitral and aortic valve. Large left atrial echodensity concerning for thrombus. 
+ 
+Assessment/Plan:
+Calvin D Powell is an 58 y.o. male with MR, AR, AS, kidney transplant in 2015, on immunosuppression, afib, pHTN on sildenafil who was admitted on 1/26/2023 for aortic and mitral valve replacement on 1/27. Cardiology consulted for recommendations regarding LA thrombus seen on TTE.
+ 
+Problem List:
+Left atrial thrombus
+Bradycardia with pacemaker at 60bpm
+Mitral and Aortic Regurgitation s/p bioprosthetic valve replacements on 1/27
+hx of kidney transplant on immunosuppression
+AKI
+thrombocytopenia, concern for HIT
+ 
+Recommendations:
+- Obtain TEE to further characterize LA thrombus
+- Anticoagulation per CT surgery, but no objection to keep the patient on AC for now from a cardiology standpoint 
+
+### 02/05/23 EP/CV Note
+
+Mr. Powell is a 58 year old AA M w/ hx of kidney transplant in 2015, on immunosuppression, afib, pHTN on sildenafil, mod-severe calcified AS/moderate AI/mod-severe MR  s/p 23mm Bioprosthetic AVR  and 25mm bioprosthetic MVR on 1/27/23 c/b Patient-prostheis mismatch and mild-mod periprosthetic regurgitation, CHB s/p Boston Scientific SC-ppm 2/1/23, Long standing persistent Atrial Fibrillation, large posterior pericardial effusion who remains in ICU with volume overload and suboptimal urine output (currently Cr 2.26, hovering close to ~2 since surgery). This AM paged that patient has not been feeling well, poor urine output and he is V-paced at 60 bpm.
+ 
+TTE 2/4/23:
+ 1. Ventricular wall thickness is mildly increased. There is normal global left ventricular function. Overall left ventricular ejection fraction by visual estimate is 60%.
+ 2. There is a well-seated bioprosthetic valve in the aortic position (bioAVR, 23mm Carpentier Edwards; placed 1/26/23). Bioprosthetic leaflets not well seen, though appear to be normally thin and mobile consistent with normal leaflet function. Mean gradient 26 mmHg and peak velocity of 3.5 m/s and acceleration time around 95msec and DI 0.45 suggestive of patient prosthesis mismatch.
+ 3. There appears to be very eccentric, mild-moderate bioAVR regurgitation that is likely periprosthetic, seen along the mitral-aortic continuity.
+ 4. There is a well-seated bioprosthetic valve in the mitral position (bioMVR, 25mm Carpentier Edwards, placed 1/26/23). Bioprosthetic leaflets not well seen, though there appears to be some leaflet thickening and reduced excursion of one of the leaflets. Elevated mean transmitral diastolic gradient 6 mm Hg at a HR of 60 bpm.
+ 5. There is a small highly-mobile echodensity seen along the ventricular surface of the bioMVR measuring approximately 7mm in length and 3mm in width (i.e. image 34); similar echodensity not well seen on prior TTE 1/30/2023 or TEE 1/31/2023. Differential includes residual chordal structure (not seen on prior echos) or possibly a new vegetation. Consider further evaluation with TEE if clinically indicated.
+ 6. Mild tricuspid valve regurgitation. The estimated right ventricular systolic pressure is elevated at 55 mmHg.
+ 7. IVC size is dilated with <50% collapse consistent with an RA pressure of 15 - 20 mmHg.
+ 8. There is a large, mostly posteriorly-located pericardial effusion measuring only about 0.5cm in diameter anteriorly at end-ventricular diastole and and approximately 2.6 cm in diameter posteriorly at end-ventricular diastole in the parasternal long axis view. Limited study to evaluate for respiratory changes, though no clear significant intracardiac hemodynamic compromise (no clear chamber collapse) from this predominantly posteriorly-located pericardial effusion.
+ 
+ 
+Mr. Powell is a 58 year old AA M admitted to ICU with the following:
+
+Volume overload
+Stage C chronic systolic HF with preserved EF, NYHA class III-IV symptoms
+AKI in setting of prior kidney transplant in 2015 on immunosuppression, 
+pHTN  
+mod-severe calcified AS with moderate AI s/p 23mm  Carpentier Edwards Bioprosthetic AV  on 1/27/23
+mod-severe MR  s/p 25mm Carpentier Edwards bioprosthetic MV on 1/27/23 
+Patient-prostheis mismatch 
+mild-mod periprosthetic regurgitation
+CHB s/p Boston Scientific SC-ppm 2/1/23
+Long standing persistent Atrial Fibrillation
+large posterior pericardial effusion 
+ 
+Impression: discussed with Dr. Avitall with EP and increased patient's back-up ventricular rate to 80 bpm with hopes to augment CO. From EP perspective, we are limited in further optimizing device as it is single lead ppm. Patient also seen and assessed with Dr. Ibrahim. Low concern that there is tamponade physiology from the posterior effusion and that the bioprostethetic valves are responsible for the current issues. He is clinically volume overloaded and out diuretic strategy thus far appears to be suboptimal. No stigmata of cardiogenic shock at this time.
+ 
+Recommendations:
+1. Please increase our lasix dosing and frequency to lasix 80mg BID for goal urine output of 1-2 L in 24 hours. If patient is not achieving this goal, we will need to increase to a lasix drip +/- thiaxide diuretic such as metolazone. Suspect that we may see transient Cr rise with diuresis but suspect that is cardiorenal and will improve once we diuresis and relieve the venous congestion.
+ 
+
+
+### 02/06/23 General Note
+
+1.	Volume overload/large posterior pericardial effusion
+2.	S/p 23 mm Carpentier Edwards bioprosthetic AVR 1/26/23. Elevated Vmax 3.5 m/s mm MG 26 mm Hg c/w PPM (normal AT, DI). Mild-moderate periprosthetic aortic regurgitation not well characterized on TTE or TEE 1/31/23, which will need f/u 
+3.	S/p 25 mm Carpentier Edwards bioprosthetic MVR 1/26/23. MG elevated 6 mm Hg (HR 60 BPM). Valve appears normal on TEE 1/31/23
+4.	LAA thrombus 
+5.	High grade AV block post operative, now s/p single lead Boston Scientific PM implanted 2/1/23
+6.	Paroxysmal atrial fibrillation 
+7.	Renal transplant 2015 on immunosuppression
+8.	Pulmonary hypertension on sildenafil
+ 
+58 y.o. M, cardiology following for volume overload, LA thrombus management. 
+ 
+Agree with continued IV diuresis, can increase to lasix 80 mg IV TID, goal -2-3L/day as he remains quite overloaded. BUN/Cr are stable, no contraction alkalosis. He reports improvement, but dyspnea not completely resolved. No clinical evidence of tamponade from the predominantly posterior pericardial effusion. No c/o chest pain beyond incisional discomfort to suggest marked pericarditis; patient is already on prednisone for renal tx. Otherwise, continue apixaban AC for LA thrombus. 
+
+## Discharge Summary
+
+
+Patient: Calvin D Powell
+Admission Date: 1/26/2023
+Discharge Date: 2/16/2023 
+Discharge Disposition: Home with family   
+Discharge Service: Cardiothoracic Surgery
+Discharge Attending: Malek Massad, MD
+Primary Diagnosis: S/P aortic valve and mitral valve replacement for mitral valve insufficiency and aortic valve stenosis.
+
+Secondary Diagnosis
+Bradycardia symptomatic requiring PPM
+Hx of atrial fibrilation
+Left atrial thrombus on DOAC
+Hemorrhoids 
+Bloody stools
+Right lower lobe consolidation
+Constipation
+BPH
+Deconditioning
+Surgical blood loss anemia
+Large pericardial effusion
+ATN
+AKI non oliguric
+Pulmonary hypertension
+Restrictive Lung disease
+Orthopnea
+Surgeries Performed
+
+1/26/2023
+OPERATIONS: 
+1.	Median sternotomy.
+2.	Total cardiopulmonary bypass.
+3.	Aortic valve replacement with a 23 mm Carpentier-Edwards pericardial bovine tissue valve.
+4.	Mitral valve replacement with a 25 mm Carpentier-Edwards pericardial bovine tissue valve.
+5.	Insertion of 2 temporary ventricular bipolar pacing wires.
+6.	Insertion of 2 mediastinal and 1 right pleural chest tubes.
+
+2/1/2023
+Procedure Performed: Placement of a single chamber permanent pacemaker via the right subclavian vein under fluoroscopy.
+
+2/14/2023
+OPERATIONS:  
+7.	Subxiphoid pericardiostomy with drainage of 650 cc of nonclotting serosanguineous fluid.
+8.	Insertion of a Jackson-Pratt catheter in the pericardial sac.
+ 
+
+Hospital Course
+Mr. Powell is a 58 year old male who underwent a mitral and aortic valve replacement for symptomatic moderate mitral regurgitation and moderate aortic stenosis and regurgitation. He received 1 platelet intraop. He was transferred to the ICU in stable condition. He was noted to be baseline bradycardic after surgery and EP was consulted for PPM which was placed on 2/1. Transplant nephrology was consulted given patient had a kidney transplant in 2016. Post operative echo showed large left atrial appendage thrombus and patient preferred to be anticoagulated with eliquis. GI was consulted for intermittent bloody stools and thought likely to be internal hemorrhoids and deferred colonoscopy to 3 months post discharge. Aspirin held and eliquis continued given risks of stroke remain high given size and location of thrombus, hemoglobin and hemodynamics remained stable and concern for large bleed were low. Pacemaker set to 80 BPM to help with cardiac output. Ongoing diuresis with IV lasix given patient had enlarged IVC on echo. On 2/14 patient underwent pericardial window with drainage of 650cc of serosanguineous fluid and immediate improvement in hemodynamics. Renal function continued to improve. Sleep medicine consult was placed as RN noticed patient would snore and desaturate at night- patient preferred to do sleep study after discharge. Patient was deemed stable for discharge. Extensive time was taken to explain discharge instructions to both patient and wife. Numbers were given in the event patient would need to contact the team prior to follow up visit 2/21/2023. 

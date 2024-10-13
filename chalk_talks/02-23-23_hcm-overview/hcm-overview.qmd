@@ -1,0 +1,163 @@
+---
+title: Hypertrophic Cardiomyopathy
+subtitle: Echocardiography Case Conference
+author: Anish S. Shah, MD, MS
+institute: Division of Cardiology, University of Illinois at Chicago
+format: 
+  revealjs:
+    scrollable: true
+tbl-cap-location: bottom
+fig-cap-location: bottom
+---
+
+```{r}
+#| echo: false
+#| label: setup
+library(tidyverse)
+library(ggsci)
+```
+
+
+## Overview
+
+- Thought to be more rare, but now diagnosed more commonly
+- Incidence of 1:200 to 1:500
+- Range of phenotypic presentations, 15 mm to &ge; 30 mm LV wall thickness
+- Clinical presentation along the spectrum of disease:
+	- stable/benign
+	- sudden death
+	- obstructive physiology + heart failure
+	- atrial fibrillation + stroke
+
+::: aside
+Maron et al. 2022, JACC
+:::
+
+## Clinical evaluation {.smaller}
+
+a. Discuss: disease and its treatment strategies - genetic conditions necessitate both clinical and psychosocial considerations
+a. HPI: focuses on syncope, prolonged palpitations, chest pain, family history of HCM or sudden death
+a. Establish: LV morphology, stratify sudden death risk, classify if obstructive or not, family screening needs, and follow-up
+a. Evaluate: TTE, ECG (12-lead + ambulatory), CMR, ESE, genetic testing
+a. Follow-up: repeat imaging every 1-2 years (based on clinical setting)
+
+---
+
+![Clinical evaluation timeline](maron-2022-eval-schedule.png){#fig-timing}
+
+::: aside
+Maron et al. 2022, JACC
+:::
+
+## LVH associated with genetic variants
+
+![Variant sub-type correlated with frequency of genetic mutations: sigmoid, reversse, neutral, apical (respectively)](binder-2006-lvh-variants.png){#fig-lvh-genes}
+
+::: aside
+Binder et al. 2006, Mayo Clin Proc
+:::
+
+## Diagnostic requirements {.bigger}
+
+1. LV wall thickness &gt; 15 mm (13 to 14 mm with other risk features)
+1. Unassociated with other cardiometabolic or systemic disease
+1. Sarcomere mutation or other genetic variant
+
+::: aside
+Gersh, BJ, et al. 2011, JACC
+:::
+
+## Non-mandatory findings
+
+- Asymmetrical septal hypertrophy
+- Systolic anterior motion
+- Dynamic LVOT obstruction
+
+## Where is the LVH?
+
+```{r}
+#| label: fig-lvh-location
+#| fig-cap: Frequency of LVH location
+df <-
+	tribble(
+		~Location, ~Frequency,
+		"Anterior septum", 0.25,
+		"Anterior and inferior", 0.31,
+		"Septum and anterolateral", 0.17,
+		"Septum and free wall", 0.17,
+		"Lateral", 0.01,
+		"Anterior septum and anterolateral", 0.07,
+		"Apex", 0.02
+	)
+
+ggplot(df, aes(x = "", y = Frequency, fill = Location)) +
+	geom_bar(width = 1, stat = "identity") +
+	scale_fill_jama() +
+	scale_y_continuous(labels = scales::percent) + 
+	theme_minimal() +
+	theme(
+		axis.title = element_blank()
+	)  + 
+	coord_polar("y", start = 0) 
+```
+
+::: aside
+Klues HG, 1995, JACC
+:::
+
+## Classify LVH morphology
+
+::: {#fig-lvh-variants layout-ncol=3}
+
+![Sigmoid](ommen-2016-sigmoid-cartoon.png){#fig-lvh-sigmoid}
+
+![Reverse](ommen-2016-reverse-cartoon.png){#fig-lvh-reverse}
+
+![Apical](ommen-2016-apical-cartoon.png){#fig-lvh-apical}
+
+Location of hypertrophy defines the morphology. No matter where, __any region &gt; 30 mm increases risk of SCD, as well as apical pouch__. 
+:::
+
+::: aside
+Ommen et al. 2016, JASE
+:::
+
+## SAM
+
+![The _Venturi effect_. LV ejection &rarr; obstruction &rarr; MR.](silbinger-2016-sam-cartoon.png){#fig-sam}
+
+::: aside
+Silbinger 2016, JASE
+:::
+
+## Gradients {.smaller}
+
+We can compare LV systolic pressure with systemic systolic pressure to estimate obstructive gradients:
+
+$$ LV\ Systolic\ Pressure = 4 \times (MR\ velocity)^{2} + LA\ Pressure$$
+
+- Peak LVOT gradient of &ge; 50 mmHg at rest or with provocation or exercise indicates obstruction 
+- Differentiate SAM-mediated LVOT obstruction from mid-ventricular obstruction (MVO; “dagger” shaped) 
+
+_MR signal is both higher and longer, thus may contaminate LVOT signal_
+
+---
+
+![Gradient types based on MVO versus SAM](ommen-2016-gradient-profiles.png){#fig-gradient-profiles}
+
+::: aside
+Ommen et al. 2016, JASE
+:::
+
+## Pre-operative strategies
+
+Surgical septal myectomy and alcohol septal ablation should have TEE support. Measure:
+
+a. IVS maximum thickness
+a. anterior leaflet length
+a. apical extent of the septal "bulge"
+a. distance between aortic annulus to mitral-septal continuity
+
+_Follow-up TTE in 3-6 months._
+
+# End

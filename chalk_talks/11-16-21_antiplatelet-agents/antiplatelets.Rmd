@@ -1,0 +1,187 @@
+---
+title: "Basics of Antiplatelets"
+subtitle: "Cath Conference"
+date: "November 16, 2021"
+author: "Anish Sanjay Shah, MD<br><span style = 'font-size: 70%;'>Cardiology Fellow<br>University of Illinois at Chicago</span>"
+output:
+  xaringan::moon_reader:
+    css: xaringan-themer.css
+    self_contained: false
+    nature:
+      titleSlideClass: [center, middle, inverse]
+      highlightLines: true
+---
+
+```{r setup, echo = FALSE, include = FALSE}
+library(tidyverse)
+
+print.tbl_df <- function(x, ...) {
+	print.data.frame(x, right = FALSE, ...)
+	invisible(x)
+}
+
+# Options
+options(digits = 0)
+```
+
+```{r themer, echo=FALSE, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_solarized_light()
+```
+
+# Objectives
+
+1. Pathophysiology of atherosclerotic lesions
+
+1. Role of antiplatelet agents in coronary artery disease
+
+1. Types of antiplatelet agents and their mechanism
+
+1. Use cases for antiplatelet agents
+
+---
+class: center, middle, inverse
+# Pathophysiology
+
+---
+background-image: url("plaque-formation.jpg")
+background-size: contain
+
+.footnote[
+NEJM 2007
+]
+
+---
+background-image: url("atherosclerosis.jpg")
+background-size: contain
+
+.footnote[
+Mackman et al 2018
+]
+
+---
+### Atherosclerosis
+
+- Leads to narrowing of the arterial lumen, allowing for tissue ischemia to occur with increased metabolic demands (e.g. coronary ischemia with angina)
+
+- Increases risk for plaque rupture or erosion $\rightarrow$ intravascular thrombi
+
+- Arterial thrombi are _white clots_ which are primarily platelets, stabilized by fibrin and tissue factor (that triggers coagulation cascade)
+
+- Both platelet activation and coagulation cascade occur in parallel
+
+---
+class: center, middle, inverse
+# Mechanisms
+
+---
+background-image: url("platelet.jpg")
+background-size: contain
+
+.footnote[
+Nature 2007
+]
+
+---
+background-image: url("mechanisms.jpg")
+background-size: contain
+
+.footnote[
+Patrono et al 2017 (JACC)
+]
+
+---
+### Pharmacology 
+
+There are three general, non-redundant pathways for platelet activation. 
+
+1. $TXA_{2}$ (thromboxane) pathway
+
+1. $ADP$ (adenosine diphosphate) pathway
+
+1. Thrombin-activated pathways
+
+All transduce __independent__ signals for platelet activation, and are thus __additive__.
+
+---
+### Pathways
+
+| Pathway | Description |
+|:--- |:--- |
+| Cyclooxygenase-1 inhibitors | $COX1$ suppresses $TXA_{2}$ |
+| $P2Y_{12}$ inhibitors | $ADP$ receptor blockade |
+| Protease-activated receptor inhibitors | $PAR1$ and $PAR4$ ligand blockade (normally activated by thrombin-catalyzed proteolysis) |
+
+---
+### Agents
+
+| Mechanism | Subtypes | Drugs |
+| --- | --- | --- |
+| $COX$ inhibitors | type 1 | aspirin | 
+| $COX$ inhibitors | type 2 | NSAIDs | 
+| $P_{2}Y_{12}$ receptor blockers | irreversible | ticlopidine, clopidogrel, prasugrel |
+| $P_{2}Y_{12}$ receptor blockers | reversible | ticagrelor, cangrelor |
+| $GPII_{a}III_{b}$ inhibitors | monoclonal Ab | abciximab |
+| $GPII_{a}III_{b}$ inhibitors | synthetic | eptifibatide, tirofiban |
+| $PDE$ inhibitors | | dipyridamole, cilostazol | 
+| $PAR$ inhibitors | type 1 | vorapaxar |
+
+---
+class: middle, inverse, center
+# Secondary Prevention
+
+---
+background-image: url("dapt-usage.jpg")
+background-size: contain
+
+---
+### Secondary Prevention
+
+.pull-left[
+#### Stable Coronary Artery Disease
+
+With no intervention: 
+
+- SAPT with low-dose aspirin
+- SAPT with clopidogrel as an _alternative_ 
+
+With PCI (DES):
+
+- DAPT for 6 months
+
+]
+
+.pull-right[
+#### Acute Coronary Syndrome
+
+With PCI (DES):
+
+- DAPT for 12 months (and then SAPT)
+- Can decrease to 6 months based on bleeding risk
+
+_However, data is increasing for reducing the duration of DAPT._
+
+]
+
+Even with antiplatelet therapy, __2-5%__ of CAD/PAD patients have __MACE__.
+
+---
+### Dual Antiplatelet Therapy
+
+| Combination | Indication |
+|:--- |:--- |
+| aspirin $+$ clopidogrel | elective PCI for stable CAD (due to slower onset of action) |
+| aspirin $+$ prasugrel | ACS with planned PCI (higher rate of CABG-related bleeding), no need to preload, contraindicated in CVA, no shown benefit in age $\gt$ 75 years |
+| aspirin $+$ ticagrelor | ACS with either PCI or CABG, contraindicated in ICH, 10% side effect of dyspnea |
+| aspirin $+$ vorapaxar | unclear benefit, potentially helpful in stable PAD |
+| aspirin $+$ dipyridamole | non-cardioembolic ischemic stroke/TIA |
+
+
+.footnote[
+Patrono et al 2017 (JACC)
+]
+
+---
+class: middle, inverse, center
+# Thank You
+

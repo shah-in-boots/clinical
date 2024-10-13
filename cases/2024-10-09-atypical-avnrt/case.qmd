@@ -1,0 +1,79 @@
+---
+title: Tracings
+subtitle: EP Didactics
+author: Anish S. Shah, MD, MS
+institute: Division of Cardiology, Department of Medicine, University of Utah
+date: October 9, 2024
+format:
+  revealjs:
+    theme: night
+    transition: fade
+    transition-speed: fast
+    slide-number: true
+    incremental: true
+    auto-animate-easing: ease-in-out
+    auto-animate-unmatched: false
+    progress: true
+    chalkboard: true
+    scrollable: true
+
+csl: ../../apa.csl
+---
+
+# Baseline
+
+## {background-image="ecg-baseline-intervals-sinus.png" background-size="contain"}
+## {background-image="egm-baseline-sinus.png" background-size="contain"}
+## {background-image="rv-s1-no-va-conduction.png" background-size="contain"}
+## {background-image="hra-s1-av-decrement.png" background-size="contain"}
+## {background-image="a1-av-wcl-460.png" background-size="contain"}
+## {background-image="csd-s1-concentric.png" background-size="contain"}
+
+# Isoproterenol
+
+## {background-image="v1-no-av-conduction-on-iso.png" background-size="contain"}
+## {background-image="v1-no-va-conduction-on-iso.png" background-size="contain"}
+## {background-image="a1-iso-av-wcl.png" background-size="contain"}
+## {background-image="a1-av-wcl-on-iso.png" background-size="contain"}
+## {background-image="a1-beat-around-and-av-wcl-on-iso.png" background-size="contain"}
+## {background-image="csm-s1-av-wcl.png" background-size="contain"}
+
+# Atrial and Ventricular Capture
+
+## {background-image="csd-s1-simultaneous-av.png" background-size="contain"}
+## {background-image="a1-direct-ventricular-capture.png" background-size="contain"}
+## {background-image="a1-change-of-capture.png" background-size="contain"}
+## {background-image="a1-a-and-v-capture-with-aberrancy.png" background-size="contain"}
+## {background-image="csm-s1-s2-av-wcl-and-simultaneous-capture.png" background-size="contain"}
+
+# Tachyarrhythmia (TCL = 400)
+
+## {background-image="tachycardia-variable-ah-intervals.png" background-size="contain"}
+## {background-image="differential-ah-response-atrial-pacing.png" background-size="contain"}
+
+## {background-image="differential-a1-va-time-344.png" background-size="contain"}
+## {background-image="differential-a1-va-time-348.png" background-size="contain"}
+
+# Ablation
+
+## {background-image="ablation-junctional.png" background-size="contain"}
+## {background-image="abl-junctional-and-slow-path.png" background-size="contain"}
+## {background-image="abl-post-final-intervals.png" background-size="contain"}
+
+# Maneuvers
+
+---
+
+![AH differences during tachycardia](morady-1995-ah-intervals-schematic.png)
+
+---
+
+![AH differential example](morady-1995-ah-intervals-example.png)
+
+---
+
+![Differential VA response schematic](maruyama-2007-differential-va-schematic.png)
+
+---
+
+![Differential VA response example](maruyama-2007-differential-va-example.png)

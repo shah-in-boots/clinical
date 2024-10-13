@@ -1,0 +1,545 @@
+---
+title: Mendelian Randomization in Practice
+subtitle: AFGen Consortium Fellows Meeting
+author: Anish S. Shah, MD, MS
+institute: Division of Cardiology, Department of Medicine, University of Illinois Chicago 
+date: April 24, 2024
+format:
+  revealjs:
+    transition: fade
+    transition-speed: fast
+    slide-number: true
+    incremental: true
+    auto-animate-easing: ease-in-out
+    auto-animate-unmatched: false
+    progress: true
+    chalkboard: false
+    height: 1080
+    width: 1920
+
+revealjs-plugins:
+  - attribution
+
+csl: ../../apa.csl
+---
+
+# Is lipoprotein(a) more atherogenic than LDL?
+
+. . .
+
+::: {.callout-important title="Paper"}
+Björnson, Elias, Martin Adiels, Marja-Riitta Taskinen, Stephen Burgess, M. John Chapman, Chris J. Packard, and Jan Borén. 
+[Lipoprotein(a) Is Markedly More Atherogenic Than LDL: An Apolipoprotein B-Based Genetic Analysis]{.red}
+Journal of the American College of Cardiology 83, no. 3 (January 23, 2024): 385–95. 
+https://doi.org/10.1016/j.jacc.2023.10.039.
+:::
+
+---
+
+:::: {.columns}
+::: {.column width="50%"}
+
+### Outline
+
+::: {.non-incremental}
+1. Introduction
+    a. Purpose
+    a. Background on lipids
+    a. Overview of Lp(a)
+1. Methods
+    a. Statistical approach
+    a. Genetics of ApoB100
+    a. (Re)-introduction to mendelian randomization
+1. Results
+    a. Major findings
+    a. Supplemental findings
+1. Conclusions
+    a. Innovation of approach
+    a. Validity
+:::
+
+:::
+::: {.column width="50%"}
+
+### Objectives
+
+::: {.non-incremental}
+a. Review the role of lipids in atherosclerosis
+a. Understand the effect of genetic variants on lipid particles
+a. Describe the principles of mendelian randomization
+a. Consider the intersection of epidemiology/causality using this methodology
+:::
+
+:::
+::::
+    
+# Introduction
+
+---
+
+![Relative atherogenicity of Lp(a) and LDL particles](bjornson-2024-central-illustration.png){#fig-central}
+
+::: attribution
+@Bjornson2024
+:::
+
+## Basics of lipids
+
+:::: {.columns}
+::: {.column width="35%"}
+
+::: {.fragment fragment-index=1}
+::: {.fragment .highlight-current-red fragment-index=3}
+::: {.fragment .fade-out fragment-index=4}
+Cholesterol
+:::
+:::
+:::
+
+::: {.fragment fragment-index=2}
+::: {.fragment .fade-out fragment-index=3}
+Triglycerides
+:::
+:::
+
+::: {.fragment fragment-index=3}
+::: {.fragment .highlight-current-red fragment-index=4}
+High-density lipoprotein (HDL)  
+Low-density lipoprotein (LDL)  
+Very low-density lipoprotein (VLDL)  
+:::
+:::
+
+:::
+::: {.column width="65%"}
+
+::: {.fragment fragment-index=5}
+Cholesterols (and triglycerides) are insoluble in water, and must be transported via protein structures called [lipoproteins]{.red}.
+:::
+
+::: {.fragment fragment-index=6}
+![Diagram of structure of a lipoprotein particle](cleveland-clinic-lipoprotein.png){#fig-lipoprotein}
+:::
+
+:::
+::::
+
+::: attribution
+https://my.clevelandclinic.org/health/articles/23229-lipoprotein
+:::
+
+## Lipoprotein classification
+
+- Core of cholesterol & triglycerides wrapped in phospholipid layer containing [apolipoproteins]{.red}
+  - HDL (`12 nm`) contains [ApoA1]{.red}
+  - LDL (`18-25 nm`) contains [ApoB100]{.red}
+  - IDL (`< 50 nm`) and VLDL (`> 50 nm`) are similar to LDL, but do not enter arterial intima
+- LDL (IDL & VLDL) contain only [one ApoB100 protein]{.red}
+
+. . .
+
+![Classification of cholesterol types](holmes-2019-cholesterol-types.png){#fig-cholesterol}
+
+::: attribution
+@Holmes2019
+:::
+
+## What is lipoprotein(a)?
+
+- Lp(a) is a type of LDL particle
+- Contains an additional protein called apolipoprotein (a), which binds directly to ApoB100 via a *disulfide bond*
+- This means that Apo(a) and ApoB100 exist in a [1:1 molar ratio]{.red}
+- Clinical relevance
+    - Increased atherogenicity
+    - Driver of CVD mortality
+    - May represent clinical benefits of PCSK9i (and future siRNA therapies, e.g. *pelacarsen*)
+
+# Methods
+
+---
+
+![Flowchart of the GWAS design and SNP selection](bjornson-2024-supplement-flowchart.png){#fig-flowchart}
+
+::: attribution
+@Bjornson2024 (supplement)
+:::
+
+## Approach
+
+1. Identify SNPs associated with LDL and Lp(a) by GWAS
+    a. [LDL cluster]{.orange} of SNPs 
+    a. [Lp(a) cluster]{.blue} of SNPs
+1. Ensure appropriate SNP estimates/weights on LDL/Lp(a)
+    a. Check that [LDL-cluster of SNPs]{.orange} not associated with [Lp(a) mass]{.blue}
+    a. Check that [Lp(a) cluster of SNPs]{.blue} associated in linear manner with apoB and [Lp(a) mass]{.blue}
+1. Outcomes (CHD events) analysis using exposure of [LDL-apoB]{.orange} or [Lp(a)-apoB]{.blue}
+
+## Study populations
+
+:::: {.columns}
+::: {.column width="50%"}
+
+[UK Biobank]{.underline}
+
+- `502,000` UK residents (primarily European ancestry)
+- `487,202` with genetic data
+- `402,387` not on lipid lowering agents
+- Genotyping performed using UK BiLEVE Axiom or UK Biobank Axiom array, which evaluated `805,426` SNPs
+
+:::
+::: {.column width="50%"}
+
+[CARDIoGRAMplusC4D]{.underline}
+
+- *Coronary ARtery DIsease Genome wide Replication and Meta-analysis plust The Coronary Artery Disease Genetics* dataset
+- Used as a replication cohort to test generalizability
+
+:::
+::::
+
+## Lipid measurements
+
+:::: {.columns}
+::: {.column width="33%"}
+
+[LDL]{.orange}
+
+- LDL-c was directly measured
+- Triglyceride-rich lipoprotein cholesterol remnants (TRL) = total cholesterol - (HDL + LDL)
+- TRL were removed from analysis, *including associated SNPs*
+
+:::
+::: {.column width="33%"}
+
+[Lp(a)]{.blue}
+
+- Lp(a) mass concentration measured in `377,572` participants
+- Lp(a) is meausured as a concentration, which is an approximation as Lp(a) has a range of molecular weights
+- *Not used for MR analysis directly, but for validation of SNP effects*
+
+:::
+::: {.column width="33%"}
+
+__ApoB__
+
+- ApoB measured in g/L
+- Converted to plasma concentrations in nmol/L by assuming molecular weight of 550 kDa
+
+:::
+::::
+
+## Polygenic scores (PGS)
+
+- GWAS x2 performed, adjusting for age, sex, and genomic principal components (PC1 - PC5)
+- SNPs meeting threshold of $p < 5 \times 10^{-8}$ were included 
+- SNPs pruned for linkage disequilibrium ($r^{2} < 0.1$) and minor allele frequency ($MAF > 0.01$)
+    - Linkage disequilibrium (LD) is the non-random association of alleles at linked loci
+    - $r^{2}$ is the correlation coefficient between pairs of loci
+- Polygenic scores calculated for the [Lp(a) SNP cluster]{.blue} and the [LDL SNP cluster]{.orange}
+- Each SNP was weighted by effect size on apoB
+- Each subject received a score as the weighted sum of all the effect sizes present
+
+## Statistical analysis
+
+- Mendelian randomization (MR) using the `R` package `{MendelianRandomization}`
+- Cox proportional hazard for incident CHD outcomes
+- CHD outcomes defined as...
+    - Non-fatal myocardial infarction
+    - Fatal MI
+    - Coronary revascularization
+- PGS terms scaled according to relationshp between PGS and apoB 
+- Hazard ratio calculated per 50 nmol/L increase in apoB
+
+
+## Mendelian randomization
+
+- __Instrumental variable (IV)__ analysis
+    - IV related to exposure but not to outcome (except *through* exposure)
+    - Avoids bias from unobserved confounding of `outcome ~ exposure`
+- IV require three assumptions
+    1. [Relevance]{.red}: IV is associated with exposure
+    1. [Independence]{.red}: IV is independent of confounders
+    1. [Exclusion]{.red}: IV affects outcome only through exposure
+- When using multiple IV (e.g. many SNPs), must account for [weak instrument bias]{.red}, that can be partially mitigated by two-sample approach and/or jackknife resampling
+
+## Example in `R`
+
+. . .
+
+:::: {.columns}
+::: {.column width="40%"}
+
+```{r}
+#| eval: false
+#| echo: true
+#| code-line-numbers: "1|3-9|11-13|15|16"
+#| output-location: fragment
+library(MendelianRandomization)
+
+MRInputObject <-
+  mr_input(
+    bx = ldlc,
+    bxse = ldlcse,
+    by = chdlodds,
+    byse = chdloddsse
+  )
+
+MRAllObject_all <-
+  mr_allmethods(MRInputObject,
+                method = "all")
+
+mr_plot(MVMRInputObject)
+mr_plot(MRAllObject_all)
+```
+
+:::
+::: {.column width="60%"}
+
+:::  {.r-stack}
+![](rplot-mr-object.png){.fragment}
+
+![](rplot-mr-all.png){.fragment}
+:::
+
+:::
+::::
+    
+## Application to this study
+
+- Use of genetic variant prediction of [Lp(a)-apoB]{.blue} and [LDL-apoB]{.orange} as IV
+  - Does not require actual apo(a) measurement, which is a *difficult assay*
+  - Calibrated on measures of apoB
+- Use summary-level data and causal-estimation using `{MendelianRandomization}` package in `R`, with variation in weights
+- Use both one-sample and two-sample approach (previously published GWAS)
+
+---
+
+```{r}
+#| label: fig-dag
+#| fig-cap: "MR-based DAG with instrumental variables for LDL and Lp(a)"
+
+library(ggdag)
+library(ggplot2)
+library(patchwork)
+
+lpa <- 
+  dagify(
+    y ~ x,
+    x ~ u,
+    y ~ u,
+    x ~ g,
+    exposure = "x",
+    outcome = "y",
+    labels = c(
+      x = "Apo(a)",
+      y = "CHD",
+      u = "Confounders",
+      g = "Lp(a)-apoB SNPs"
+    ),
+    coords = list(
+      x = c(
+        x = 1,
+        y = 3,
+        u = 2,
+        g = 0
+      ),
+      y = c(
+        x = 0,
+        y = 0,
+        u = 1/2,
+        g = 0
+      )
+    )
+  ) |>
+  tidy_dagitty() |> 
+  node_status() |>
+  dplyr::mutate(colour = name) |>
+  ggplot(aes(x = x, y = y, xend = xend, yend = yend, color = colour)) +
+  geom_dag_edges() +
+  geom_dag_point() +
+  geom_dag_label_repel(
+    aes(label = label)
+  ) +
+  theme_dag(legend.position = "none") +
+  scale_color_manual(
+    values = c(
+      "x" = khroma::color("vibrant")(7)[["blue"]],
+      "y" = khroma::color("vibrant")(7)[["grey"]],
+      "u" = khroma::color("vibrant")(7)[["grey"]],
+      "g" = khroma::color("vibrant")(7)[["blue"]]
+    )
+  )
+
+ldl <- 
+  dagify(
+    y ~ x,
+    x ~ u,
+    y ~ u,
+    x ~ g,
+    exposure = "x",
+    outcome = "y",
+    labels = c(
+      x = "Apo(B)",
+      y = "CHD",
+      u = "Confounders",
+      g = "LDL-apoB SNPs"
+    ),
+    coords = list(
+      x = c(
+        x = 1,
+        y = 3,
+        u = 2,
+        g = 0
+      ),
+      y = c(
+        x = 0,
+        y = 0,
+        u = 1/2,
+        g = 0
+      )
+    )
+  ) |>
+  tidy_dagitty() |> 
+  node_status() |>
+  dplyr::mutate(colour = name) |>
+  ggplot(aes(x = x, y = y, xend = xend, yend = yend, color = colour)) +
+  geom_dag_edges() +
+  geom_dag_point() +
+  geom_dag_label_repel(
+    aes(label = label)
+  ) +
+  theme_dag(legend.position = "none") +
+  scale_color_manual(
+    values = c(
+      "x" = khroma::color("vibrant")(7)[["orange"]],
+      "y" = khroma::color("vibrant")(7)[["grey"]],
+      "u" = khroma::color("vibrant")(7)[["grey"]],
+      "g" = khroma::color("vibrant")(7)[["orange"]]
+    )
+  )
+
+# DAGs
+ldl + lpa
+```
+
+# Results
+
+---
+
+::: {#fig-gwas-effect-sizes layout-ncol=2}
+
+![[LDL cluster of SNPs]{.orange}](bjornson-2024-supplement-gwas-effect-size-ldl.png)
+
+![[Lp(a) cluster of SNPs]{.blue}](bjornson-2024-supplement-gwas-effect-size-lpa.png)
+
+Supplemental table of GWAS findings
+:::
+
+::: attribution
+@Bjornson2024 (supplement)
+:::
+
+---
+
+![Plot of effect of SNP clusters on plasma apoB and Lp(a) levels](bjornson-2024-snp-clusters-lpa.png)
+
+::: attribution
+@Bjornson2024
+:::
+
+---
+
+![Table of predicted relationship of CHD risk to apoB from LDL and Lp(a) clusters](bjornson-2024-chd-risk-by-apob-type.png){#fig-chd}
+
+::: attribution
+@Bjornson2024
+:::
+
+---
+
+![Table of odds for CVD by genetic prediction of variation in apoB](bjornson-2024-odds-ratio.png){#fig-odds}
+
+::: attribution
+@Bjornson2024
+:::
+
+---
+
+![Supplemental table of potential biases in MR analysis, primarily inverse-variance weighting methods (simple, penalized, weighted)](bjornson-2024-supplement-mr-analysis.png){#fig-mr-weights}
+
+::: attribution
+@Bjornson2024 (supplement)
+:::
+
+
+---
+
+![Table of MR analysis results using one-sample and two-sample approach, along with validation cohort. Relative atherogenecity defined by risk per unit  difference between Lp(a) and LDL particle numbers.](bjornson-2024-relative-atherogenicity.png){#fig-relative}
+
+::: attribution
+@Bjornson2024
+:::
+
+---
+
+![Plot of relative atherogenicity of [Lp(a)]{.blue} and [LDL]{.orange} based on SNPs $\rightarrow$ PGS](bjornson-2024-chd-risk-pgs.png)
+
+::: attribution
+@Bjornson2024
+:::
+
+# Discussion
+
+---
+
+![Relative atherogenicity of Lp(a) and LDL particles](bjornson-2024-central-illustration.png){#fig-central}
+
+::: attribution
+@Bjornson2024
+:::
+
+## Key findings
+
+1. Genetic variants in SNPs were be separated into [LDL]{.orange} and [Lp(a)]{.blue} clusters
+1. Changes in apoB can be attributed to differences by SNP clusters, which were then associated with CHD risk
+1. Comparative CHD risk suggests *per particle*, Lp(a) is 4-12 times more atherogenic than LDL
+1. Provides causal evidence based on study design
+
+---
+
+![Comparison of MR and RCT approaches](sanderson-2022-mr-rct.png){#fig-mr-rct}
+
+::: attribution
+@Sanderson2022
+:::
+
+## Study design considerations
+
+:::: {.columns}
+::: {.column width="50%"}
+
+### Strengths
+
+- Lp(a)-apoB translates to apo(a) levels in 1:1 fashion
+- ApoB served as a *common denominator* to directly compare Lp(a) and LDL risk
+- ApoB is a standardized test, compared to the variability in Lp(a) testing
+- Enrollment cohort included those with and without CHD at baseline
+
+:::
+::: {.column width="50%"}
+
+### Limitations
+
+- Variable nature of Lp(a) particles (e.g. number of __kringle 4__ copy numbers) could not be assessed
+- SNPs used for Lp(a) were located in a small region of chromosome 6 at the *LPA* locus (although attempted stringent linkage disequilibrium for SNP pruning)
+- Primarily European ancestry
+
+:::
+::::
+
+## Questions? {.center}
+
+## References {.smallest}
+
+::: {#refs}
+:::

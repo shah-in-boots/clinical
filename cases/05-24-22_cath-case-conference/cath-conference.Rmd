@@ -1,0 +1,128 @@
+---
+title: "Cath Conference"
+subtitle: "UIC Cardiac Catheterization Lab"
+date: "May 24, 2022"
+author: "Anish Sanjay Shah, MD<br><span style = 'font-size: 70%;'>Cardiology Fellow<br>University of Illinois at Chicago</span>"
+output:
+  xaringan::moon_reader:
+    css: xaringan-themer.css
+    self_contained: false
+    nature:
+      titleSlideClass: [center, middle, inverse]
+      highlightLines: true
+---
+
+```{r setup, echo = FALSE, include = FALSE}
+library(tidyverse)
+
+print.tbl_df <- function(x, ...) {
+	print.data.frame(x, right = FALSE, ...)
+	invisible(x)
+}
+
+# Options
+options(digits = 0)
+```
+
+```{r themer, echo=FALSE, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_duo_accent(primary_color = "#091F40", secondary_color = "#AC1E2D")
+```
+
+class: inverse, middle
+
+# DH
+
+69M h/o STEMI s/p PCI in 2009, PAD, HLD, HTN, DMT2, COPD  
+Presented initially with UGIB in 01/2022, in ICU for massive GIB  
+Initial Troponin = 1.1 at peak  
+Has active mandibular osteomyelitis at this time
+
+---
+background-image: url("rca-1.gif")
+background-size: contain
+
+---
+background-image: url("rca-2.gif")
+background-size: contain
+
+---
+background-image: url("rca-3.gif")
+background-size: contain
+
+---
+background-image: url("lca-1.gif")
+background-size: contain
+
+---
+background-image: url("lca-2.gif")
+background-size: contain
+
+---
+background-image: url("lca-3.gif")
+background-size: contain
+
+---
+background-image: url("lca-4.gif")
+background-size: contain
+
+---
+background-image: url("lca-5.gif")
+background-size: contain
+
+---
+class: inverse, middle
+
+# Four Months Later
+
+Patient had outpatient EGD with stable ulcers  
+Maintained on outpatient clopidogrel  
+Presents again with GIB d/t NSAID use from jaw pain (chronic OM)  
+Preoperative management consult  
+
+---
+background-image: url("ivus-lad.gif")
+background-size: contain
+
+---
+background-image: url("ivus-lcx.gif")
+background-size: contain
+
+---
+background-image: url("ivus-still-1.gif")
+background-size: contain
+
+---
+background-image: url("ivus-still-2.gif")
+background-size: contain
+
+---
+background-image: url("ivus-still-3.gif")
+background-size: contain
+
+---
+
+## Findings
+
+Distal LM to LAD 60%  
+Mid to distal LAD 90%  
+OM1 90%  
+Proximal RCA 70%  
+Mid RCA 80% ISR  
+CTO of stent in PDA  
+180˚ to 270˚ of calcium by IVUS  
+
+---
+background-image: url("ct-scan.gif")
+background-size: contain
+
+---
+class: middle, inverse
+
+# Current Status
+
+Currently pending mandibulectomy (surgeon okay with DAPT during operation)  
+Surgical turn down for CABG on initial evaluation  
+GI has given "blessings" for DAPT therapy
+
+## ...thoughts?

@@ -1,0 +1,1024 @@
+---
+title: Clinical Case Conference
+subtitle: General Cardiology Lecture Series 
+author: Anish S. Shah, MD, MS
+institute: Division of Cardiology, Department of Medicine, University of Illinois Chicago 
+date: April 8, 2024
+format:
+  revealjs:
+    transition: fade
+    transition-speed: fast
+    slide-number: true
+    incremental: true
+    auto-animate-easing: ease-in-out
+    auto-animate-unmatched: false
+    progress: true
+    chalkboard: true
+    scrollable: true
+
+csl: ../../apa.csl
+---
+
+
+# Introduction
+
+## Objectives
+
+1. Understand the __cognitive processes__ involved in the case-based diagnostic reasoning 
+1. Identify __diagnostic assumptions__ that may lead towards case-specific biases
+1. Practice __contextualizing clinical data__ in the framework of cardiovascular physiology
+
+# History & Physical
+
+---
+
+[30 year old gentleman with a history of acid reflux on PPI therapy, generalized anxiety disorder without long-term therapy, exercise-induced asthma on SABA inhaler therapy.]{.center}
+
+---
+
+He had recurrent episodes of wheezing and cough over past 4-6 months, and was sent to the emergency room after being found to have a arterial saturation of 87% on room air.
+
+. . .
+
+Reports that he most prominently noted his dyspnea during sexual intercourse with his wife.
+
+---
+
+He improved with nebulizer therapy. 
+Was seen by ENT at similar time, noting no upper respiratory causes for his symptoms.
+
+. . .
+
+Electrocardiography and chest roengenography was performed during his ER visit.
+
+# Electrocardiography 
+
+## {background-image="ecg-initial-pvc.png" background-size="contain"}
+
+## {background-image="ecg-subsequent-pac.png" background-size="contain"}
+
+# Chest Roentgenography
+
+## {background-image="cxr-ap.gif" background-size="contain"}
+
+## Problems {.smallest}
+
+:::: {.columns}
+
+::: {.column width="65%"}
+
+::: {.fragment fragment-index=1}
+Sinus tachycardia
+:::
+
+::: {.fragment fragment-index=2}
+::: {.fragment .semi-fade-out fragment-index=6}
+Right axis deviation with inferior [qR]{.red} and lateral [rS]{.red} pattern
+:::
+:::
+
+::: {.fragment fragment-index=3}
+::: {.fragment .semi-fade-out fragment-index=7}
+[Complete interpolation]{.red} of ventricular ectopy with [superior axis]{.red} and inverted [transition at V2-V3]{.red}
+:::
+:::
+
+::: {.fragment fragment-index=4}
+::: {.fragment .semi-fade-out fragment-index=8}
+Enlarged left-sided heart border with narrow vascular pedicle
+:::
+:::
+
+::: {.fragment fragment-index=5}
+::: {.fragment .semi-fade-out fragment-index=9}
+[Earlier]{.red} completely interpolated atrial depolarizations, as compared with PVC, at [similar cycle length]{.red}.
+:::
+:::
+
+:::
+
+::: {.column width="35%"}
+
+::: {.fragment fragment-index=6}
+::: {.fragment .highlight-current-red fragment-index=6}
+Left posterior fascicular block
+:::
+:::
+
+::: {.fragment fragment-index=7}
+::: {.fragment .highlight-current-red fragment-index=7}
+Inferior/posterior-septal PVC
+:::
+:::
+
+::: {.fragment fragment-index=8}
+::: {.fragment .highlight-current-red fragment-index=8}
+Cardiomegaly
+:::
+:::
+
+::: {.fragment fragment-index=9}
+::: {.fragment .highlight-current-red fragment-index=9}
+*Poor or abnormal VA conduction?*
+:::
+:::
+
+:::
+
+::::
+
+
+---
+
+Patient describes a 10+ year history of anabolic steroid usage, initiated by his coach while he trained as a body-builder. 
+
+. . .
+
+He continued as he was unsure on how to taper.
+
+. . .
+
+He had been on multiple testosterone and anabolic steroid supplements, and had most recently (past 3-6 months) trialed growth hormone.
+
+. . .
+
+Growth hormone was stopped due to lower extremity and hand swelling.
+
+## Additional histories
+
+. . .
+
+Maternal grandfather died of sudden death at age 40, and mother has a potential "mitral valve prolapse". 
+Father was a body-builder and had taken steroids previously.
+No foreign travel, raised in Canada and lives in Chicago currently. 
+
+. . .
+
+No pets. Has a *1-year old son with his wife*, who are both healthy.
+
+## Medications
+
+- Chlorodehydromethyltestosterone (CDMT, a.k.a. *turinabol*) 
+- Oxandrolone (active)
+- Testosterone supplementation (active)
+- Growth hormone injections (for 3-6 months prior to presentation)
+- Albuterol inhaler PRN
+- Omeprazole 40 mg PO daily
+
+## Examination
+
+. . .
+
+Initial vitals of 173/92 and heart rate of 122 bpm that decreased to 137/75 and 109 bpm after rest. SaO2 of 94-96% on room air. BMI 28, 93 kg.
+
+. . .
+
+Anxious appearing young gentleman, mildly pressured speech. Skin is warm and dry, Fitzpatrick class I. Mild androgenic alopecia. Not overly-muscular.
+
+. . .
+
+JVP at level of clavicle at 30˚. Normal carotid upstroke. PMI is laterally displaced. No obvious thrills or heaves. S1 with physiologically split S2. III/VI systolic murmur apparent at axilla. No peripheral edema, with +2 radial and posterior tibialis pulses.
+
+## Labs
+
+:::: {.columns}
+::: {.column width="50%"}
+
+::: {.fragment fragment-index=1}
+Sodium 138  
+Potassium 4.0   
+Chloride 102   
+CO2 24   
+BUN 29  
+
+::: {.fragment .highlight-red fragment-index=3}
+Creatinine 1.96  
+:::   
+
+AST 35  
+
+::: {.fragment .highlight-red fragment-index=3}
+ALT 52   
+:::  
+:::
+
+:::
+::: {.column width="50%"}
+
+::: {.fragment fragment-index=2}
+Hg 17.5   
+WBC 8 (normal differential)  
+PLT 208  
+HbA1c 5.2%
+
+::: {.fragment .highlight-red fragment-index=3}
+LDL 165, HDL 34   
+Troponin I 105 (ng/L)  
+BNP 289  
+:::
+
+UDS negative  
+:::
+
+:::
+::::
+
+# Surface Echocardiography
+
+## {background-image="tte-plax.gif" background-size="contain"}
+## {background-image="tte-plax-zoom.gif" background-size="contain"}
+## {background-image="tte-plax-zoom-color.gif" background-size="contain"}
+## {background-image="tte-plax-lvidd.gif" background-size="contain"}
+## {background-image="tte-psax-mid.gif" background-size="contain"}
+## {background-image="tte-psax-mv.gif" background-size="contain"}
+## {background-image="tte-psax-mv-color.gif" background-size="contain"}
+## {background-image="tte-rv-inflow-color.gif" background-size="contain"}
+## {background-image="tte-rv-inflow-cw.gif" background-size="contain"}
+
+## {background-image="tte-psax-high.gif" background-size="contain"}
+## {background-image="tte-psax-high-rv-inflow-pw.gif" background-size="contain"}
+## {background-image="tte-psax-high-rv-outflow-cw.gif" background-size="contain"}
+## {background-image="tte-psax-high-rv-outflow-pw.gif" background-size="contain"}
+
+## {background-image="tte-rv-outflow.gif" background-size="contain"}
+## {background-image="tte-rv-outflow-cw-vti.gif" background-size="contain"}
+## {background-image="tte-rv-outflow-pw-vti.gif" background-size="contain"}
+
+## {background-image="tte-a4c.gif" background-size="contain"}
+## {background-image="tte-a4c-color.gif" background-size="contain"}
+## {background-image="tte-a4c-color-2.gif" background-size="contain"}
+## {background-image="tte-a4c-mv-color.gif" background-size="contain"}
+## {background-image="tte-a4c-mitral-inflow-pw.gif" background-size="contain"}
+## {background-image="tte-a4c-td-lateral.gif" background-size="contain"}
+## {background-image="tte-a4c-td-septal.gif" background-size="contain"}
+## {background-image="tte-a4c-m-mode-color.gif" background-size="contain"}
+## {background-image="tte-a4c-zoom.gif" background-size="contain"}
+## {background-image="tte-a4c-thrombus.gif" background-size="contain"}
+## {background-image="tte-a2c.gif" background-size="contain"}
+## {background-image="tte-a3c.gif" background-size="contain"}
+## {background-image="tte-a5c-color.gif" background-size="contain"}
+## {background-image="tte-a5c-cw.gif" background-size="contain"}
+## {background-image="tte-a5c-pw.gif" background-size="contain"}
+## {background-image="tte-a2c-definity.gif" background-size="contain"}
+
+
+## Problems {.smallest}
+
+:::: {.columns}
+::: {.column width="65%"}
+
+::: {.fragment fragment-index=1}
+::: {.fragment .semi-fade-out fragment-index=8}
+Severely reduced LV systolic function with [EF < 20%]{.red}
+:::
+:::
+
+::: {.fragment fragment-index=2}
+::: {.fragment .semi-fade-out fragment-index=9}
+LV cavity during diastole of [~7.5 cm]{.red}
+:::
+:::
+
+::: {.fragment fragment-index=3}
+::: {.fragment .semi-fade-out fragment-index=11}
+LVOT VTI of [9 cm]{.red} and RVOT VTI of [6 cm]{.red}
+:::
+:::
+
+::: {.fragment fragment-index=4}
+::: {.fragment .semi-fade-out fragment-index=8}
+Regional wall motion abnormalities with [inferior hypokinesis/akinesis]{.red}
+:::
+:::
+
+::: {.fragment fragment-index=5}
+::: {.fragment .semi-fade-out fragment-index=10}
+Moderate to [severe mitral regurgitation]{.red}
+:::
+:::
+
+::: {.fragment fragment-index=6}
+::: {.fragment .semi-fade-out fragment-index=12}
+[Echodensity]{.red} in apex
+:::
+:::
+
+::: {.fragment fragment-index=7}
+::: {.fragment .semi-fade-out fragment-index=8}
+Grade III diastolic dysfunction
+:::
+:::
+
+:::
+::: {.column width="35%"}
+
+Left posterior fascicular block  
+Inferior/posterior septal PVC
+
+::: {.fragment .fade-out fragment-index=9}
+Cardiomegaly
+:::
+
+::: {.fragment fragment-index=8}
+::: {.fragment .highlight-current-red fragment-index=8}
+Severe systolic dysfunction 
+:::
+:::
+
+::: {.fragment fragment-index=9}
+::: {.fragment .highlight-current-red fragment-index=9}
+Dilated cardiomyopathy
+:::
+:::
+
+::: {.fragment fragment-index=10}
+::: {.fragment .highlight-current-red fragment-index=10}
+Mitral regurgitation IIIb 
+:::
+:::
+
+::: {.fragment fragment-index=11}
+::: {.fragment .highlight-current-red fragment-index=11}
+Low cardiac output state
+:::
+:::
+
+::: {.fragment fragment-index=12}
+::: {.fragment .highlight-current-red fragment-index=12}
+Apical thrombus
+:::
+:::
+
+:::
+::::
+
+## Differential {.smallest}
+
+:::: {.columns}
+::: {.column width="33%"}
+
+::: {.fragment fragment-index=1}
+__[Genetic]{.underline}__
+:::
+
+::: {.fragment fragment-index=2}
+TTN   
+LMNA   
+MYH7   
+FLNC (filamin C)  
+RBM20 (RNA-binding motif-20)  
+TNNT2  
+TTNC1  
+PLN (phospholamban)  
+DSP (desmoplakin)  
+ACTC1  
+SCN5A  
+TPM1 (tropomyosin)  
+:::
+
+:::
+::: {.column width="33%"}
+
+::: {.fragment fragment-index=3}
+__[Infectious]{.underline}__
+:::
+
+::: {.fragment fragment-index=4}
+COVID/viral myocarditis  
+Chagas disease  
+Endomyocardial fibrosis  
+:::
+
+::: {.fragment fragment-index=5}
+__[Immune-mediated]{.underline}__
+:::
+
+::: {.fragment fragment-index=6}
+Giant-cell myocarditis  
+Eosinophilic myocarditis  
+Sarcoidosis  
+:::
+
+::: {.fragment fragment-index=7}
+__[Ischemic]{.underline}__
+:::
+
+::: {.fragment fragment-index=8}
+Plaque rupture syndrome  
+Coronary artery spasm  
+Spontaneous coronary artery dissection  
+:::
+
+:::
+::: {.column width="33%"}
+
+
+::: {.fragment fragment-index=9}
+__[Others]{.underline}__
+:::
+
+::: {.fragment fragment-index=10}
+Thiamine deficiency (beri-beri)  
+Selenium deficiency  
+Hypocalcemia  
+Hyper/hypo-thyroidism  
+Tachycardia-induced  
+Alcohol-induced  
+Amphetamine-induced  
+Catecholamine-induced (stress-induced, e.g. *Takotsubo*)  
+Anabolic steroid-induced  
+Hemochromatosis  
+Wilson's disease  
+:::
+
+:::
+::::
+
+## {background-image="sliwa-2023-tropical-cardiomyopathy-map.jpg" background-size="contain"}
+
+::: footer
+@Sliwa2023
+:::
+
+## Additional Labs {.smaller}
+
+:::: {.columns}
+::: {.column width="50%"}
+
+TSH/T4 normal  
+
+::: {.fragment .highlight-current-red}
+ACTH 20.4   
+Free cortisol 1.0  
+AM cortisol 13   
+FSH < 0.2  
+LH < 0.2  
+Testosterone 1445 ng/dL  
+:::
+Lp(a) 21, ApoB100 126 (mg/dL)  
+Cystatin 0.9 (eGFR 81)  
+
+:::
+::: {.column width="50%"}
+
+Ferritin 194   
+Iron 70   
+Normal cerruloplasmin  
+TB negative  
+HIV negative  
+RVP negative  
+Hepatitis panel negative  
+Trypanasoma cruzi IgG negative  
+ANA/Anti-SM negative  
+SPEP/UPEP negative  
+
+:::
+::::
+
+## Differential {.smallest}
+
+:::: {.columns}
+::: {.column width="33%"}
+
+::: {.fragment fragment-index=1}
+__[Genetic]{.underline}__
+:::
+
+::: {.fragment fragment-index=1}
+TTN   
+LMNA   
+MYH7   
+FLNC (filamin C)  
+RBM20 (RNA-binding motif-20)  
+TNNT2  
+TTNC1  
+PLN (phospholamban)  
+DSP (desmoplakin)  
+ACTC1  
+SCN5A  
+TPM1 (tropomyosin)  
+:::
+
+:::
+::: {.column width="33%"}
+
+::: {.fragment fragment-index=1}
+__[Infectious]{.underline}__
+:::
+
+::: {.fragment fragment-index=1}
+::: {.fragment .semi-fade-out fragment-index=2}
+COVID/viral myocarditis  
+Chagas disease  
+Endomyocardial fibrosis  
+:::
+:::
+
+::: {.fragment fragment-index=1}
+__[Immune-mediated]{.underline}__
+:::
+
+::: {.fragment fragment-index=1}
+::: {.fragment .semi-fade-out fragment-index=3}
+Giant-cell myocarditis  
+Eosinophilic myocarditis  
+Sarcoidosis  
+:::
+:::
+
+::: {.fragment fragment-index=1}
+__[Ischemic]{.underline}__
+:::
+
+::: {.fragment fragment-index=1}
+Plaque rupture syndrome  
+Coronary artery spasm  
+Spontaneous coronary artery dissection  
+:::
+
+:::
+::: {.column width="33%"}
+
+
+::: {.fragment fragment-index=1}
+__[Others]{.underline}__
+:::
+
+::: {.fragment fragment-index=1}
+::: {.fragment .semi-fade-out fragment-index=4}
+Thiamine deficiency (beri-beri)  
+Selenium deficiency  
+Hypocalcemia  
+Hyper/hypo-thyroidism  
+:::
+Tachycardia-induced  
+
+::: {.fragment .semi-fade-out fragment-index=5}
+Alcohol-induced  
+Amphetamine-induced  
+Catecholamine-induced (stress-induced, e.g. *Takotsubo*)  
+:::
+
+Anabolic steroid-induced  
+
+::: {.fragment .semi-fade-out fragment-index=6}
+Hemochromatosis  
+Wilson's disease  
+:::
+:::
+
+:::
+::::
+
+---
+
+::: {.r-fit-text}
+1. Steroid-induced cardiomyopathy    
+1. Genetic/dilated cardiomyopathy  
+1. Tachycardia-mediated cardiomyopathy   
+1. Ischemic cardiomyopathy  
+:::
+
+## Steroid-induced cardiomyopathy
+
+. . .
+
+Anabolic-androgenic steroid (__AAS__) misuse, above that of replacement hormone levels, is common - up to 2% of men in the US [@Pope2014]
+
+. . .
+
+AAS abuse tends to involve dosing 5-30 times greater than recommended by the Endocrine Society [@Garner2018].
+
+. . . 
+
+In a small study (n = 140), AAS users had an [LVEF 10% lower]{.red} than age-matched non-users [@Baggish2017].
+
+---
+
+![](baggish-2017-box-plot-aas-lvef.png)
+
+::: footer
+@Baggish2017
+:::
+
+## AAS agents? {.smaller}
+
+- Testosterone is predominately bound to sex hormone-binding globulin, with only 1-2% being free
+- Once bound to androgen receptors, initiates gene transcription
+- AAS agents mimic testosterone, but maximize *anabolic* effect and minimize *androgenic* effects
+- Available orally or as injectable agents
+- Used in "cycles" however can become dependent, develop tolerance and have withdrawal with cessation [@Garner2018]
+- Additional effect leads to dyslipidemia with high LDL and lower HDL, including increased coronary plaque volume [@Fadah2023]
+
+---
+
+![](fadah-2023-aas-diagram.png)
+
+::: footer
+@Fadah2023
+:::
+
+## But the growth hormone? {.smaller}
+
+- Growth hormone deficiency is common in heart failure
+- @Salzano2018 reviewed studies on the effect on treatment with growth hormone on cardiac function, however mixed results:
+  - Improved functional class and exercise duration/capacity
+  - Improved VO2
+  - Decreased LV size, reverse remodeling, and improved LVEF
+  - Decrease HF-associated inflammatory cytokines
+- *Did on-and-off growth hormone mask some of the effects of AAS?*
+
+---
+
+![](salzano-2018-gh-mechanism.png)
+
+::: footer
+@Salzano2018
+:::
+
+# Cardiac catheterization
+
+[Right/left heart catherization with selective coronary angiography]{.center}
+
+## {background-image="cath-pressures.png" background-size="contain"}
+## {background-image="cath-report.png" background-size="contain"}
+## {background-image="cath-lca-lao-cran.gif" background-size="contain"}
+## {background-image="cath-lca-rao-caud.gif" background-size="contain"}
+## {background-image="cath-rca-lao-ap.gif" background-size="contain"}
+## {background-image="cath-rca-lao-caud.gif" background-size="contain"}
+
+## Problems {.smallest}
+
+:::: {.columns}
+::: {.column width="65%"}
+
+::: {.fragment fragment-index=1}
+::: {.fragment .semi-fade-out fragment-index=4}
+Hypovolemic "shock" [requiring nor epinephrine]{.red} with light sedation
+:::
+:::
+
+::: {.fragment fragment-index=2}
+::: {.fragment .semi-fade-out fragment-index=5}
+Large diameter coronary vessels (4-5 mm) without obstructive disease
+:::
+:::
+
+::: {.fragment fragment-index=3}
+::: {.fragment .semi-fade-out fragment-index=5}
+[Diffuse ectasia of RCA]{.red} with diminutive branch vessels
+:::
+:::
+
+:::
+::: {.column width="35%"}
+
+Left posterior fascicular block  
+Inferior/posterior septal PVC  
+Severe systolic dysfunction   
+Dilated cardiomyopathy  
+Mitral regurgitation IIIb   
+
+::: {.fragment .highlight-current-red fragment-index=4}
+Low cardiac output state  
+:::
+Apical thrombus  
+
+::: {.fragment fragment-index=5}
+::: {.fragment .highlight-current-red fragment-index=5}
+Spontaneous coronary artery dissection?
+:::
+:::
+
+:::
+::::
+
+## Arterial pressure and resistance training 
+
+. . .
+
+@MacDougall1985 tested the acute hypertensing response to resistance training, with invasive brachial artery pressure transduction.
+
+- Single-arm curls of 255/190
+- Double-leg press of 320/250 (peak 480/350)
+
+## {.center}
+
+![](macdougall-1985-sbp-exercise.png)
+
+::: footer
+@MacDougall1985
+:::
+
+## {.smaller}
+
+Rare cases of SCAD seen with resistance training [@Aghasadeghi2008]
+
+. . .
+
+@Fahmy2016 described a population of men and women with SCAD. Men (v. women) had a higher rate of...
+
+- Being younger
+- Isometric exercise
+- Heavy-weight resistance training
+- Recreational drugs
+
+---
+
+![](aghasadeghi-2008-rca-scad.jpg)
+
+::: footer
+@Aghasadeghi2008
+:::
+
+# Cardiac Magnetic Resonance Imaging
+
+## Cine imaging {.smaller}
+
+. . .
+
+Generally, steady-state free precession (__SSFP__) is used in the generation of __cine__ imaging.
+
+. . .
+
+RF pulses produce free induction decay curves or signals, and corresponding echos. 
+When in rapid sequence, the signal will began to merge and never reach zero, achieving a *continuous signal of varying amplitude* $\rightarrow$ __SSFP__.
+
+. . .
+
+For CMR, these sequences are repeated throughout a cardiac cycle.
+
+## {background-image="cmr-localizer.gif" background-size="contain"}
+## {background-image="cmr-2c-cine.gif" background-size="contain"}
+## {background-image="cmr-3c-cine.gif" background-size="contain"}
+## {background-image="cmr-4c-cine.gif" background-size="contain"}
+
+## {.center}
+
+::: {layout-nrow=2}
+![](cmr-sa-stack-2.gif)
+![](cmr-sa-stack-3.gif)
+![](cmr-sa-stack-4.gif)
+![](cmr-sa-stack-5.gif)
+![](cmr-sa-stack-6.gif)
+![](cmr-sa-stack-7.gif)
+:::
+
+## {.center}
+
+::: {layout-nrow=2}
+![](cmr-sa-stack-8.gif)
+![](cmr-sa-stack-9.gif)
+![](cmr-sa-stack-10.gif)
+![](cmr-sa-stack-11.gif)
+![](cmr-sa-stack-12.gif)
+![](cmr-sa-stack-13.gif)
+:::
+
+## {.center}
+
+::: {layout-nrow=1}
+![](cmr-av-pc-all.gif)
+![](cmr-av-pc-high.gif)
+![](cmr-av-pc-low.gif)
+:::
+
+## {.center}
+
+::: {layout-nrow=1}
+![](cmr-av-cine.gif){width=45%}
+![](cmr-cor-lvot-cine.gif){width=45%}
+:::
+
+## Gadolinium contrast!
+
+. . .
+
+Gadolinium (__Gd__) is a *paramagnetic* substance (becomes temporarily magnetized), out of four elements (Fe, Ni, Co).
+__Gd__ induces __T1 relaxation__. 
+
+. . .
+
+__T1__ is the time it takes for net magnetization to return to initial maximum value (shortened by __Gd__).
+
+. . .
+
+Initially, T1 scouting identifies the inversion time at which viable myocardium is "dark".
+
+---
+
+![](elster-2015-mri-psir-faq.gif)
+
+::: footer
+https://mriquestions.com/ps-phase-sensitive-ir.html
+:::
+
+---
+
+## {background-image="cmr-t1-scout.gif" background-size="contain"}
+## {background-image="cmr-mag-ir-280-sa.gif" background-size="contain"}
+## {background-image="cmr-mag-ir-280-4c.gif" background-size="contain"}
+## {background-image="cmr-mag-ir-280-2c.gif" background-size="contain"}
+## {background-image="cmr-mag-ir-280-3c.gif" background-size="contain"}
+
+---
+
+Phase-corrected inversion recovery sequences are less reliant on a set inversion time
+
+. . .
+
+Next sequence is done with free-breathing.
+
+---
+
+## {background-image="cmr-psir-fb-avg-sa.gif" background-size="contain"}
+
+## Problems {.smallest}
+
+:::: {.columns}
+::: {.column width="65%"}
+
+::: {.fragment fragment-index=1}
+::: {.fragment .semi-fade-out fragment-index=5}
+Dilated LV with [severely reduced LV function]{.red}
+:::
+:::
+
+::: {.fragment fragment-index=2}
+::: {.fragment .semi-fade-out fragment-index=5}
+Inferior wall [akinesis]{.red}
+:::
+:::
+
+::: {.fragment fragment-index=3}
+::: {.fragment .semi-fade-out fragment-index=7}
+Inferior wall showed [transmural, from base to apex]{.red} late gadolinium enhancement
+:::
+:::
+
+::: {.fragment fragment-index=4}
+::: {.fragment .semi-fade-out fragment-index=6}
+[Thrombus]{.red} seen in the apex
+:::
+:::
+
+:::
+::: {.column width="35%"}
+
+Left posterior fascicular block  
+Inferior/posterior septal PVC  
+
+::: {.fragment .highlight-current-red fragment-index=5}
+Severe systolic dysfunction   
+Dilated cardiomyopathy  
+:::
+Mitral regurgitation IIIb   
+Low cardiac output state  
+
+::: {.fragment .highlight-current-red fragment-index=6}
+Apical thrombus  
+:::
+
+::: {.fragment .highlight-current-red fragment-index=7}
+Spontaneous coronary artery dissection?
+:::
+
+:::
+::::
+
+## Differential {.smallest}
+
+:::: {.columns}
+::: {.column width="33%"}
+
+::: {.fragment fragment-index=1}
+::: {.fragment .highlight-current-red fragment-index=3}
+__[Genetic]{.underline}__
+:::
+:::
+
+::: {.fragment fragment-index=1}
+TTN   
+LMNA   
+MYH7   
+FLNC (filamin C)  
+RBM20 (RNA-binding motif-20)  
+TNNT2  
+TTNC1  
+PLN (phospholamban)  
+DSP (desmoplakin)  
+ACTC1  
+SCN5A  
+TPM1 (tropomyosin)  
+:::
+
+:::
+::: {.column width="33%"}
+
+::: {.fragment fragment-index=1}
+__[Infectious]{.underline}__
+:::
+
+::: {.fragment fragment-index=1}
+::: {.fragment .semi-fade-out fragment-index=1}
+COVID/viral myocarditis  
+Chagas disease  
+Endomyocardial fibrosis  
+:::
+:::
+
+::: {.fragment fragment-index=1}
+__[Immune-mediated]{.underline}__
+:::
+
+::: {.fragment fragment-index=1}
+::: {.fragment .semi-fade-out fragment-index=1}
+Giant-cell myocarditis  
+Eosinophilic myocarditis  
+Sarcoidosis  
+:::
+:::
+
+::: {.fragment fragment-index=1}
+__[Ischemic]{.underline}__
+:::
+
+::: {.fragment fragment-index=1}
+::: {.fragment .semi-fade-out fragment-index=2}
+Plaque rupture syndrome  
+Coronary artery spasm  
+:::
+::: {.fragment .highlight-current-red fragment-index=3}
+Spontaneous coronary artery dissection  
+:::
+:::
+
+:::
+::: {.column width="33%"}
+
+
+::: {.fragment fragment-index=1}
+__[Others]{.underline}__
+:::
+
+::: {.fragment fragment-index=1}
+::: {.fragment .semi-fade-out fragment-index=1}
+Thiamine deficiency (beri-beri)  
+Selenium deficiency  
+Hypocalcemia  
+Hyper/hypo-thyroidism  
+:::
+::: {.fragment .semi-fade-out fragment-index=2}
+Tachycardia-induced  
+:::
+
+::: {.fragment .semi-fade-out fragment-index=1}
+Alcohol-induced  
+Amphetamine-induced  
+Catecholamine-induced (stress-induced, e.g. *Takotsubo*)  
+:::
+
+::: {.fragment .highlight-current-red fragment-index=3}
+Anabolic steroid-induced  
+:::
+
+::: {.fragment .semi-fade-out fragment-index=1}
+Hemochromatosis  
+Wilson's disease  
+:::
+:::
+
+:::
+::::
+
+# Clinical Course
+
+## {.smaller}
+
+:::: {.columns}
+::: {.column width="50%"}
+Hospitalization: 
+
+1. Patient was admitted to the cardiology service
+1. Nephrology and endocrine consultation
+1. Underwent coronary angiography and right heart catheterization
+1. Underwent cardiac magnetic resonance imaging
+1. Discharged with LifeVest
+:::
+::: {.column width="50%"}
+Treatment: 
+
+- [cessation of AAS]{.red}
+- atorvastatin 20
+- apixaban 5 bid
+- sacubitril-valsartan 24/26
+- empagliflozin 10 
+:::
+::::
+
+# Thoughts? 
+
+# References {.smallest}
+
+::: {#refs}
+:::

@@ -1,0 +1,1052 @@
+MEDICAL DISCHARGE SUMMARY
+ 
+NAME: Rosie W Hamblin       MRN: 8501842           DOB: 8/6/1960
+ADMIT Date: 10/31/2019  5:23 PM                D/C Date: 11/02/19
+ 
+ 
+Attending of Record: Sims, Michelle W., MD
+Admitting Physician: Michelle W. Sims, MD
+Discharge Physician: Anish Shah, MD, Michelle W. Sims, MD
+Outpatient PCP: Smith, Daiysha B., MD
+ 
+Principal and Secondary Diagnoses:
+#. Sinus tachycardia
+#. Atypical chest pain
+ 
+Diagnostic Tests:
+ 
+TTE:
+Left ventricular systolic function is low normal.
+Estimated EF 55%
+No regional wall motion abnormalities noted.
+Grade I Diastolic Dysfunction, normal left atrial pressure.
+The right ventricle is normal in size and function.
+The TR envelope was not adequate to calculate the RVSP.
+ 
+Brief Presenting History:
+ 
+ROSIE W HAMBLIN is a 59 y.o. female h|o Type 2 diabetes, heart failure with preserved ejection fraction, hypertension, hyperlipidemia, obesity and tobacco abuse presents the ED today with moderate left-sided chest pain.  Patient states that the pain was moderate; 5-6/10.  Appears to be related with movement of the upper extremities and improved with rest.  No sweating or diaphoresis.  No recent trauma to the chest.  Patient noted to be tachycardic in the ED.  Heart rate mentioned in the 120-130s.  Patient was given some IV fluids in ED with some improvement.  She states that she drinks water at home appropriately.  No EtOH abuse.  Her only other complaint this time is diffuse muscle pain and joint tenderness multiple joints and upper extremities.  No fever chills reported.  No recent travel.  No contact with insects.  No other complaints at this time.
+ 
+Hospital Course by Problem List:
+ 
+#. Sinus tachycardia
+- initally either due to pain or dehydration
+- improved at rest and with IVF
+- resolved before DC
+ 
+#. Atypical chest pain
+- has had persistent atypical, non-exertional pain of hte left chest and arms
+- troponin and TTE were normal
+- pain improved c- IVF as well
+- likely stress related versus neuropathic, but hasn't responded to any TCA or neuropathic agent yet, nor to NSAIDs, etc
+- will need additional chronic pain mgmt (I think stress at home may be the prevailing reason, her kids are having some troubles)
+- can also consider giong up on the TCA
+- ALA has also shown benefit in refractory neuropathic pain, but will defer to PMD
+ 
+The remainder of the patient's medical problems were chronic and stable without any further intervention this admission. The patient will continue the current treatments and medications.
+ 
+Discharge Condition:
+ 
+BP (!) 144/105 Comment: nurse notified  | Pulse 86  | Temp 36.8 °C (98.3 °F) (Oral)  | Resp 18  | Ht 1.575 m (5' 2")  | Wt 73.7 kg (162 lb 6.4 oz)  | SpO2 98%  | BMI 29.70 kg/m² 
+Gen: NAD, AOX4
+HEENT: NCAT, large neck, but no palpable lymph nodes
+CV: warm ext, NRRR
+Pulm: easy WOB, NRD
+Abd: soft, non-distended
+ 
+Discharge To: home
+ 
+Discharge Medication Reconcilitation:
+		
+Current Discharge Medication List
+ 
+		
+CONTINUE these medications which have NOT CHANGED
+ 	Details
+sitaGLIPtin phosphate (JANUVIA) 100 mg tablet	Take 1 tablet (100 mg total) by mouth every day.
+Qty: 90 tablet, Refills: 3
+ 	Comments: Dx.Code E11.9
+Associated Diagnoses: Diabetes mellitus due to underlying condition with hyperosmolarity without coma, without long-term current use of insulin (HCC)
+ 
+GLUCOCARD SHINE TEST (GLUCOCARD) STRP strip	use to check blood sugar three times daily.
+Qty: 300 strip, Refills: 3
+ 	Comments: ICD 10: E11.9 ON INSULIN Z79.4  Please substitute whichever brand is covered on patient's plan.
+ 
+DULoxetine DR (CYMBALTA) 60 mg DR capsule	Take 1 capsule (60 mg total) by mouth every day.
+Qty: 30 capsule, Refills: 2
+ 	Associated Diagnoses: Neuropathy
+ 
+ferrous sulfate (IRON 325) 325 (65 Fe) MG tablet	Take 1 tablet (325 mg total) by mouth every other day.
+Qty: 15 tablet, Refills: 2
+ 	Associated Diagnoses: Microcytic anemia
+ 
+ergocalciferol,vit D2, (DRISDOL) 50000 units capsule	Take 1 capsule (50,000 Units total) by mouth 1 time every week for 12 doses.
+Qty: 4 capsule, Refills: 2
+ 	Associated Diagnoses: Vitamin D deficiency
+ 
+amitriptyline (ELAVIL) 10 mg tablet	Take 1 tablet (10 mg total) by mouth every night.
+Qty: 90 tablet, Refills: 3
+ 	Associated Diagnoses: Neuropathy
+ 
+Lancets MISC	use to check blood sugar three times daily.
+Qty: 100 each, Refills: 11
+ 	Comments: ICD 10: E11.9 ON INSULIN Z79.4  Please substitute whichever brand is covered on patient's plan.
+Associated Diagnoses: Type 2 diabetes mellitus without complication, unspecified whether long term insulin use (HCC)
+ 
+rosuvastatin (CRESTOR) 20 mg tablet	Take 1 tablet (20 mg total) by mouth every day.
+Qty: 90 tablet, Refills: 3
+ 	Associated Diagnoses: Dyslipidemia associated with type 2 diabetes mellitus (HCC)
+ 
+insulin detemir (LEVEMIR) 100 units/mL injection	Inject 30 Units into the skin every night.
+Qty: 30 mL, Refills: 11
+ 	Comments: Dispense quantity sufficient for one month
+Associated Diagnoses: Type 2 diabetes mellitus with hyperglycemia, without long-term current use of insulin (HCC); Diabetes mellitus due to underlying condition with hyperosmolarity without coma, without long-term current use of insulin (HCC)
+ 
+metFORMIN (GLUCOPHAGE) 1000 mg tablet	Take 1 tablet (1,000 mg total) by mouth 2 times every day with meals.
+Qty: 180 tablet, Refills: 4
+ 	Associated Diagnoses: Diabetes mellitus due to underlying condition with hyperosmolarity without coma, without long-term current use of insulin (HCC)
+ 
+Insulin Syringe-Needle 0.5mL/31G 3mm 31G X 15/64" 0.5 ML MISC	1 each use as needed.
+Qty: 100 each, Refills: 11
+ 	Associated Diagnoses: Type 2 diabetes mellitus with hyperglycemia, without long-term current use of insulin (HCC)
+ 
+Capsaicin 0.1 % CREA	Apply 1 g topically use as needed.
+Qty: 90 g, Refills: 3
+ 	Comments: Standard tube
+Associated Diagnoses: Other chronic pain
+ 
+senna (SENOKOT) 8.6 mg TABS tablet	Take 1 tablet by mouth 2 times every day as needed.
+Qty: 60 each, Refills: 3
+ 	Associated Diagnoses: Low serum iron
+ 
+Blood Glucose Monitoring Suppl (GLUCOCARD SHINE) w/Device KIT	Use to check blood sugar daily
+Qty: 1 each, Refills: 0
+ 	Comments: ICD-10 E11.9 ON INSULIN please substitute whichever brand is covered on patient's plan.
+ 
+Cholecalciferol (VITAMIN D3) 400 units CAPS	Take 800 Units by mouth every day.
+Qty: 90 capsule, Refills: 3
+ 	Associated Diagnoses: Vitamin D deficiency
+ 
+Adalimumab 40 MG/0.8ML PSKT	Inject 0.8 mLs into the skin every 14 days.
+Qty: 2 each, Refills: 0
+ 	Comments: Dispense 2 syringes (1 month supply)
+Associated Diagnoses: Psoriasis; Long term use of drug
+ 
+Lancet Devices (LANCING DEVICE) MISC	Place lancet in.
+Qty: 2 each, Refills: 0
+ 	Comments: ICD-10  DM-E11.9
+Associated Diagnoses: Diabetes (HCC)
+ 
+ 
+ 
+ 
+ 
+Discharge Instructions:
+The patient was educated on warning signs regarding the current medical conditions. If any of these issues were to arise or worsen, the patient was instructed to contact the PCP or seek further medical evaluation in the emergency room.
+ 
+Test Pending/Items to Follow Up:
+ 
+- escalation of chronic pain management
+ 
+Follow-up Appointment Date and Time:
+				
+Future Appointments
+Date	Time	Provider	Department	Center
+11/21/2019	10:30 AM	Smith, Daiysha B., MD	POD GREEN	GHS Outpatie
+6/4/2020	 8:30 AM	Navalah, Chantal, NP	GI MSM	GHS Outpatie
+ 
+ 
+>30 minutes spent in coordinating this discharge.
+ 
+Anish Shah, MD
+11/2/2019
+1:56 PM
+ 
+MEDICAL DISCHARGE SUMMARY
+ 
+NAME: Jerlyn Contreras        MRN: 100407756       DOB: 12/23/1996
+ADMIT Date: 10/31/2019  4:55 PM                D/C Date: 11/02/19
+ 
+Attending of Record: Watkins, Stacey M., MD
+Admitting Physician: Dwayne L. Chance, MD
+Discharge Physician: Anish Shah, MD, Dwayne L. Chance, MD
+Outpatient PCP: Duchon, Karman, MD
+ 
+Principal and Secondary Diagnoses:
+ 
+#. Thyrotoxicosis d/t Graves disease
+#. Hypovitaminosis D, severe
+ 
+Diagnostic Tests:
+ 
+No significant teting
+ 
+Brief Presenting History:
+ 
+JERLYN CONTRERAS is a 22 y.o. female h|o Graves' disease presents to the ED today as recommended by her PCP and endocrinologist for evaluation of increased heart rate.  Patient denies any complaints at this time.  No chest pain, shortness of breath, or tremors.  Endorses he intolerance but no cold intolerance.  She denies palpitations, orthopnea or lower extremity swelling.  No dyspnea on exertion.  No weakness or fatigue reported.  No other complaints at this time.
+ 
+Hospital Course by Problem List:
+ 
+#. Thyrotoxicosis d/t Graves disease
+- pt presented c- signifciant tachycardia and HTN, likely d/t thyrotoxicosis
+- placed on propranolol and increased dose of MMI
+- TFT showed TSH < 0.01, T4 > 3.8
+- at time of DC, was stable on mmi 30 qd, and atenolol 100 qd (simpler dosing for compliance)
+- taught patient about grave dz at time of DC in Spanish
+ 
+#. Hypovitaminosis D, severe
+- started on vitamin D supplements
+ 
+The remainder of the patient's medical problems were chronic and stable without any further intervention this admission. The patient will continue the current treatments and medications.
+ 
+Discharge Condition:
+ 
+BP 116/82  | Pulse 98  | Temp 37.1 °C (98.8 °F) (Oral)  | Resp 20  | LMP  (LMP Unknown)  | SpO2 99% 
+Gen: NAD, well appearing, Spanish speaking
+HEENT: mildly proptotic eyes, MMM, thyromegaly 
+CV: warm ext, regular
+Pulm: easy WOB
+Abd: soft, nontender
+ 
+Discharge To: home
+ 
+Discharge Medication Reconcilitation:
+			
+Current Discharge Medication List
+ 
+			
+START taking these medications
+ 	Details
+cholecalciferol (VITAMIN D3) 50000 units CAPS capsule	Take 1 capsule (50,000 Units total) by mouth every 7 days.
+Qty: 8 capsule, Refills: 0
+ 
+methimazole (TAPAZOLE) 10 mg tablet	Take 3 tablets (30 mg total) by mouth every day.
+Qty: 270 tablet, Refills: 0
+ 
+ 
+			
+CONTINUE these medications which have CHANGED
+ 	Details
+atenolol (TENORMIN) 100 mg tablet	Take 1 tablet (100 mg total) by mouth every day.
+Qty: 90 tablet, Refills: 3
+ 
+ 
+		
+STOP taking these medications
+ 
+ 	propranolol (INDERAL) 60 mg tablet	Comments: 
+Reason for Stopping: 
+ 	 
+ 
+ 
+ 
+ 
+Discharge Instructions:
+The patient was educated on warning signs regarding the current medical conditions. If any of these issues were to arise or worsen, the patient was instructed to contact the PCP or seek further medical evaluation in the emergency room.
+ 
+Test Pending/Items to Follow Up:
+ 
+- TFT in 6 weeks
+ 
+Follow-up Appointment Date and Time:
+				
+Future Appointments
+Date	Time	Provider	Department	Center
+1/9/2020	 1:30 PM	GHS ENDO F6	MED ENDO	GHS Outpatie
+ 
+ 
+Greater than 30 minutes were spent in coordinating this discharge plan.
+ 
+Anish Shah, MD
+11/2/2019
+2:34 PM
+
+INTERNAL MEDICINE PROGRESS NOTE
+Service: Emory Medicine Team O
+Name: Antoinette Archer
+Hospital Day: 35
+ 
+SUBJECTIVE
+ 
+Was oriented today. Remembered me from last weekend. Spoke in clear sentences
+ 
+Review of systems negative for constitutional, cardiac, upper or lower respiratory, gastrointestinal,  or neurological symptoms except as reflected as above
+ 
+Scheduled Meds:
+•	lidocaine	 2 patch	Transdermal	Q24H
+•	pantoprazole	 40 mg	Intravenous	Daily
+•	heparin	 5,000 Units	Subcutaneous	Q12H SCH
+•	collagenase	 	Topical	Daily
+•	epoetin Alfa-epbx	 4,000 Units	Subcutaneous	Once per day on Mon Wed Fri
+•	thiamine	 100 mg	Oral	Daily
+•	sennosides	 17.2 mg	Oral	BID
+•	normal saline	 10 mL	Intravenous	EVERY 8 HOURS
+•	acetaminophen	 650 mg	PEG Tube	Q6H
+•	mupirocin	 	Topical	TID
+ 
+ 
+OBJECTIVE
+ 
+BP 161/64  | Pulse 110  | Temp 36 °C (96.8 °F)  | Resp 16  | Ht 1.6 m (5' 3")  | Wt 49.5 kg (109 lb 2 oz)  | LMP  (LMP Unknown)  | SpO2 98%  | BMI 19.33 kg/m² 
+GEN: laying in bed, getting changed, contracted
+CV: warm, tachy but regular
+PULM: easy WOB
+ABD: PEG in place
+PSYCH: oriented to self, situation, knows her daughters names and knows which of them I have met
+ 
+All labs, studies, and imaging was personally reviewed.
+POCT 118
+ 
+ASSESSMENT and PLAN
+ 
+Antoinette Archer is a 70 y.o. female h/o ESRD on HD< PAD, dementia, FTT/PCM s/p PEG, OM s/p right hallux amputation, chornic anemia, p/w AMS and potential OM/sepsis.
+ 
+#. Acute on chronic encephalopathy
+#. Vascular dementia
+#. FTT c/b severe PCM
+Likely multifactorial, acute worsening related to toxic metabolic from sepsis as below with superimposed delirium but with underlying vascular dementia and slow decline over last several months.  CT with severe chronic microvascular changes but no acute abnormality.
+HIV-, TSH nl, RPR negative
+-Continue thiamine repletion via PEG
+-S/p treatment of sepsis as below
+-Overall prognosis is very poor, appreciate palliative care consult.  Multiple family meetings and ongoing GOC discussions, family agreeable to hospice referrals for information only - still making final decision re stopping HD
+- Palliative signed off 11/1, appreciate consult
+- Awaiting SNF placement
+ 
+#. Osteomyelits c- sepsis
+Recently amputated toe is most likely source. Xrays with "First transmetatarsal amputation with marked soft tissue gas and swelling in the first digit stump associated with osseous irregularity along the surgical margin concerning for osteomyelitis." ESR 114. crp 21. WBC count 20.9. Blood cx no growth.  New low-grade fevers despite broad spectrum abx, no clear etiology as covered pretty broadly with vanc/zosyn and no localizing signs/sx.
+-repeat blood cultures 10/11= neg and CXR 10/11= unremarkable
+-Holding off on additional imaging with MRI non-contrast to evaluate for osteo given this would be unlikely to change management and would be v difficult to position patient given contractures
+-Consulted ID, appreciate assistance
+-s/p vanc/zosyn (9/28-10/14) (avoid cefe as can cause encephalopathy).  Patient completed over 6 weeks of IV abx, no indications to continue for osteo at this time
+- Vascular surgery consulted on admission.  No plans for any surgical therapy at any time unless she develops a life-threatening soft tissue infection and her family would like to pursue above-knee amputation.
+- GOC discussions as above
+- Wound care consulted, appreciate assistance
+ 
+#. ESRD c- HD TTS
+- Appreciate renal consult, patient not tolerating much fluid removal due to hypotension. - continue HD per schedule if tolerating.  Continue GOC discussion
+- Renally dose medications, avoid nephrotoxic meds
+ 
+#. Anemia of chronic/renal dz c/b GIB
+- Suspect multifactorial due to ACD and ESRD with recent GIB. Episode of rectal bleeding witnessed 10/3 and 10/7, CT bleeding protocol negative.  +hemorrhoids on exam.  Suspect BRBPR related to hemorrhoids, Hgb stable and pt is poor candidate for EGD/colonoscopy given overall clinical status and prognosis.
+-S/p 1 unit 9/29 and 10/10 with appropriate response
+-Monitor Hgb and transfuse as needed for Hgb<7
+-Hold asa 
+- cont ppi
+ 
+#. T2DM
+- continue, q 6 accucheck, SSI d/c'd due to pt episodes of hypoglycemia
+ 
+#. Back pain
+-  lidocaine patch
+ 
+RESOLVED
+ 
+#. Lip swelling-resolved
+#. CONS bacteremia - resolved, considered contaminant
+ 
+General
+Diet: Tube feeds
+Lines and Catheters: PIV x2 
+VTE Prophylaxis: SCDs,, heparin ppx
+Advanced Directives: DNR/DNI
+Family Contact:  Primary Emergency Contact: Archer,Jackie, Home Phone: 678-763-9311
+Discharge Planning:Continue to attempt long term GOC discussion with the family. Please see Palliative cares note from 10/16 for most recent and detailed discussion  Spoke with Cassie and she will submit for SNF with HD. Pt was previously in a SNF.  Family should be agreeable to SNF placement. CM will continue to reach out to family to assist with dispo. Pt medically stable for dc once placement found. 
+ 
+Anish Shah
+Emory Team O
+PIC 67004
+Hospital Medicine Attending
+
+INTERNAL MEDICINE PROGRESS NOTE
+Service: Emory Medicine Team O
+Name: Homer James
+Hospital Day: 4
+
+SUBJECTIVE
+
+Eating lunch when I saw him, no complaints. NAEO.
+
+Review of systems negative for constitutional, cardiac, upper or lower respiratory, gastrointestinal,  or neurological symptoms except as reflected as above
+
+Scheduled Meds:
+•	ertapenem	 0.5 g	Intravenous	Q24H
+•	docusate sodium	 100 mg	Oral	BID
+•	normal saline	 10 mL	Intravenous	EVERY 8 HOURS
+•	insulin lispro	 2 Units	Subcutaneous	TID w/meals
+•	metoprolol succinate XL	 12.5 mg	Oral	Daily
+•	pantoprazole DR	 40 mg	Oral	every morning before breakfast
+•	insulin lispro	 0-8 Units	Subcutaneous	TID w/meals
+	And
+•	insulin lispro	 0-4 Units	Subcutaneous	Nightly
+•	insulin detemir	 5 Units	Subcutaneous	Q24H
+•	gabapentin	 200 mg	Oral	Q8H SCH
+
+
+OBJECTIVE
+
+BP 144/69  | Pulse 70  | Temp 36.2 °C (97.2 °F) (Oral)  | Resp 16  | Ht 1.727 m (5' 8")  | Wt 61.2 kg (135 lb)  | SpO2 99%  | BMI 20.53 kg/m² 
+GEN: sitting in bed comoftably, AO
+CV: warm ext, NRRR
+PULM: easy WOB
+ABD: soft, colosotomy in place
+PSYCH: mood/affect congruent, speech is slow
+
+All labs, studies, and imaging was personally reviewed.
+K 5.7, Cr 2.0
+
+ASSESSMENT and PLAN
+
+Homer James is a 80 y.o. male h/o multiple comorbidities, including chronic foley d/t retention, recurrent MDR UTI, NICM (EF 35%), IDDM, pulmonary fibrosis, sacral ulcer s/p diverting colostomy, prostate adenocarcinoma s/p TURP, and AoCD requiring transfusions. He p/w urosepsis.
+
+#. Urosepsis d/t ESBL E.coli UTI
+- pt initially tachy c- white count, dark urine, and suprapubic pain
+- placed on ertapenem
+- hold off on home phenazopyridine 200 mg (label recommends avoiding for CrCl <50)
+ 
+#. Hyperkalemia
+ - mix of hyperglyemic osmotic diuresis, sepsis
+- only has received insulin/calcium for K mgmt thus far
+- k 5.7 today, kayexalate + lasix + LR
+
+#. Subacute on chronic anemia s/p pRBC x 3
+- No evidence of acute bleed. Hgb trending down
+- chronic, intermittently drops and has required freq q-monthly transfusions for the past year. Presumed etiology is AOCD (high ferritin, low TIBC); however, retic index w/ appropriate response (8/10/19) ~2.5, hyper-proliferating; no overt GIB on exam but can't r/o occult GIB.  Multiple colonoscopies planned/scheduled during various admissions at Wellstar but always deferred to outpt as pt doesn't complete prep.  No colonoscopy on record here. nml INR and low-normal retic. Retic expected to be higher given anemia.
+- closely monitor for any signs of GIB
+- monitor Hgb
+ 
+# IDDM (A1c 8.3 6/2019)
+- cont levemir 5 units qHS, Lispro 2 units qAC
+- SSI, POCT glucose qAC
+ 
+# Hx of provoked LUE DVT (8/2019)
+- not on AC given high-risk of bleeding after discussion w/ family
+ 
+# Stage IV Sacral decubitus ulcer POA
+- w/o e/o infection; present since 2017; s/p diverting colostomy and recent ligation of bleeding vessels
+- wound care consult pending
+ 
+# HFrEF (EF 35-40%)
+- appears euvolemic, asymptomatic at this time
+- cont Toprol XL 12.5 mg daily
+ 
+# GERD
+- cont PPI
+
+#. CKD 3 (b/l Cr 2.1)
+- monitoring, avoid nephrotoxins
+
+RESOLVED
+
+#. CONS bactermia - contaminant, off VAN
+#. AKI on CKD
+
+VTE Prophylaxis: SCD
+Therapeutic drug monitoring: n/a
+Lines/cathters: Foley - Y ; PIV - Y
+Fall risk: yes 
+Diet: Renal
+Family contact:  Primary Emergency Contact: Hamilton,Linda, Home Phone: 862-224-9836 
+Code Status: full code
+
+Anish Shah
+Emory Team O
+PIC 67004
+Hospital Medicine Attending
+
+INTERNAL MEDICINE PROGRESS NOTE
+Service: Emory Medicine Team O
+Name: Sharon Y Parks
+Hospital Day: 7
+
+SUBJECTIVE
+
+Resting comfortably in bed, etaing her salad
+NAEO
+
+Review of systems negative for constitutional, cardiac, upper or lower respiratory, gastrointestinal,  or neurological symptoms except as reflected as above
+
+Scheduled Meds:
+•	tranexamic acid	 0.5 g	Topical	4x Daily
+•	lidocaine	 1 patch	Transdermal	Q24H
+•	ipratropium	 0.5 mg	Nebulization	Every 6 Hours
+•	budesonide-formoterol	 2 puff	Inhalation	BID
+•	cholecalciferol	 50,000 Units	Oral	Q7 Days
+•	esomeprazole	 20 mg	Oral	every morning before breakfast
+•	hydrocortisone	 5 mg	Oral	Daily with breakfast
+•	voriconazole	 50 mg	Oral	BID
+
+
+OBJECTIVE
+
+BP 98/71  | Pulse 81  | Temp 36.4 °C (97.5 °F) (Oral)  | Resp 18  | Ht 1.651 m (5' 5")  | Wt (!) 36.2 kg (79 lb 14.4 oz)  | SpO2 100%  | BMI 13.30 kg/m² 
+GEN: thin light brown skinned women, pleasant
+CV: warm and thin ext, no edema, NRRR
+PULM: shallow respirations, mild respiratory effort, NC on nose, diminished breath sounds bilaterally
+ABD: soft, thin
+PSYCH: mood/affect congruent, insight very poor
+
+All labs, studies, and imaging was personally reviewed.
+Tn negtive, ECG c- chronically inferior ST repol changes c/w prior
+Hb 9
+
+ASSESSMENT and PLAN
+
+Sharon Y Parks is a 60 y.o. female h/o smoking, HFpEF, severe emphysema c/b rupture bleb, c/b BPF, c/b collapsed left lung, h/o treated pulmonary TB (2011), h/o aspergillosis (2018), and recurrent hemoptysis while on AC (DC in July 2019, unknown indication). She presents c- persistent hemoptysis, small volume.
+
+#. Hemoptysis d/t underlying bronchiectasis c- erosions into pulmonary vessels
+#. COPD/emphysema (IV/D) c/b blebs, c/b BPF, requiring home O2
+#. Acute on chronic hypoxic respiratory failure
+- Pt w/ complicated pulmonary issues - smoker, with Stage IV COPD, severe emphysema c/b ruptured bleb in the past and bronchopleural fistula p/f hemoptysis. Pt is not surgical candidate per outpatient pulm. CT chest this admission hows emphysematous bullous changes, bronchopleural fistula, partial collapse of left lung. No PTX appreciated per pulm. Etiology of bleed thought to be due to patient's extensive left-sided bronchiectasis with erosion into pulmonary blood vessels, which is likely going to be a chronic problem. No need for bronch given clinical stability and likely left-sided source. 
+--trend CBC, INR, T&S q72h
+--IR embolization planned for Monday. 
+--Pt noted to have increased bleeding after dc of TXA - so TXA resumed 11/1/19
+- sig home, spiriva, albuterol/ipratropium Q4H, chronic steroid hydrocortisone 5 mg QD  
+- cont long term Azithromycin
+- pain med and cough syrup prn
+- for massive hemoptysis: lay with LEFT lung down, order STAT CTA of chest, call IR for embolization
+ 
+#. H/o unprovoked PE - 6/28/2017 OFF AC Risk Vs Benefit 
+#. Pulmonary Aspergillus detected in BAL in 2017, on life long vorioconazole 
+#. H/o TB treated and last AFB 11/2018 was normal. No night sweats, or fever. Would continue to monitor. Last AFB was negative
+#. RUL Lesion - In the past concerning for malignancy. PET scan done 3 months later showed decrease in size and non avid, plan is more monitoring 
+
+Anish Shah
+Emory Team O
+PIC 57881
+Hospital Medicine Attending
+
+INTERNAL MEDICINE PROGRESS NOTE
+Service: Emory Medicine Team O
+Name: Mamadou Yero Diallo
+Hospital Day: 1
+ 
+SUBJECTIVE
+ 
+We discussed his drinking history a bit more today
+He thinks its because he's moved on to cheaper liquor
+Was able to walk with walker c- PT help
+ 
+Review of systems negative for constitutional, cardiac, upper or lower respiratory, gastrointestinal,  or neurological symptoms except as reflected as above
+ 
+Scheduled Meds:
+•	thiamine	 100 mg	Oral	Daily
+•	folic acid	 1 mg	Oral	Daily
+•	multivitamin	 1 tablet	Oral	Daily
+•	Enoxaprin SC inj for VTE Prophylaxis (HIGH risk for VTE)	 40 mg	Subcutaneous	Q24H
+•	chlordiazePOXIDE	 10 mg	Oral	TID
+•	nicotine	 1 patch	Transdermal	Daily
+ 
+ 
+OBJECTIVE
+ 
+BP 119/84  | Pulse 74  | Temp 36.4 °C (97.6 °F) (Oral)  | Resp 18  | SpO2 100% 
+GEN: NAD, laying in bed
+CV: warm ext, +2 radial, NRRR
+PULM: easy WOB
+ABD: soft, nondistended
+PSYCH: mood/affect congruent
+Neuro: 5/5 bilateral lower ext, sensation intact
+ 
+All labs, studies, and imaging was personally reviewed.
+NH3 138
+AST 90
+ 
+ASSESSMENT and PLAN
+ 
+Mamadou Yero Diallo is a 58 y.o. male h/o ETOH abuse, hepatic steatosis, p/w ataxia and weakness, potential ETOH withdrawal.
+ 
+#. ETOH withdrawal c/b metabolic encephalopathy
+#. Chronic transaminitis
+- concern for withdrawal based on hx of heavy drinking, recurrent falls
+- librium taper started at 10 TID, titrating down to 5 TID today
+- thiamine repletion, multivitamins
+- trend CMP/LFTs
+- pending abd US
+ 
+#. Chronic ETOH abuse c/b hepatic steatosis, c/b ataxia/weakness
+- ataxia/weakness of unclear etiology, B12, folate levels are WNL
+- PT cs, requires RW, also cannot be DC to community per recommendations
+- will await placement c- SW assistance
+ 
+RESOLVED
+ 
+#. Delirium
+ 
+Fluids: None
+Diet: Reg
+Lines and Catheters:  PIV
+VTE Prophylaxis: LMWH
+Family Contact:  Primary Emergency Contact: Dillo,Alfa, Home Phone: 678-886-8852
+Discharge Planning: Pending PT eval 
+ 
+Anish Shah
+Emory Team O
+PIC 67004
+Hospital Medicine Attending
+
+INTERNAL MEDICINE PROGRESS NOTE
+Service: Emory Medicine Team O
+Name: Patricia Ann Monds
+Hospital Day: 16
+
+SUBJECTIVE
+
+Doing well
+Pain well controlled
+Poor appetite
+
+Review of systems negative for constitutional, cardiac, upper or lower respiratory, gastrointestinal,  or neurological symptoms except as reflected as above
+
+Scheduled Meds:
+•	gabapentin	 400 mg	Oral	TID
+•	hydrocodone-acetaminophen	 2 tablet	Oral	Q4H
+•	mirtazapine	 7.5 mg	Oral	Nightly
+•	clopidogrel	 75 mg	Oral	Q24H
+•	rivaroxaban	 20 mg	Oral	Daily with dinner
+•	pantoprazole DR	 40 mg	Oral	every morning before breakfast
+•	bisacodyl	 10 mg	Rectal	Daily
+•	cholecalciferol	 1,000 Units	Oral	Daily
+•	sennosides	 17.2 mg	Oral	Nightly
+•	polyethylene glycol	 17 g	Oral	Daily
+•	melatonin	 3 mg	Oral	Nightly
+•	ferrous sulfate	 325 mg	Oral	Daily with breakfast
+•	normal saline	 10 mL	Intravenous	EVERY 8 HOURS
+•	atorvastatin	 10 mg	Oral	Daily
+
+
+OBJECTIVE
+
+BP 106/74  | Pulse 106  | Temp 37.3 °C (99.1 °F) (Oral)  | Resp 18  | Ht 1.753 m (5' 9")  | Wt 49.4 kg (109 lb)  | SpO2 100%  | BMI 16.10 kg/m² 
+GEN: NAD, AOx4
+CV: warm ext, tachy, regular
+PULM: easy WOB
+ABD: thin, almost scaphoid
+PSYCH: mood/affect congruent
+
+All labs, studies, and imaging was personally reviewed.
+No new labs 
+
+ASSESSMENT and PLAN
+
+Patricia Ann Monds is a 71 y.o. female h/o HTN, PAD (s/p L fem-pop bypass, R 5th toe amputation 4/2019), LLE DVT on xarelto (9/2019), mucinous CRC w/ mets to peritonium (dx 2016 s/p chemo and R hemicolectomy, on surveillance), Crohn's disease (1960s) p/w weakness and and abdominal pain, course complicated by worsening chronic leg ulcer pain and difficulty with ambulation.
+ 
+#LLE ulcer d/t PAD, poor left blood flow, and poor wound healing, c/b constipation, c/b significant pain
+#PAD s/p left fem-pop bypass now with stent (10/28), s/p right foot digit 5 amputation (04/2019)
+- aggressive wound care
+- Re-consulted PT for discharge planning. 
+- vascular surgery consulted, appreciate assistance
+-s/p L SFA and pop stent (10/28)
+ -S/p excisional debridement and graft placement of LLE (10/31) with wound vac placement
+ -Ok to discharge from their perspective
+- Dermatology consulted, concern for PG
+  -Bx not consisted with PG
+ -Negative cryoglobulin, normal protein C activity, normal cardiolipin Ab IgG, IgM, IgA, lupus anticoagulant positive but difficult to interpret while on xarelto and will need to be repeated in the future
+ -Kappa (free) elevated at 130.8, lambda elevated at 76.7, ratio elevated @ 1.71  
+ -Pending immunofixation
+ -Negative Hep B/HepC, RPR NR
+ 
+#. Acute on chronic pain of wound
+- switched to all PO regimen
+- gabapentin 600 tid, hydrocodone/APAP 10-325 q4h, morphine PO 15 q6h prn (for severe pain)... DC IV medicine
+
+#. Abdominal pain, N/V, now resolved history of Crohn's dx  (Stable)
+- supportive care w/ fluids, compazine prn for now
+- Tachycardia and leukocytosis, but no obvious source, patient started on empiric abx but discontinued  (ceftriaxone/flagyl 10/18)
+ 
+#. Sinus tachycardia likely 2/2 to pain and possible dehydration. No hypoxia (stable)
+- 2/2 dehydration; vs possible sepsis vs known LLE DVT 
+- remains on tele
+ 
+#. Metastatic mucinous colon adenocarcinoma (w/ peritoneal mets, dx 1/2016, s/p chemo, s/p HIPEC/R colectomy 8/2017)
+- dx 1/2016 (5 cm cecal mass), s/p chemo and currently undergoing surveillance imaging (last 3/2019 CT Chest at Emory neg, 10/2018 CT A/P w/o new metastatic lesions); details re- onc history per note 5/3/19 (Fels, A)
+- Consulted GI as above, s/p EGD and colonoscopy, signed off 
+- CT A/P as above
+- patient is followed by Emory surgical oncology, Dr. Russell
+ 
+#. Acute/anemia of chronic disease: 
+H/H 7.8 vs (b/l of ~10 in 9/2019) in the setting of ~2x weeks of xarelto;Suspect occult GI loss (likely lower) (multiple possible sources given hx of colon cancer, colectomy) in the setting of recent xarelto initiation
+--EGD and colon performed 10/21 with no overt source of bleed, did have ablation of an AVM in stomach
+--Recommending outpatient capsule study
+--HD stable, holding xarleto --> heparin gtt for procedure
+--CBC stable
+-- transfuse to goal Hgb >7
+-- iron studies: low iron, high ferritin, normal folate and B12 and MMA
+ 
+#LLE DVT (9/2019)
+--Continue Xarelto 
+ 
+#HTN
+- holding home anti-HTN for now
+ 
+#GERD
+- cont nexium
+ 
+RESOLVED
+ 
+#. Possible sepsis 
+#. Fall w/ head trauma - CT head negative
+#. Ruled out Pyoderma gangrenosum (PG)
+ 
+Code:  DNR/DNI
+Prophylaxis: xarelto 
+Lines: PIV
+Diet: REgular
+Disposition: pending PT eval for dispo planning, HH vs SAR
+
+Anish Shah
+Emory Team O
+PIC 67004
+Hospital Medicine Attending
+
+INTERNAL MEDICINE PROGRESS NOTE
+Service: Emory Medicine Team O
+Name: Jerry Franklin Beckwith
+Hospital Day: 1
+ 
+SUBJECTIVE
+ 
+Patient in pain but overall doing well
+Describes that he had 1 beer before getting on his skate board
+ 
+Review of systems negative for constitutional, cardiac, upper or lower respiratory, gastrointestinal,  or neurological symptoms except as reflected as above
+ 
+Scheduled Meds:
+•	sennosides	 17.2 mg	Oral	Nightly
+•	polyethylene glycol	 17 g	Oral	Daily
+•	calcium carb-Vit. D	 1 tablet	Oral	Daily
+•	amLODIPine	 10 mg	Oral	Daily
+•	aspirin EC	 81 mg	Oral	Daily
+•	atorvastatin	 20 mg	Oral	Daily
+•	folic acid	 1 mg	Oral	Daily
+•	lisinopril	 40 mg	Oral	Daily
+•	thiamine	 100 mg	Oral	Daily
+•	melatonin	 3 mg	Oral	Nightly
+•	cholecalciferol	 50,000 Units	Oral	Q7 Days
+ 
+ 
+OBJECTIVE
+ 
+BP 110/66  | Pulse 77  | Temp 36.6 °C (97.9 °F) (Oral)  | Resp 18  | Ht 1.651 m (5' 5")  | Wt (!) 107.5 kg (237 lb)  | SpO2 99%  | BMI 39.44 kg/m² 
+GEN: NAD, AOx4
+CV: warm ext, NRRR
+PULM: easy work of breathing, except with movement of left arm/shoulder (has additional pain)
+ABD: soft, obese
+PSYCH: mood/affect congruent
+ 
+All labs, studies, and imaging was personally reviewed.
+Cr 1.1, Hb 14, Vitamind D <20
+ 
+ASSESSMENT and PLAN
+ 
+Jerry Franklin Beckwith is a 65 y.o. male h/o ETOH abuse, prior withdrawal p/w rib fx on left side after fall.
+ 
+#. ETOH abuse
+- no sx of active withdrawal
+- BZD prn
+ 
+#. Left rib fx (3-5) d/t skateboard fall
+- pain meds PRN
+ 
+#. HTN - sig CCB
+#. H/o HLD
+#. LUQ cystic lesion - stable, OP MRI
+ 
+RESOLVED
+ 
+#. Hemoptysis - CT PE negative, resolved
+ 
+Code:  Full
+Prophylaxis: LMWH
+Lines: PIV
+Diet: Regular
+Disposition: Pending SAR placement
+ 
+Anish Shah
+Emory Team O
+PIC 67004
+Hospital Medicine Attending
+
+INTERNAL MEDICINE PROGRESS NOTE
+Service: Emory Medicine Team O
+Name: Michael A Sasfras
+Hospital Day: 1
+
+SUBJECTIVE
+
+Still has pain with wound changes
+Notes pain has worsened over last 2 weeks, but initially has been hurting for months
+
+Review of systems negative for constitutional, cardiac, upper or lower respiratory, gastrointestinal,  or neurological symptoms except as reflected as above
+
+Scheduled Meds:
+•	capsaicin	 	Topical	BID
+•	citalopram	 20 mg	Oral	Daily
+•	hydrochlorothiazide	 25 mg	Oral	Daily
+•	polyethylene glycol	 17 g	Oral	Daily
+•	sennosides	 17.2 mg	Oral	Nightly
+•	simvastatin	 40 mg	Oral	Daily
+•	sodium hypochlorite (1/4 strength)	 	Topical	BID
+•	Enoxaprin SC inj for VTE Prophylaxis (HIGH risk for VTE)	 40 mg	Subcutaneous	Q24H
+•	insulin lispro	 0-8 Units	Subcutaneous	TID w/meals
+	And
+•	insulin lispro	 0-4 Units	Subcutaneous	Nightly
+•	insulin detemir	 10 Units	Subcutaneous	Nightly
+•	ibuprofen	 800 mg	Oral	TID
+
+
+OBJECTIVE
+
+BP 152/80  | Pulse 62  | Temp 36.6 °C (97.9 °F) (Oral)  | Resp 18  | SpO2 99% 
+GEN: obese gentleman, NAD
+CV: warm ext, NRRR
+PULM: easy WOB
+ABD: soft, obese
+PSYCH: mood/affect congruent
+Ext: left foot has mild tenderness along lateral aspect, has necrotic lesion on lateral aspect, malaodrous, non-expressable
+
+All labs, studies, and imaging was personally reviewed.
+Cr 1.1, INR 1.2, Hb 10
+
+ASSESSMENT and PLAN
+
+Michael A Sasfras is a 50 y.o. male h/o NIDDM, HTN, MDD, prior right toe amputations, p/w left foot lesions c/f DFU.
+
+#. DFU of left lateral foot 
+- pt has no sx of sepsis or systemic infection, and wound is shallow
+- vascular surgery cs: signed off c- recommendations to f/u c- ortho
+- ortho: appreciate consult, will review recommendations
+- MRI of left foot, inflammatory markers pending
+- no abx indicated yet
+
+#. Microcytic anemia
+- iron w/u pending, likely IDA, could be AoCD
+
+#. HTN
+- sig home regimen
+
+#. NIDDM c/b neuropathy
+- POCT/SSI, sig gabapentin
+- A1c pending
+
+RESOLVED
+
+Code:  Full
+Prophylaxis: LMWH
+Lines: PIV
+Diet: Diabetic
+Disposition: Pending w/u of DFU
+
+Anish Shah
+Emory Team O
+PIC 67004
+Hospital Medicine Attending
+
+INTERNAL MEDICINE PROGRESS NOTE
+Service: Emory Medicine Team O
+Name: Sophia Leigh Ann Brauer
+Hospital Day: 6
+
+SUBJECTIVE
+
+Patient quite itchy and complains of dry skin
+Also of nausea, poor appetite
+Notes that she has her own apartment, and not sure if anyone else is sick
+
+Review of systems negative for constitutional, cardiac, upper or lower respiratory, gastrointestinal,  or neurological symptoms except as reflected as above
+
+Scheduled Meds:
+•	zinc sulfate	 220 mg	Oral	TID
+•	chlordiazePOXIDE	 25 mg	Oral	BID
+•	sulfamethoxazole-trimethoprim	 2 tablet	Oral	Q12H SCH
+•	thiamine	 100 mg	Oral	Daily
+•	Zinc Oxide	 454 g	Topical	BID
+•	nystatin	 	Topical	BID
+•	gabapentin	 800 mg	Oral	TID
+•	hydrocortisone	 	Topical	BID
+•	hydrOXYzine HCl	 25 mg	Oral	4x Daily
+•	multivitamin	 1 tablet	Oral	Daily
+•	prazosin	 1 mg	Oral	Nightly
+•	Enoxaprin SC inj for VTE Prophylaxis (HIGH risk for VTE)	 40 mg	Subcutaneous	Q24H
+•	normal saline	 10 mL	Intravenous	EVERY 8 HOURS
+
+
+OBJECTIVE
+
+BP 118/83  | Pulse 124  | Temp 37.9 °C (100.2 °F) (Oral)  | Resp 20  | Ht 1.702 m (5' 7")  | Wt 60.3 kg (133 lb) Comment: per the pt. | LMP  (Within Weeks)  | SpO2 95%  | Breastfeeding? No  | BMI 20.83 kg/m² 
+GEN: laying in bed, not delirious, NAD
+CV: warm ext, tachy, almost febrile to touch
+PULM: easy WOB, normal respirations
+ABD: large/obese, lower body covered in erythematous plaques particularly in pelvic area and buttocks
+PSYCH: anxious, distracted
+Neuro: not tremulous, right foot s/p amputation
+
+All labs, studies, and imaging was personally reviewed.
+Cr 0.6
+Alb 1.7
+INR 1.2
+
+ASSESSMENT and PLAN
+
+Sophia Leigh Ann Brauer is a 42 y.o. female h/o ETOH abuse and DT, dermatitis and multiple vitamin deficiencies, p/w ETOH withdrawal. 
+
+#. ETOH withdrawal, mild
+- last drink 10/27 AM
+- librium taper, BZD prn
+
+#. Persistent sinus tachycardia
+- multifactorial with volume depletion and anxiety. No evidence of structural heart disease or system infection
+- echo pending, tolerating BB
+- will see if after fever curve resolves and potential infection, may not need BB
+
+#. Zinc deficiency c- dermatitis
+#. Scabies infestation c/b potential superinfection e.g. Impetigo
+- conitnue folate, thiamine
+- increase Zinc to treatment doses for zinc deficiency
+- continue home hydroxyzine and gabapentin
+- nystatin powder for under breast folds
+- cont bactrim
+- zinc "buttpaste" to genital area
+- isolation 
+- pain medication
+ 
+#. PTSD
+- continue home prazosin
+ 
+#. Debility - d/t alcoholism, prolonged hospitalization and amputee
+- PT consult. Pt uses wheelchair. No prosthetic
+ 
+RESOLVED
+
+#. Atypical chestpain - troponin / ECG negative
+#. Prerenal AKI
+
+Full code
+Diet: regular
+Lines: PIV
+DVT ppx: LMWH
+
+Anish Shah
+Emory Team O
+PIC 67004
+Hospital Medicine Attending
+
+INTERNAL MEDICINE HISTORY AND PHYSICAL
+Service: Emory Medicine Team O
+Attending: Anish Shah, MD
+Name: Charles Brown
+MRN: 15511813
+Chief Complaint: chest pain
+ 
+History of present illness
+Charles Brown is a 76 y.o. male with many comorbid conditions, including (N)ICM (EF 40%), HTN, cocaine abuse, dysrhythmia s/p PPM, PAD s/p bypass (on right leg). He p/w leg and chest pain, both of which are chronic > 2 weeks. The leg pain was initially c/f limb ischemia in setting of his PAD. Also had non-exertional, movement based chest pain at the site of his PPM (placed ~ 6  Years ago per pt). He states he has come to the ER to have his "leg chopped open", and he wants his PPM fixed. 
+ 
+Past medical history
+Past Medical History
+		
+Past Medical History:
+Diagnosis	Date
+•	Diabetes type 2, controlled (HCC)	4/30/2016
+•	Diabetes type 2, uncontrolled (HCC)	4/30/2016
+•	Hernia of unspecified site of abdominal cavity without mention of obstruction or gangrene	2000
+•	Hypertension	 
+•	Pacemaker	 
+ 	unknown much more about placement x 7 months ago
+
+ 
+ 
+Past surgical history
+Past Surgical History
+			
+Past Surgical History:
+Procedure	Laterality	Date
+•	PR EXPLORE SCROTUM	Left	11/16/2016
+ 	Procedure: SCROTAL EXPLORATION;  Surgeon: Hartsell, Lindsey M., MD;  Location: GHS MAIN OR;  Service: GU
+•	PR VEIN BYPASS GRAFT,FEM-TIBIAL	Left	4/17/2015
+ 	Procedure: BYPASS GRAFT; FEMORAL-ANTERIOR TIBIAL, POSTERIOR TIBIAL, PERONEAL ARTERY OR OTHER DISTAL VESSELS;  Surgeon: Shafii, Susan M., MD;  Location: GHS MAIN OR;  Service: Vascular
+
+ 
+ 
+Family history
+Pt unable to recall
+ 
+Social history
+Regular cocaine use
+Regular smoking use
+Lives in unstalbe conditions with "ex girlfriends"
+ 
+Medications
+No current facility-administered medications on file prior to encounter. 
+ 
+				
+Current Outpatient Medications on File Prior to Encounter
+Medication	Sig	Dispense	Refill
+•	carvedilol (COREG) 6.25 mg tablet	Take 1 tablet (6.25 mg total) by mouth 2 times every day with meals.	180 tablet	3
+•	isosorbide mononitrate CR (IMDUR) 30 mg CR tablet	Take 1 tablet (30 mg total) by mouth every day.	90 tablet	3
+•	esomeprazole (NEXIUM) 40 mg capsule	Take 1 capsule (40 mg total) by mouth every morning before breakfast.	30 capsule	0
+However, patient says he was also on a blood thinner, but hasn't taken any medicine in months/years.
+ 
+Allergies
+No Known Allergies
+ 
+Review of systems
+As reflected in the HPI, otherwise negative for constitutional, cardiovascular, upper and lower respiratory, gastrointestinal, urinary, reproductive, musculoskeletal, neurological, or skin symptoms.
+ 
+Physical Exam
+BP 165/80  | Pulse 77  | Temp 36.2 °C (97.2 °F) (Oral)  | Resp 17  | Ht 1.854 m (6' 1")  | Wt 76.7 kg (169 lb)  | SpO2 98%  | BMI 22.30 kg/m² 
+ 
+General: laying ni bed at 20 degree angle, NAD, sleeping
+Head and neck: poor dentition, no scleral icterus, temporal wasting
+Cardiovascular: warm ext x 4, +1 DP on right, +2 dp on left, +2 radial bl, irregular pulsation compared to telemetery (having both paced and occasional sinus beats), reproducible pain to ppm site
+Pulmonary: no respiratory distress
+Abdominal: soft, thin
+Neurological: no focal 
+Psychiatric: a bit hostile at times, labile in emotions
+Musculoskeletal: no gross deficits, LE bilaterally are non-edematous, minimal hair growth, changes c/w poor circulation
+Dermatological: no open rashes or lesions
+Pelvic: bed sheets covered in urine
+ 
+All labs, imaging, and studies were personally reviewed.
+ 
+Significant labs 
+Tn 0.05 (similar to baseline)
+BNP 405
+PLT 90 (similar to baseline)
+ 
+Studies
+TTE c- EF of 40%, chronic/unchanged
+ 
+ASSESSMENT and PLAN
+ 
+Charles Brown is a 76 y.o. male with many comorbid conditions, including (N)ICM (EF 40%), HTN, cocaine abuse, dysrhythmia s/p PPM, PAD s/p bypass (on right leg). P/w reproducible pain in his PPM pocket site, and chronic pain of his right leg. 
+ 
+#. Pain at pacemaker site
+- only finding of concern is reproducible pain
+- no sx of sytemic infection, no overlying rubor/calor/tumor
+- will schedule APAP and see results of CT dissection protocol (looking for SST swelling/edema)
+- likely DC tomorrow
+ 
+#. Cocaine abuse
+- recent use yesterday
+- likely with some washout, may also explain chronic trop leak
+ 
+#. Right leg pain d/t PAD s/p left sided bypass
+- vascular surgery: pulses present, no acute interventions
+- likely chronic PAD/claudication, OP f/u for potential interventions
+ 
+#. HFrEF (40%)
+- was diuresed in ER, is warm and dry on exam
+- stable currently
+ 
+Code: Full
+Lines: PIV
+Prophylaxis: LMWH
+Diet: Cardiac
+Contact: unknown, patients phone is "dead"
+Disposition: DC tomorrow
+ 
+Anish Shah
+Emory Team O
+PIC 67004
+Hospital Medicine Attending
+
+

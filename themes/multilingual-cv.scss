@@ -1,0 +1,75 @@
+/*-- scss:defaults --*/
+
+$accent: #ffb954;
+
+/* General styling */
+
+.cvdate {
+  float: right;
+  font-style: italic;
+
+}
+
+.print-only {
+  display: none;
+  /*color: aquamarine;*/
+}
+
+html {
+  font-family: 'Arial', sans-serif;
+}
+
+header h1.title {
+  display: none;
+}
+
+/* Styling the author section */
+header .quarto-title-meta {
+  display: none;
+}
+
+h1 {
+  font-size: x-large;
+  text-align: center;
+  margin-bottom: 0;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-size: large;
+  text-transform: uppercase;
+  /* color: blueviolet; */
+}
+
+h3 {
+  font-size: medium;
+  text-transform: capitalize;
+  /* color: green; */
+}
+
+p {
+  font-size: small;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0em;
+}
+
+ol li, ul li{
+  font-size: smaller;
+}
+
+a {
+  text-decoration: none;
+  font-weight: 500;
+  color: $accent;
+}
+
+/* adapt stylesheet for print
+from: https://github.com/quarto-dev/quarto-cli/discussions/2538#discussioncomment-4081842 */
+
+/* for page-breaks use style spans
+  page-break-before: always;
+  page-break-after: always;
+*/

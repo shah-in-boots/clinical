@@ -1,0 +1,150 @@
+---
+title: Cath Conference
+subtitle: UIC Cardiac Catheterization Lab
+date: January 24, 2023
+author: Anish S. Shah, MD, MS
+institute: Division of Cardiology, University of Illinois at Chicago 
+date-format: long
+engine: knitr
+format:
+  revealjs:
+    transition: fade
+    transition-speed: fast
+    slide-number: true
+    incremental: false
+revealjs-plugins:
+  - attribution
+---
+
+# Case 1
+
+## J4147
+
+- Gentleman in his late 50s
+- ESRD on HD c- LUE-AVF
+- Stable/progressive angina
+- Cath on 01/10/23, then again on 01/20/23 and 01/23/23
+
+# Echocardiogram
+
+## {background-image='j4174-plax.gif' background-size='contain'}
+
+## {background-image='j4174-psax.gif' background-size='contain'}
+
+## {background-image='j4174-a2c.gif' background-size='contain'}
+
+## {background-image='j4174-a4c.gif' background-size='contain'}
+
+# Diagnostic coronary angiography
+
+## {background-image='j4147-dx-lca-lao-caud.gif' background-size='contain'}
+
+## {background-image='j4147-dx-lca-lao-cran.gif' background-size='contain'}
+
+## {background-image='j4147-dx-lca-rao-caud.gif' background-size='contain'}
+
+## {background-image='j4147-dx-lca-rao-cran.gif' background-size='contain'}
+
+## {background-image='j4147-dx-lca-straight-caud.gif' background-size='contain'}
+
+## {background-image='j4147-dx-rca-1.gif' background-size='contain'}
+
+## {background-image='j4147-dx-rca-2.gif' background-size='contain'}
+
+# LAD intervention
+
+## {background-image='j4147-pci-lad-straight-caud.gif' background-size='contain'}
+
+## {background-image='j4147-pci-lad-straight-cran.gif' background-size='contain'}
+
+## {background-image='j4147-pci-lad-bmw.gif' background-size='contain'}
+
+::: aside
+[Microcatheter (corsair) brought over BMW. Exchanged for Viper for CSI. 9 passes at 80k]{.orange}
+:::
+
+## {background-image='j4147-pci-lad-balloon-1.gif' background-size='contain'}
+
+## {background-image='j4147-pci-lad-balloon-2.gif' background-size='contain'}
+
+::: aside
+[IVUS couldn't cross lesion. Attempted NC to pre-dilate but poor expansion]{.orange}
+:::
+
+## {background-image='j4147-pci-lad-contrast-shot-after-plasty.gif' background-size='contain'}
+
+::: aside
+[Balloon rupture, no vascular damage]{.orange}
+:::
+
+## {background-image='j4147-pci-lad-csi.gif' background-size='contain'}
+
+::: aside
+[IVUS run, images wouldn't export]{.orange}
+:::
+
+## {background-image='j4147-pci-lad-shockwave-1.gif' background-size='contain'}
+
+::: aside
+[Guideliner used to support Shockwave. Circumferential Ca++]{.orange}
+:::
+
+## {background-image='j4147-pci-lad-shockwave-2.gif' background-size='contain'}
+
+## {background-image='j4147-pci-lad-long-stent.gif' background-size='contain'}
+
+## {background-image='j4147-pci-lad-des-expanded.gif' background-size='contain'}
+
+## {background-image='j4147-pci-lad-post-dil.gif' background-size='contain'}
+
+## {background-image='j4147-pci-lad-prox-des.gif' background-size='contain'}
+
+## {background-image='j4147-pci-lad-prox-stent-boost.gif' background-size='contain'}
+
+## {background-image='j4147-pci-lad-post-1.gif' background-size='contain'}
+
+## {background-image='j4147-pci-lad-post-2.gif' background-size='contain'}
+
+# RCA intervention
+
+## {background-image='j4174-pci-rca-dx-shot.gif' background-size='contain'}
+
+## {background-image='j4174-pci-rca-dx-shot-2.gif' background-size='contain'}
+
+## {background-image='j4174-pci-rca-wiring.gif' background-size='contain'}
+
+## {background-image='j4174-pci-rca-distal-balloon-1.gif' background-size='contain'}
+
+## {background-image='j4174-pci-rca-distal-balloon-3.gif' background-size='contain'}
+
+## {background-image='j4174-pci-rca-contrast-after-first-balloons.gif' background-size='contain'}
+
+## {background-image='j4174-pci-rca-distal-des-cannot-cross.gif' background-size='contain'}
+
+## {background-image='j4174-pci-rca-distal-des-cannot-cross-2.gif' background-size='contain'}
+
+## {background-image='j4174-pci-rca-distal-des-deployed.gif' background-size='contain'}
+
+## {background-image='j4174-pci-rca-distal-des-placement.gif' background-size='contain'}
+
+## {background-image='j4174-pci-rca-balloon-on-way-back-up.gif' background-size='contain'}
+
+## {background-image='j4174-pci-rca-prox-balloon-1.gif' background-size='contain'}
+
+## {background-image='j4174-pci-rca-prox-ballooning-again.gif' background-size='contain'}
+
+## {background-image='j4174-pci-rca-prox-contrast-post-balloon.gif' background-size='contain'}
+
+## {background-image='j4174-pci-rca-prox-des-placement.gif' background-size='contain'}
+
+## {background-image='j4174-pci-rca-prox-des-deployed.gif' background-size='contain'}
+
+## {background-image='j4174-pci-rca-prox-with-guideliner.gif' background-size='contain'}
+
+## {background-image='j4174-pci-rca-prox-des-third.gif' background-size='contain'}
+
+## {background-image='j4174-pci-rca-post-1.gif' background-size='contain'}
+
+## {background-image='j4174-pci-rca-post-2.gif' background-size='contain'}
+
+# End

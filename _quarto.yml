@@ -1,0 +1,51 @@
+project:
+  type: website
+  output-dir: .
+  render:
+    - "*.qmd"
+    - "!*.Rmd"
+
+website:
+  title: "Clinical"
+  navbar:
+    background: primary
+    left:
+      - icon: house-door
+        href: https://shah-in-boots.github.io
+      - text: Procedure Log
+        icon: journal-medical
+        href: https://shah-in-boots.github.io/clinical/log.html
+    right:
+      - text: github
+        icon: github
+        href: http://github.com/shah-in-boots/clinical
+  page-navigation: true
+  page-footer: "Copyright (c) 2024, Anish. S. Shah, MD, MS"
+
+format:
+  html:
+    theme:
+      - flatly
+      - colors.scss
+    highlight: solarized-light
+    toc: true
+    toc_float: true
+  revealjs:
+    theme:
+      - simple
+      - colors.scss
+      - revealjs-format.scss
+    slide-tone: false
+    fig-cap-location: bottom
+    fig-align: center
+    fig-responsive: true
+
+
+bibliography:
+  - ../bibliography/publications.bib
+  - ../bibliography/cardiology.bib
+  - ../bibliography/arrhythmia.bib
+  - ../bibliography/computational.bib
+  - ../bibliography/epidemiology.bib
+
+csl: jacc.csl

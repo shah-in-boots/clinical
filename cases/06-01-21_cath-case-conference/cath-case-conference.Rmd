@@ -1,0 +1,216 @@
+---
+title: "Cath Conference"
+subtitle: "UIC Cardiac Catheterization Lab"
+date: "June 1, 2021"
+author: "Anish Sanjay Shah, MD<br><span style = 'font-size: 70%;'>Cardiology Fellow<br>University of Illinois at Chicago</span>"
+output:
+  xaringan::moon_reader:
+    css: xaringan-themer.css
+    self_contained: false
+    nature:
+      titleSlideClass: [center, middle, inverse]
+      highlightLines: true
+---
+
+```{r setup, echo = FALSE, include = FALSE}
+library(tidyverse)
+
+print.tbl_df <- function(x, ...) {
+	print.data.frame(x, right = FALSE, ...)
+	invisible(x)
+}
+
+# Options
+options(digits = 0)
+```
+
+```{r themer, echo=FALSE, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_duo_accent(primary_color = "#091F40", secondary_color = "#AC1E2D")
+```
+
+class: center, middle, inverse
+# Case 1
+
+36M h/o seizure d/o on carbamazepine  
+p/w seizure activity and then lost pulse   
+Code: PVT followed by VF, with 12 rounds of CPR and defibrillation x3  
+Labs: Tn peaked at 34
+
+---
+background-image: url("SS-rao-caud.gif")
+background-size: contain
+
+---
+background-image: url("SS-rao-cran.gif")
+background-size: contain
+
+---
+background-image: url("SS-rca.gif")
+background-size: contain
+
+---
+background-image: url("SS-lad-myocardial-bridging.gif")
+background-size: contain
+
+---
+.pull-left[
+### Access
+Left radial 6F  
+5F Jacky Radial
+5F JL-4
+
+### Interventions
+None
+]
+
+.pull-right[
+### Outcomes
+No obstructive CAD  
+Can myocardial bridging lead to PVT/VF?
+Is there a channelopathy that causes both seizures and VF?
+]
+
+---
+class: center, middle, inverse
+# Case 2
+
+68F h/o pancreatic CA on CTX  
+p/w typical cardiac chest pain  
+ECG = anterior STEMI pattern  
+TTE = bedside shows apical and anterolateral wall hypokinesis  
+
+---
+background-image: url("AH-stemi-ecg.png")
+background-size: contain
+
+---
+background-image: url("AH-lad-stump-rao-caud.gif")
+background-size: contain
+
+---
+background-image: url("AH-lad-rao-cran.gif")
+background-size: contain
+
+---
+background-image: url("AH-rca.gif")
+background-size: contain
+
+---
+background-image: url("AH-lad-wire-no-flow.gif")
+background-size: contain
+
+---
+background-image: url("AH-first-balloon.gif")
+background-size: contain
+
+---
+background-image: url("AH-second-wire-no-flow.gif")
+background-size: contain
+
+---
+background-image: url("AH-first-flow.gif")
+background-size: contain
+
+---
+background-image: url("AH-stent-placed.gif")
+background-size: contain
+
+---
+background-image: url("AH-timi-3.gif")
+background-size: contain
+
+---
+.pull-left[
+### Access
+Right radial 6F  
+5F Jacky Radial
+6F XB 3.5 Guide
+
+### Interventions
+Wire escalation from BMW to Pilot  
+Sequential angioplasty of lesion (initial 2.0 balloon)  
+Resolute Onyx 3.0 x 18 mm with TIMI-3 flow return  
+]
+
+.pull-right[
+### Outcomes
+Single culprit lesion of proximal LAD
+Peak troponin after of ~410  
+Cangrelor/ticagrelor for initial post-PCI AP agents
+]
+
+---
+class: center, middle, inverse
+# Case 3
+
+79M h/o HTN, DM, no prior CAD  
+p/w substernal pressure and nausea/vomiting x 10 hours  
+ECG = RBBB pattern with lateral STEMI    
+
+---
+background-image: url("NP-stemi-ecg.png")
+background-size: contain
+
+---
+background-image: url("NP-left-lao-caud.gif")
+background-size: contain
+
+---
+background-image: url("NP-left-lao-cran.gif")
+background-size: contain
+
+---
+background-image: url("NP-lad-stump-rao-caud.gif")
+background-size: contain
+
+---
+background-image: url("NP-right-first.gif")
+background-size: contain
+
+---
+background-image: url("NP-wiring-reflow.gif")
+background-size: contain
+
+---
+background-image: url("NP-stent-positioning.gif")
+background-size: contain
+
+---
+background-image: url("NP-stent-deployed.gif")
+background-size: contain
+
+---
+background-image: url("NP-stent-apposition.gif")
+background-size: contain
+
+---
+background-image: url("NP-post-dil.gif")
+background-size: contain
+
+---
+background-image: url("NP-final-shot.gif")
+background-size: contain
+
+---
+.pull-left[
+### Access
+Right radial 6F  
+5F Jacky Radial
+6F XB 3.5 Guide
+
+### Interventions
+BMW to cross lesion  
+Angioplasty with 2.5 x 12 mm 
+Synergy 2.75 x 32 mm between D1 and D2  
+Post-dilation with 2.75 x 15 mm
+]
+
+.pull-right[
+### Outcomes
+Multi-vessel disease (RCA, distal LAD)
+Peak troponin after > 440  
+Cangrelor/ticagrelor for initial post-PCI AP agents
+Staged PCI of right-side  
+Not surgical candidate d/t anatomy/targets  
+]

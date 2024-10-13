@@ -1,0 +1,633 @@
+---
+title: "Typical AVNRT"
+subtitle: Clinical Electrophysiology Conference
+author: Anish S. Shah, MD, MS
+institute: Division of Cardiology, University of Illinois at Chicago 
+date: December 08, 2022
+date-format: long
+engine: knitr
+format:
+  revealjs:
+    transition: fade
+    transition-speed: fast
+    slide-number: true
+    incremental: false
+revealjs-plugins:
+  - attribution
+jupyter: python3
+---
+
+```{r}
+#| label: setup
+#| echo: false
+library(tidyverse)
+library(coraline)
+library(rhythm)
+library(gganimate)
+library(sf)
+library(scales)
+library(ggsci)
+
+blue <- pal_material("blue", reverse = TRUE)(9)
+orange <- pal_material("yellow", reverse = TRUE)(9)
+red <- pal_material("pink", reverse = TRUE)(9)
+green <- pal_material("teal", reverse = TRUE)(9)
+grey <- pal_material("blue-grey", reverse = TRUE)(9)
+
+find_project_folder <- function() {
+	x <- sessionInfo()$running
+	if (grepl("mac", x)) {
+		file.path("/Users", "asshah4", "projects")
+	} else if (grepl("Windows", x)) {
+		file.path("C:/Users", "asshah4", "projects")
+	}
+}
+
+loc <- file.path(find_project_folder(), "clinical", "lectures", "avnrt-series")
+```
+
+## Objectives
+
+1. Understand the concepts of dual node physiology
+1. Know the requirements for [typical AVNRT]{.orange}
+1. Evaluate the response of [standard EP maneuvers]{.green} in [typical AVNRT]{.orange}
+
+## {.smaller}
+
+| Abbr. | Abbreviation |
+|:--- |:---- |
+| DAD | delayed after-depolarization |
+| EAD | early after-depolarization | 
+| APD | atrial premature depolarization | 
+| VPD | ventricular premature depolarization | 
+| RAAS | retrograde atrial activation sequence |
+
+# Typical AVNRT
+
+## {background-image="resources/josephsen-avnrt-schematic.png" background-size="contain"}
+
+---
+
+```{r}
+#| label: normal with pathways
+#| cache: true
+
+# SF objects
+chambers <- coraline::cardiac_atlas$right_atrium_rao$chambers
+vessels <- coraline::cardiac_atlas$right_atrium_rao$vessels
+projections <- coraline::cardiac_atlas$right_atrium_rao$projections
+valves <- coraline::cardiac_atlas$right_atrium_rao$valves
+septum <- coraline::cardiac_atlas$right_atrium_rao$septum
+conduction <- coraline::cardiac_atlas$right_atrium_rao$conduction
+reference <- coraline::cardiac_atlas$right_atrium_rao$reference
+pathways <- coraline::cardiac_atlas$right_atrium_rao$pathways
+
+# Basic figure
+ra <- 
+	st_union(chambers, projections, by_feature = TRUE) |>
+	st_union(vessels, by_feature = TRUE) |>
+	st_union(septum, by_feature = TRUE) |>
+	st_union(valves, by_feature = TRUE) |>
+	{\(.x) .x["geometry"]}() |>
+	unique()
+
+ra_grey <-
+	ggplot(ra) +
+	geom_sf(fill = grey[9], alpha = 0.1) +
+	theme_void()
+
+ra_grey +
+	geom_sf(data = chambers, fill = red[5], alpha = 0.1) +
+	geom_sf(data = septum, fill = red[5], alpha = 0.1) +
+	geom_sf(data = vessels, fill = blue[5], alpha = 0.1) +
+	geom_sf(data = projections, fill = red[2], alpha = 0.1) +
+	geom_sf(data = valves, fill = grey[9], alpha = 0.1) +
+	geom_sf(data = conduction, fill = orange[1], alpha = 0.3) +
+	geom_sf(data = pathways, fill = "white", color = NA, alpha = 0.8) +
+	geom_sf_label(data = filter(pathways, type == "pathway"), aes(label = label), nudge_y = 1)
+```
+
+---
+
+```{r}
+#| label: animated AVNRT
+#| cache: true
+avnrt <-
+	ra_grey +
+	geom_sf(data = pathways, fill = "white", color = NA_character_) +
+	geom_sf(
+		data = filter(pathways,
+									structure == "slow" & component == "middle"),
+		fill = orange[3]
+	) +
+	geom_sf(
+		data = filter(
+			pathways,
+			(structure == "slow" & component == "distal") |
+				(structure == "bridge" & component == "distal")
+			),
+		fill = orange[3]
+	) +
+	geom_sf(
+		data = filter(pathways, structure == "lower_common"), 
+		fill = orange[3]
+	) +
+	geom_sf(
+		data = filter(pathways,
+									structure == "fast" & component == "distal"),
+		fill = red[2]
+	) +
+	geom_sf(
+		data = filter(pathways,
+									structure == "fast" & component == "middle"),
+		fill = red[2]
+	) +
+	geom_sf(
+		data = filter(
+			pathways,
+			(structure == "fast" & component == "proximal") |
+				(structure == "bridge" & component == "proximal")
+			),
+		fill = red[2]
+	) +
+	geom_sf(
+		data = filter(
+			pathways,
+			(structure == "upper_common" & component == "distal") |
+				(structure == "upper_common" & component == "upper_fast")
+			),
+		fill = red[2]
+	) +
+	geom_sf(
+		data = filter(pathways,
+									structure == "upper_common" & component == "upper_slow"),
+		fill = orange[2]
+	) +
+	geom_sf(
+		data = filter(
+			pathways, 
+			(structure == "atrial_extension") |
+				(structure == "slow" & component == "proximal")
+		),
+		fill = c(red[2], orange[3], rep(red[2], 4))
+	) 
+
+avnrt +
+	transition_layers(
+		keep_layers = c(Inf, Inf, rep(1, 9)),
+		layer_length = 1,
+		from_blank = FALSE
+	) +
+	enter_fade() +
+	exit_fade(alpha = 0)
+```
+
+## Evaluation
+
+1. Mode of initiation of tachycardia
+1. Atrial activation sequence during tachycardia
+1. Influence of bundle branch block on conduction and cycle length during tachycardia
+1. Requirement of atria/ventricle for initiation and maintenance of tachcyardia
+1. Effect of atrial/ventricular stimulation during tachycardia
+1. Effect of drugs or physiological maneuvers on tachycardia
+
+## Criteria for typical AVNRT {.smaller}
+
+- Initiation and termination by APD/VPD during AV nodal Wenckebach cycles
+- Dual AV nodal physiology (differential refractory curves during APD)
+- Initiation dependent on critical AH interval during slow pathway conduction
+- Retrograde atrial activation with variable VA activation in Triangle of Koch
+- Initiated, terminated, or reset without atrial activation
+
+::: aside
+[Slow-fast AVNRT has atrial activation close to QRS complex, such that AH/HA > 1]{.grey}
+:::
+
+## {background-image="tmf_data/ecg-case-nsr.png" background-size="contain"}
+
+## {background-image="tmf_data/ecg-case-svt-new.png" background-size="contain"}
+
+---
+
+::: {.columns}
+
+::: {.column width="50%"}
+__Sinus Rhythm__
+
+- Normal P and R axis
+- RR = 900
+- PP = 900
+- QRS = 80
+- P = 120
+- PR = 160
+- QT = 440
+
+:::
+
+::: {.column width="50%"}
+__Tachycardia__
+
+- Suspected retro-grade P 
+- RR = 350
+- QRS = 70
+- PR = 300  
+
+::: {.fragment .highlight-red}
+- RP = 40
+:::
+
+:::
+
+:::
+
+## Differential... {.smaller}
+
+- Typical AVNRT
+- Orthodromic AVRT
+- Atypical AVNRT
+- Atrial tachycardia _always a possibility_
+- [Non-reentrant junctional tachycardia (junctional ectopic tachycardia)]{.grey}
+- [Non-paroyxsmal junctional tachycardia (d/t digitalis-induced DADs)]{.grey}
+- [Dual AV nodal tachycardia (repetitive retrograde concealment or "linking" phenomenon)]{.grey}
+
+# Electrophysiology Study
+
+## Case setup {.smaller}
+
+::: {.columns}
+::: {.column width="50%"}
+Access: RCFV x 3
+
+Catheters: 
+
+- CS: decapolar catheter
+- His: quadrapolar catheter
+- RV: quadrapolar catheter
+- Ablation: STSF 4 mm
+
+Closure: collagen-plug x 3
+:::
+
+::: {.column width="50%"}
+Study plan:
+
+1. Baseline EP study
+1. RA and RV pacing maneuvers (including decremental pacing)
+1. His-refractory PVC
+1. Induction of tachycardia
+1. Entrainment
+1. 3D anatomical mapping (CART) with His cloud
+1. Ablation
+1. Post-ablation testing
+:::
+:::
+
+# Baseline
+
+```{r}
+#| label: LS pro data
+#| include: false
+nsr <- read_lspro(file.path(loc, "tmf_data/lsp-nsr-surface.txt")) 
+tach_start <- 
+	read_lspro(file.path(loc, "tmf_data/lsp-tach-initiation.txt")) 
+cs_s1_640_dec <-
+	read_lspro(file.path(loc, "tmf_data/lsp-cs-pace-decremental-640ms.txt")) 
+cs_s1_400_jump <-
+	read_lspro(file.path(loc, "tmf_data/lsp-cs-pace-decremental-400ms-jump.txt"))
+abl_avn_erp <- 
+	read_lspro(file.path(loc, "tmf_data/lsp-post-ablation-erp.txt")) 
+avn_erp <- 
+	read_lspro(file.path(loc, "tmf_data/lsp-avn-erp-s1-600ms-s2-220ms.txt"))
+rv_burst_af <- 
+	read_lspro(file.path(loc, "tmf_data/lsp-burst-into-af.txt"))
+parahis <- 
+	read_lspro(file.path(loc, "tmf_data/lsp-parahisian-pacing.txt")) 
+tach_cycle <- 
+	read_lspro(file.path(loc, "tmf_data/lsp-avnrt-ongoing.txt")) 
+cs_entrain <- 
+	read_lspro(file.path(loc, "tmf_data/lsp-cs-entrainment.txt")) 
+rv_s1_500 <- 
+	read_lspro(file.path(loc, "tmf_data/lsp-s1-500ms.txt")) 
+rv_s1_300_entrain <- 
+	read_lspro(file.path(loc, "tmf_data/lsp-entrainment-s1-300ms.txt")) 
+his_pvc_fail <- 
+	read_lspro(file.path(loc, "tmf_data/lsp-his-refractory-pvc-attempt.txt"))
+his_pvc_win <- 
+	read_lspro(file.path(loc, "tmf_data/lsp-his-refractory-pvc-success.txt"))
+cs_s4_no_tach <- 
+	read_lspro(file.path(loc, "tmf_data/lsp-s4-stim-no-tach.txt"))
+```
+
+---
+
+```{r}
+#| label: sinus rhythm from surface on EGM
+#| cache: true
+#| fig-cap: 12 lead sinus rhythm 
+ggm(data = nsr,
+		channels = c("I", "II", "III" , "AVR", "AVL", "AVF", paste0("V", 1:6)))
+```
+
+---
+
+```{r}
+#| label: normal intervals
+#| cache: true
+#| fig-cap: Baseline intervals showed AH of 82, and HV 50 at rate of 870 
+ggm(data = his_pvc_win,
+		channels = c("I", "CS", "RV", "HIS D", "HIS M"),
+		time_frame = c(1.8, 2.2))
+```
+
+---
+
+| Criteria | Status |
+| :--- | --- |
+| Initiation | - |
+| Dual AV node | - |
+| Critical AH during slow pathway | - |
+| RAAS | [Retrograde P wave on surface]{.red} |
+| Involvement of chambers | - |
+
+# RA Pacing
+
+---
+
+```{r}
+#| label: (post ablation) avn erp
+#| cache: true
+#| fig-cap: AV Wenckebach shown at 390
+ggm(data = abl_avn_erp,
+		channels = c("I", "CS", "HIS", "RV")) |>
+	add_intervals(channel = "CS 9-10")
+```
+
+---
+
+```{r}
+#| label: avn erp
+#| cache: true
+#| fig-cap: AV node ERP at S1 = 600, S2 = 220
+ggm(data = avn_erp,
+		channels = c("I", "CS", "HIS", "RV")) |>
+	add_intervals(channel = "CS 9-10")
+```
+
+---
+
+```{r}
+#| label: cs pacing 640
+#| cache: true
+#| fig-cap: Decremental pacing to evaluate dual AV nodal physiology
+ggm(data = cs_s1_640_dec,
+		channels = c("I", "CS", "HIS", "RV")) |>
+	add_intervals(channel = "CS 7-8")
+```
+
+---
+
+```{r}
+#| label: cs pacing 400 with jump
+#| cache: true
+#| fig-cap: Demonstrated AH "jump" at around 500 ms (not shown).
+ggm(data = cs_s1_400_jump,
+		channels = c("I", "CS", "HIS", "RV")) |>
+	add_intervals(channel = "CS 9-10")
+```
+
+---
+
+| Criteria | Status |
+| :--- | --- |
+| Initiation | - |
+| Dual AV node | [AH jump >50 with decremental pacing]{.red} |
+| Critical AH during slow pathway | - |
+| RAAS | [Retrograde P wave on surface]{.blue} |
+| Involvement of chambers | - |
+
+# RV Pacing
+
+---
+
+```{r}
+#| label: Retrograde VA conduction
+#| cache: true
+#| fig-cap: RV shows retrograde conduction with variable VA timing
+ggm(data = rv_burst_af,
+		channels = c("I", "CS", "HIS", "RV"),
+		time_frame = c(0.1, 1.5)) |>
+	add_intervals(channel = "RV 1-2")
+```
+
+---
+
+```{r}
+#| label: RV pacing bursts into afib
+#| cache: true
+#| fig-cap: RV pacing lead to AF degeneration
+ggm(data = rv_burst_af,
+		channels = c("I", "CS", "HIS", "RV"),
+		time_frame = c(1.2, 3.2)) |>
+	add_intervals(channel = "RV 1-2")
+```
+
+---
+
+```{r}
+#| label: parahisian pacing
+#| cache: true
+#| fig-cap: Para-Hissian pacing at high output (when RBB selected, S-A interval widened)
+ggm(data = parahis,
+		channels = c("I", "CS", "HIS", "RV")) |>
+	add_intervals(channel = "HIS D")
+```
+
+---
+
+| Criteria | Status |
+| :--- | --- |
+| Initiation | - |
+| Dual AV node | [AH jump >50 with decremental pacing]{.blue} |
+| Critical AH during slow pathway | - |
+| RAAS | [Concentric CS activation]{.red} |
+| Involvement of chambers | - |
+
+# Tachycardia Maneuvers
+
+## Tachycardia initiation
+
+---
+
+```{r}
+#| label: tach initiation
+#| cache: true
+#| fig-cap: Spontaneous initiation from APD
+ggm(data = tach_start,
+		channels = c("I", "CS", "RV", "HIS D", "HIS M"),
+		time_frame = c(0.5, 3.5))
+```
+
+---
+
+```{r}
+#| label: tach zoom to APD
+#| cache: true
+#| fig-cap: Increased sweep speed of APD, suspected "bump" from His catheter
+ggm(data = tach_start,
+		channels = c("I", "CS", "RV", "HIS D", "HIS M"),
+		time_frame = c(1.6, 2.9))
+```
+
+---
+
+```{r}
+#| label: continuous tach prior to pacing
+#| cache: true
+#| fig-cap: TCL of 375
+ggm(data = tach_cycle,
+		channels = c("I", "CS", "HIS", "RV"),
+		time_frame = c(0.1, 2.5)) |>
+	add_intervals(channel = "I")
+```
+
+## Tachycardia features prior to diagnostic pacing maneuvers
+
+For typical AVNRT, there are some findings to help eliminate options.
+
+1. VA Relationship: any pattern, but most commonly V=A and V<A
+1. VA Interval: VA &le; 70
+1. Atrial Activation Sequence: concentric
+1. Spontaneous Termination: end either in A or V response
+1. VA Increase with BBB: no
+
+---
+
+| Criteria | Status |
+| :--- | --- |
+| Initiation | [APD leads to tach]{.red} |
+| Dual AV node | [AH jump >50 with decremental pacing]{.blue} |
+| Critical AH during slow pathway | [AH interval is prolonging prior to APD]{.red} |
+| RAAS | [Concentric CS activation]{.blue} |
+| Involvement of chambers | - |
+
+## His refractory VPDs
+
+---
+
+```{r}
+#| label: his refractory pvc fail
+#| cache: true
+#| fig-cap: PVC placed between HV interval
+ggm(data = his_pvc_fail,
+		channels = c("I", "CS", "HIS", "RV"))
+```
+
+---
+
+```{r}
+#| label: his refractory pvc fail zoom
+#| cache: true
+#| fig-cap: PVC however affected the HH interval, thus not refractory
+ggm(data = his_pvc_fail,
+		channels = c("I", "CS", "HIS", "RV"),
+		time_frame = c(1.2, 2.2))
+```
+
+---
+
+```{r}
+#| label: his refractory pvc success
+#| cache: true
+#| fig-cap: PVC breaks tachcyardia
+ggm(data = his_pvc_win,
+		channels = c("I", "CS", "HIS", "RV"))
+```
+
+---
+
+```{r}
+#| label: his refractory pvc success zoom
+#| cache: true
+#| fig-cap: Right bundle potential appears to be consistent in RV lead but direction is reversed after PVC
+ggm(data = his_pvc_win,
+		channels = c("I", "CS", "HIS", "RV"),
+		time_frame = c(0.2, 2.0))
+```
+
+---
+
+| Criteria | Status |
+| :--- | --- |
+| Initiation | [APD leads to tach]{.blue} |
+| Dual AV node | [AH jump >50 with decremental pacing]{.blue} |
+| Critical AH during slow pathway | [AH interval is prolonging prior to APD]{.red} |
+| RAAS | [Concentric CS activation]{.blue} |
+| Involvement of chambers | [No AP noted, VPD breaks cycle]{.red} |
+
+## Entrainment
+
+---
+
+```{r}
+#| label: cs entrainment
+#| cache: true
+#| fig-cap: Entrainment at 340 from CS ostia
+ggm(data = cs_entrain,
+		channels = c("I", "CS", "HIS M", "HIS D", "RV"),
+		time_frame = c(0.5, 3.0)) |>
+	add_intervals(channel = "CS 9-10")
+```
+
+---
+
+```{r}
+#| label: rv s1 entrained at attempted at 500
+#| cache: true
+#| fig-cap: Ventricular overdrive pacing (500) attempted but broke tachycardia
+ggm(data = rv_s1_500,
+		channels = c("I", "CS", "HIS M", "HIS D", "RV"))
+```
+
+---
+
+```{r}
+#| label: cs s1 entrained at 300
+#| cache: true
+#| fig-cap: Ventricular overdriving pacing at 300, VAHV response limited by VPD
+ggm(data = rv_s1_300_entrain,
+		channels = c("I", "CS", "HIS", "RV"))
+```
+
+---
+
+| Criteria | Status |
+| :--- | --- |
+| Initiation | [APD leads to tach]{.blue} |
+| Dual AV node | [AH jump >50 with decremental pacing]{.blue} |
+| Critical AH during slow pathway | [AH interval is prolonging prior to APD]{.red} |
+| RAAS | [Concentric CS activation]{.blue} |
+| Involvement of chambers | [VPD breaks, A advances with H]{.red} |
+
+# Conclusion
+
+---
+
+```{r}
+#| label: post ablation s4
+#| cache: true
+#| fig-cap: After slow pathway modification, tachycardia non-inducible with isoproterenol (2 mcg) and multi-stim protocols.
+ggm(data = cs_s4_no_tach,
+		channels = c("I", "CS", "HIS", "RV"))
+```
+
+---
+
+| Criteria | Status |
+| :--- | --- |
+| Initiation | [APD leads to tach]{.blue} |
+| Dual AV node | [AH jump >50 with decremental pacing]{.blue} |
+| Critical AH during slow pathway | [AH interval is prolonging prior to APD]{.red} |
+| RAAS | [Concentric CS activation]{.blue} |
+| Involvement of chambers | [VPD breaks, A advances with H]{.blue} |
+
+Evidence supports typical AVNRT using slow fast pathway, without AP.

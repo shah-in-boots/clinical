@@ -1,0 +1,2201 @@
+date,dx1,dx2,dx3,procedure,location,modifier,notes,special
+2020-09-24,amyloidosis,sinus bradycardia,AF,DCCV,125J,normal sinus rhythm,NA,NA
+2020-10-02,NICM,amyloidosis,NA,DCCV,125J,converted to NSR,NA,NA
+2020-09-14,AF,NA,NA,DCCV,150J,converted to NSR,NA,NA
+2020-07-23,NA,NA,NA,DCCV,200J,converted to NSR,NA,NA
+2020-12-14,DHF,AF,obesity,DCCV,200J,NA,NA,NA
+2020-12-16,AF,ESRD,NA,DCCV,200J,NA,NA,NA
+2021-02-01,AFL,NA,NA,DCCV,200J,converted to NSR,NA,NA
+2021-02-09,NA,NA,NA,DCCV,200J,NA,NA,NA
+2021-02-09,NA,NA,NA,DCCV,200J,NA,NA,NA
+2021-02-11,AF,NA,NA,DCCV,200J,NA,converted NSR,NA
+2021-02-11,AFL,NA,NA,DCCV,200J,NA,converted to NSR,NA
+2021-02-11,AF,NA,NA,DCCV,200J,NA,converted to NSR,NA
+2021-02-25,AF,NA,NA,DCCV,200J,NA,failed,NA
+2021-07-02,AFL,bradycardia,ESRD,DCCV,200J,NA,converted to NSR,NA
+2021-07-05,ESRD,hypocalcemia,AFRVR,DCCV,200J,NA,NA,NA
+2021-07-12,AF,bradycardia,NA,DCCV,200J,NA,converted to NSR,NA
+2020-08-18,AFRVR,HTN,NA,DCCV,225J,converted to NSR,NA,NA
+2020-07-21,AF,DMT2,obesity,DCCV,300J,did not convert AF,NA,NA
+2020-07-21,AF,DMT2,obesity,DCCV,300J,did not convert AF,NA,NA
+2020-07-29,AF,HFrEF,NA,DCCV,300J,converted to NSR,NA,NA
+2020-08-04,AF,DHF,ALF,DCCV,300J,converted to NSR,NA,NA
+2020-08-10,AFL,NICM,COVID,DCCV,300J,converted to NSR,NA,NA
+2020-08-13,AFRVR,HTN,ADHF,DCCV,300J,did not convert AF,NA,NA
+2020-10-02,NICM,AF,NA,DCCV,300J,converted to sinus,NA,NA
+2020-12-14,DHF,AF,obesity,DCCV,300J,NA,NA,NA
+2021-02-25,AF,NA,NA,DCCV,300J,manual,NA,NA
+2021-07-06,IE,AF,NA,DCCV,300J,NA,converted to NSR,NA
+2020-07-21,AF,DMT2,obesity,DCCV,360J,did not convert AF,NA,NA
+2020-07-21,AF,DMT2,obesity,DCCV,360J,did not convert AF,NA,NA
+2020-07-21,AF,DMT2,obesity,DCCV,360J,converted AF to NSR (pad placement was improved),NA,NA
+2020-08-13,AFRVR,HTN,ADHF,DCCV,360J,converted to NSR,NA,NA
+2021-02-02,AF,NA,NA,DCCV,360J,NA,NA,NA
+2021-02-02,AF,NA,NA,DCCV,360J,manual,NA,NA
+2021-02-05,NA,NA,NA,DCCV,360J,NA,NA,NA
+2021-02-09,AF,NA,NA,DCCV,360J,NSR,NA,NA
+2021-07-05,ESRD,hypocalcemia,AFRVR,DCCV,360J,NA,converted to NSR,NA
+2020-12-14,DHF,AF,obesity,DCCV,"360J, manual",converted to sinus bradycardia,NA,NA
+2020-08-20,AFL,NA,NA,EPS,ablation,AFL,NA,NA
+2021-03-01,HFrEF,AFL,NA,EPS,ablation,atrial flutter,NA,NA
+2021-03-10,AFL,NA,NA,EPS,ablation,atrial fibrillation,NA,NA
+2021-07-14,AF,AFL,NA,EPS,ablation,atrial fibrillation,NA,NA
+2021-02-09,NA,NA,NA,US,aorta,NA,NA,NA
+2020-11-05,NA,NA,NA,AL,axillary,NA,NA,NA
+2020-07-22,AF,OSA,NA,TEE,bedside,"trouble oxygenating, LAA clear",NA,NA
+2020-07-22,AF,OSA,NA,TEE,bedside,NA,NA,NA
+2020-07-22,IE,ESRD,ICM,TEE,bedside,thrombectomy,NA,NA
+2020-07-23,NA,NA,NA,TTE,bedside,"Sheryl taught, no color just views",NA,NA
+2020-07-23,NA,NA,NA,TEE,bedside,LAA before DCCV,NA,NA
+2020-07-27,NICM,MR,IBD,TEE,bedside,NA,NA,NA
+2020-07-28,NICM,MR,DM,TEE,bedside,NA,NA,NA
+2020-07-29,AF,OSA,DHF,TEE,bedside,post-LAAO,NA,NA
+2020-07-29,ESRD,IE,NA,TEE,bedside,NA,NA,NA
+2020-07-29,AF,HFrEF,NA,TEE,bedside,for DCCV,NA,NA
+2020-07-30,MR,AR,AF,TEE,bedside,NA,NA,NA
+2020-08-03,COPD,NA,NA,TTE,bedside,NA,NA,NA
+2020-08-04,ESRD,AF,OSA,TEE,bedside,NA,NA,NA
+2020-08-04,AF,DHF,ALF,TEE,bedside,NA,NA,NA
+2020-08-05,DMT2,CAD,PVD,TEE,bedside,r/o endocarditis,NA,NA
+2020-08-06,NA,NA,NA,TTE,bedside,NA,NA,NA
+2020-08-06,NA,NA,NA,TTE,bedside,NA,NA,NA
+2020-08-10,AF,CAD,NA,TEE,bedside,NA,NA,NA
+2020-08-10,MR,NICM,COVID,TEE,bedside,NA,NA,NA
+2020-08-11,cirrhosis,HCV,NA,TEE,bedside,NA,NA,NA
+2020-08-13,PH,NA,NA,TTE,bedside,bubble study,NA,NA
+2020-08-13,AFRVR,HTN,ADHF,TEE,bedside,NA,NA,NA
+2020-08-14,CAD,ICM,NA,TEE,bedside,MR,NA,NA
+2020-08-18,AF,NA,NA,TEE,bedside,LAAO,NA,NA
+2020-08-18,AFRVR,HTN,NA,TEE,bedside,LAA before DCCV,NA,NA
+2020-08-25,HTN,CHB,PAF,TEE,bedside,LAAO,NA,NA
+2020-09-01,MR,NA,NA,TEE,bedside,severe MR,NA,NA
+2020-09-06,ESRD,DM,NA,TTE,bedside,NA,NA,NA
+2020-09-06,COPD,pericardial effusion,HTN,TTE,bedside,NA,NA,NA
+2020-09-08,AF,CVA,CAD,TEE,bedside,LAAO,NA,NA
+2020-09-15,MRSA,sepsis,IE,TEE,bedside,mitral valve thickening,NA,NA
+2020-09-16,CVA,AF,NICM,TEE,bedside,NA,NA,NA
+2020-09-16,ICM,MR,NA,TEE,bedside,NA,NA,NA
+2020-09-17,NA,NA,NA,TEE,bedside,MR,NA,NA
+2020-09-18,ESRD,IE,shock,TEE,bedside,NA,NA,NA
+2020-09-18,AS,CAD,NA,TEE,bedside,NA,NA,NA
+2020-09-18,HFrEF,IE,NA,TEE,bedside,NA,NA,NA
+2020-09-21,NA,NA,NA,TEE,bedside,NA,NA,NA
+2020-09-21,SLE,MR,NA,TTE,bedside,NA,NA,NA
+2020-09-21,RHD,AS,SCD,TTE,bedside,NA,NA,NA
+2020-09-21,ESRD,NA,NA,TEE,bedside,syncope,NA,NA
+2020-09-22,AF,NA,NA,TEE,bedside,LAAO,NA,NA
+2020-09-22,AF,NA,NA,TEE,bedside,nondiagnostic TTE,NA,NA
+2020-09-23,NA,NA,NA,TEE,bedside,NA,NA,NA
+2020-09-24,amyloidosis,sinus bradycardia,AF,TEE,bedside,no thrombus,NA,NA
+2020-09-24,amyloidosis,sinus bradycardia,AF,TTE,bedside,NA,NA,NA
+2020-09-28,ICM,AFL,AF,TEE,bedside,cardioversion,NA,NA
+2020-09-30,AMS,cirrhosis,NA,TEE,bedside,endocarditis,NA,NA
+2020-10-01,TIA,NA,NA,TEE,bedside,bubble study,NA,NA
+2020-10-29,NA,NA,NA,pericardiocentesis,bedside,NA,NA,NA
+2020-11-09,NICM,MR,ADHF,TTE,bedside,"post mitraclip, ADHF",NA,NA
+2020-11-26,STEMI,pericardial effusion,pericarditis,TTE,bedside,NA,NA,NA
+2020-12-14,DHF,AF,obesity,TEE,bedside,LAA evaluation,NA,NA
+2020-12-14,CVA,NA,NA,TEE,bedside,TCD bubble crossover,NA,NA
+2020-12-14,cirrhosis,HCV,CVA,TEE,bedside,NA,NA,NA
+2020-12-14,cirrhosis,HCV,CVA,TEE,bedside,NA,NA,NA
+2020-12-16,PAF,NICM,NA,TEE,bedside,NA,NA,NA
+2020-12-16,AF,ESRD,NA,TEE,bedside,NA,NA,NA
+2021-01-19,MR,NA,NA,TEE,bedside,NA,NA,NA
+2021-01-19,pancreatic cancer,AFL,bradycardia,TEE,bedside,NA,NA,NA
+2021-01-19,bacteremia,endocarditis,NA,TEE,bedside,NA,NA,NA
+2021-01-19,CVA,NA,NA,TEE,bedside,NA,NA,NA
+2021-01-20,SCD,VF arrest,PE,TEE,bedside,CO2 embolus,NA,1
+2021-01-21,lupus,MR,endocarditis,TEE,bedside,NA,NA,NA
+2021-01-21,lupus,MR,endocarditis,TEE,bedside,NA,NA,NA
+2021-01-25,PFO,CVA,NA,TEE,bedside,NA,NA,NA
+2021-01-26,NA,NA,NA,TTE,bedside,NA,NA,NA
+2021-01-26,RHD,MS,AS,TEE,bedside,structural,NA,NA
+2021-01-27,NA,NA,NA,TEE,bedside,NA,NA,NA
+2021-01-27,NA,NA,NA,TTE,bedside,NA,NA,NA
+2021-01-29,aortic dissection,HTN,smoking,TEE,bedside,NA,NA,NA
+2021-02-01,NA,NA,NA,TEE,bedside,PFO,NA,NA
+2021-02-01,NA,NA,NA,TEE,bedside,PFO,NA,NA
+2021-02-01,NA,NA,NA,TEE,bedside,LAA evaluation,NA,NA
+2021-02-02,NA,NA,NA,TEE,bedside,3D,NA,NA
+2021-02-02,AF,NA,NA,TEE,bedside,NA,NA,NA
+2021-02-02,IE,AS,AI,TEE,bedside,NA,NA,NA
+2021-02-02,IE,NA,NA,TEE,bedside,NA,NA,NA
+2021-02-05,NA,NA,NA,TEE,bedside,NA,NA,NA
+2021-02-05,NA,NA,NA,TEE,bedside,pediatric probe,NA,NA
+2021-02-05,NA,NA,NA,TEE,bedside,NA,NA,NA
+2021-02-09,cardiomyopathy,NA,NA,TEE,bedside,mitral valve case,NA,NA
+2021-02-09,NA,NA,NA,TTE,bedside,NA,NA,NA
+2021-02-09,cardiomyopathy,NA,NA,TEE,bedside,mitral regurgitation,NA,NA
+2021-02-09,NA,NA,NA,TTE,bedside,NA,NA,NA
+2021-02-09,AF,NA,NA,TEE,bedside,NA,NA,NA
+2021-02-09,NA,NA,NA,TEE,bedside,aortic stenosis,severe aortic stenosis and aortic valve abscess,1
+2021-02-09,NA,NA,NA,TEE,bedside,NA,NA,NA
+2021-02-09,NA,NA,NA,TEE,bedside,NA,NA,NA
+2021-02-09,NA,NA,NA,TEE,bedside,NA,NA,NA
+2021-02-09,NA,NA,NA,TEE,bedside,NA,NA,NA
+2021-02-10,NA,NA,NA,TEE,bedside,NA,NA,NA
+2021-02-10,NA,NA,NA,TEE,bedside,NA,NA,NA
+2021-02-11,NA,NA,NA,TEE,bedside,NA,NA,NA
+2021-02-11,AF,NA,NA,TEE,bedside,NA,NA,NA
+2021-02-11,AFL,NA,NA,TEE,bedside,NA,NA,NA
+2021-02-11,AF,NA,NA,TEE,bedside,NA,NA,NA
+2021-02-15,AS,NA,NA,TEE,bedside,NA,moderate aortic stenosis,NA
+2021-02-15,MR,NA,NA,TEE,bedside,NA,NA,NA
+2021-02-15,IE,fever,OSA,TEE,bedside,NA,couldn't pass probe due to OSA,NA
+2021-02-16,AF,NA,NA,TEE,bedside,NA,"atrial fib, for cardioversion",NA
+2021-02-16,fever,IE,AF,TEE,bedside,NA,"looking for vegetations, none found",NA
+2021-02-16,NA,NA,NA,TEE,bedside,NA,small bubble cross-over but no PFO seen,NA
+2021-02-17,NA,NA,NA,TEE,bedside,cardioversion,NA,NA
+2021-02-17,NA,NA,NA,TEE,bedside,cardioversion,prior to DFT testing,NA
+2021-02-17,TAVR,IE,NA,TEE,bedside,NA,VSD / Gerbode complex,1
+2021-02-17,NA,NA,NA,TEE,bedside,NA,NA,NA
+2021-02-24,AF,LAAO,NA,TEE,bedside,NA,occlusion device has thrombus on it,NA
+2021-02-24,PH,OSA,ADHF,TEE,bedside,NA,mitral valve prosthesis,NA
+2021-02-24,AF,LAAO,NA,TEE,bedside,NA,45 day watchman check,NA
+2021-02-24,NA,NA,NA,TEE,bedside,NA,NA,NA
+2021-02-25,AF,NA,NA,TEE,bedside,NA,NA,NA
+2021-02-25,IE,MVR,NA,TEE,bedside,NA,endocarditis on mitral valve,NA
+2021-02-25,IE,NA,NA,TEE,bedside,NA,NA,NA
+2021-02-25,AF,NA,NA,TEE,bedside,NA,prior to ablation,NA
+2021-02-25,AF,NA,NA,TEE,bedside,NA,NA,NA
+2021-02-25,AF,NA,NA,TEE,bedside,NA,NA,NA
+2021-02-26,NA,NA,NA,TEE,bedside,NA,"severe AI, mechanical AVR and MVR",NA
+2021-02-26,NA,NA,NA,TEE,bedside,NA,NA,NA
+2021-03-14,CAD,epilepsy,NA,TTE,bedside,NA,NA,NA
+2021-03-14,SAH,NA,NA,TTE,bedside,NA,NA,NA
+2021-07-01,aortic dissection,bicuspid AV,AF,TEE,bedside,NA,NA,NA
+2021-07-01,CVA,HTN,NA,TEE,bedside,NA,NA,NA
+2021-07-02,AF,NA,NA,TEE,bedside,NA,NA,NA
+2021-07-02,AFL,bradycardia,ESRD,TEE,bedside,NA,NA,NA
+2021-07-02,IE,AF,NA,TEE,bedside,NA,NA,NA
+2021-07-05,lupus,pericardial effusion,NA,TTE,bedside,NA,NA,NA
+2021-07-05,ESRD,hypocalcemia,AFRVR,TTE,bedside,NA,NA,NA
+2021-07-06,IE,AF,NA,TEE,bedside,NA,NA,NA
+2021-07-06,IE,MRSA,NA,TEE,bedside,NA,NA,NA
+2021-07-07,CVA,bradycardia,NA,TEE,bedside,NA,NA,NA
+2021-07-07,HFrEF,mitral regurgitation,NA,TEE,bedside,NA,NA,1
+2021-07-08,AF,NA,NA,TEE,bedside,NA,NA,NA
+2021-07-12,AF,bradycardia,NA,TEE,bedside,NA,NA,NA
+2020-07-01,ESRD,OSA,HTN,RHC,brachial,NA,pre-transplant,NA
+2020-07-01,HTN,ETOH,NA,RHC,brachial,NA,"HTN, new-onset ADHF",NA
+2020-07-07,SCD,PE,PHTN,RHC,brachial,NA,pre-transplant,NA
+2020-07-08,PHTN,ILD,COPYD,RHC,brachial,NA,SOB,NA
+2020-07-09,cirrhosis,NA,NA,RHC,brachial,NA,pre-TIPS,NA
+2020-07-16,CAD,HFrEF,HTN,RHC,brachial,NA,HFrEF,NA
+2020-10-26,DHF,obesity,congestive hepatopathy,RHC,brachial,NA,NA,NA
+2020-10-26,DHF,obesity,congestive hepatopathy,RHC,brachial,liver,NA,NA
+2021-03-01,DHF,OSA,HTN,RHC,brachial,NA,"for volume status, mixed pre/post PH",NA
+2021-03-09,ESRD,PH,NA,RHC,brachial,NA,NA,NA
+2021-07-09,AS,CAD,NA,RHC,brachial,NA,NA,NA
+2021-02-09,NA,NA,NA,US,carotid,NA,NA,NA
+2020-07-17,CAD,MDD,PSA,NA,clinic,NA,NA,NA
+2020-07-17,NICM,OSA,NA,NA,clinic,NA,NA,NA
+2020-07-17,NICM,ETOH,HTN,NA,clinic,NA,NA,NA
+2020-07-24,HTN,CAD,AT,NA,clinic,NA,NA,NA
+2020-07-24,CAD,HTN,ED,NA,clinic,NA,NA,NA
+2020-07-24,CAD,AF,HTN,NA,clinic,NA,NA,NA
+2020-07-24,CAD,HTN,HLD,NA,clinic,NA,NA,NA
+2020-07-24,AF,NA,NA,NA,clinic,NA,NA,NA
+2020-07-31,AF,AVB,OSA,NA,clinic,NA,NA,NA
+2020-07-31,ETOH,NICM,NA,NA,clinic,NA,NA,NA
+2020-07-31,AF,aortic aneurysm,DHF,NA,clinic,NA,NA,NA
+2020-08-07,CRC,CAD,HTN,NA,clinic,NA,NA,NA
+2020-08-07,CAD,HTN,DMT2,NA,clinic,NA,NA,NA
+2020-08-07,CAD,PVD,PFO,NA,clinic,NA,NA,NA
+2020-08-07,NICM,CAD,NA,NA,clinic,NA,NA,NA
+2020-08-07,CAD,SCD,VT,NA,clinic,NA,NA,NA
+2020-08-07,DHF,AFL,NA,NA,clinic,NA,NA,NA
+2020-08-07,CAD,ICM,NA,NA,clinic,NA,NA,NA
+2020-08-14,IE,MVR,cirrhosis,NA,clinic,NA,NA,NA
+2020-08-14,OSA,obesity,GERD,NA,clinic,NA,NA,NA
+2020-08-14,ICM,CAD,PUD,NA,clinic,NA,NA,NA
+2020-08-14,NICM,SSS,DMT2,NA,clinic,NA,NA,NA
+2020-08-14,CAD,ICM,PAF,NA,clinic,NA,NA,NA
+2020-08-21,HTN,AS,NA,NA,clinic,mass on AV,NA,NA
+2020-08-21,ILD,CAD,NA,NA,clinic,cancer,NA,NA
+2020-08-21,CAD,CVA,PFO,NA,clinic,NA,NA,NA
+2020-08-21,COPD,OSA,HTN,NA,clinic,sleep study,NA,NA
+2020-08-21,AF,AFL,NICM,NA,clinic,NA,NA,NA
+2020-08-21,NICM,DM,pregnancy,NA,clinic,NA,NA,NA
+2020-09-04,ASD,AF,cancer,NA,clinic,"hemicolectomy, pre-op",NA,NA
+2020-09-04,NICM,HTN,CAD,NA,clinic,transient ischemic dilation,NA,NA
+2020-09-04,NICM,HTN,NA,NA,clinic,NA,NA,NA
+2020-09-11,NICM,PVD,LBBB,NA,clinic,NA,NA,NA
+2020-09-11,CAD,SVT,NA,NA,clinic,NA,NA,NA
+2020-09-11,CAD,smoker,PVD,NA,clinic,NA,NA,NA
+2020-09-11,NICM,HTN,CAD,NA,clinic,recovered EF,NA,NA
+2020-09-11,HTN,CAD,angina,NA,clinic,NA,NA,NA
+2020-09-11,MSIMI,NA,NA,NA,clinic,NA,NA,NA
+2020-09-11,HTN,HLD,COPD,NA,clinic,NA,NA,NA
+2020-09-24,NA,NA,NA,NA,clinic,NA,NA,NA
+2020-09-25,sarcoidosis,NICM,PSA,NA,clinic,NA,NA,NA
+2020-09-25,CAD,HTN,HLD,NA,clinic,NA,NA,NA
+2020-09-25,CAD,NA,NA,NA,clinic,NA,NA,NA
+2020-09-25,CAD,AS,NA,NA,clinic,NA,NA,NA
+2020-09-25,AF,ADHF,NICM,NA,clinic,NA,NA,NA
+2020-09-25,DHF,HTN,NA,NA,clinic,NA,NA,NA
+2020-10-02,CAD,HFrecEF,HTN,NA,clinic,NA,NA,NA
+2020-10-02,NA,NA,NA,NA,clinic,NA,NA,NA
+2020-10-02,NA,NA,NA,NA,clinic,NA,NA,NA
+2020-10-02,NA,NA,NA,NA,clinic,NA,NA,NA
+2020-10-02,CAD,HTN,OSA,NA,clinic,NA,NA,NA
+2020-10-16,CAD,HTN,DM,NA,clinic,NA,NA,NA
+2020-10-16,AFL,CAD,VHD,NA,clinic,NA,NA,NA
+2020-10-16,AF,CAD,HTN,NA,clinic,NA,NA,NA
+2020-10-16,CAD,VT,SCD,NA,clinic,NA,NA,NA
+2020-10-16,CAD,PVD,anemia,NA,clinic,NA,NA,NA
+2020-10-16,PSA,HTN,VHD,NA,clinic,NA,NA,NA
+2020-10-16,DHF,NA,NA,NA,clinic,NA,NA,NA
+2020-10-16,AF,ICM,NA,NA,clinic,NA,NA,NA
+2020-10-23,NIDDM,DVT,NA,NA,clinic,pre-op,NA,NA
+2020-10-23,AF,ASD,NICM,NA,clinic,NA,NA,NA
+2020-10-23,HTN,HLD,PSA,NA,clinic,NA,NA,NA
+2020-10-23,CAD,AAA,NA,NA,clinic,NA,NA,NA
+2020-10-30,HIV,sarcoidosis,HCV,NA,clinic,NA,NA,NA
+2020-10-30,OSA,DHF,HTN,NA,clinic,NA,NA,NA
+2020-10-30,HTN,HCV,AFL,NA,clinic,NA,NA,NA
+2020-10-30,CPS,NA,NA,NA,clinic,NA,NA,NA
+2020-10-30,CAD,IDDM,ESRD,NA,clinic,hypotension,NA,NA
+2020-10-30,CAD,AAA,NA,NA,clinic,NA,NA,NA
+2020-11-06,CAD,HTN,DMT2,NA,clinic,NA,NA,NA
+2020-11-06,CAD,HTN,NA,NA,clinic,NA,NA,NA
+2020-11-06,CAD,STEMI,NA,NA,clinic,NA,NA,NA
+2020-11-06,obesity,DHF,OSA,NA,clinic,NA,NA,NA
+2020-11-06,CAD,angina,NA,NA,clinic,NA,NA,NA
+2020-11-13,DHF,CKD,NA,NA,clinic,NA,NA,NA
+2020-11-13,pericardial effusion,NICM,ETOH,NA,clinic,NA,NA,NA
+2020-11-13,CAD,HTN,HLD,NA,clinic,NA,NA,NA
+2020-11-13,pericardial effusion,ESRD,AF,NA,clinic,NA,NA,NA
+2020-11-13,pericarditis,HS,NA,NA,clinic,NA,NA,NA
+2020-11-27,HFrecEF,VT,NA,NA,clinic,NA,NA,NA
+2020-11-27,ICM,AF,DMT2,NA,clinic,NA,NA,NA
+2020-12-04,NIDDM,HTN,CAD,NA,clinic,refer for LHC,NA,NA
+2020-12-04,ICM,CAD,CKD,NA,clinic,NA,NA,NA
+2020-12-04,AF,hypoxia,NA,NA,clinic,NA,NA,NA
+2020-12-04,AF,SVT,NSVT,NA,clinic,interesting,NA,NA
+2020-12-04,CAD,HFrecEF,HTN,NA,clinic,NA,NA,NA
+2020-12-18,CAD,tachycardia,NA,NA,clinic,NA,NA,NA
+2020-12-18,ERS,NA,NA,NA,clinic,NA,NA,1
+2020-12-18,CAD,HTN,DMT2,NA,clinic,NA,NA,NA
+2021-01-08,sarcoidosis,NICM,AFL,NA,clinic,NA,NA,NA
+2021-01-08,ACS,CAD,NA,NA,clinic,NA,NA,NA
+2021-01-08,CAD,DHF,DMT2,NA,clinic,NA,NA,NA
+2021-01-08,CAD,AS,NA,NA,clinic,NA,NA,NA
+2021-01-08,ICM,CAD,NA,NA,clinic,NA,NA,NA
+2021-01-08,HCM,NA,NA,NA,clinic,NA,NA,NA
+2021-01-08,nonagenarian,CAD,NA,NA,clinic,NA,NA,NA
+2021-02-12,AF,HTN,CAD,NA,clinic,NA,NA,NA
+2021-02-19,NICM,COPD,NA,NA,clinic,NA,NA,NA
+2021-02-19,HTN,CAD,NA,NA,clinic,NA,NA,NA
+2021-02-19,AFL,AF,CAD,NA,clinic,NA,NA,NA
+2021-02-19,HTN,DM,ICM,NA,clinic,NA,NA,NA
+2021-02-19,ICM,CAD,VT,NA,clinic,NA,NA,NA
+2021-02-20,dilated cardiomyopathy,NICM,ETOH,NA,clinic,NA,NA,NA
+2021-02-20,aortic dissection,NSTEMI,ADHF,NA,clinic,NA,NA,NA
+2021-02-20,SVT,NA,NA,NA,clinic,NA,NA,NA
+2021-02-26,CABG,HTN,HLD,NA,clinic,NA,NA,NA
+2021-02-26,CAD,HTN,DMT2,NA,clinic,NA,NA,NA
+2021-02-26,NA,NA,NA,NA,clinic,NA,NA,NA
+2021-03-05,stress,angina,NA,NA,clinic,NA,NA,NA
+2021-03-05,AF,AT,NA,NA,clinic,NA,NA,NA
+2021-03-05,CAD,NA,NA,NA,clinic,NA,NA,NA
+2021-03-05,CAD,cocaine,MDD,NA,clinic,NA,NA,NA
+2021-03-12,AVB,NA,NA,NA,clinic,NA,NA,NA
+2021-03-12,ICM,CVA,AF,NA,clinic,NA,NA,NA
+2021-03-12,CKD,DHF,amyloidosis,NA,clinic,NA,NA,NA
+2021-03-12,NICM,SVT,NA,NA,clinic,NA,NA,NA
+2021-06-18,CAD,DHF,amyloidosis,NA,clinic,NA,NA,NA
+2021-06-18,CAD,CABG,HFrEF,NA,clinic,NA,NA,NA
+2021-06-25,CAD,HTN,NA,NA,clinic,NA,NA,NA
+2021-06-25,ESRD,HTN,DMT2,NA,clinic,NA,NA,NA
+2021-07-01,CAD,NA,NA,NA,clinic,NA,NA,NA
+2021-07-01,CAD,NA,NA,NA,clinic,NA,NA,NA
+2021-07-01,HTN,NA,NA,NA,clinic,NA,NA,NA
+2021-07-01,CAD,NA,NA,NA,clinic,NA,NA,NA
+2021-07-01,ESRD,HTN,NA,NA,clinic,NA,NA,NA
+2021-07-01,HTN,NA,NA,NA,clinic,NA,NA,NA
+2021-07-01,GPA,NA,NA,NA,clinic,NA,NA,NA
+2021-07-15,edema,HIV,HTN,NA,clinic,NA,"may have heart failure, need to f/u echo",NA
+2021-07-15,AVR,CABG,ESRD,NA,clinic,NA,NA,NA
+NA,amyloidosis,HTN,pAF,NA,clinic,NA,NA,NA
+NA,PVD,AAA,aortic dissection,NA,clinic,NA,NA,NA
+NA,AF,SVT,NICM,NA,clinic,NA,NA,NA
+NA,NICM,LVAD,NA,NA,clinic,HM3,NA,NA
+2020-08-04,NSTEMI,IBD,NA,NA,consult,NA,NA,NA
+2020-08-17,OSA,obesity,DVT,NA,consult,sinus bradycardia due to vagal tone,NA,NA
+2020-08-19,OSA,obesity,SVT,NA,consult,atrial fibrillation,NA,NA
+2020-08-19,HTN,OSA,NASH,NA,consult,sinus bradycardia,NA,NA
+2020-08-19,NICM,CAD,AF,NA,consult,amiodarone,NA,NA
+2020-08-19,AFRVR,multiple myeloma,NA,NA,consult,NA,NA,NA
+2020-08-20,shock,cirrhosis,HRS,NA,consult,sinus bradycardia,NA,NA
+2020-08-20,constipation,NA,NA,NA,consult,sinus bradycardia,NA,NA
+2020-08-24,dementia,HTN,NA,NA,consult,sinus bradycardia,NA,NA
+2020-08-24,syncope,sinus bradycardia,NA,NA,consult,tilt table as outpatient,NA,NA
+2020-08-24,syncope,ESRD,HTN,NA,consult,sinus tachycardia,NA,NA
+2020-08-24,CAD,syncope,bradycardia,NA,consult,orthostasis,NA,NA
+2020-08-25,dementia,HTN,NA,NA,consult,sinus bradycardia,NA,NA
+2020-08-25,syncope,ESRD,HTN,NA,consult,sinus tachycardia,NA,NA
+2020-08-25,NICM,AFRVR,HTN,NA,consult,amiodarone,NA,NA
+2020-08-25,CVA,DMT2,HbSA,NA,consult,cryptogenic stroke,NA,NA
+2020-08-25,PVC,NA,NA,NA,consult,PVC,NA,NA
+2020-08-25,AFRVR,CVA,NA,NA,consult,AFRVR,NA,NA
+2020-08-26,dementia,HTN,NA,NA,consult,sinus bradycardia,NA,NA
+2020-08-26,AFL,psoriasis,DMT2,NA,consult,AF,NA,NA
+2020-08-26,NICM,MVR,HTN,NA,consult,PVT,NA,NA
+2020-08-26,CAD,NA,NA,NA,consult,TCP,NA,NA
+2020-08-26,ADHF,NICM,AFL,NA,consult,AFL,NA,NA
+2020-08-27,CAD,ICM,CKD,NA,consult,life vest,NA,NA
+2020-08-27,AFL,aortic aneurysm,NSTEMI,NA,consult,AFL,NA,NA
+2020-08-27,ADHF,NICM,AFL,NA,consult,AFL,NA,NA
+2020-08-27,RHD,AF,HTN,NA,consult,AFL,NA,NA
+2020-08-28,AFL,aortic aneurysm,NSTEMI,NA,consult,AFL,NA,NA
+2020-08-28,RHD,AF,HTN,NA,consult,AV conduction delay,NA,NA
+2020-08-28,HTN,SSS,shock,NA,consult,SSS s/p DC-PPM,NA,NA
+2020-08-31,AFRVR,HTN,DMT2,NA,consult,AFRVR,NA,NA
+2020-08-31,VT,PSA,seizure,NA,consult,Brugada syndrome,NA,1
+2020-08-31,cancer,anemia,NA,NA,consult,sinus tachycardia,NA,NA
+2020-08-31,DMT1,ESRD,OM,NA,consult,PEA arrest,NA,NA
+2020-09-02,AFRVR,HTN,DMT2,NA,consult,AFRVR,NA,NA
+2020-09-02,CHB,CAD,DMT2,NA,consult,high grade AV block,NA,NA
+2020-09-02,HCM,CHB,AFL,NA,consult,complete heart block,NA,NA
+2020-09-03,DHF,HTN,ESRD,NA,consult,Twiddler's syndrome,NA,NA
+2020-09-03,AF,HTN,HBV,NA,consult,atrial fibrillation,NA,NA
+2020-09-04,NICM,ESRD,HTN,NA,consult,atrial fibrillation,NA,NA
+2020-09-04,NICM,DMT2,NA,NA,consult,ICD,NA,NA
+2020-09-04,ICM,CAD,HTN,NA,consult,VT,NA,NA
+2020-09-06,ESRD,DM,NA,NA,consult,NSTEMI,NA,NA
+2020-09-06,COPD,pericardial effusion,HTN,NA,consult,NA,NA,NA
+2020-09-06,HTN,obesity,angina,NA,consult,pre-op,NA,NA
+2020-09-06,DMT2,HTN,NA,NA,consult,pre-op,NA,NA
+2020-09-06,DHF,obesity,NA,NA,consult,ADHF,NA,NA
+2020-09-08,HIV,NICM,VF,NA,consult,NA,NA,NA
+2020-09-09,VT,Brugada syndrome,NA,NA,consult,NA,NA,NA
+2020-09-10,SCD,obesity,HTN,NA,consult,atrial fibrillation,NA,NA
+2020-09-10,ESRD,AF,NA,NA,consult,atrial fibrillation,NA,NA
+2020-09-10,NICM,AF,IDDM,NA,consult,life vest,NA,NA
+2020-09-10,SVT,NA,NA,NA,consult,palpitations,NA,NA
+2020-09-11,DHF,DMT2,HTN,NA,consult,NA,NA,NA
+2020-09-21,SLE,MR,hypoxia,NA,consult,NA,NA,NA
+2020-09-21,RHD,AS,SCD,NA,consult,torsades du pointe,NA,1
+2020-10-13,cardiogenic shock,ICM,cirrhosis,NA,consult,deceased,NA,NA
+2020-10-18,DMT2,sarcoidosis,UTI,NA,consult,NA,NA,NA
+2020-10-18,schizophrenia,PSA,angina,NA,consult,NA,NA,NA
+2020-11-09,ACS,NSTEMI,HTN,NA,consult,COR,NA,NA
+2020-11-10,ACS,UA,HTN,NA,consult,COR,NA,NA
+2020-11-10,CAD,NSTEMI,ADHF,NA,consult,LHC/RHC,NA,NA
+2020-11-12,NSTEMI,NA,NA,NA,consult,NA,NA,NA
+2020-11-12,ICM,AKI,NA,NA,consult,NA,NA,NA
+2020-11-12,ICM,ESRD,CAD,NA,consult,transfer to christ for CTS,NA,NA
+2020-11-13,ESRD,cardiogenic shock,NA,NA,consult,plan for inotropes,NA,NA
+2020-11-13,ICM,hypotension,diarrhea,NA,consult,NA,NA,NA
+2020-11-13,VT,SVT,NA,NA,consult,VT/SVT on telemetry,NA,NA
+2020-11-13,PVD,NA,NA,NA,consult,pre-op,NA,NA
+2020-11-18,cardiogenic shock,NA,NA,NA,consult,NA,NA,NA
+2020-11-18,ESRD,CAD,Wenchebach,NA,consult,NA,NA,NA
+2020-11-23,IE,Wenchebach,CVA,NA,consult,NA,NA,NA
+2020-11-24,ADHF,NA,NA,NA,consult,NA,NA,NA
+2020-11-25,NICM,LVAD,NA,NA,consult,NA,NA,NA
+2020-11-25,AFL,ADHF,NA,NA,consult,NA,NA,NA
+2020-11-25,VT,NICM,NA,NA,consult,NA,NA,NA
+2020-11-25,cardiogenic shock,AFRVR,NA,NA,consult,NA,NA,NA
+2020-11-26,septic shock,NSTEMI,AKI,NA,consult,NA,NA,NA
+2020-11-26,CVA,AF,NA,NA,consult,NA,NA,NA
+2020-11-27,bradycardia,IHD,NA,NA,consult,NA,NA,NA
+2020-11-27,cardiogenic shock,AFRVR,NA,NA,consult,NA,NA,NA
+2020-11-27,AFRVR,COVID,NA,NA,consult,NA,NA,NA
+2020-11-27,AFL,ADHF,NICM,NA,consult,NA,NA,NA
+2020-11-27,COVID,syncope,NA,NA,consult,dysautonomia,NA,1
+2020-11-27,AFL,CAD,bradycardia,NA,consult,NA,NA,NA
+2020-12-10,LQTS,ESRD,SCD,NA,consult,NA,NA,NA
+2020-12-10,CAD,PUD,NA,NA,consult,NA,NA,NA
+2020-12-10,ETOH,LVH,NA,NA,consult,NA,NA,NA
+2020-12-10,bradycardia,CHB,NA,NA,consult,NA,NA,NA
+2020-12-11,PVD,DMT2,CAD,NA,consult,NA,NA,NA
+2020-12-11,CVA,troponinemia,NA,NA,consult,NA,NA,NA
+2020-12-11,pericardial effusion,PCM,NA,NA,consult,NA,NA,NA
+2020-12-11,COVID,PDS,NICM,NA,consult,NA,NA,NA
+2020-12-11,DHF,OSA,OHS,NA,consult,NA,NA,NA
+2020-12-11,AFL,CAD,respiratory failure,NA,consult,NA,NA,NA
+2020-12-11,MM,ADHF,AKI,NA,consult,NA,NA,NA
+2021-01-05,cardiogenic shock,VAD,heart transplant,NA,consult,procurement,NA,1
+2021-01-05,septic shock,cardiogenic shock,IABP,NA,consult,NA,NA,NA
+2021-01-05,septic shock,tracheomalacia,respiratory failure,NA,consult,NA,NA,NA
+2021-01-06,CAD,cardiogenic shock,ECMO,NA,consult,NA,NA,NA
+2021-01-06,cardiogenic shock,NICM,NA,NA,consult,NA,NA,NA
+2021-01-06,IE,DC-ICD,NICM,NA,consult,NA,NA,NA
+2021-01-06,PCM,cardiogenic shock,IABP,NA,consult,NA,NA,NA
+2021-01-07,amyloidosis,cardiogenic shock,NA,NA,consult,NA,NA,1
+2021-01-07,cardiogenic shock,STEMI,ECMO,NA,consult,NA,NA,NA
+2021-01-07,cardiogenic shock,NICM,IABP,NA,consult,NA,NA,NA
+2021-01-07,cardiogenic shock,IABP,central stenosis,NA,consult,NA,NA,NA
+2021-01-08,GIB,AS,Heyde's syndrome,NA,consult,NA,NA,NA
+2021-02-20,CAD,chest pain,NA,NA,consult,NA,NA,NA
+2021-02-20,GIB,CAD,NA,NA,consult,NA,NA,NA
+2021-02-20,PSA,CAD,NA,NA,consult,cocaine,NA,NA
+2021-07-05,lupus,pericardial effusion,NA,NA,consult,NA,NA,NA
+2021-07-05,DMT1,MVR,NA,NA,consult,NA,NA,NA
+2021-07-05,ESRD,hypocalcemia,AFRVR,NA,consult,NA,NA,NA
+2021-07-05,VT,AS,ESRD,NA,consult,NA,NA,NA
+2021-07-05,HTN,ESRD,CAD,NA,consult,NA,NA,NA
+2021-07-05,HTN,PAF,ESRD,NA,consult,NA,NA,NA
+2021-07-05,CVA,AFRVR,ICM,NA,consult,NA,NA,NA
+2021-03-02,NA,NA,NA,PCI,D1,NA,NA,NA
+2020-08-28,RHD,AF,HTN,EPS,DC-PPM,AV conduction delay,NA,NA
+2020-09-28,low atrial rhythm,NA,NA,stress,dobutamine,echo,NA,NA
+2020-09-30,NA,NA,NA,stress,dobutamine,echo,NA,NA
+2020-10-01,NA,NA,NA,stress,dobutamine,echo,NA,NA
+2020-10-01,NA,NA,NA,stress,dobutamine,ECG,NA,NA
+2020-10-01,NA,NA,NA,stress,dobutamine,echo,NA,NA
+2021-01-21,AS,NA,NA,stress,dobutamine,echo,NA,NA
+2020-07-28,NA,NA,NA,stress,treadmill,echo,NA,NA
+2020-07-28,NA,NA,NA,stress,dobutamine,echo,NA,NA
+2020-08-03,NA,NA,NA,stress,treadmill,echo,NA,NA
+2020-09-21,NA,NA,NA,stress,dobutamine,echo,NA,NA
+2020-09-21,NA,NA,NA,stress,dobutamine,echo,NA,NA
+2020-07-07,CAD,HTN,DMT2,COR,femoral,NA,CABG,NA
+2020-07-10,ESRD,AF,CAD,COR,femoral,NA,"NSTEMI, Tn > 100",NA
+2020-07-10,ESRD,AF,CAD,RHC,femoral,NA,cardiogenic shock,NA
+2020-07-10,CAD,HTN,PAD,PCI,femoral,NA,LLE SFA for PAD,NA
+2020-08-17,ICM,CHB,GIB,TVP,femoral,NA,NA,NA
+2020-08-20,AFL,NA,NA,CVL,femoral,NA,NA,NA
+2020-08-20,AFL,NA,NA,CVL,femoral,NA,NA,NA
+2020-08-20,AFL,NA,NA,CVL,femoral,NA,NA,NA
+2020-09-08,CAD,ICM,ESRD,COR,femoral,pre-transplant,NA,NA
+2020-09-08,PVD,CAD,NA,COR,femoral,NA,NA,NA
+2020-10-01,HTN,DMT2,NSTEMI,COR,femoral,LCX lesion,NA,NA
+2020-10-28,cardiogenic shock,septic shock,ICM,closure,femoral,IABP,NA,NA
+2020-11-05,ESRD,NA,NA,CVL,femoral,dialysis,NA,NA
+2021-02-09,NA,NA,NA,US,femoral,NA,NA,NA
+2021-02-10,NA,NA,NA,closure,femoral,IABP,NA,NA
+2021-02-24,NA,NA,NA,closure,femoral,IABP,NA,NA
+2021-03-01,NA,NA,NA,CVL,femoral,NA,NA,NA
+2021-03-01,NA,NA,NA,CVL,femoral,NA,NA,NA
+2021-03-01,NA,NA,NA,CVL,femoral,NA,NA,NA
+2021-03-01,NA,NA,NA,CVL,femoral,NA,NA,NA
+2021-03-11,CAD,CABG,ICM,COR,femoral,NA,NA,NA
+2021-07-14,AF,AFL,NA,CVL,femoral,NA,NA,NA
+2021-07-14,AF,AFL,NA,CVL,femoral,NA,NA,NA
+2021-07-14,AF,AFL,NA,CVL,femoral,NA,NA,NA
+2021-07-14,AF,AFL,NA,CVL,femoral,NA,NA,NA
+2020-08-20,SSS,CHB,PAF,EPS,generator exchange,NA,NA,NA
+2020-09-01,VT,NA,NA,CIED,ICD,boston scientific,NA,NA
+2020-08-17,ICM,CHB,GIB,NA,inpatient,NA,NA,NA
+2020-09-06,cardiogenic shock,NSTEMI,NA,NA,inpatient,NA,NA,NA
+2020-09-06,STEMI,VF,SCD,NA,inpatient,NA,NA,NA
+2020-09-06,NICM,shock,AKI,NA,inpatient,NA,NA,NA
+2020-09-06,PH,bradycardia,NA,NA,inpatient,NA,NA,NA
+2020-09-06,CAD,CHB,NA,NA,inpatient,NA,NA,NA
+2020-09-06,ACS,NICM,COPD,NA,inpatient,NA,NA,NA
+2020-10-16,NICM,OSA,ADHF,NA,inpatient,NA,NA,NA
+2020-10-16,cirrhosis,CAD,SCD,NA,inpatient,deceased,NA,NA
+2020-10-16,OSA,HTN,NICM,NA,inpatient,ADHF,NA,NA
+2020-10-18,DHF,RBBB,OSA,NA,inpatient,NA,NA,NA
+2020-10-18,ICM,PAD,CAD,NA,inpatient,NA,NA,NA
+2020-10-18,CHB,DHF,AF,NA,inpatient,NA,NA,NA
+2020-10-18,NICM,RHD,PH,NA,inpatient,NA,NA,NA
+2020-10-18,cardiomyopathy,AFL,NA,NA,inpatient,unknown diagnosis,NA,NA
+2020-10-18,ICM,NA,NA,NA,inpatient,NA,NA,NA
+2020-10-18,NICM,AF,ADHF,NA,inpatient,NA,NA,NA
+2020-10-18,COVID,AF,NA,NA,inpatient,NA,NA,NA
+2020-10-19,cirrhosis,ESRD,AFRVR,NA,inpatient,NA,NA,NA
+2020-10-19,DHF,AF,OHS,NA,inpatient,NA,NA,NA
+2020-10-19,obesity,AF,ADHF,NA,inpatient,NA,NA,NA
+2020-10-19,HTN,CHF,DM,NA,inpatient,NA,NA,NA
+2020-10-19,NICM,ADHF,HTN,NA,inpatient,NA,NA,NA
+2020-10-19,NICM,AF,shock,NA,inpatient,NA,NA,NA
+2020-10-23,HTN,NICM,NA,NA,inpatient,NA,NA,NA
+2020-10-23,HTN,AF,NA,NA,inpatient,NA,NA,NA
+2020-10-23,DHF,HTN,CKD,NA,inpatient,NA,NA,NA
+2020-10-24,NICM,MR,NA,NA,inpatient,NA,NA,NA
+2020-10-24,HTN,NICM,ADHF,NA,inpatient,NA,NA,NA
+2020-10-26,DHF,obesity,congestive hepatopathy,NA,inpatient,NA,NA,NA
+2020-10-26,NICM,COVID,NA,NA,inpatient,NA,NA,NA
+2020-10-27,COVID,HTN,NA,NA,inpatient,NA,NA,NA
+2020-10-27,NSTEMI,HTN,NA,NA,inpatient,NA,NA,NA
+2020-10-27,NICM,ICD,NA,NA,inpatient,NA,NA,NA
+2020-10-27,ICM,CKD,ADHF,NA,inpatient,NA,NA,NA
+2020-10-28,MSIMI,NA,NA,NA,inpatient,NA,NA,NA
+2020-10-28,COVID,NICM,NA,NA,inpatient,NA,NA,NA
+2020-10-29,HTN,DMT2,NSTEMI,NA,inpatient,NA,NA,NA
+2020-10-30,AS,TAVR,ESRD,NA,inpatient,NA,NA,NA
+2020-10-30,AS,TAVR,HTN,NA,inpatient,NA,NA,NA
+2020-10-30,HTN,NSTEMI,NA,NA,inpatient,NA,NA,NA
+2020-10-30,AS,GIB,CHD,NA,inpatient,Heyde's syndrome,NA,NA
+2020-10-30,ADHF,HTN,NA,NA,inpatient,NA,NA,NA
+2020-10-30,NICM,COVID,NA,NA,inpatient,NA,NA,NA
+2020-11-02,AF,CHB,NA,NA,inpatient,NA,NA,NA
+2020-11-03,ADHF,NA,NA,NA,inpatient,NA,NA,NA
+2020-11-04,ICM,CAD,NA,NA,inpatient,NA,NA,NA
+2020-11-04,ICM,cardiogenic shock,hemorrhagic shock,NA,inpatient,NA,NA,NA
+2020-11-04,cancer,pericardial effusion,NA,NA,inpatient,NA,NA,NA
+2020-11-05,NICM,AFRVR,NA,NA,inpatient,NA,NA,NA
+2020-11-05,dementia,AS,hemorrhagic shock,NA,inpatient,NA,NA,NA
+2020-11-05,angina,HTN,NSTEMI,NA,inpatient,NA,NA,NA
+2020-11-06,NICM,AFL,obesity,NA,inpatient,NA,NA,NA
+2020-11-06,NICM,CAD,constrictive pericarditis,NA,inpatient,NA,NA,NA
+2020-11-06,DHF,AF,NA,NA,inpatient,NA,NA,NA
+2020-11-06,ETOH,NICM,AS,NA,inpatient,NA,NA,NA
+2020-11-06,COVID,MR,cirrhosis,NA,inpatient,NA,NA,NA
+2020-11-26,cardiogenic shock,NA,NA,NA,inpatient,NA,NA,NA
+2020-11-26,STEMI,pericardial effusion,pericarditis,NA,inpatient,NA,NA,NA
+2020-11-26,AF,ADHF,NA,NA,inpatient,NA,NA,NA
+2020-11-26,DHF,PH,OHS,NA,inpatient,NA,NA,NA
+2020-11-26,sinus pause,NA,NA,NA,inpatient,NA,NA,NA
+2020-11-26,ICM,PH,CVA,NA,inpatient,NA,NA,NA
+2020-11-26,CAD,ADHF,NA,NA,inpatient,NA,NA,NA
+2020-11-26,PCM,anemia,ADHF,NA,inpatient,NA,NA,NA
+2021-01-11,NICM,cardiogenic shock,AMS,NA,inpatient,NA,NA,NA
+2021-01-13,PCM,PAF,CKD,NA,inpatient,NA,NA,NA
+2021-01-13,cardiogenic shock,COVID,septic shock,NA,inpatient,NA,NA,NA
+2021-01-13,CAD,septic shock,pneumonia,NA,inpatient,NA,NA,NA
+2021-01-13,AF,CAD,cardiogenic shock,NA,inpatient,NA,NA,NA
+2021-01-15,NICM,cardiogenic shock,goiter,NA,inpatient,NA,NA,NA
+2021-02-20,HTN,CAD,ACS,NA,inpatient,NA,NA,NA
+2021-02-20,MR,hematoma,NA,NA,inpatient,NA,NA,NA
+2021-02-20,NSTEMI,NA,NA,NA,inpatient,NA,will cath be positive? Trop of 0.15,NA
+2021-02-20,VT,hyperthyroid,ACS,NA,inpatient,NA,potential interesting case of slow VT,1
+2020-09-06,NICM,shock,AKI,CVL,internal jugular,for HD,NA,NA
+2020-09-21,SLE,MR,hypoxia,CVL,internal jugular,for swan,NA,NA
+2020-09-21,SLE,MR,hypoxia,RHC,internal jugular,bedside,NA,NA
+2020-09-21,RHD,AS,SCD,CVL,internal jugular,left,NA,NA
+2020-10-20,NICM,AF,shock,CVL,internal jugular,access,NA,NA
+2020-10-24,NICM,MR,shock,CVL,internal jugular,NA,NA,NA
+2020-10-29,CHB,NSTEMI,NA,TVP,internal jugular,NA,NA,NA
+2020-10-29,CHB,NSTEMI,NA,CVL,internal jugular,NA,NA,NA
+2020-11-04,NA,NA,NA,CVL,internal jugular,NA,NA,NA
+2021-01-06,IE,DC-ICD,NICM,CVL,internal jugular,NA,NA,NA
+2021-01-06,PCM,cardiogenic shock,IABP,RHC,internal jugular,NA,NA,NA
+2021-01-07,amyloidosis,cardiogenic shock,NA,CVL,internal jugular,NA,NA,NA
+2021-01-07,cardiogenic shock,NICM,IABP,RHC,internal jugular,bedside,NA,NA
+2021-01-07,cardiogenic shock,IABP,central stenosis,RHC,internal jugular,NA,NA,NA
+2021-01-08,VAD,septic shock,respiratory failure,CVL,internal jugular,NA,NA,NA
+2020-08-17,HOCM,NA,NA,CIED,interrogation,S-ICD,no shocks,NA
+2020-08-18,ESRD,NICM,CAD,CIED,interrogation,DC-PPM,NA,NA
+2020-08-19,NICM,CAD,AF,CIED,interrogation,CRTD,NA,NA
+2020-08-19,CVA,NA,NA,CIED,interrogation,CRTD,CXR finding for MRI compatability,NA
+2020-08-20,syncope,NA,NA,CIED,interrogation,ICD,NA,NA
+2020-08-21,NA,NA,NA,CIED,interrogation,DC-PPM,medtronic,NA
+2020-08-24,CHB,GIB,shock,CIED,interrogation,TVP,NA,NA
+2020-08-24,shock,CVA,NA,CIED,interrogation,CRTD,medtronic,NA
+2020-08-31,NA,NA,NA,CIED,interrogation,ICD,pre-op,NA
+2020-09-06,Brugada Syndrome,NA,NA,CIED,interrogation,DC-PPM,medtronic,NA
+2020-09-11,HTN,HLD,PVC,CIED,interrogation,DC-PPM,boston scientific,NA
+2020-09-24,amyloidosis,sinus bradycardia,AF,CIED,interrogation,DC-PPM,sinus bradycardia,NA
+2020-10-02,NICM,AF,NA,CIED,interrogation,CRTD,NA,NA
+2020-11-27,bradycardia,IHD,NA,CIED,interrogation,DC-PPM,ventricular lead capture lost,NA
+2020-12-10,NICM,GIB,NA,CIED,interrogation,DC-PPM,NA,NA
+2020-07-02,CAD,HTN,NA,PCI,LAD,OCT,NA,NA
+2020-07-08,CAD,CVA,ESRD,PCI,LAD,NA,NA,NA
+2021-03-01,NA,NA,NA,PCI,LAD,FFR,NA,NA
+2021-03-02,NA,NA,NA,PCI,LAD,NA,NA,NA
+2021-03-02,NA,NA,NA,PCI,LAD,NA,NA,NA
+2021-03-02,NA,NA,NA,PCI,LAD,NA,NA,NA
+2021-03-09,NA,NA,NA,PCI,LAD,NA,NA,NA
+2021-03-11,NA,NA,NA,PCI,LAD,NA,NA,NA
+2021-03-14,CAD,epilepsy,NA,PCI,LAD,NA,NA,NA
+2020-10-01,HTN,DMT2,NSTEMI,PCI,LCX,DES,NA,NA
+2020-11-07,obesity,diverticulosis,NSTEMI,PCI,LCX,NA,NA,NA
+2021-03-02,NA,NA,NA,PCI,LCX,NA,NA,NA
+2021-03-02,NA,NA,NA,PCI,LM,NA,NA,NA
+2020-08-20,HTN,CVA,NA,CIED,loop recorder,NA,NA,NA
+2020-08-25,CVA,DMT2,HbSA,CIED,loop recorder,cryptogenic stroke,NA,NA
+2020-09-01,CVA,NA,NA,CIED,loop recorder,cryptogenic stroke,NA,NA
+2020-09-01,CVA,NA,NA,CIED,loop recorder,cryptogenic stroke,NA,NA
+2020-09-10,NA,NA,NA,CIED,loop recorder,NA,NA,NA
+2020-09-02,CHB,CAD,DMT2,CIED,pacemaker,complete heart block,NA,NA
+2021-02-25,NA,NA,NA,CIED,pacemaker,NA,NA,NA
+2020-09-11,scleroderma,PH,CHB,CIED,pacemaker implant,NA,NA,NA
+2020-09-02,HCM,AF,AFL,CIED,pacemaker/ICD,bradycardia,NA,NA
+2021-02-25,AF,NA,NA,EPS,PVI,cryoablation,NA,NA
+2020-07-01,ESRD,OSA,HTN,COR,radial,NA,pre-transplant,NA
+2020-07-01,HTN,NA,NA,COR,radial,NA,"cyclist, ""SOB"" with bending",NA
+2020-07-01,HTN,ETOH,NA,COR,radial,NA,"HTN, new-onset ADHF",NA
+2020-07-02,HFrEF,DMT2,ESRD,COR,radial,NA,anomalous right coronary artery,NA
+2020-07-02,CAD,HTN,NA,COR,radial,NA,SOB anginal equivalent,NA
+2020-07-02,HTN,Asthma,NA,COR,radial,NA,"dilated LA, prolonged QT",NA
+2020-07-06,ESRD,DMT2,HTN,COR,radial,NA,pre-transplant,NA
+2020-07-08,HTN,DMT2,NA,COR,radial,NA,NSTEMI,NA
+2020-07-08,ESRD,HTN,NA,COR,radial,NA,pre-transplant,NA
+2020-07-09,NICM,DMT2,HTN,COR,radial,NA,pre-operative (BKA),NA
+2020-07-09,HFrEF,CAD,NA,COR,radial,NA,ADHF,NA
+2020-07-09,DHF,PE,ESRD,COR,radial,NA,pre-transplant,NA
+2020-07-09,CAD,APLS,CVA,COR,radial,NA,staged PCI,NA
+2020-07-10,HTN,DMT2,CPS,COR,radial,NA,NSTEMI,NA
+2020-07-10,ESRD,HTN,DM,COR,radial,NA,NSTEMI,NA
+2020-07-10,CAD,HTN,DMT2,COR,radial,NA,staged PCI,NA
+2020-07-13,ESLD,HCV,NA,COR,radial,NA,pre-transplant,NA
+2020-07-13,CAD,HTN,DM,COR,radial,NA,NSTEMI,NA
+2020-07-13,HTN,ESRD,DMT2,COR,radial,NA,pre-transplant,NA
+2020-07-16,CAD,HFrEF,HTN,COR,radial,NA,NSTEMI,NA
+2020-07-16,ESRD,HTN,DMT2,COR,radial,NA,pre-transplant,NA
+2020-07-16,ESRD,ESRD,DMT1,COR,radial,NA,pre-transplant,NA
+2020-07-16,DMT2,HTN,NA,COR,radial,NA,NSTEMI,NA
+2020-07-17,ACS,CVA,NA,COR,radial,NA,NSTEMI,NA
+2020-07-17,ESRD,NA,NA,COR,radial,NA,pre-transplant,NA
+2020-07-17,CAD,DMT2,CKD,COR,radial,NA,NSTEMI,NA
+2020-08-28,CAD,GIB,NSTEMI,COR,radial,NSTEMI,NA,NA
+2020-09-01,HTN,ESRD,IBD,COR,radial,pre-transplant,NA,NA
+2020-09-06,ACS,NICM,COPD,COR,radial,NSTEMI,NA,NA
+2020-10-13,CAD,HTN,anxiety,COR,radial,NA,NA,NA
+2020-11-07,obesity,diverticulosis,NSTEMI,COR,radial,activated lab,NA,NA
+2021-01-06,IE,DC-ICD,NICM,AL,radial,NA,NA,NA
+2021-01-07,amyloidosis,cardiogenic shock,NA,AL,radial,NA,NA,NA
+2021-01-08,VAD,septic shock,respiratory failure,AL,radial,NA,NA,NA
+2021-03-01,CAD,ESRD,NSTEMI,COR,radial,NA,NA,NA
+2021-03-02,NSTEMI,NA,NA,COR,radial,NA,NA,NA
+2021-03-02,NA,NA,NA,COR,radial,left,NA,NA
+2021-03-02,NSTEMI,ADHF,NA,COR,radial,NA,NA,NA
+2021-03-02,cirrhosis,NA,NA,COR,radial,NA,pre-transplant,NA
+2021-03-09,CAD,HTN,VF,COR,radial,NA,NA,NA
+2021-03-09,CAD,NA,NA,COR,radial,NA,NA,NA
+2021-03-11,GERD,CAD,NA,COR,radial,NA,NA,NA
+2021-03-14,CAD,epilepsy,NA,COR,radial,NA,NA,NA
+2021-06-17,HTN,CAD,NA,COR,radial,NA,NA,NA
+2021-07-09,AS,CAD,NA,COR,radial,valve study,NA,NA
+2021-07-09,CAD,CABG,NA,COR,radial,NA,NA,NA
+2021-03-14,CAD,epilepsy,NA,PCI,RCA,NA,NA,NA
+2021-06-17,HTN,CAD,NA,PCI,RCA,shockwave,NA,NA
+2021-07-09,CAD,CABG,NA,PCI,RCA,shockwave,NA,NA
+2021-02-01,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-01,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-01,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-01,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-01,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-01,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-02,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-02,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-02,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-02,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-02,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-04,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-04,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-04,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-04,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-04,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-04,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-04,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-04,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-04,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-04,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-04,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-04,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-08,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-08,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-08,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-08,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-08,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-08,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-08,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-08,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-08,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-08,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-08,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-08,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-08,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-08,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-08,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-08,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-08,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-08,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-08,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-08,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-08,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-08,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-09,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-09,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-09,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-09,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-09,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-09,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-09,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-09,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-09,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-09,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-09,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-09,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-09,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-09,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-09,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-09,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-09,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-09,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-09,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-09,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-09,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-09,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-10,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-10,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-10,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-12,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-12,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-12,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-12,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-12,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-12,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-12,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-12,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-12,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-12,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-12,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-12,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-12,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-12,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-12,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-12,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-15,NA,NA,NA,stress,regadenosine,technetium,mid anterior wall mild/small defect,NA
+2021-02-15,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-15,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-15,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-15,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-15,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-15,NA,NA,NA,stress,regadenosine,technetium,"fixed inferior defect, RV hypertrophy",NA
+2021-02-15,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-15,NA,NA,NA,stress,regadenosine,technetium,anteroseptal fixed moderate,NA
+2021-02-15,NA,NA,NA,stress,regadenosine,technetium,"large anteroseptal and inferior reversible defect, but could all be artifact",NA
+2021-02-15,NA,NA,NA,stress,regadenosine,technetium,"mild anteroseptal defect, likely attenuation",NA
+2021-02-15,NA,NA,NA,stress,regadenosine,technetium,"inferior, hypokinetic, partially viable",NA
+2021-02-15,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-16,NA,NA,NA,stress,regadenosine,technetium,"normal study, no defects, no artifact",NA
+2021-02-16,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-16,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-16,NA,NA,NA,stress,regadenosine,technetium,"normal study, significant artifact",NA
+2021-02-16,NA,NA,NA,stress,regadenosine,technetium,large lateral reversible defect,NA
+2021-02-16,NA,NA,NA,stress,regadenosine,technetium,"anterior and anterolateral defect, reversible, mild/small",NA
+2021-02-16,NA,NA,NA,stress,regadenosine,technetium,"mild small anterior defect, partially reversible",NA
+2021-02-16,NA,NA,NA,stress,regadenosine,technetium,"small anterolateral, partially reversible",NA
+2021-02-16,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-16,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-17,NA,NA,NA,stress,regadenosine,technetium,"TID, 1.4",NA
+2021-02-17,NA,NA,NA,stress,regadenosine,technetium,"TID 1.4, anterior and inferior wall, reversible",NA
+2021-02-17,NA,NA,NA,stress,regadenosine,technetium,"large inferior wall defect, recurrent episdoes of syncope, vagal tone issues, hypotension during stress",NA
+2021-02-17,NA,NA,NA,stress,regadenosine,technetium,"anterior ischemia, reversible, inferior infarct pattern",NA
+2021-02-17,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-18,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-18,NA,NA,NA,stress,regadenosine,technetium,fixed inferior,NA
+2021-02-19,NA,NA,NA,stress,regadenosine,technetium,normal stress,NA
+2021-02-20,NA,NA,NA,stress,regadenosine,technetium,normal stress,NA
+2021-02-21,NA,NA,NA,stress,regadenosine,technetium,"fixed inferior defect, ECG with potential LVH",NA
+2021-02-22,NA,NA,NA,stress,regadenosine,technetium,partially reversible inferior defect in apex to mid,NA
+2021-02-22,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-22,NA,NA,NA,stress,regadenosine,technetium,"normal, 63%, TID 1.26 (?), ECG = early repolarization at baseline",NA
+2021-02-22,NA,NA,NA,stress,regadenosine,technetium,"normal, 72%, TID 1.04, ECG = normal",NA
+2021-02-22,NA,NA,NA,stress,regadenosine,technetium,"mid to base anterior to antero lateral moderate/medium reversible defect, resting inferior fixed defect; ECG = low voltage, ?anterior Q waves",NA
+2021-02-22,NA,NA,NA,stress,regadenosine,technetium,"ECG = LVH, secondary TWA, PVCs at baseline, 1-2 mm ST depressions | nuclear = moderate medium defect anterior/lateral, reversible, 60%, TID 1.09",NA
+2021-02-22,NA,NA,NA,stress,regadenosine,technetium,"ECG = nonspecific TW laterally, occasional A-pacing | nuclear = 77%, TID 0.78, normal",NA
+2021-02-22,NA,NA,NA,stress,regadenosine,technetium,"ECG = normal | nuclear = TID 1.30, 77%, normal",NA
+2021-02-22,NA,NA,NA,stress,regadenosine,technetium,"ECG = baseline LBBB | nuclear = TID of 0.97, 68%, inferior",NA
+2021-02-22,NA,NA,NA,stress,regadenosine,technetium,ECG normal | nuclear normal,NA
+2021-02-22,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-22,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-22,NA,NA,NA,stress,regadenosine,technetium,anterior defect mid to base,NA
+2021-02-22,NA,NA,NA,stress,regadenosine,technetium,"small inferior from apex to base, reversible",NA
+2021-02-23,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-24,NA,NA,NA,stress,regadenosine,technetium,"partially reversible septal, anterior, lateral walls",NA
+2021-02-24,NA,NA,NA,stress,regadenosine,technetium,"reversible anterior, lateral, septal defects",NA
+2021-02-24,NA,NA,NA,stress,regadenosine,technetium,normal stress nuclear,NA
+2021-02-24,NA,NA,NA,stress,regadenosine,technetium,inferolateral mid to base lesion that appears reversible,NA
+2021-02-24,NA,NA,NA,stress,regadenosine,technetium,normal,NA
+2021-02-24,NA,NA,NA,stress,regadenosine,technetium,"apical to mid inferior and inferolateral, mild intensty",NA
+2021-02-24,NA,NA,NA,stress,regadenosine,technetium,normal,NA
+2021-02-24,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-24,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-24,NA,NA,NA,stress,regadenosine,technetium,small anterior moderate intensity lesion,NA
+2021-02-24,NA,NA,NA,stress,regadenosine,technetium,"normal, thick myocardium",NA
+2021-02-24,NA,NA,NA,stress,regadenosine,technetium,"anterior defect, fixed",NA
+2021-02-24,NA,NA,NA,stress,regadenosine,technetium,"normal, thick myocardium",NA
+2021-02-24,NA,NA,NA,stress,regadenosine,technetium,"inferior irreversible defect, medium in size, moderate to severe",NA
+2021-02-25,NA,NA,NA,stress,regadenosine,technetium,sarcoidosis rest imaging,NA
+2021-02-25,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-25,NA,NA,NA,stress,regadenosine,technetium,fixed inferior,NA
+2021-02-25,NA,NA,NA,stress,regadenosine,technetium,"reversible inferior, likely artifact, partially reversible",NA
+2021-02-25,NA,NA,NA,stress,regadenosine,technetium,normal,NA
+2021-02-25,NA,NA,NA,stress,regadenosine,technetium,normal,NA
+2021-02-25,NA,NA,NA,stress,regadenosine,technetium,"inferior, fixed, dilated",NA
+2021-02-25,NA,NA,NA,stress,regadenosine,technetium,inferior but more basilar likely artifact,NA
+2021-02-25,NA,NA,NA,stress,regadenosine,technetium,normal,NA
+2021-02-26,NA,NA,NA,stress,regadenosine,technetium,small anterior reversible defect,NA
+2021-02-26,NA,NA,NA,stress,regadenosine,technetium,"anterior defect, reversible",NA
+2021-02-26,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-26,NA,NA,NA,stress,regadenosine,technetium,inferior fixed defect,NA
+2021-02-26,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-26,NA,NA,NA,stress,regadenosine,technetium,large anterior apical and anteroseptal fixed defects,NA
+2021-02-26,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-26,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2021-02-09,NA,NA,NA,US,renal,NA,NA,NA
+2020-07-10,ESRD,AF,CAD,ACLS,sinus bradycardia,NA,four pressors,NA
+2020-08-28,RHD,AF,HTN,EPS,subclavian,access,NA,NA
+2020-09-11,scleroderma,PH,CHB,CVL,subclavian,NA,NA,NA
+2020-09-11,scleroderma,PH,CHB,CVL,subclavian,NA,NA,NA
+2020-12-16,angina,NA,NA,stress,treadmill,NA,NA,NA
+2020-12-16,angina,NA,NA,stress,treadmill,NA,NA,NA
+2020-12-16,angina,NA,NA,stress,treadmill,NA,NA,NA
+2020-12-16,pre-op,NA,NA,stress,treadmill,NA,NA,NA
+2020-12-16,angina,NA,NA,stress,treadmill,NA,NA,NA
+2021-01-19,NA,NA,NA,stress,treadmill,echo,NA,NA
+2021-01-21,NA,NA,NA,stress,treadmill,echo,NA,NA
+2021-01-27,NA,NA,NA,stress,treadmill,echo,NA,NA
+2020-07-08,CAD,CVA,ESRD,COR,ulnar,NA,"staged PCI, NSTEMI",NA
+2021-02-09,NA,NA,NA,stress,viability,thallium,NA,NA
+2020-07-20,CVA,PFO,NA,TEE,NA,NA,stroke/PFO,NA
+2020-07-20,IE,ESRD,ICM,TEE,NA,NA,endocarditis,NA
+2020-07-20,cirrhosis,NA,NA,TTE,NA,NA,hyperdynamic,NA
+2020-07-21,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-07-21,HbSA,PE,NA,TTE,NA,NA,NA,NA
+2020-07-21,HTN,NA,NA,TTE,NA,NA,NA,NA
+2020-07-21,pericardial effusion,NA,NA,TTE,NA,NA,NA,NA
+2020-07-21,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-07-21,AF,DMT2,obesity,TEE,NA,for DCCV,NA,NA
+2020-07-22,NA,NA,NA,TTE,NA,pre-transplant,NA,NA
+2020-07-22,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-07-22,NA,NA,NA,TTE,NA,"pre-op, TURP",NA,NA
+2020-07-22,NA,NA,NA,TTE,NA,ICU,NA,NA
+2020-07-22,IE,ESRD,ICM,TEE,NA,thrombus seen to be removed,NA,NA
+2020-07-22,syncope,NA,NA,TTE,NA,apical hypokinesis,NA,NA
+2020-07-22,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-07-22,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-07-23,NA,NA,NA,TTE,NA,ADHF,NA,NA
+2020-07-23,NA,NA,NA,TEE,NA,LAA without clot,NA,NA
+2020-07-23,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-07-23,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-07-23,NA,NA,NA,TTE,NA,LV apical thrombus,NA,NA
+2020-07-23,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-07-23,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-07-24,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-07-24,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-07-24,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-07-24,NA,NA,NA,TTE,NA,post-TAVR,NA,NA
+2020-07-24,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-07-24,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-07-24,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-07-24,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-07-24,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-07-27,NICM,MR,IBD,TTE,NA,"prior to TEE, evaluate MR",NA,NA
+2020-07-27,NA,NA,NA,TTE,NA,extracardiac shunt,NA,NA
+2020-07-27,NICM,MR,IBD,TEE,NA,"severe MR, PISA",NA,NA
+2020-07-27,NA,NA,NA,TTE,NA,hyperdynamic,NA,NA
+2020-07-27,NA,NA,NA,TTE,NA,limited,NA,NA
+2020-07-28,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-07-28,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-07-28,NA,NA,NA,TTE,NA,STEMI to LAD,NA,NA
+2020-07-28,NA,NA,NA,TTE,NA,before TEE,NA,NA
+2020-07-28,NICM,MR,DM,TEE,NA,severe MR,NA,NA
+2020-07-28,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-07-28,NA,NA,NA,TTE,NA,LV mural thrombus,NA,NA
+2020-07-29,AF,OSA,DHF,TEE,NA,post-LAAO,NA,NA
+2020-07-29,CVA,NA,NA,TTE,NA,NA,NA,NA
+2020-07-29,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-07-29,ESRD,IE,NA,TEE,NA,no IE,NA,NA
+2020-07-29,NA,NA,NA,TTE,NA,AS,NA,NA
+2020-07-29,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-07-29,AF,HFrEF,NA,TEE,NA,no thrombus,NA,NA
+2020-07-29,MR,NA,NA,TTE,NA,"COVID, chord rupture",NA,NA
+2020-07-30,MR,AR,AF,TTE,NA,NA,NA,NA
+2020-07-30,MR,AR,AF,TTE,NA,NA,NA,NA
+2020-07-30,MR,MS,RHD,TTE,NA,NA,NA,NA
+2020-07-30,MR,AR,AF,TEE,NA,severe MR,NA,NA
+2020-08-03,NA,NA,NA,TTE,NA,tachycardia,NA,NA
+2020-08-03,NA,NA,NA,TTE,NA,pericardial effusion,NA,NA
+2020-08-03,COPD,NA,NA,TTE,NA,reduced EF,NA,NA
+2020-08-03,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-08-03,NA,NA,NA,TTE,NA,endocarditis,NA,NA
+2020-08-03,NA,NA,NA,TTE,NA,pregnancy,NA,NA
+2020-08-03,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-08-03,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-08-03,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-08-03,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-08-04,ESRD,AF,OSA,TEE,NA,no thrombus seen,NA,NA
+2020-08-04,NA,NA,NA,TTE,NA,pulmonary hypertension,NA,NA
+2020-08-04,AF,DHF,ALF,TEE,NA,NA,NA,NA
+2020-08-04,NA,NA,NA,TTE,NA,bacteremia,NA,NA
+2020-08-04,NSTEMI,IBD,NA,TTE,NA,NA,NA,NA
+2020-08-04,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-08-04,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-08-05,DMT2,CAD,PVD,TEE,NA,no vegetations,NA,NA
+2020-08-05,DMT2,CAD,PVD,TTE,NA,no vegetations,NA,NA
+2020-08-05,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-08-05,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-08-05,MRSA,NA,NA,TTE,NA,NA,NA,NA
+2020-08-05,NA,NA,NA,TTE,NA,pregnancy,NA,NA
+2020-08-05,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-08-06,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-08-06,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-08-06,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-08-06,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-08-07,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-08-07,NA,NA,NA,TTE,NA,TAVR,NA,NA
+2020-08-07,NA,NA,NA,TTE,NA,pericardial effusion,NA,NA
+2020-08-07,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-08-10,NA,NA,NA,TTE,NA,autoimmune mitral valve disease,NA,NA
+2020-08-10,AF,CAD,NA,TEE,NA,no thrombus,NA,NA
+2020-08-10,NA,NA,NA,TTE,NA,septic shock,NA,NA
+2020-08-10,MR,NICM,COVID,TEE,NA,"no thrombus, ruptured chordae tendinae",NA,NA
+2020-08-11,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-08-11,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-08-11,cirrhosis,HCV,NA,TEE,NA,PFO,NA,NA
+2020-08-11,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-08-11,AVR,TVR,MVR,TTE,NA,valvular heart disease,NA,NA
+2020-08-11,TOF,IE,NA,TTE,NA,vegetation on pulmonic valve,NA,NA
+2020-08-11,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-08-12,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-08-12,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-08-12,ICM,NA,NA,TTE,NA,cardiomegaly,NA,NA
+2020-08-12,ICM,NA,NA,MRI,NA,LGE,NA,NA
+2020-08-13,PH,NA,NA,TTE,NA,pericardial effusion,NA,NA
+2020-08-13,AFRVR,HTN,ADHF,TEE,NA,no thrombus in LAA,NA,NA
+2020-08-13,NSTEMI,NA,NA,TTE,NA,NA,NA,NA
+2020-08-13,NA,NA,NA,TTE,NA,Eustachian valve,NA,NA
+2020-08-13,AS,NA,NA,TTE,NA,aortic stenosis,NA,NA
+2020-08-13,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-08-13,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-08-13,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-08-13,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-08-13,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-08-14,CAD,ICM,NA,TTE,NA,MR,NA,NA
+2020-08-14,CAD,ICM,NA,TEE,NA,NA,NA,NA
+2020-08-14,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-08-14,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-08-14,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-08-18,AF,NA,NA,TEE,NA,no thrombus,NA,NA
+2020-08-18,AFRVR,HTN,NA,TEE,NA,no thrombus,NA,NA
+2020-08-25,HTN,CHB,PAF,TEE,NA,no thrombus,NA,NA
+2020-09-01,MR,NA,NA,TEE,NA,reduced EF,NA,NA
+2020-09-06,DHF,AF,cancer,PIV,brachial,NA,NA,NA
+2020-09-06,COPD,pericardial effusion,HTN,TTE,NA,NA,NA,NA
+2020-09-06,ESRD,DM,NA,TTE,NA,NA,NA,NA
+2020-09-08,AF,CVA,CAD,TEE,NA,no thrombus,NA,NA
+2020-09-14,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-09-14,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-09-14,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-09-14,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-09-14,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-09-14,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-09-14,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-09-14,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-09-14,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-09-14,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-09-15,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-09-15,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-09-15,MRSA,sepsis,IE,TEE,NA,IE,NA,NA
+2020-09-15,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-09-15,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-09-15,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-09-16,CVA,AF,NICM,TEE,NA,NA,NA,NA
+2020-09-16,ICM,MR,NA,TEE,NA,NA,NA,NA
+2020-09-16,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-09-16,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-09-16,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-09-16,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-09-17,NA,NA,NA,TEE,NA,moderate MR,NA,NA
+2020-09-17,AVR,AS,NA,TTE,NA,NA,NA,NA
+2020-09-17,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-09-17,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-09-17,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-09-17,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-09-17,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-09-17,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-09-18,ESRD,IE,shock,TEE,NA,NA,NA,NA
+2020-09-18,AS,CAD,NA,TEE,NA,NA,NA,NA
+2020-09-18,HFrEF,IE,NA,TEE,NA,NA,NA,NA
+2020-09-21,NA,NA,NA,TEE,NA,NA,NA,NA
+2020-09-21,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-09-21,NICM,VHD,NA,TTE,NA,NA,NA,NA
+2020-09-21,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-09-21,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-09-21,ESRD,NA,NA,TEE,NA,normal,NA,NA
+2020-09-21,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-09-21,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-09-21,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-09-22,AF,NA,NA,TEE,NA,watchman in place,NA,NA
+2020-09-22,AF,NA,NA,TEE,NA,NA,NA,NA
+2020-09-22,AS,NA,NA,TTE,NA,AS,NA,NA
+2020-09-22,ICM,SHF,NA,TTE,NA,NA,NA,NA
+2020-09-22,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-09-23,NA,NA,NA,TEE,NA,NA,NA,NA
+2020-09-23,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-09-23,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-09-23,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-09-23,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-09-23,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-09-24,amyloidosis,sinus bradycardia,AF,TEE,NA,no thrombus,NA,NA
+2020-09-24,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-09-25,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-09-25,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-09-25,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-09-25,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-09-28,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-09-28,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-09-28,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-09-28,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-09-28,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-09-28,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-09-28,ICM,AFL,AF,TEE,NA,smoke and sludge in left atrial appendage,NA,NA
+2020-09-28,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-09-28,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-09-28,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-09-29,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-09-29,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-09-29,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-09-29,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-09-29,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-09-29,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-09-29,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-09-30,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-09-30,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-09-30,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-09-30,AMS,cirrhosis,NA,TEE,NA,no vegetations,NA,NA
+2020-09-30,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-10-01,TIA,NA,NA,TEE,NA,NA,NA,NA
+2020-10-01,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-10-01,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-10-01,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-10-01,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-10-01,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-10-01,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-10-01,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-10-01,NA,NA,NA,TTE,NA,tamponade physiology,NA,NA
+2020-10-02,NICM,AF,NA,TTE,NA,NA,NA,NA
+2020-11-09,NICM,MR,ADHF,TTE,NA,"dilated, EF down to 10%",NA,NA
+2020-11-10,ACS,UA,NA,COR,radial,NA,NA,NA
+2020-11-26,STEMI,pericardial effusion,pericarditis,TTE,NA,NA,NA,NA
+2020-11-27,AFL,ADHF,NICM,TEE,NA,NA,NA,NA
+2020-11-27,AFL,ADHF,NICM,TTE,NA,NA,NA,NA
+2020-11-28,COVID,hypoxia,NA,TTE,NA,hyperdynamic,NA,NA
+2020-12-14,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-12-14,DHF,AF,obesity,TEE,NA,NA,NA,NA
+2020-12-14,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-12-14,CVA,NA,NA,TEE,NA,NA,NA,NA
+2020-12-15,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-12-15,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-12-15,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-12-15,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-12-15,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-12-15,ASD,NA,NA,TTE,NA,NA,NA,NA
+2020-12-16,PAF,NICM,NA,TEE,NA,NA,NA,NA
+2020-12-16,VSD,CHD,NA,TTE,NA,NA,NA,NA
+2020-12-16,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-12-16,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-12-16,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-12-16,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-12-16,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-12-16,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-12-16,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-12-16,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-12-16,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-12-16,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-12-16,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-12-16,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-12-16,NA,NA,NA,TTE,NA,NA,NA,NA
+2020-12-16,AF,ESRD,NA,TEE,NA,NA,NA,NA
+2020-12-16,NA,NA,NA,TTE,NA,ASD,NA,NA
+2021-01-19,pancreatic cancer,AFL,bradycardia,TEE,NA,NA,NA,NA
+2021-01-19,bacteremia,endocarditis,NA,TEE,NA,NA,NA,NA
+2021-01-19,CVA,NA,NA,TEE,NA,NA,NA,NA
+2021-01-19,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-19,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-19,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-19,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-19,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-19,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-19,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-19,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-19,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-19,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-19,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-19,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-20,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-20,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-20,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-20,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-20,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-20,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-20,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-20,SCD,VF arrest,PE,TEE,NA,NA,NA,NA
+2021-01-21,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-21,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-21,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-21,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-21,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-21,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-21,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-21,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-21,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-21,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-21,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-21,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-21,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-21,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-21,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-21,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-21,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-21,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-21,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-25,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-25,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-25,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-25,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-25,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-25,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-25,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-25,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-25,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-25,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-25,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-25,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-25,PFO,CVA,NA,TEE,NA,NA,NA,NA
+2021-01-25,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-25,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-26,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-26,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-26,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-26,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-26,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-26,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-27,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-27,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-27,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-27,NA,NA,NA,TEE,NA,NA,NA,NA
+2021-01-27,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-29,STEMI,NA,NA,TTE,NA,NA,NA,NA
+2021-01-29,CHB,NA,NA,TTE,NA,NA,NA,NA
+2021-01-29,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-29,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-29,AS,shock,NA,TTE,NA,NA,NA,NA
+2021-01-29,aortic dissection,HTN,smoking,TEE,NA,NA,NA,NA
+2021-01-29,aortic dissection,HTN,smoking,TTE,NA,NA,NA,NA
+2021-01-29,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-01-29,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-02-01,NA,NA,NA,TEE,NA,NA,NA,NA
+2021-02-01,NA,NA,NA,TEE,NA,NA,NA,NA
+2021-02-01,NA,NA,NA,TEE,NA,NA,NA,NA
+2021-02-02,NA,NA,NA,TEE,NA,NA,NA,NA
+2021-02-02,IE,AS,AI,TEE,NA,NA,NA,NA
+2021-02-02,IE,NA,NA,TEE,NA,NA,NA,NA
+2021-02-05,NA,NA,NA,TEE,NA,NA,NA,NA
+2021-02-05,NA,NA,NA,TEE,NA,NA,NA,NA
+2021-02-05,NA,NA,NA,TEE,NA,NA,NA,NA
+2021-02-09,NA,NA,NA,TEE,NA,severe mitral regurg,NA,NA
+2021-02-09,NA,NA,NA,TEE,NA,NA,NA,NA
+2021-02-09,AF,NA,NA,TEE,NA,NA,NA,NA
+2021-02-09,NA,NA,NA,TEE,NA,NA,NA,NA
+2021-02-09,NA,NA,NA,TEE,NA,NA,NA,NA
+2021-02-09,NA,NA,NA,TEE,NA,NA,NA,NA
+2021-02-09,NA,NA,NA,TEE,NA,NA,NA,NA
+2021-02-09,NA,NA,NA,TEE,NA,NA,NA,NA
+2021-02-10,NA,NA,NA,TEE,NA,NA,NA,NA
+2021-02-10,NA,NA,NA,TEE,NA,NA,NA,NA
+2021-02-11,NA,NA,NA,TEE,NA,NA,NA,NA
+2021-02-11,AF,NA,NA,TEE,NA,NA,NA,NA
+2021-02-11,AFL,NA,NA,TEE,NA,NA,NA,NA
+2021-02-11,AF,NA,NA,TEE,NA,NA,NA,NA
+2021-02-15,NA,NA,NA,TEE,NA,NA,NA,NA
+2021-02-15,NA,NA,NA,TEE,NA,NA,NA,NA
+2021-02-16,AF,NA,NA,TEE,NA,NA,NA,NA
+2021-02-16,fever,IE,AF,TEE,NA,NA,NA,NA
+2021-02-16,NA,NA,NA,TEE,NA,NA,NA,NA
+2021-02-17,NA,NA,NA,TEE,NA,NA,NA,NA
+2021-02-17,TAVR,IE,NA,TEE,NA,NA,NA,NA
+2021-02-17,NA,NA,NA,TEE,NA,NA,NA,NA
+2021-02-20,NA,NA,NA,NA,NA,NA,NA,NA
+2021-02-24,NA,NA,NA,TEE,NA,NA,NA,NA
+2021-02-24,NA,NA,NA,TEE,NA,NA,NA,NA
+2021-02-24,NA,NA,NA,TEE,NA,NA,NA,NA
+2021-03-09,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-01,aortic dissection,bicuspid AV,AF,TEE,NA,NA,NA,NA
+2021-07-01,CVA,HTN,NA,TEE,NA,NA,NA,NA
+2021-07-02,AF,NA,NA,TEE,NA,NA,NA,NA
+2021-07-02,AFL,bradycardia,ESRD,TEE,NA,NA,NA,NA
+2021-07-02,IE,AF,NA,TEE,NA,NA,NA,NA
+2021-07-06,IE,AF,NA,TEE,NA,NA,NA,NA
+2021-07-06,IE,MRSA,NA,TEE,NA,NA,mitral valve vegetation,NA
+2021-07-06,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-07-06,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-07-06,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-07-06,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-07-06,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-07-06,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-07-06,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-07-07,CVA,bradycardia,NA,TEE,NA,NA,PFO,NA
+2021-07-07,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-07-07,HFrEF,mitral regurgitation,NA,TEE,NA,NA,severe MR,NA
+2021-07-07,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-07-07,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-07-07,NA,NA,NA,TTE,NA,NA,AS s/p TAVR c/b AS,NA
+2021-07-07,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-07-08,AF,NA,NA,TEE,NA,NA,LAA thrombus,NA
+2021-07-12,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-07-12,AF,bradycardia,NA,TEE,NA,NA,no thrombus in LAA,NA
+2021-07-12,NA,NA,NA,TTE,NA,NA,EF 10% to normal in 6 months,1
+2021-07-12,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-07-12,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-12,NA,NA,NA,TTE,NA,NA,severe LVEF < 10%,NA
+2021-07-12,NA,NA,NA,TTE,NA,NA,right sided hypertrophy,NA
+2021-07-13,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-07-13,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-07-13,NA,NA,NA,NA,clinic,NA,NA,NA
+2021-07-13,NA,NA,NA,NA,clinic,NA,NA,NA
+2021-07-13,NA,NA,NA,NA,clinic,NA,NA,NA
+2021-07-13,NA,NA,NA,NA,clinic,NA,NA,NA
+2021-07-14,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-07-14,NA,NA,NA,TTE,NA,NA,apical sparing but reduced GLS,NA
+2021-07-14,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-07-14,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-07-15,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-07-15,NA,NA,NA,TEE,bedside,NA,NA,NA
+2021-07-15,NA,NA,NA,TEE,NA,NA,NA,NA
+2021-07-16,AF,AFL,ICD,TEE,bedside,NA,pre-watchman,NA
+2021-07-16,AF,AFL,ICD,TEE,NA,NA,NA,NA
+2021-07-16,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-07-16,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-07-16,NA,NA,NA,TTE,NA,NA,strain suggestive of amyloidosis,NA
+2021-07-16,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-07-16,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-07-16,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-07-16,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-07-16,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-07-20,APLS,COVID,SLE,MRI,bedside,NA,pericarditis,NA
+2021-07-20,APLS,COVID,SLE,MRI,NA,NA,thickened pericardium and chronic pericarditis,NA
+2021-07-20,scleroderma,NA,NA,MRI,bedside,NA,scleroderma causing myocardial fibrosis,NA
+2021-07-20,NA,NA,NA,MRI,NA,NA,"large pericardial effusion, myocardial fibrosis",NA
+2021-07-21,MVR,NICM,NA,MRI,bedside,NA,scar,NA
+2021-07-21,MVR,NICM,NA,MRI,NA,NA,NA,NA
+2021-07-30,bicuspid aortic valve,LVH,coarctation of aorta,MRI,bedside,NA,NA,NA
+2021-07-30,bicuspid aortic valve,LVH,coarctation of aorta,MRI,NA,NA,"congenital, LVH with moderate aortic stenosis, coarctation s/p repair",1
+2021-08-04,dyspnea,LVH,NA,MRI,bedside,NA,NA,NA
+2021-08-04,dyspnea,LVH,NA,MRI,NA,NA,apical hypertrophic cardiomyopathy,1
+2021-08-04,cardiac amyloidosis,NA,NA,MRI,bedside,NA,NA,NA
+2021-08-04,cardiac amyloidosis,NA,NA,MRI,NA,NA,normal MRI without LGE,NA
+2021-08-04,NSVT,NA,NA,MRI,bedside,NA,NA,NA
+2021-08-04,NSVT,NA,NA,MRI,NA,NA,NA,NA
+2021-08-02,WPW,NA,NA,EPS,ablation,accessory pathway,"looks like atrial tachycardia from CS, no indication to ablate",NA
+2021-08-02,WPW,NA,NA,CVL,femoral,NA,NA,NA
+2021-08-02,WPW,NA,NA,CVL,femoral,NA,NA,NA
+2021-08-02,WPW,NA,NA,CVL,femoral,NA,NA,NA
+2021-08-02,WPW,NA,NA,CVL,femoral,NA,NA,NA
+2021-08-02,WPW,NA,NA,EPS,CS,NA,NA,NA
+2021-08-02,WPW,NA,NA,EPS,HRA,NA,NA,NA
+2021-08-02,WPW,NA,NA,EPS,RV,NA,NA,NA
+2021-08-04,sarcoidosis,NA,NA,MRI,bedside,NA,NA,NA
+2021-08-04,sarcoidosis,NA,NA,MRI,NA,NA,normal LGE,NA
+2021-08-04,NICM,NA,NA,MRI,bedside,NA,NA,NA
+2021-08-04,NICM,NA,NA,MRI,NA,NA,inferolateral midmyocardial LGE of moderate intensity,NA
+2021-08-17,DOE,NICM,NA,NA,clinic,NA,NA,NA
+2021-08-17,HIV,cardiomyopathy,NA,NA,clinic,NA,NA,NA
+2021-08-17,aortic aneurysm,HTN,angina,NA,clinic,NA,NA,NA
+2021-08-17,NICM,dilated cardiomyopathy,NA,NA,clinic,NA,NA,NA
+2021-08-17,HFrecEF,NA,NA,NA,clinic,NA,NA,NA
+2021-08-30,ICM,HFrEF,NA,CIED,ICD,primary prevention,NA,NA
+2021-08-30,ICM,HFrEF,NA,CVL,subclavian,NA,NA,NA
+2021-08-30,NICM,cancer,CHB,CIED,CRT-D,NA,NA,NA
+2021-08-30,NICM,cancer,CHB,CVL,subclavian,NA,NA,NA
+2021-08-30,NICM,cancer,CHB,CIED,extraction,lead,NA,NA
+2021-08-30,NICM,cancer,CHB,CIED,extraction,lead,NA,NA
+2021-08-30,NICM,cancer,CHB,CIED,extraction,generator,NA,NA
+2021-08-19,CAD,NA,NA,NA,clinic,NA,NA,NA
+2021-08-19,CAD,ICM,NA,NA,clinic,NA,NA,NA
+2021-08-19,angina,NA,NA,NA,clinic,NA,follow-up coronary angiography,NA
+2021-08-19,CAD,NSTEMI,NA,NA,clinic,NA,NA,NA
+2021-08-19,HFrecEF,CAD,NA,NA,clinic,NA,NA,NA
+2021-09-13,UA,HTN,NA,COR,radial,NA,NA,NA
+2021-09-13,NICM,CHB,NA,CIED,extraction,generator,NA,NA
+2021-09-13,NICM,CHB,NA,CIED,DC-PPM,NA,NA,NA
+2021-09-13,AF,CAD,CABG,EPS,ablation,atrial fibrillation,NA,NA
+2021-09-13,AF,CAD,CABG,CVL,femoral,NA,NA,NA
+2021-09-13,AF,CAD,CABG,CVL,femoral,NA,NA,NA
+2021-09-13,AF,CAD,CABG,CVL,femoral,NA,NA,NA
+2021-09-13,AF,CAD,CABG,CVL,femoral,NA,NA,NA
+2021-09-13,AF,CAD,CABG,EPS,ICE,NA,NA,NA
+2021-09-13,CHB,nonagenerian,NA,CIED,DC-PPM,NA,NA,NA
+2021-09-22,NSTEMI,PVD,shock,COR,radial,NA,CTO of LAD and RCA,NA
+2021-09-22,NICM,NA,NA,CIED,SC-ICD,NA,NA,NA
+2021-09-22,AFL,NA,NA,EPS,ablation,atrial flutter,redo,NA
+2021-09-22,AFL,NA,NA,closure,femoral,Vascade,NA,NA
+2021-09-23,dementia,PE,hypoxia,RHC,femoral,CDT,NA,NA
+2021-09-23,dementia,PE,hypoxia,PCI,RPA,CDT,NA,NA
+2021-09-23,dementia,PE,hypoxia,CVL,femoral,NA,NA,NA
+2021-09-23,AVNRT,AFRVR,NA,ACLS,SVT,NA,NA,NA
+2021-09-23,CAD,HTN,NA,COR,radial,NA,NA,NA
+2021-09-23,COPD,HTN,NA,RHC,brachial,NA,NA,NA
+2021-09-23,CAD,HTN,NA,COR,radial,NA,CTO of RCA,NA
+2021-07-15,HIV,NA,NA,NA,clinic,NA,f/u LHC and TTE,NA
+2021-07-15,HTN,CAD,NA,NA,clinic,NA,NA,NA
+2021-07-15,syncope,NA,NA,NA,clinic,NA,NA,NA
+2021-07-15,NICM,NA,NA,NA,clinic,NA,f/u CMR,NA
+2021-09-24,sepsis,HFrEF,hypoxia,COR,radial,NA,NA,NA
+2021-09-24,sepsis,HFrEF,hypoxia,RHC,brachial,NA,NA,NA
+2021-09-24,HTN,AS,VHD,RHC,brachial,NA,NA,NA
+2021-09-24,HTN,AS,VHD,COR,radial,AVS,NA,NA
+2021-09-24,CAD,ICM,ESRD,COR,radial,NA,NA,NA
+2021-09-24,CAD,ICM,ESRD,PCI,LAD,proximal,NA,NA
+2021-09-27,CAD,ICM,ACS,COR,radial,NA,NA,NA
+2021-09-27,CAD,ICM,ACS,PCI,OM1,ostia,NA,NA
+2021-09-27,CAD,ICM,ACS,PCI,RCA,middle,NA,NA
+2021-09-27,CAD,PVD,ESRD,COR,femoral,NA,NA,NA
+2021-09-27,CAD,PVD,ESRD,PCI,LAD,middle,NA,NA
+2021-09-27,CAD,PVD,ESRD,PCI,LCX,ostia,DK crush,NA
+2021-09-27,CAD,PVD,ESRD,PCI,LAD,ostia,DK crush,NA
+2021-09-27,CAD,ACS,HTN,COR,radial,NA,NA,NA
+2021-09-27,CAD,ACS,HTN,PCI,LAD,middle,shockwave,NA
+2021-09-27,CAD,VT,HFpEF,COR,radial,NA,NA,NA
+2021-10-04,AF,NA,NA,CIED,ILR,NA,NA,NA
+2021-10-04,HTN,NA,NA,COR,radial,NA,NA,NA
+2021-10-04,HTN,NICM,NA,COR,radial,NA,NA,NA
+2021-10-04,HTN,NICM,NA,RHC,brachial,NA,NA,NA
+2021-10-03,toxic megacolon,AKI,NA,AL,radial,NA,NA,NA
+2021-10-03,toxic megacolon,AKI,NA,CVL,jugular,dialysis,NA,NA
+2021-10-03,toxic megacolon,AKI,NA,CVL,femoral,NA,NA,NA
+2021-10-05,CAD,HTN,VT,COR,radial,left,NA,NA
+2021-10-05,CAD,HTN,VT,PCI,LAD,FFR,NA,NA
+2021-10-05,CAD,HTN,angina,COR,radial,NA,NA,NA
+2021-10-05,CHB,NA,NA,CIED,DC-PPM,Medtronic,NA,NA
+2021-10-05,AF,NA,NA,CIED,ILR,Boston,NA,NA
+2021-10-06,AF,NICM,NA,EPS,ablation,atrial fibrillation,NA,NA
+2021-10-06,AF,NICM,NA,closure,femoral,Vascade,NA,NA
+2021-10-06,AF,NICM,NA,closure,femoral,Vascade,NA,NA
+2021-10-06,AF,NICM,NA,closure,femoral,Vascade,NA,NA
+2021-10-06,AF,NICM,NA,EPS,transeptal,NA,NA,NA
+2021-10-06,AF,NICM,NA,CVL,femoral,NA,NA,NA
+2021-10-06,AF,NICM,NA,CVL,femoral,NA,NA,NA
+2021-10-06,AF,NICM,NA,CVL,femoral,NA,NA,NA
+2021-10-06,AF,NICM,NA,CVL,femoral,NA,NA,NA
+2021-10-06,AF,NICM,NA,EPS,CS,NA,NA,NA
+2021-10-06,PH,PE,NA,CVL,femoral,NA,NA,NA
+2021-10-06,PH,PE,NA,CVL,femoral,NA,NA,NA
+2021-10-06,PH,PE,NA,RHC,femoral,CDT,NA,NA
+2021-10-06,PH,PE,NA,RHC,femoral,CDT,NA,NA
+2021-10-06,PH,PE,NA,PCI,RPA,NA,NA,NA
+2021-10-06,PH,PE,NA,PCI,LPA,NA,NA,NA
+2021-10-08,ICM,NICM,OSA,COR,radial,NA,NA,NA
+2021-10-08,ICM,NICM,OSA,COR,femoral,NA,NA,NA
+2021-10-08,ICM,NICM,OSA,AL,radial,NA,NA,NA
+2021-10-08,ICM,NICM,OSA,AL,femoral,NA,NA,NA
+2021-10-08,ICM,NICM,OSA,RHC,brachial,NA,NA,NA
+2021-10-08,HTN,DM,HLD,COR,radial,NA,NA,NA
+2021-10-08,HTN,DM,HLD,COR,femoral,NA,NA,NA
+2021-10-08,HTN,DM,HLD,AL,femoral,NA,NA,NA
+2021-10-08,HTN,DM,HLD,AL,femoral,NA,NA,NA
+2021-10-08,HTN,DM,HLD,PCI,LAD,middle,NA,NA
+2021-10-08,HTN,DM,HLD,PCI,LAD,distal,NA,NA
+2021-10-08,HTN,CAD,obesity,COR,femoral,NA,NA,NA
+2021-10-08,HTN,CAD,obesity,AL,femoral,NA,NA,NA
+2021-10-08,HTN,CAD,obesity,PCI,RCA,shockwave,NA,NA
+2021-10-08,HTN,CAD,obesity,PCI,RCA,ostial,NA,NA
+2021-10-11,ADHF,colitis,NA,NA,inpatient,NA,NA,NA
+2021-10-11,hypotension,NICM,cirrhosis,NA,inpatient,NA,NA,NA
+2021-10-11,syncope,AS,TAVR,NA,inpatient,NA,NA,NA
+2021-10-12,syncope,AS,TAVR,EPS,diagnostic,NA,NA,NA
+2021-10-12,syncope,AS,TAVR,EPS,CS,NA,NA,NA
+2021-10-12,syncope,AS,TAVR,EPS,His,NA,NA,NA
+2021-10-12,syncope,AS,TAVR,EPS,RV,NA,NA,NA
+2021-10-12,syncope,AS,TAVR,CVL,femoral,NA,NA,NA
+2021-10-12,syncope,AS,TAVR,CVL,femoral,NA,NA,NA
+2021-10-12,syncope,AS,TAVR,CVL,femoral,NA,NA,NA
+2021-10-12,syncope,AS,TAVR,closure,femoral,NA,NA,NA
+2021-10-12,syncope,AS,TAVR,closure,femoral,NA,NA,NA
+2021-10-12,syncope,AS,TAVR,closure,femoral,NA,NA,NA
+2021-10-11,ADHF,IDDM,HLD,NA,inpatient,NA,NA,NA
+2021-10-11,CAD,HFpEF,PH,NA,inpatient,NA,NA,NA
+2021-10-13,CAD,HFpEF,PH,RHC,brachial,NA,NA,NA
+2021-10-11,ICM,LBBB,ADHF,NA,inpatient,NA,NA,NA
+2021-10-11,STEMI,hypoxia,sepsis,NA,inpatient,NA,NA,NA
+2021-10-11,sinus pause,VT,AF,NA,inpatient,NA,NA,NA
+2021-10-12,CAD,CABG,HTN,NA,inpatient,NA,NA,NA
+2021-10-12,ICM,NSTEMI,ESRD,NA,inpatient,NA,NA,NA
+2021-10-12,NSTEMI,HLD,NA,NA,inpatient,NA,NA,NA
+2021-10-12,MVR,RA,NICM,NA,inpatient,NA,NA,NA
+2021-10-12,CAD,CABG,IDDM,NA,inpatient,NA,NA,NA
+2021-10-12,STEMI,PAF,NA,NA,inpatient,NA,NA,NA
+2021-10-12,CAD,NSTEMI,HLD,NA,inpatient,NA,NA,NA
+2021-10-12,AF,CVA,AFL,NA,inpatient,NA,NA,NA
+2021-10-12,CHB,ESRD,CABG,NA,inpatient,NA,NA,NA
+2021-10-12,ADHF,AFL,AF,NA,inpatient,NA,NA,NA
+2021-10-12,ADHF,Fever,AKI,NA,inpatient,NA,NA,NA
+2021-09-29,CAD,NA,NA,COR,radial,NA,NA,NA
+2021-09-29,CAD,NA,NA,PCI,LAD,NA,NA,NA
+2021-09-29,CAD,NA,NA,PCI,RCA,NA,NA,NA
+2021-09-29,angina,NA,NA,COR,radial,NA,NA,NA
+2021-09-15,CAD,CABG,NA,COR,radial,NA,NA,NA
+2021-09-14,CAD,CABG,NA,PCI,SVG,NA,NA,NA
+2021-09-14,CAD,CABG,NA,COR,radial,NA,NA,NA
+2021-09-14,CAD,CABG,NA,RHC,brachial,NA,NA,NA
+2021-09-23,MR,NA,NA,NA,clinic,NA,surgical eval,NA
+2021-09-23,PAH,CAD,NA,NA,clinic,NA,f/u LHC,NA
+2021-09-23,edema,COPD,NA,NA,clinic,NA,f/u TTE,NA
+2021-09-23,palpitations,NA,NA,NA,clinic,NA,NA,NA
+2021-09-28,NICM,NA,NA,COR,radial,NA,NA,NA
+2021-09-28,NICM,NA,NA,RHC,brachial,NA,NA,NA
+2021-09-22,CAD,NA,NA,COR,radial,NA,NA,NA
+2021-09-19,NICM,CAD,NA,COR,radial,NA,NA,NA
+2021-09-19,NICM,CAD,NA,RHC,brachial,NA,NA,NA
+2021-10-04,CAD,NA,NA,COR,radial,NA,NA,NA
+2021-10-05,CAD,NA,NA,COR,radial,NA,NA,NA
+2021-10-04,PH,NA,NA,RHC,brachial,NA,NA,NA
+2021-10-01,PH,NA,NA,RHC,brachial,NA,NA,NA
+2021-10-01,CAD,NA,NA,COR,radial,NA,NA,NA
+2021-09-28,CAD,NA,NA,COR,radial,NA,NA,NA
+2021-09-28,CAD,NA,NA,PCI,FFR,NA,NA,NA
+2021-09-12,CAD,NA,NA,COR,radial,NA,NA,NA
+2021-09-12,CAD,NA,NA,PCI,IVUS,NA,NA,NA
+2021-09-12,CAD,NA,NA,PCI,LCX,NA,NA,NA
+2021-10-20,bradycardia,NA,NA,CIED,generator exchange,NA,NA,NA
+2021-10-20,AFL,NA,NA,EPS,ablation,atrial flutter,NA,NA
+2021-10-20,AFL,NA,NA,CVL,femoral,NA,NA,NA
+2021-10-20,AFL,NA,NA,CVL,femoral,NA,NA,NA
+2021-10-20,AFL,NA,NA,CVL,femoral,NA,NA,NA
+2021-10-20,AFL,NA,NA,closure,femoral,Vascade,NA,NA
+2021-10-20,AFL,NA,NA,closure,femoral,Vascade,NA,NA
+2021-10-20,AFL,NA,NA,closure,femoral,Vascade,NA,NA
+2021-10-19,CVA,PFO,NA,TEE,bedside,NA,NA,NA
+2021-10-19,CVA,PFO,NA,TEE,NA,NA,NA,NA
+2021-10-23,HTN,DM,NA,COR,radial,NA,vasospasm,NA
+2021-10-23,HTN,DM,NA,COR,femoral,NA,NA,NA
+2021-10-23,HTN,DM,NA,AL,radial,NA,NA,NA
+2021-10-23,HTN,DM,NA,AL,femoral,NA,NA,NA
+2021-10-23,HTN,DM,NA,PCI,LM,NA,NA,NA
+2021-10-23,HTN,DM,NA,PCI,LAD,NA,NA,NA
+2021-10-23,HTN,DM,NA,closure,femoral,Angioseal,NA,NA
+2021-10-23,HTN,DM,NA,PCI,LCX,NA,NA,NA
+2021-10-23,CVA,LV thrombus,AF,NA,consult,NA,NA,NA
+2021-10-21,CAD,CABG,AS,NA,clinic,NA,NA,NA
+2021-10-21,NSTEMI,CABG,DMT2,NA,clinic,NA,cath,NA
+2021-10-21,HIV,NICM,NA,NA,clinic,NA,CMR,NA
+2021-10-21,CAD,COPD,OA,NA,clinic,NA,CMR,NA
+2021-10-21,NA,NA,NA,NA,clinic,NA,CMR for fractionated QRS,NA
+2021-10-21,CAD,NA,NA,NA,clinic,NA,NA,NA
+2021-10-21,CAD,ICM,HTN,NA,clinic,NA,NA,NA
+2021-10-23,cancer,pneumonia,cardiac tamponade,NA,inpatient,NA,NA,NA
+2021-10-23,cancer,pneumonia,cardiac tamponade,TTE,bedside,NA,NA,NA
+2021-10-23,cancer,pneumonia,cardiac tamponade,TTE,bedside,NA,NA,NA
+2021-10-23,NA,NA,NA,CVL,internal jugular,NA,NA,NA
+2021-10-23,NA,NA,NA,AL,radial,NA,NA,NA
+2021-10-23,PVC,NA,NA,NA,inpatient,NA,NA,NA
+2021-10-23,CAD,ACS,NA,NA,inpatient,NA,NA,NA
+2021-10-25,obesity,AFRVR,NA,NA,inpatient,NA,NA,NA
+2021-10-23,HFpEF,anemia,pneumonia,NA,inpatient,NA,NA,NA
+2021-10-22,ICM,cardiogenic shock,hyperkalemia,ACLS,VF,NA,NA,NA
+2021-10-22,ICM,cardiogenic shock,hyperkalemia,CVL,femoral,NA,NA,NA
+2021-10-22,ICM,cardiogenic shock,hyperkalemia,TVP,femoral,NA,NA,NA
+2021-10-22,ICM,cardiogenic shock,hyperkalemia,MCS,Impella,adjustment,NA,NA
+2021-10-22,ICM,cardiogenic shock,hyperkalemia,MCS,Impella,adjustment,NA,NA
+2021-10-22,ICM,cardiogenic shock,hyperkalemia,MCS,Impella,adjustment,NA,NA
+2021-10-22,ICM,cardiogenic shock,hyperkalemia,TTE,bedside,NA,NA,NA
+2021-10-22,ICM,cardiogenic shock,hyperkalemia,TTE,bedside,NA,NA,NA
+2021-10-22,ICM,cardiogenic shock,hyperkalemia,TTE,bedside,NA,NA,NA
+2021-10-22,ICM,cardiogenic shock,hyperkalemia,AL,radial,NA,NA,NA
+2021-10-21,HIV,NICM,ADHF,NA,inpatient,NA,NA,NA
+2021-10-20,PVT,long QT,NICM,NA,inpatient,NA,NA,NA
+2021-10-15,ICM,IDDM,HLD,NA,inpatient,NA,NA,NA
+2021-10-15,mechanical MV,NICM,NA,CIED,explant,NA,NA,NA
+2021-10-18,ICM,PVD,NA,NA,inpatient,NA,NA,NA
+2021-10-15,mechanical MV,NICM,NA,NA,inpatient,NA,NA,NA
+2021-10-15,CAD,NSTEMI,NA,NA,inpatient,NA,NA,NA
+2021-10-15,syncope,NA,NA,CIED,ILR,Medtronic,NA,NA
+2021-10-26,cryptogenic stroke,NA,NA,CIED,ILR,Medtronic,NA,NA
+2021-10-26,cryptogenic stroke,PFO,DVT,CIED,ILR,Medtronic,NA,NA
+2021-10-26,NICM,PVT,AF,CIED,SC-ICD,Medtronic,NA,NA
+2021-10-26,juntional escape,AT,NA,NA,inpatient,NA,NA,NA
+2021-10-26,CAD,PVD,NA,NA,inpatient,NA,NA,NA
+2021-10-25,CHB,hyperkalemia,NA,NA,ICU,NA,NA,NA
+2021-10-25,CHB,hyperkalemia,NA,TVP,internal jugular,NA,NA,NA
+2021-10-25,CHB,hyperkalemia,NA,CVL,internal jugular,NA,NA,NA
+2021-10-26,pocket infection,arrhythmia,NA,NA,inpatient,NA,NA,NA
+2021-10-01,CAD,NA,NA,COR,femoral,NA,NA,NA
+2021-10-01,NA,NA,NA,AL,radial,NA,NA,NA
+2021-10-01,CAD,NA,NA,COR,radial,NA,NA,NA
+2021-10-01,NA,NA,NA,AL,radial,NA,NA,NA
+2021-10-27,CAD,ICM,VF,pericardiocentesis,NA,NA,NA,NA
+2021-10-27,CAD,ICM,VF,AL,femoral,NA,NA,NA
+2021-10-27,CAD,ICM,VF,NA,ICU,NA,NA,NA
+2021-10-27,CAD,ICM,VF,TTE,bedside,NA,NA,NA
+2021-10-27,ICM,cardiogenic shock,cancer,NA,ICU,NA,NA,NA
+2021-10-27,ICM,cardiogenic shock,cancer,TTE,bedside,NA,NA,NA
+2021-10-27,ICM,CAD,STEMI,COR,radial,NA,NA,NA
+2021-10-27,ICM,CAD,STEMI,COR,femoral,NA,NA,NA
+2021-10-27,ICM,CAD,STEMI,TTE,bedside,NA,NA,NA
+2021-10-27,ICM,CAD,STEMI,AL,radial,NA,NA,NA
+2021-10-27,ICM,CAD,STEMI,AL,femoral,NA,NA,NA
+2021-10-27,ICM,CAD,STEMI,MCS,femoral,Impella,NA,NA
+2021-10-27,ICM,CAD,STEMI,PCI,IVUS,NA,NA,NA
+2021-10-27,ICM,CAD,STEMI,PCI,LAD,NA,NA,NA
+2021-10-27,ICM,CAD,STEMI,PCI,LM,NA,NA,NA
+2021-10-27,ICM,CAD,STEMI,NA,inpatient,NA,NA,NA
+2021-11-01,ICM,NA,NA,CIED,ICD,Biotronik,did the first fascia close layer,NA
+2021-11-01,ICM,NA,NA,CVL,subclavian,NA,"unsuccessful, complex access requiring caudal view and venography",NA
+2021-11-01,AFL,NA,NA,EPS,ablation,atrial flutter,NA,NA
+2021-11-01,AFL,NA,NA,closure,femoral,Vascade,NA,NA
+2021-11-01,AFL,NA,NA,closure,femoral,Vascade,NA,NA
+2021-10-27,septic shock,cardiogenic shock,ESRD,AL,axillary,NA,NA,NA
+2021-10-27,septic shock,cardiogenic shock,ESRD,TVP,femoral,NA,NA,NA
+2021-10-26,AF,NA,NA,TEE,bedside,NA,NA,NA
+2021-10-26,AF,NA,NA,DCCV,200J,NA,converted to NSR,NA
+2021-10-26,AF,NA,NA,TEE,NA,NA,NA,NA
+2021-10-28,VHD,NA,NA,NA,inpatient,NA,NA,NA
+2021-10-27,VHD,NA,NA,NA,inpatient,NA,NA,NA
+2021-10-26,AF,NA,NA,NA,inpatient,NA,NA,NA
+2021-10-26,DHF,pneumonia,NA,RHC,brachial,NA,NA,NA
+2021-10-26,DHF,pneumonia,NA,RHC,inpatient,NA,NA,NA
+2021-11-01,amyloid,HFpEF,VHD,NA,inpatient,NA,NA,NA
+2021-11-01,amyloid,HFpEF,VHD,TTE,bedside,NA,NA,NA
+2021-10-29,PVT,epilepsy,NA,NA,clinic,NA,NA,NA
+2021-10-29,DMT2,angina,NA,NA,clinic,NA,NA,NA
+2021-10-29,ESRD,PVD,NA,NA,clinic,NA,NA,NA
+2021-10-29,septagenerian,NA,NA,NA,clinic,NA,NA,NA
+2021-10-29,PVD,NA,NA,NA,clinic,NA,NA,NA
+2021-10-29,orthostasis,NA,NA,NA,clinic,NA,NA,NA
+2021-11-12,CAD,ICM,NA,LHC,radial,NA,NA,NA
+2021-11-12,CAD,ICM,NA,COR,radial,NA,NA,NA
+2021-11-12,CAD,ICM,NA,AL,radial,NA,NA,NA
+2021-11-12,ICM,CAD,NA,LHC,femoral,NA,NA,NA
+2021-11-12,ICM,CAD,NA,COR,femoral,NA,NA,NA
+2021-11-12,ICM,CAD,NA,AL,femoral,NA,NA,NA
+2021-11-12,AS,AS,obesity,COR,radial,NA,NA,NA
+2021-11-12,AS,VHD,obesity,AL,radial,NA,NA,NA
+2021-11-12,AS,VHD,obesity,RHC,radial,NA,NA,NA
+2021-11-12,AS,VHD,obesity,LHC,radial,valve study,NA,NA
+2021-11-11,CAD,HTN,NA,LHC,radial,NA,NA,NA
+2021-11-11,CAD,HTN,NA,COR,radial,NA,NA,NA
+2021-11-11,CAD,HTN,NA,AL,radial,NA,NA,NA
+2021-11-11,CAD,HTN,NA,LHC,radial,NA,NA,NA
+2021-11-11,CAD,HTN,NA,COR,radial,NA,NA,NA
+2021-11-11,CAD,HTN,NA,AL,radial,NA,NA,NA
+2021-11-11,DHF,OSA,PH,LHC,radial,NA,NA,NA
+2021-11-11,DHF,OSA,PH,COR,radial,NA,NA,NA
+2021-11-11,DHF,OSA,PH,AL,radial,NA,NA,NA
+2021-11-11,DHF,OSA,PH,RHC,brachial,vasodilator study,NA,NA
+2021-11-10,ESRD,CAD,DMT2,COR,radial,NA,NA,NA
+2021-11-10,ESRD,CAD,DMT2,AL,radial,NA,NA,NA
+2021-11-10,ESRD,CAD,DMT2,PCI,RCA,NA,NA,NA
+2021-11-10,ESRD,CAD,DMT2,PCI,IVUS,NA,NA,NA
+2021-11-10,ESRD,CAD,DMT2,PCI,atherectomy,NA,NA,NA
+2021-11-10,ESRD,CAD,DMT2,LHC,radial,NA,NA,NA
+2021-11-10,ESRD,CAD,DMT2,COR,radial,NA,NA,NA
+2021-11-10,ESRD,CAD,DMT2,AL,radial,NA,NA,NA
+2021-11-10,ESRD,CAD,DMT2,PCI,LAD,NA,NA,NA
+2021-11-10,STEMI,NA,NA,LHC,radial,NA,NA,NA
+2021-11-10,STEMI,NA,NA,COR,radial,NA,NA,NA
+2021-11-10,STEMI,NA,NA,AL,radial,NA,NA,NA
+2021-11-10,STEMI,NA,NA,AL,radial,NA,NA,NA
+2021-11-10,STEMI,NA,NA,PCI,LAD,NA,NA,NA
+2021-11-09,HTN,HLD,HLD,LHC,radial,NA,NA,NA
+2021-11-09,HTN,HLD,HLD,COR,radial,NA,NA,NA
+2021-11-09,HTN,HLD,bradycardia,PCI,RCA,NA,NA,NA
+2021-11-09,ESRD,VT,PEA,LHC,radial,NA,NA,NA
+2021-11-09,ESRD,VT,PEA,COR,radial,NA,NA,NA
+2021-11-09,ESRD,VT,PEA,AL,radial,NA,NA,NA
+2021-11-09,ESRD,VT,PEA,AL,radial,NA,NA,NA
+2021-11-09,ESRD,VT,VT,CVL,femoral,NA,NA,NA
+2021-11-09,ESRD,VT,PEA,RHC,femoral,NA,NA,NA
+2021-11-09,ESRD,VT,PEA,PCI,pulmonary angiography,NA,NA,NA
+2021-11-09,ESRD,VT,PEA,TVP,femoral,NA,NA,NA
+2021-11-09,ESRD,VT,PEA,ACLS,PEA,NA,NA,NA
+2021-11-08,AS,cardiogenic shock,cardiogenic shock,LHC,radial,NA,NA,NA
+2021-11-08,AS,cardiogenic shock,cardiogenic shock,COR,radial,NA,NA,NA
+2021-11-08,AS,cardiogenic shock,VHD,AL,radial,NA,NA,NA
+2021-11-08,HTN,CKD,NA,LHC,radial,NA,NA,NA
+2021-11-08,HTN,CKD,NA,COR,radial,NA,NA,NA
+2021-11-08,HTN,CKD,NA,AL,radial,NA,NA,NA
+2021-11-08,CAD,HTN,ESRD,LHC,radial,NA,NA,NA
+2021-11-08,CAD,HTN,ESRD,COR,radial,NA,NA,NA
+2021-11-08,CAD,HTN,ESRD,AL,radial,NA,NA,NA
+2021-11-15,CAD,HTN,NA,LHC,radial,NA,NA,NA
+2021-11-15,CAD,HTN,NA,COR,radial,NA,NA,NA
+2021-11-15,AS,HTN,obesity,LHC,radial,valve study,NA,NA
+2021-11-15,AS,HTN,obesity,COR,radial,NA,NA,NA
+2021-11-15,AS,HTN,obesity,RHC,brachial,NA,NA,NA
+2021-11-15,NICM,NA,NA,CIED,CRT-D,Medtronic,NA,NA
+2021-11-15,ICM,HTN,CABG,COR,radial,NA,NA,NA
+2021-11-15,ICM,HTN,CABG,AL,radial,NA,NA,NA
+2021-11-15,ICM,HTN,CABG,LHC,radial,NA,NA,NA
+2021-11-15,ICM,HTN,CABG,PCI,RCA,NA,NA,NA
+2021-11-15,ICM,LBBB,CKD,LHC,radial,NA,NA,NA
+2021-11-15,ICM,LBBB,CKD,COR,radial,NA,NA,NA
+2021-11-15,ICM,LBBB,CKD,AL,radial,NA,NA,NA
+2021-11-15,ICM,LBBB,CKD,RHC,brachial,NA,NA,NA
+2021-11-15,COPD,DHF,NA,RHC,brachial,NA,NA,NA
+2021-11-15,CKD,DHF,NA,RHC,brachial,NA,NA,NA
+2021-11-22,CAD,obesity,CKD,LHC,radial,NA,NA,NA
+2021-11-22,CAD,obesity,CKD,COR,radial,NA,NA,NA
+2021-11-22,CAD,obesity,CKD,AL,radial,NA,NA,NA
+2021-11-22,CAD,obesity,CKD,PCI,LAD,NA,NA,NA
+2021-11-19,ESRD,HTN,DMT2,AL,radial,NA,NA,NA
+2021-11-19,ESRD,HTN,DMT2,AL,femoral,NA,NA,NA
+2021-11-19,ESRD,HTN,DMT2,closure,femoral,Perclose,NA,NA
+2021-11-19,ESRD,HTN,DMT2,LHC,femoral,NA,NA,NA
+2021-11-19,ESRD,HTN,DMT2,COR,femoral,NA,NA,NA
+2021-11-19,PH,OSA,COPD,RHC,brachial,vasodilator study,NA,NA
+2021-11-19,PH,OSA,COPD,LHC,radial,NA,NA,NA
+2021-11-19,PH,OSA,COPD,AL,radial,NA,NA,NA
+2021-11-18,ESRD,HTN,DMT2,LHC,radial,NA,NA,NA
+2021-11-18,ESRD,HTN,DMT2,AL,radial,NA,NA,NA
+2021-11-18,ESRD,HTN,DMT2,COR,radial,NA,NA,NA
+2021-11-18,AS,VHD,HTN,LHC,radial,valve study,NA,NA
+2021-11-18,AS,VHD,HTN,RHC,brachial,NA,NA,NA
+2021-11-18,AS,VHD,HTN,AL,radial,NA,NA,NA
+2021-11-18,AS,VHD,HTN,COR,radial,NA,NA,NA
+2021-11-18,CVA,DVT,STEMI,AL,femoral,NA,NA,NA
+2021-11-18,CVA,DVT,STEMI,LHC,femoral,NA,NA,NA
+2021-11-18,CVA,DVT,STEMI,PCI,LAD,NA,NA,NA
+2021-11-18,CVA,DVT,STEMI,PCI,OCT,NA,NA,NA
+2021-11-18,CVA,DVT,STEMI,COR,femoral,NA,NA,NA
+2021-11-22,COPD,CAD,NA,RHC,brachial,NA,NA,NA
+2021-11-22,CAD,HTN,NA,AL,radial,NA,NA,NA
+2021-11-22,CAD,HTN,NA,LHC,radial,NA,NA,NA
+2021-11-22,CAD,HTN,NA,COR,radial,NA,NA,NA
+2021-11-22,AF,obesity,DHF,EPS,ablation,PVI,NA,NA
+2021-11-22,AF,obesity,DHF,CVL,femoral,NA,NA,NA
+2021-11-22,AF,obesity,DHF,closure,femoral,Vascade,NA,NA
+2021-11-22,AF,obesity,DHF,CVL,femoral,NA,NA,NA
+2021-11-22,AF,obesity,DHF,closure,femoral,Vascade,NA,NA
+2021-11-22,AF,obesity,DHF,CVL,femoral,NA,NA,NA
+2021-11-22,AF,obesity,DHF,closure,femoral,Vascade,NA,NA
+2021-11-22,AF,obesity,DHF,CVL,femoral,NA,NA,NA
+2021-11-22,AF,obesity,DHF,closure,femoral,Vascade,NA,NA
+2021-11-22,AF,obesity,DHF,EPS,transeptal,NA,NA,NA
+2021-11-22,AF,obesity,DHF,EPS,CS,NA,NA,NA
+2021-11-22,AF,obesity,DHF,EPS,ICE,NA,NA,NA
+2021-11-23,ASD,CHD,NA,PCI,ASD,Amplatzer,"balloon to size the ASD, then ICE to help image",NA
+2021-11-23,ASD,CHD,NA,PCI,ICE,NA,NA,NA
+2021-11-23,ESRD,DM,NA,AL,radial,NA,NA,NA
+2021-11-23,ESRD,DM,NA,LHC,radial,NA,NA,NA
+2021-11-23,ESRD,DM,NA,COR,radial,NA,NA,NA
+2021-11-23,CKD,CAD,NA,LHC,radial,NA,NA,NA
+2021-11-23,CKD,CAD,NA,COR,radial,NA,NA,NA
+2021-11-23,CKD,CAD,NA,PCI,OCT,NA,NA,NA
+2021-11-23,CKD,CAD,NA,PCI,FFR,NA,NA,NA
+2021-11-23,HTN,obesity,smoker,AL,radial,NA,NA,NA
+2021-11-23,HTN,obesity,smoker,LHC,radial,NA,NA,NA
+2021-11-23,HTN,obesity,smoker,PCI,radial,NA,NA,NA
+2021-11-23,CAD,rash,angina,NA,clinic,NA,NA,NA
+2021-11-23,CAD,NA,NA,NA,clinic,NA,NA,NA
+2021-11-23,CAD,lumbago,NA,NA,clinic,NA,NA,NA
+2021-11-23,CABG,orthostasis,NA,NA,clinic,NA,NA,NA
+2021-11-23,CAD,DMT2,HTN,NA,clinic,NA,NA,NA
+2021-11-23,ESRD,NICM,amyloidosis,NA,clinic,NA,NA,NA
+2021-11-23,obesity,DHF,CAD,NA,clinic,NA,NA,NA
+2021-11-26,bacteremia,NA,NA,TEE,bedside,NA,NA,NA
+2021-11-26,bacteremia,NA,NA,TEE,NA,NA,NA,NA
+2021-11-26,CVA,NA,NA,TEE,bedside,NA,NA,NA
+2021-11-26,CVA,NA,NA,TEE,NA,NA,NA,NA
+2021-11-24,CAD,PVD,NA,AL,radial,NA,NA,NA
+2021-11-24,CAD,PVD,NA,LHC,radial,NA,NA,NA
+2021-11-24,CAD,PVD,NA,COR,radial,NA,NA,NA
+2021-11-24,CAD,PVD,NA,PCI,iliac,NA,NA,NA
+2021-11-24,ESRD,NICM,NA,AL,radial,NA,NA,NA
+2021-11-24,ESRD,NICM,NA,LHC,radial,NA,NA,NA
+2021-11-24,ESRD,NICM,NA,PCI,IVUS,NA,NA,NA
+2021-11-24,ESRD,NICM,NA,RHC,brachial,NA,NA,NA
+2021-11-24,angina,CMD,NA,LHC,radial,NA,NA,NA
+2021-11-24,angina,CMD,NA,COR,radial,NA,NA,NA
+2021-11-24,hypothyroidism,bradycardia,NA,TVP,internal jugular,NA,NA,NA
+2021-12-03,NICM,NA,NA,AL,radial,NA,NA,NA
+2021-12-03,NICM,NA,NA,LHC,radial,NA,NA,NA
+2021-12-03,NICM,NA,NA,COR,radial,NA,NA,NA
+2021-12-03,NICM,NA,NA,RHC,brachial,NA,NA,NA
+2021-12-03,ESRD,HTN,DMT2,AL,radial,NA,NA,NA
+2021-12-03,ESRD,HTN,DMT2,LHC,radial,NA,NA,NA
+2021-12-03,ESRD,HTN,DMT2,COR,radial,NA,NA,NA
+2021-12-03,ICM,HTN,obesity,AL,radial,NA,NA,NA
+2021-12-03,ICM,HTN,obesity,LHC,radial,NA,NA,NA
+2021-12-03,ICM,HTN,obesity,COR,radial,NA,NA,NA
+2021-12-02,PH,COPD,NA,RHC,brachial,NA,NA,NA
+2021-12-02,AF,AFL,AT,EPS,CS,AFL,NA,NA
+2021-12-02,HbSC,HTN,NA,NA,clinic,NA,NA,NA
+2021-12-02,HTN,NA,NA,NA,clinic,NA,NA,NA
+2021-12-02,GERD,palpitations,angina,NA,clinic,NA,NA,NA
+2021-12-02,PFO,HTN,HLD,NA,clinic,NA,scuba diver with concern for decompression syndrome,NA
+2021-12-02,migraines,NICM,NA,NA,clinic,NA,NA,NA
+2021-12-02,HTN,NA,NA,NA,clinic,NA,NA,NA
+2021-12-02,STEMI,cardiogenic shock,NA,MCS,femoral,Impella,NA,NA
+2021-12-02,STEMI,cardiogenic shock,NA,LHC,femoral,NA,NA,NA
+2021-12-02,STEMI,cardiogenic shock,NA,COR,femoral,NA,NA,NA
+2021-12-02,STEMI,cardiogenic shock,NA,RHC,femoral,NA,NA,NA
+2021-12-01,ESRD,DM,HTN,AL,radial,NA,NA,NA
+2021-12-01,ESRD,DM,HTN,LHC,radial,NA,NA,NA
+2021-12-01,ESRD,DM,HTN,COR,radial,NA,NA,NA
+2021-12-01,ESRD,HTN,NA,AL,femoral,NA,NA,NA
+2021-12-01,ESRD,HTN,NA,LHC,femoral,NA,NA,NA
+2021-12-01,ESRD,HTN,NA,COR,femoral,NA,NA,NA
+2021-12-01,ESRD,HTN,NA,closure,femoral,Angioseal,NA,NA
+2021-12-01,ESRD,DM,HTN,AL,femoral,NA,NA,NA
+2021-12-01,ESRD,DM,HTN,LHC,femoral,NA,NA,NA
+2021-12-01,ESRD,DM,HTN,COR,femoral,NA,NA,NA
+2021-12-01,ESRD,DM,HTN,closure,femoral,Perclose,NA,NA
+2021-12-01,NSTEMI,angina,NA,AL,radial,NA,NA,NA
+2021-12-01,NSTEMI,angina,NA,LHC,radial,NA,NA,NA
+2021-12-01,NSTEMI,angina,NA,COR,radial,NA,NA,NA
+2021-12-01,NSTEMI,NA,NA,AL,radial,NA,NA,NA
+2021-12-01,NSTEMI,NA,NA,LHC,radial,NA,NA,NA
+2021-12-01,NSTEMI,NA,NA,COR,radial,NA,NA,NA
+2021-12-01,NSTEMI,NA,NA,PCI,LAD,NA,NA,NA
+2021-12-01,ICM,dementia,NA,AL,radial,NA,NA,NA
+2021-12-01,ICM,dementia,NA,LHC,radial,NA,NA,NA
+2021-12-01,ICM,dementia,NA,COR,radial,NA,NA,NA
+2021-12-01,ICM,dementia,NA,RHC,brachial,NA,NA,NA
+2021-11-30,ESRD,NICM,NA,AL,radial,NA,NA,NA
+2021-11-30,ESRD,NICM,NA,LHC,radial,NA,NA,NA
+2021-11-30,ESRD,NICM,NA,COR,radial,NA,NA,NA
+2021-11-30,ESRD,NICM,NA,RHC,brachial,NA,NA,NA
+2021-11-30,CKD,HTN,DMT2,AL,radial,NA,NA,NA
+2021-11-30,CKD,HTN,DMT2,LHC,radial,NA,NA,NA
+2021-11-30,CKD,HTN,DMT2,COR,radial,NA,NA,NA
+2021-11-30,AF,HTN,NA,AL,radial,NA,NA,NA
+2021-11-30,AF,HTN,NA,LHC,radial,NA,NA,NA
+2021-11-30,AF,HTN,NA,COR,radial,NA,NA,NA
+2021-11-30,AF,HTN,NA,RHC,brachial,NA,NA,NA
+2021-11-30,AF,HTN,NA,pericardiocentesis,NA,NA,NA,NA
+2021-11-29,AF,PSA,NICM,AL,radial,NA,NA,NA
+2021-11-29,AF,PSA,NICM,LHC,radial,NA,NA,NA
+2021-11-29,AF,PSA,NICM,COR,radial,NA,NA,NA
+2021-11-29,AF,PSA,NICM,RHC,brachial,NA,NA,NA
+2021-11-29,cirrhosis,PVD,angina,AL,radial,NA,NA,NA
+2021-11-29,cirrhosis,PVD,angina,LHC,radial,NA,NA,NA
+2021-11-29,cirrhosis,PVD,angina,COR,radial,NA,NA,NA
+2021-11-29,PVD,NA,NA,AL,femoral,NA,NA,NA
+2021-11-29,PVD,NA,NA,LHC,femoral,NA,NA,NA
+2021-11-29,PVD,NA,NA,COR,femoral,NA,NA,NA
+2021-11-29,DM,ESRD,NSTEMI,AL,radial,NA,NA,NA
+2021-11-29,DM,ESRD,NSTEMI,LHC,radial,NA,NA,NA
+2021-11-29,DM,ESRD,NSTEMI,COR,radial,NA,NA,NA
+2021-11-29,TIA,NICM,NA,AL,radial,NA,NA,NA
+2021-11-29,TIA,NICM,NA,LHC,radial,NA,NA,NA
+2021-11-29,TIA,NICM,NA,COR,radial,NA,NA,NA
+2021-11-29,TIA,NICM,NA,RHC,brachial,NA,NA,NA
+2021-11-29,PH,DHF,NA,RHC,brachial,NA,NA,NA
+2021-12-06,pericardial effusion,NA,NA,TTE,NA,NA,NA,NA
+2021-12-06,IE,RHD,NA,TEE,bedside,NA,NA,NA
+2021-12-06,IE,RHD,NA,TEE,NA,NA,NA,NA
+2021-12-06,AF,LAA thrombus,NA,TEE,bedside,NA,NA,NA
+2021-12-06,AF,LAA thrombus,NA,TEE,NA,NA,NA,NA
+2021-12-06,ESRD,NA,NA,TTE,NA,NA,NA,NA
+2021-12-06,HFrEF,NA,NA,TTE,NA,NA,NA,NA
+2021-12-06,IE,NA,NA,TEE,bedside,NA,NA,NA
+2021-12-06,IE,NA,NA,TEE,NA,NA,NA,NA
+2021-12-07,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-12-07,NA,NA,NA,TTE,NA,NA,calcific liver mass,NA
+2021-12-07,AF,NA,NA,TEE,bedside,Watchman,NA,NA
+2021-12-07,AS,NA,NA,TEE,bedside,NA,NA,NA
+2021-12-07,AF,NA,NA,TEE,bedside,NA,NA,NA
+2021-12-07,NA,NA,NA,DCCV,300J,NA,converted to NSR,NA
+2021-12-07,NA,NA,NA,TEE,bedside,Watchman,NA,NA
+2021-12-08,AS,NA,NA,TTE,NA,NA,NA,NA
+2021-12-08,LVH,NA,NA,TTE,NA,NA,NA,NA
+2021-12-08,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-12-08,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-12-08,lupus,MR,AI,TTE,NA,NA,NA,NA
+2021-12-08,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-12-08,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-12-08,NA,NA,NA,TTE,NA,NA,NA,NA
+NA,NA,NA,NA,TTE,NA,NA,NA,NA
+2021-12-15,ESRD,transplant,ICM,CIED,S-ICD,Boston Scientific,NA,NA
+2021-12-15,ESRD,transplant,ICM,CIED,generator exchange,NA,NA,NA
+2021-12-14,AF,obesity,NA,EPS,AF,NA,NA,NA
+2021-12-14,AF,obesity,NA,EPS,CS,NA,NA,NA
+2021-12-14,AF,obesity,NA,EPS,transeptal,NA,NA,NA
+2021-12-14,AF,obesity,NA,CVL,femoral,NA,NA,NA
+2021-12-14,AF,obesity,NA,closure,femoral,Vascade,NA,NA
+2021-12-14,AF,obesity,NA,CVL,femoral,NA,NA,NA
+2021-12-14,AF,obesity,NA,closure,femoral,Vascade,NA,NA
+2021-12-14,AF,obesity,NA,CVL,femoral,NA,NA,NA
+2021-12-14,AF,obesity,NA,closure,femoral,Vascade,NA,NA
+2021-12-14,AF,obesity,NA,CVL,femoral,NA,NA,NA
+2021-12-14,AF,obesity,NA,closure,femoral,Vascade,NA,NA
+2021-12-06,IE,NA,NA,TEE,bedside,NA,NA,NA
+2021-12-06,IE,NA,NA,TEE,NA,NA,NA,NA
+2021-12-10,obesity,cardiomyopathy,NA,TEE,bedside,NA,NA,NA
+2021-12-10,obesity,cardiomyopathy,NA,TEE,NA,NA,NA,NA
+2021-12-10,IE,AS,SAVR,TEE,bedside,NA,severe IE with peri-annular abscess,1
+2021-12-10,IE,AS,SAVR,TEE,NA,NA,NA,NA
+2021-12-09,AF,NA,NA,TEE,bedside,NA,NA,NA
+2021-12-09,AF,NA,NA,TEE,NA,NA,NA,NA
+2021-12-08,PFO,NA,NA,TEE,bedside,NA,NA,NA
+2021-12-08,PFO,NA,NA,TEE,NA,NA,NA,NA
+2021-12-16,AF,NA,NA,TEE,bedside,NA,NA,NA
+2021-12-16,AF,NA,NA,DCCV,300J,NA,convert to NSR,NA
+2021-12-16,AF,NA,NA,TEE,NA,NA,NA,NA
+2021-12-16,IE,RHD,MVR,TEE,bedside,NA,NA,NA
+2021-12-16,IE,RHD,MVR,TEE,NA,NA,NA,NA
+2021-12-07,AF,NA,NA,TEE,bedside,Watchman,NA,NA
+2021-12-07,AF,NA,NA,TEE,bedside,Watchman,NA,NA
+2021-12-07,AF,NA,NA,TEE,bedside,Watchman,NA,NA
+2021-12-16,ESRD,NA,NA,NA,clinic,NA,NA,NA
+2021-12-16,ESRD,CAD,NA,NA,clinic,NA,NA,NA
+2021-12-16,cirrhosis,CAD,thrombocytopenia,NA,clinic,NA,NA,NA
+2021-12-16,CAD,CABG,NA,NA,clinic,NA,NA,NA
+2021-12-16,CAD,NA,NA,NA,clinic,NA,NA,NA
+2021-12-16,ESRD,DHF,CABG,NA,clinic,NA,NA,NA
+2021-12-16,ICM,CKD,anemia,NA,clinic,NA,NA,NA
+2021-12-29,CAD,VT,NA,CIED,explant,NA,NA,NA
+2021-12-29,CAD,VT,NA,EPS,ICE,NA,NA,NA
+2021-12-29,CAD,VT,NA,CVL,femoral,NA,NA,NA
+2021-12-31,PEA,CAD,STEMI,CVL,internal jugular,NA,NA,NA
+2021-12-31,PEA,CAD,STEMI,AL,radial,NA,NA,NA
+2022-01-03,COPD,PH,DHF,RHC,brachial,NA,NA,NA
+2022-01-03,CAD,DHF,FTT,COR,radial,NA,NA,NA
+2022-01-03,CAD,DHF,FTT,AL,radial,NA,NA,NA
+2022-01-03,CAD,DHF,FTT,LHC,radial,NA,NA,NA
+2022-01-03,STEMI,MVR,ICM,AL,radial,NA,NA,NA
+2022-01-03,STEMI,MVR,ICM,LHC,radial,NA,NA,NA
+2022-01-03,STEMI,MVR,ICM,COR,radial,NA,NA,NA
+2022-01-06,PVD,AFL,NA,NA,clinic,NA,NA,NA
+2022-01-06,CAD,CABG,NA,NA,clinic,NA,NA,NA
+2022-01-27,obesity,HTN,NA,NA,clinic,NA,NA,NA
+2022-01-27,CAD,HTN,COVID,NA,clinic,NA,NA,NA
+2022-01-27,endometrial cancer,chemotherapy,NA,NA,clinic,NA,NA,NA
+2022-01-27,NICM,brain mass,PSA,NA,clinic,NA,NA,NA
+2022-01-27,ESRD,DM,HTN,NA,clinic,NA,NA,NA
+2022-01-27,ESRD,CAD,CABG,NA,clinic,NA,NA,NA
+2022-02-11,lupus,MR,NICM,NA,clinic,NA,NA,NA
+2022-02-11,obesity,NICM,NA,NA,clinic,NA,NA,NA
+2022-02-16,AF,obesity,NA,TEE,bedside,NA,NA,NA
+2022-02-16,AF,obesity,NA,TEE,NA,NA,NA,NA
+2022-02-16,NA,NA,NA,TTE,NA,NA,NA,NA
+2022-02-22,ICM,AFL,shock,RHC,internal jugular,NA,NA,NA
+2022-02-22,ICM,AFL,shock,CVL,internal jugular,NA,NA,NA
+2022-02-23,ICM,AFL,shock,RHC,internal jugular,NA,NA,NA
+2022-02-24,CVA,HTN,COPD,NA,clinic,NA,NA,NA
+2022-02-24,NICM,NA,NA,NA,clinic,NA,NA,NA
+2022-02-24,MR,NA,NA,NA,clinic,NA,NA,NA
+2022-02-24,ESRD,DMT2,NA,NA,clinic,NA,NA,NA
+2022-02-24,DMT2,SVT,NA,NA,clinic,NA,NA,NA
+2022-02-24,ACHD,NA,NA,NA,clinic,NA,NA,NA
+2022-02-24,NICM,cancer,NA,NA,clinic,NA,NA,NA
+2022-02-24,SCAD,NA,NA,NA,clinic,NA,NA,NA
+2022-02-28,NA,NA,NA,TTE,NA,NA,NA,NA
+2022-02-28,NA,NA,NA,TTE,NA,NA,NA,NA
+2022-02-28,NA,NA,NA,TEE,bedside,NA,NA,NA
+2022-02-28,NA,NA,NA,TEE,NA,NA,NA,NA
+2022-02-28,PE,pericardial effusion,NA,TTE,NA,NA,NA,NA
+2022-02-28,NA,NA,NA,TTE,NA,NA,NA,NA
+2022-02-28,NA,NA,NA,TTE,NA,NA,NA,NA
+2022-02-28,NA,NA,NA,TTE,NA,NA,NA,NA
+2022-03-01,SAM,NA,NA,TTE,NA,NA,NA,NA
+2022-03-01,CVA,NA,NA,TEE,bedside,NA,NA,NA
+2022-03-01,CVA,NA,NA,TEE,NA,NA,NA,NA
+2022-03-01,CVA,NA,NA,TEE,bedside,NA,positive bubble study,NA
+2022-03-01,CVA,NA,NA,TEE,NA,NA,NA,NA
+2022-03-02,AS,NA,NA,TTE,NA,NA,NA,NA
+NA,NA,NA,NA,TTE,NA,NA,NA,NA
+2022-03-02,AF,AFL,NA,TEE,bedside,NA,NA,NA
+2022-03-02,AF,AFL,NA,TEE,NA,NA,NA,NA
+NA,NICM,NA,NA,TTE,NA,NA,NA,NA
+NA,NA,NA,NA,TTE,NA,NA,NA,NA
+NA,NA,NA,NA,TTE,NA,NA,NA,NA
+2022-03-02,apical HCM,pericardial effusion,NA,TTE,NA,NA,NA,NA
+2022-03-03,PE,cancer,NA,TTE,clinic,NA,NA,NA
+2022-03-03,apical HCM,NA,NA,TTE,clinic,NA,NA,NA
+2022-03-03,ESRD,DM,HTN,TTE,clinic,NA,NA,NA
+2022-03-03,HTN,cough,NA,TTE,clinic,NA,NA,NA
+2022-03-03,HTN,angina,NA,TTE,clinic,NA,NA,NA
+2022-03-03,obesity,palpitations,OSA,TTE,clinic,NA,NA,NA
+2022-03-03,AS,NA,NA,TTE,clinic,NA,NA,NA
+2022-03-03,STEMI,ICM,NA,TTE,clinic,NA,NA,NA
+2022-03-03,AF,NA,NA,TTE,clinic,NA,NA,NA
+2022-03-04,CVA,IE,NA,TEE,bedside,NA,NA,NA
+2022-03-04,CVA,IE,NA,TEE,NA,NA,NA,NA
+2022-03-04,AF,PVI,NA,TEE,bedside,NA,NA,NA
+2022-03-04,AF,PVI,NA,TEE,NA,NA,NA,NA
+2022-03-04,AF,obesity,NA,TEE,bedside,NA,MV anterior leaflet chordae rupture; MR,NA
+2022-03-04,NA,NA,NA,TEE,NA,NA,NA,NA
+2022-03-04,AF,NA,NA,TEE,bedside,NA,calcific bicuspid AV,NA
+2022-03-04,NA,NA,NA,TEE,NA,NA,NA,NA
+2022-03-04,DHF,NA,NA,TTE,NA,NA,NA,NA
+2022-03-04,NA,NA,NA,TTE,NA,NA,NA,NA
+2022-03-04,NA,NA,NA,TTE,NA,NA,NA,NA
+2022-03-04,IE,NA,NA,TTE,bedside,NA,NA,NA
+2022-03-04,IE,NA,NA,TTE,NA,NA,NA,NA
+2022-03-04,cholangiocarcinoma,cancer,AFL,DCCV,200J,NA,cardioverted but returned to AFL at 150s,NA
+2022-03-07,BAV,AI,NA,TTE,NA,NA,NA,NA
+2022-03-07,NA,NA,NA,TTE,NA,NA,NA,NA
+2022-03-07,NA,NA,NA,TTE,NA,NA,NA,NA
+2022-03-07,NA,NA,NA,TTE,NA,NA,NA,NA
+2022-03-07,NA,NA,NA,TTE,NA,NA,NA,NA
+2022-03-07,NA,NA,NA,TTE,NA,NA,NA,NA
+2022-03-07,HFrecEF,NA,NA,TTE,NA,NA,NA,NA
+2022-03-07,LVH,NA,NA,TTE,NA,NA,NA,NA
+2022-03-07,STEMI,ICM,NA,TTE,NA,NA,NA,NA
+2022-03-07,CVA,NA,NA,TEE,bedside,NA,NA,NA
+2022-03-07,NA,NA,NA,TEE,NA,NA,NA,NA
+2022-03-07,CVA,PFE,NA,TTE,NA,NA,NA,NA
+2022-03-07,NA,NA,NA,TTE,NA,NA,NA,NA
+2022-03-07,NA,NA,NA,TTE,NA,NA,NA,NA
+2022-03-07,NA,NA,NA,TTE,NA,NA,NA,NA
+2022-03-07,NA,NA,NA,TTE,NA,NA,NA,NA
+2022-03-07,NA,NA,NA,TTE,NA,NA,NA,NA
+2022-03-07,NA,NA,NA,TTE,NA,NA,NA,NA
+2022-03-08,DHF,pericardial effusion,scleroderma,TTE,NA,NA,NA,NA
+NA,NA,NA,NA,TTE,NA,NA,NA,NA
+NA,NA,NA,NA,TTE,NA,NA,NA,NA
+2022-03-09,extracardiac shunt,NA,NA,TTE,NA,NA,Qp/Qs of 1.3,NA
+NA,NA,NA,NA,TTE,NA,NA,NA,NA
+NA,PPCM,NA,NA,TTE,NA,NA,NA,NA
+2022-03-09,MR,NA,NA,TTE,NA,NA,NA,NA
+NA,NA,NA,NA,TTE,NA,NA,NA,NA
+2022-03-09,TR,AI,NA,TTE,NA,NA,NA,NA
+NA,pericardial effusion,NA,NA,TTE,NA,NA,NA,NA
+2022-03-10,AF,NA,NA,TEE,bedside,NA,NA,NA
+NA,NA,NA,NA,TEE,NA,NA,NA,NA
+NA,DHF,NA,NA,TTE,NA,NA,restrictive filling pattern,NA
+NA,NA,NA,NA,TTE,NA,NA,NA,NA
+NA,NA,NA,NA,TTE,NA,NA,NA,NA
+NA,NA,NA,NA,TTE,NA,NA,NA,NA
+NA,NA,NA,NA,TTE,NA,NA,NA,NA
+NA,ESRD,HTN,DM,NA,clinic,NA,NA,NA
+NA,HTN,sinus bradycardia,RBBB,NA,clinic,NA,NA,NA
+NA,HCM,NA,NA,NA,clinic,NA,NA,NA
+NA,AS,NA,NA,NA,clinic,NA,NA,NA
+NA,ACHD,NA,NA,NA,clinic,NA,tetralogy of fallot,NA
+NA,NA,NA,NA,NA,clinic,NA,NA,NA
+NA,NA,NA,NA,NA,clinic,NA,NA,NA
+NA,NA,NA,NA,NA,clinic,NA,NA,NA
+NA,ETOH,HFrEF,NICM,TTE,NA,NA,NA,NA
+NA,NA,NA,NA,stress,echo,treadmill,NA,NA
+NA,NA,NA,NA,TTE,NA,NA,NA,NA
+NA,NA,NA,NA,TTE,NA,NA,NA,NA
+NA,NA,NA,NA,TTE,NA,NA,NA,NA
+NA,NA,NA,NA,TTE,NA,NA,NA,NA
+NA,NSTEMI,NA,NA,TTE,NA,NA,NA,NA
+NA,ACS,NA,NA,stress,echo,dobutamine,NA,NA
+2022-03-14,HTN,NA,NA,TTE,NA,NA,NA,NA
+2022-03-12,PPCM,NA,NA,TTE,bedside,NA,NA,NA
+2022-03-12,PPCM,NA,NA,TTE,NA,NA,NA,NA
+2022-03-14,NA,NA,NA,TTE,NA,NA,NA,NA
+2022-03-14,VF,NA,NA,TTE,NA,NA,cardiac arrest,NA
+2022-03-14,cirrhosis,NA,NA,TTE,NA,NA,NA,NA
+2022-03-14,NA,NA,NA,TEE,bedside,NA,ruptured chordae,NA
+2022-03-14,NA,NA,NA,TEE,NA,NA,NA,NA
+2022-03-14,NA,NA,NA,stress,echo,treadmill,NA,NA
+2022-03-14,NA,NA,NA,TTE,NA,NA,NA,NA
+2022-03-14,NA,NA,NA,TTE,NA,NA,NA,NA
+2022-03-14,AF,NICM,ETOH,TEE,bedside,NA,LAA thrombus,NA
+2022-03-14,stress cardiomyopathy,NICM,ACS,TTE,bedside,NA,NA,NA
+2022-03-14,stress cardiomyopathy,NICM,ACS,TTE,NA,NA,NA,NA
+2022-03-14,stress cardiomyopathy,cardiogenic shock,transplant,TTE,bedside,NA,NA,NA
+2022-03-14,stress cardiomyopathy,cardiogenic shock,transplant,CVL,internal jugular,NA,NA,NA
+2022-03-14,stress cardiomyopathy,cardiogenic shock,transplant,CVL,femoral,NA,NA,NA
+2022-03-14,stress cardiomyopathy,cardiogenic shock,transplant,AL,radial,NA,NA,NA
+2022-03-14,stress cardiomyopathy,cardiogenic shock,transplant,RHC,femoral,NA,NA,NA
+2022-03-14,stress cardiomyopathy,cardiogenic shock,transplant,COR,radial,NA,NA,NA
+2022-03-14,stress cardiomyopathy,cardiogenic shock,transplant,LHC,radial,NA,NA,NA
+2022-03-15,LVH,NICM,ESRD,TTE,NA,NA,NA,NA
+2022-03-15,NA,NA,NA,TTE,NA,NA,NA,NA
+2022-03-15,NA,NA,NA,TTE,NA,NA,NA,NA
+2022-03-15,NA,NA,NA,TTE,NA,NA,NA,NA
+2022-03-16,TAPVR,ACHD,AT,TEE,bedside,NA,TAPVR after surgical replacement,1
+2022-03-16,TAPVR,ACHD,AT,TEE,NA,NA,NA,NA
+2022-03-16,MR,NA,NA,TTE,NA,NA,NA,NA
+2022-03-16,MR,NA,NA,TTE,NA,NA,NA,NA
+2022-03-16,NA,NA,NA,TTE,NA,NA,NA,NA
+2022-03-16,CAD,NA,NA,TTE,NA,NA,NA,NA
+2022-03-16,AS,NA,NA,TTE,NA,NA,NA,NA
+2022-03-16,CVA,stress cardiomyopathy,PFO,TTE,NA,NA,potential apical hypertroph versus Takotsubo cardiomyopathy,1
+2022-03-16,transplant,stress cardiomyopathy,NA,TTE,NA,NA,NA,NA
+2022-03-16,NA,NA,NA,NA,NA,NA,NA,NA
+2022-03-16,NA,NA,NA,stress,echo,treadmill,NA,NA
+2022-03-16,NA,NA,NA,NA,NA,NA,NA,NA
+2022-03-16,NA,NA,NA,TTE,NA,NA,NA,NA
+2022-03-17,VSD,NA,NA,TTE,NA,NA,ventricular septal defect with large left to right shunt,1
+2022-03-17,cancer,ESRD,FTT,NA,clinic,NA,NA,NA
+2022-03-17,ICM,CAD,CABG,NA,clinic,NA,NA,NA
+2022-03-17,CAD,CABG,NA,NA,clinic,NA,NA,NA
+2022-03-17,palpitations,NA,NA,NA,clinic,NA,NA,NA
+2022-03-17,IST,anxiety,palpitations,NA,clinic,NA,NA,NA
+2022-03-17,SLE,ESRD,HFrecEF,NA,clinic,NA,NA,NA
+2022-03-17,ICM,NA,NA,NA,clinic,NA,NA,NA
+2022-03-17,CVA,NA,NA,NA,clinic,NA,NA,NA
+2022-03-17,IVDU,IE,MSSA,TEE,bedside,NA,could not sedate adequately,NA
+2022-03-17,IVDU,IE,MSSA,TEE,bedside,NA,330 of propofol to sedate,NA
+2022-03-17,IVDU,IE,MSSA,TEE,NA,NA,NA,NA
+2022-03-18,AF,NA,NA,TEE,bedside,NA,NA,NA
+2022-03-18,AF,NA,NA,TEE,NA,NA,NA,NA
+2022-03-18,CP,PFO,CVA,TEE,bedside,NA,NA,NA
+2022-03-18,NA,NA,NA,TEE,NA,NA,NA,NA
+2022-03-18,DHF,NA,NA,TTE,NA,NA,NA,NA
+2022-03-18,AS,VHD,NA,NA,NA,NA,NA,NA
+2022-03-18,VSD,NA,NA,TEE,bedside,NA,NA,NA
+2022-03-18,AS,NA,NA,NA,NA,NA,NA,NA
+2022-03-31,ESRD,SLE,NA,NA,clinic,NA,NA,NA
+2022-04-01,CAD,CABG,NA,LHC,radial,NA,NA,NA
+2022-04-01,CAD,CABG,NA,AL,femoral,NA,NA,NA
+2022-04-01,CAD,CABG,NA,COR,femoral,NA,NA,NA
+2022-04-01,CAD,CABG,NA,AL,radial,NA,NA,NA
+2022-04-01,CAD,CABG,NA,closure,femoral,Perclose,NA,NA
+2022-04-01,CAD,CABG,NA,COR,radial,NA,NA,NA
+2022-04-01,ICM,NA,NA,LHC,radial,NA,NA,NA
+2022-04-01,ICM,NA,NA,COR,radial,NA,NA,NA
+2022-04-01,ICM,NA,NA,RHC,brachial,NA,NA,NA
+2022-04-01,ICM,NA,NA,AL,radial,NA,NA,NA
+2022-04-01,ICM,PSA,NA,AL,radial,NA,NA,NA
+2022-04-01,ICM,PSA,NA,LHC,radial,NA,NA,NA
+2022-04-01,ICM,PSA,NA,RHC,radial,NA,NA,NA
+2022-04-01,ICM,PSA,NA,COR,radial,NA,NA,NA
+2022-04-01,ICM,PSA,NA,PCI,RCA,NA,NA,NA
+2022-04-01,ICM,PSA,NA,PCI,RCA,NA,NA,NA
+2022-04-01,ICM,PSA,NA,PCI,IVUS,NA,NA,NA
+2022-03-31,DHF,HTN,NA,NA,clinic,NA,NA,NA
+2022-03-31,COVID,NICM,ST,NA,clinic,NA,NA,NA
+2022-03-31,CHARGE,ACHD,AI,NA,clinic,NA,NA,NA
+2022-03-31,CKD,DMT1,NA,NA,clinic,NA,NA,NA
+2022-03-31,CAD,CABG,NA,NA,clinic,NA,NA,NA
+2022-03-31,CAD,transplant,HTN,NA,clinic,NA,NA,NA
+2022-03-31,CVA,HTN,NA,NA,clinic,NA,NA,NA
+2022-04-07,syncope,NA,NA,NA,clinic,NA,NA,NA
+2022-04-07,CAD,NA,NA,NA,clinic,NA,abnormal MPI,NA
+2022-04-07,CAD,PVD,NA,NA,clinic,NA,NA,NA
+2022-04-07,angina,NA,NA,NA,clinic,NA,NA,NA
+2022-04-07,CAD,obesity,NA,NA,clinic,NA,NA,NA
+2022-04-07,CAD,PVD,NA,NA,clinic,NA,NA,NA
+2022-04-07,ESRD,NA,NA,NA,clinic,NA,NA,NA
+2022-04-07,CAD,PVD,NA,NA,clinic,NA,NA,NA
+2022-04-11,LQTS,VT,SCD,NA,clinic,NA,"long QT syndrome, suspected type 3",1
+2022-04-11,SB,PPM,NA,NA,clinic,NA,NA,NA
+2022-04-11,OSA,ST,SVT,NA,clinic,NA,NA,NA
+2022-04-11,AFL,PVC,NICM,NA,clinic,NA,NA,NA
+2022-04-11,bradycardia,NA,NA,CIED,generator exchange,DC-PPM,SJM,NA
+2022-04-11,bradycardia,NA,NA,CIED,interrogation,DC-PPM,SJM,NA
+2022-04-14,CAD,ICM,PVD,NA,clinic,NA,NA,NA
+2022-04-14,ESRD,HFpEF,CAD,NA,clinic,NA,NA,NA
+2022-04-14,GPA,NA,NA,NA,clinic,NA,NA,NA
+2022-04-14,AS,SAVR,PPM,NA,clinic,NA,NA,NA
+2022-04-14,HIV,LVH,CAD,NA,NA,NA,NA,NA
+2022-04-14,syncope,NA,NA,NA,clinic,NA,NA,NA
+2022-04-14,CAD,COPD,DHF,NA,clinic,NA,NA,NA
+2022-04-28,PE,cancer,NA,NA,clinic,NA,NA,NA
+NA,CAD,HTN,NA,NA,NA,NA,NA,NA
+2022-04-18,AF,AFL,bradycardia,CEM,NA,loop recorder,Zio patch,NA
+NA,SVT,AVRT,WPW,CEM,NA,NA,NA,NA
+2022-05-05,NICM,LBBB,NA,NA,clinic,NA,NA,NA
+NA,HFrecEF,NA,NA,NA,clinic,NA,NA,NA
+2022-05-05,NA,NA,NA,NA,NA,NA,NA,NA
+NA,ESRD,ICM,NA,NA,clinic,NA,NA,NA
+NA,ACHD,PS,PVR,NA,clinic,NA,tetrology of fallot,NA
+NA,VT,CAD,NA,NA,clinic,NA,NA,NA
+2022-05-10,PPM,IE,NA,CIED,leadless,RV,MICRA,NA
+2022-05-10,PPM,IE,NA,EPS,RV,NA,NA,NA
+2022-05-10,PPM,IE,NA,closure,femoral,venous,figure of eight stitch,NA
+2022-05-01,IE,PPM,NA,TEE,bedside,NA,NA,NA
+2022-05-23,AFL,SVT,NA,EPS,AFL,NA,NA,NA
+2022-05-23,AFL,SVT,NA,EPS,stimulator,NA,NA,NA
+2022-05-23,AFL,SVT,NA,closure,venous,femoral,Vascade,NA
+2022-05-23,AFL,SVT,NA,closure,venous,femoral,NA,NA
+2022-05-23,AFL,SVT,NA,closure,venous,femoral,NA,NA
+2022-05-24,CVA,AF,NA,CIED,ILR,NA,Medtronic Linq,NA
+2022-05-25,CHB,NICM,NA,CIED,generator exchange,NA,NA,NA
+2022-05-25,CHB,NICM,NA,CIED,lead revision,RV,NA,NA
+2022-05-25,CHB,NICM,NA,CIED,DC-ICD,NA,Boston Scientific,NA
+2022-05-25,CHB,NICM,NA,CVL,subclavian,venous,NA,NA
+2022-05-26,VHD,NA,NA,NA,clinic,NA,NA,NA
+2022-05-26,HTN,CAD,NA,NA,clinic,NA,NA,NA
+2022-05-26,AS,VHD,obesity,NA,clinic,NA,NA,NA
+2022-05-26,PVD,CAD,NA,NA,clinic,NA,NA,NA
+2022-05-26,CAD,PCI,HLD,NA,clinic,NA,NA,NA
+2022-05-26,STEMI,NA,NA,NA,clinic,NA,NA,NA
+2022-05-26,AFL,NICM,NA,NA,consult,NA,NA,NA
+2022-05-26,bradycardia,NA,NA,NA,consult,NA,NA,NA
+2022-05-26,CVA,NA,NA,NA,consult,NA,NA,NA
+2022-05-26,CVA,NA,NA,NA,consult,NA,NA,NA
+2022-05-26,AF,NA,NA,NA,consult,NA,NA,NA
+2022-06-09,CAD,SVT,ESRD,NA,clinic,NA,NA,NA
+2022-06-09,DMT1,TS,HTN,NA,clinic,NA,NA,NA
+2022-06-09,STEMI,ICM,VT,NA,clinic,NA,NA,NA
+2022-06-09,CAD,CABG,AVB,NA,clinic,NA,NA,NA
+2022-06-09,DMT2,HLD,sarcoidosis,NA,clinic,NA,NA,NA
+2022-06-09,RHD,NICM,AF,NA,clinic,NA,NA,NA
+2022-06-16,HCM,HTN,HLD,NA,clinic,NA,apical hypertrophic cardiomyopathy,1
+2022-06-16,HTN,ESRD,CABG,NA,clinic,NA,NA,NA
+2022-06-16,angina,NA,NA,NA,clinic,NA,NA,NA
+2022-06-16,HCM,HTN,AF,NA,clinic,NA,apical hypertrophic cardiomyopathy,1
+2022-06-16,ESRD,NICM,AF,NA,clinic,NA,NA,NA
+2022-06-16,NICM,NA,NA,NA,clinic,NA,NA,NA
+2022-06-16,ESRD,NA,NA,NA,clinic,NA,NA,NA
+2022-06-16,HTN,NA,NA,NA,clinic,NA,NA,1
+2022-06-19,CAD,ICM,VT,CIED,interrogation,NA,changed sensitivity down to improved 50% decay threshold to reduce A-oversensing,NA
+2022-06-21,NICM,bradycardia,LBBB,CIED,interrogation,NA,"Non-compaction patient. LVEF 35%. no events, short run of AT only",1
+2022-06-22,ICM,STEMI,ileus,AL,radial,NA,NA,NA
+2022-06-22,ICM,STEMI,ileus,COR,radial,NA,NA,NA
+2022-06-22,ICM,STEMI,ileus,LHC,radial,NA,NA,NA
+2022-06-22,ICM,STEMI,ileus,PCI,LAD,NA,mLAD to dLAD for recurrent anterior changes after recent PCI to pLAD,NA
+2022-06-05,SVT,AVRT,NA,EPS,AVRT,NA,slanted or oblique pathway by posterior mitral valve,NA
+2022-06-06,NA,NA,NA,closure,femoral,manual,NA,NA
+2022-06-06,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2022-06-06,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2022-06-06,NA,NA,NA,stress,NA,pyrophosphate,"PYP scan positive for amyloid, grade 3 uptake",1
+2022-06-06,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2022-06-08,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2022-06-08,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2022-06-08,NA,NA,NA,stress,regadenosine,technetium,"apical moderate intensity large defect, reversible",NA
+2022-06-08,NA,NA,NA,stress,regadenosine,technetium,NA,NA
+2022-06-23,pre-op,smoker,NA,NA,clinic,NA,NA,NA
+2022-06-23,HTN,HLD,NA,NA,clinic,NA,NA,NA
+2022-06-23,DMT2,NSTEMI,HLD,NA,clinic,NA,NA,NA
+2022-06-23,ICM,CHB,NA,NA,clinic,NA,NA,NA
+2022-06-23,HFrecEF,NICM,amyloidosis,NA,clinic,NA,NA,NA
+2022-06-23,hyperthyroidism,NA,NA,NA,clinic,NA,NA,NA
+2022-06-23,octagenarian,dypsnea,NA,NA,clinic,NA,NA,NA
+2022-06-23,ECG,NA,NA,NA,clinic,NA,"fractionated QRS, no CMR or CEM findings",NA
+2022-06-23,STEMI,HLD,HTN,NA,clinic,NA,NA,NA
+2022-06-30,RCM,NICM,NA,TTE,NA,NA,severe LVH and restrictive pattern,NA
+2022-07-11,NICM,TR,NA,NA,clinic,NA,NA,NA
+NA,ICM,HTN,NA,NA,clinic,NA,NA,NA
+2022-07-11,NA,NA,NA,NA,clinic,NA,NA,NA
+2022-07-15,DMT2,HTN,NA,NA,clinic,NA,NA,NA
+2022-07-15,PH,OSA,AF,NA,clinic,NA,NA,NA
+2022-07-15,ADHF,HTN,HLD,NA,clinic,NA,NA,NA
+2022-07-15,CAD,CABG,ICM,NA,clinic,NA,NA,NA
+2022-07-15,NICM,HTN,NA,NA,clinic,NA,NA,NA
+2022-07-15,angina,DMT2,HFpEF,NA,clinic,NA,NA,NA
+NA,DCM,NICM,HTN,NA,clinic,NA,NA,NA
+2022-07-15,TICM,AF,NA,NA,clinic,NA,NA,NA
+2022-07-25,DHF,AF,NA,NA,clinic,NA,NA,NA
+2022-07-28,ICM,SCD,STEMI,NA,clinic,NA,NA,NA
+NA,SSS,AF,NA,NA,NA,NA,NA,NA
+NA,RBBB,LAFB,CAD,NA,NA,NA,NA,NA
+NA,CAD,psych,NA,NA,NA,NA,NA,NA
+2022-08-15,pericarditis,PE,NA,NA,clinic,NA,NA,NA
+2022-08-15,NICM,NA,NA,NA,clinic,NA,NA,NA
+2022-08-08,NICM,PSA,NA,NA,clinic,NA,NA,NA
+2022-08-08,NICM,ADHF,NA,NA,clinic,NA,NA,NA
+2022-08-18,CHB,NA,NA,CIED,DC-PPM,NA,NA,NA
+2022-08-18,CHB,NA,NA,CVL,femoral,NA,NA,NA
+2022-08-18,CHB,NA,NA,TVP,femoral,NA,NA,NA
+2022-08-18,CHB,NA,NA,closure,femoral,Vascade,NA,NA
+2022-08-22,orthopnea,syncope,NA,NA,clinic,NA,NA,NA
+2022-08-23,CHB,NA,NA,CIED,DC-PPM,NA,NA,NA
+2022-09-19,HFrEF,NA,NA,NA,clinic,NA,NA,NA
+2022-09-19,HCM,NA,NA,NA,clinic,NA,NA,NA
+2022-09-19,amyloidosis,NA,NA,NA,clinic,NA,NA,NA
+2022-09-30,HTN,NA,NA,NA,clinic,NA,NA,NA
+2022-09-30,DHF,AF,amyloidosis,NA,clinic,NA,NA,NA
+2022-09-30,NA,NA,NA,NA,NA,NA,NA,NA
+2022-09-30,DHF,AFL,NA,NA,clinic,NA,NA,NA
+2022-09-30,Marfan's syndrome,NA,NA,NA,NA,NA,NA,NA
+2022-09-30,AF,AS,TAVR,NA,clinic,NA,NA,NA
+2022-10-05,VT,syncope,ICM,CIED,SC-ICD,Abbott,NA,NA
+2022-10-05,HFrEF,LBBB,NA,CIED,CRT-D,Abbott,NA,NA
+2022-10-03,NICM,SVT,OSA,NA,clinic,NA,NA,NA
+2022-10-06,amyloidosis,NICM,LVH,NA,clinic,NA,NA,NA
+2022-10-06,ICM,CAD,PCI,NA,clinic,NA,NA,NA
+2022-10-06,AS,HTN,bradycardia,NA,clinic,NA,NA,NA
+2022-10-06,NICM,NA,NA,NA,clinic,NA,NA,NA
+2022-10-05,AF,bradycardia,NA,EPS,CTI,NA,NA,NA
+2022-10-05,AF,bradycardia,NA,EPS,PVI,NA,NA,NA
+2022-10-05,AF,bradycardia,NA,CVL,femoral,NA,NA,NA
+2022-10-05,AF,bradycardia,NA,CVL,femoral,NA,NA,NA
+2022-10-05,AF,bradycardia,NA,CVL,femoral,NA,NA,NA
+2022-10-05,AF,bradycardia,NA,CVL,femoral,NA,NA,NA
+2022-10-05,AF,bradycardia,NA,DCCV,300J,NA,NA,NA
+2022-10-05,AF,bradycardia,NA,DCCV,360J,NA,NA,NA
+2022-10-05,AF,bradycardia,NA,DCCV,360J,NA,NA,NA
+2022-10-05,AF,bradycardia,NA,DCCV,360J,NA,NA,NA
+2022-10-05,AF,bradycardia,NA,CIED,DC-PPM,NA,NA,NA
+2022-10-05,AF,bradycardia,NA,CIED,ILR,explant,NA,NA
+2022-10-14,cardiac ayloidosis,bradycardia,DHF,NA,clinic,NA,NA,NA
+2022-10-14,CAD,CABG,PAF,NA,clinic,NA,NA,NA
+2022-10-14,HTN,HLD,DHF,NA,clinic,NA,NA,NA
+2022-10-14,HTN,DHF,CHB,NA,clinic,NA,NA,NA
+2022-11-03,NA,NA,NA,TTE,NA,NA,NA,NA
+2022-11-03,AS,NA,NA,TTE,NA,NA,dynamic obstruction,NA
+2022-11-03,NA,NA,NA,TTE,NA,NA,NA,NA
+2022-11-03,LVH,HCM,NA,TTE,NA,NA,NA,NA
+2022-11-03,ICM,NA,NA,TTE,NA,NA,NA,NA
+2022-11-03,NA,NA,NA,stress,echo,treadmill,NA,NA
+2022-11-03,NA,NA,NA,stress,echo,treadmill,NA,NA
+2022-11-03,NA,NA,NA,stress,echo,dobutamine,NA,NA

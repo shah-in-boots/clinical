@@ -1,0 +1,93 @@
+/* PDF and print styles */
+@media print {
+  @page {
+    size: a4 portrait;
+    margin: 0.5in 0.5in;
+    counter-increment: page;
+    @bottom-center {
+      content: counter(page)
+    }
+  }
+
+  .no-print {
+    display: none;
+  }
+
+  .print-only {
+    display: block;
+  }
+
+  .contact-block {
+    margin-top: 0%;
+    text-align: center;
+  }
+
+  /* Custom items */
+	.cvdate {
+	  float: right;
+	  font-style: italic;
+	}
+
+  /* General CSS items */
+
+  html {
+    font-family: "Arial", sans-serif;
+  }
+
+  h1, h2, h3 {
+  	text-transform: uppercase;
+  	/* border-bottom: 1px solid #000; */
+  	padding-bottom: 0;
+  }
+
+  h1 {
+  	font-size: 24pt;
+  	margin: 0;
+  	padding: 0;
+  }
+
+  h2 {
+  	font-size: 16pt;
+  	margin-top: 0.5em;
+  	margin-bottom: 0.5em;
+  }
+
+  h3 {
+    font-size: 12pt;
+  	margin-top: 0.3em;
+  	margin-bottom: 0.3em;
+  }
+
+  body {
+  	font-size: 11pt;
+  	line-height: 1.2;
+  	margin: 0.5in;
+  }
+
+  p {
+    font-size: 11pt;
+    margin: 0.5em 0;
+  }
+
+  ul, ol {
+  	margin: 0 0 0 1.5em;
+  	padding: 0;
+  	list-style-position: outside;
+  }
+
+  ul li, ol li {
+    font-size: 10pt;
+    margin: 0.1em 0;
+    padding-left: 1.2em; /* Adjust padding to account for number width */
+  }
+
+  ul li::marker, ol li::marker {
+    padding-right: 0.5em; /* Add padding to space out list marker */
+  }
+
+  a {
+    text-decoration: none;
+    font-weight: 700;
+    color: #42a7c6;
+  }
+}

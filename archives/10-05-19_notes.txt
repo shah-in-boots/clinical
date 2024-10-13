@@ -1,0 +1,847 @@
+INTERNAL MEDICINE PROGRESS NOTE
+Service: Emory Medicine Team O
+Hospital Day: 2
+ 
+SUBJECTIVE
+ 
+Interview conducted in spanish
+Pt feeling improved, walked yesterday c- walker successfully
+Feels less short of breath
+Family at bedside
+ 
+Review of systems negative for constitutional, cardiac, upper or lower respiratory, gastrointestinal,  or neurological symptoms except as reflected as above
+ 
+Scheduled Meds:
+•	[START ON 10/6/2019] Enoxaprin SC inj for VTE Prophylaxis (HIGH risk for VTE)	 30 mg	Subcutaneous	Nightly
+•	ipratropium-albuterol base	 1 each	Nebulization	4x daily
+•	cefTRIAXone	 1 g	IV PUSH	Q24H
+•	azithromycin	 500 mg	Intravenous	Q24H
+•	predniSONE	 40 mg	Oral	Daily with breakfast
+•	esomeprazole	 40 mg	Oral	every morning before breakfast
+ 
+ 
+OBJECTIVE
+ 
+BP 118/72  | Pulse 65  | Temp 36.8 °C (98.2 °F)  | Resp 22  | LMP  (LMP Unknown)  | SpO2 100% 
+GEN: elderly Hispanic lady laying in bed c- multiple blankets from home
+CV: warm ext, NRRR, +2 radial, no audible murmurs
+PULM: short/shallow respirations, but without increased WOB, no crackles
+ABD: soft, NTTP
+PSYCH: mood/affect congruent, hard of hearing
+ 
+All labs, studies, and imaging was personally reviewed.
+Cr 0.8
+WBC 20
+ 
+ASSESSMENT and PLAN
+ 
+Juana Solorzano is a 92 y.o. female h/o COPD, dementia, osteoporosis c- R hip fx p/w SOB and hypoxic respiratory failure d/t CAP.
+ 
+#. Sepsis d/t CAP c/b acute hypoxic respiratory failure
+- improving O2 requirements, >90% on 1-2 L
+- assessing hypoxia with movement, likely home tomorrow d/t significant improvement
+- sig CTR/AZM (10/3 --> 10/8)
+ 
+#. Emphysematous flare d/t underlying PNA, c/b leukocytosis
+- improving, minimal wheezing
+- duonebs PRN
+- prednisone burst as above
+ 
+CHRONIC:
+ 
+#. Dementia of unknown etiology - at baseline
+#. GERD - sig home PPI
+#. H/o right hip fx - PT/OT
+ 
+RESOLVED:
+ 
+Code:  Full / confirmed
+Prophylaxis: LMWH
+Lines: PIV
+Diet: Regulat
+Contact: Maria (Daughter) 857-488-7657, Theresa (Daughter) 404-408-7539
+Disposition: Home once off of O2
+ 
+Anish Shah, PIC 57881
+Emory Hospital Medicine Attending
+
+INTERNAL MEDICINE PROGRESS NOTE
+Service: Emory Medicine Team O
+Name: Magnolia Goss
+Hospital Day: 4
+ 
+SUBJECTIVE
+ 
+She is quite pleasant this AM
+RN said she'll eat only if she is fed, but drinks well
+Her abd pain is better, no dysuria, but still having loose stools / diarrhea
+ 
+Review of systems negative for constitutional, cardiac, upper or lower respiratory, gastrointestinal,  or neurological symptoms except as reflected as above
+ 
+Scheduled Meds:
+•	insulin detemir	 5 Units	Subcutaneous	Q24H
+•	vancomycin	 125 mg	Oral	Q6H SCH
+•	folic acid	 1 mg	Oral	Daily
+•	insulin lispro	 0-8 Units	Subcutaneous	TID w/meals
+•	heparin	 5,000 Units	Subcutaneous	Q12H SCH
+ 
+ 
+OBJECTIVE
+ 
+BP 112/61  | Pulse 78  | Temp 36.5 °C (97.7 °F) (Oral)  | Resp 18  | Ht 1.524 m (5')  | Wt 45.4 kg (100 lb)  | LMP  (LMP Unknown)  | SpO2 100%  | BMI 19.53 kg/m² 
+GEN: pleasant well appearing dark skinned women laying in bed
+CV: warm ext, +2 radial
+PULM: easy WOB
+ABD: soft, mild dicomfort to deep palpation in lower quadrants, no suprapubic tenderness
+PSYCH: mood/affect congruent, pleasant, cooperative
+ 
+All labs, studies, and imaging was personally reviewed.
+POCT 50 overnight, improved to > 100
+Hb 7.7, PLT ~70
+ 
+ASSESSMENT and PLAN
+ 
+Magnolia Goss is a 80 y.o. female h/o lung cancer, h/o primary cervical cancer (s/p chemotherapy, 3rd cycle ~1 month prior), and diabetes p/w weakness/fatigue x 1 month c- loose stools. Found to have C. Difficile colitis c- electrolyte abnormalities.
+ 
+#. Sepsis d/t C. Difficile, c/b hypo-K/Mg/PO4 d/t poor PO intake and GI loss
+- initially c- loose stools, abd pain, and LA/hypotension
+- improved now on PO VAN, will continue
+- enteric precautions as still having diarrhea
+- BC negative from 10/4
+- monitor/replete lytes
+ 
+#. Hypotension d/t poor PO intake, c/b lactic acidosis
+- improving BP, stable with IVF and PO intake
+- however, not taking enough PO to remove/stop IVF yet
+ 
+#. Hypoglycemia d/t poor PO intake, h/o DMT2
+- home insulin detemir of 18, down to 5 units here c- SSI
+- had episode of hypoglycemia this AM, responded well to D50
+- monitor, adjust LA insulin if sugars hold steady, likely d/t poor po intake
+ 
+#. Cervical cancer d/d SCC c/b vesiculovaginal fistula c- CT abd showing local progression, s/p gyn/onc cs
+- potential candidate of palliative chemotherapy
+- GOC on potential nephrostomy tube for palliation
+ 
+CHRONIC:
+ 
+#. Anemia d/t chronic disease (elevated ferritin, low Fe, low ARC) - may improve c- Iron after c.diff is treated and inflammation resolves
+#. Moderate PCM c/b FTT - SAR placement pending
+ 
+RESOLVED
+ 
+#. UTI d/t >100k E.coli s/p CTR x 3d, h/o vesiculovaginal fistula
+#. Pre-renal AKI
+ 
+Code:  Full, although need to discuss c- family further
+Prophylaxis: SQH
+Lines: PIV
+Diet: mechanical soft
+Contact: Primary Emergency Contact: Williams,Roy, Home Phone: 404-838-9589
+Disposition: likely SAR, outpatient f/u Onc
+ 
+Anish Shah
+Emory Team O
+PIC 67004
+Hospital Medicine Attending
+
+INTERNAL MEDICINE PROGRESS NOTE
+Service: Emory Medicine Team O
+Name: Antoinette Archer
+Hospital Day: 7
+
+SUBJECTIVE
+
+Seen in dialysis today
+She was moaning and making a high pitched scream, which is "the norm" for when she goes to dialysis per the staff
+Shook my hand and made eye contact
+Unable to complete ROS d/t mental status
+Had BRBPR overnight per nursnig documentation, but was minimal
+
+Scheduled Meds:
+•	vancomycin	 750 mg	Intravenous	Once per day on Tue Thu Sat
+•	normal saline	 10 mL	Intravenous	EVERY 8 HOURS
+•	insulin regular	 0-6 Units	Subcutaneous	Q6H SCH
+•	normal saline	 10 mL	Intravenous	EVERY 8 HOURS
+•	pantoprazole	 40 mg	Intravenous	Q12H
+•	heparin	 5,000 Units	Subcutaneous	Q12H SCH
+•	vancomycin pulse dosing	 	Intravenous	Per Daily Order
+•	mupirocin	 	Topical	TID
+•	piperacillin-tazobactam	 4.5 g	Intravenous	Q12H
+
+
+OBJECTIVE
+
+BP 142/80  | Pulse 108  | Temp 36.6 °C (97.8 °F) (Axillary)  | Resp 18  | Ht 1.6 m (5' 3")  | Wt 45.9 kg (101 lb 3.1 oz)  | LMP  (LMP Unknown)  | SpO2 100%  | BMI 17.93 kg/m² 
+GEN: laying in bed in dialysis, makes eye contact
+CV: warm ext, permcath in place
+PULM: easy WOB, no respiratory distress
+ABD: soft, 
+PSYCH: unable to assess, pt cannot answer full questions, although shakes head in agreement and smiles
+
+All labs, studies, and imaging was personally reviewed.
+Hb 8.4
+PLT 480
+Alb 1.7
+
+ASSESSMENT and PLAN
+
+Antoinette Archer is a 70 y.o. female c- multiple chronic comorbidities. H/o ESRD on HD, DMT2, PAD, recent OM d/t right digit 1 foot amputation, sepsis. She p/w worsening mental status, minimally verbal. There is an ongoing discussion of GOC and potential for hospice.
+
+#. Acute on chronic encephalopathy d/t vascular dementia, likely-end stage, r/o metabolic/infectious etiologies
+- remains static, unimproving mentation
+
+#. Goals of care due to multiple chronic comorbidities
+- d/w family and palliative on 10/1 to consider hospice, however by 10/4, family/daughter needed further time to think over decision
+- will reach out to daughter over weekend to touch base
+
+#. Sepsis d/t recently amputated toe d/t OM (elevated ESR/CRP)
+- BP have remained borderline, but not requiring pressors
+- able to tolerate HD today
+- on VAN/PTZ empirically
+- no surgical interventions amenable, and tx dependent on GOC
+
+#. Nonsustained VT episodes
+- occurred < 15 seconds x 2 today after dialysis, lytes stable
+- unclear etiology, likely from stress of dialysis and fluid shifts
+
+# Anemia of chronic dz / renal dz s/p pRBC x 1 (9/29) 
+- monitoring 
+
+CHRONIC:
+
+# DMT2
+- SSI/POCT
+
+#. Severe PCM c/b FTT, likelyl d/t underlying dementia
+
+RESOLVED
+
+Code:  Full
+Prophylaxis: SQH
+Lines: tunneled HD cath, PIV, PEG tube
+Diet: tube feeds
+Contact: Primary Emergency Contact: Archer,Jackie, Home Phone: 678-763-9311
+Disposition: dependent on GOC
+
+Anish Shah
+Emory Team O
+PIC 67004
+Hospital Medicine Attending
+
+INTERNAL MEDICINE PROGRESS NOTE
+Service: Emory Medicine Team O
+Name: Mevelyn McCloud
+Hospital Day: 26
+ 
+SUBJECTIVE
+ 
+Pt is doing well this morning
+Still having pain in her legs
+She is a bit cold, but not feverish
+ 
+Review of systems negative for constitutional, cardiac, upper or lower respiratory, gastrointestinal,  or neurological symptoms except as reflected as above
+ 
+Scheduled Meds:
+•	DAPTOmycin (CUBICIN) IVPB	 4 mg/kg	Intravenous	Daily
+•	torsemide	 20 mg	Oral	Daily
+•	triamcinolone acetonide	 	Topical	BID
+•	hydrocortisone-aloe	 	Topical	BID
+•	normal saline	 10 mL	Intravenous	EVERY 8 HOURS
+•	fluticasone	 2 spray	Each Nare	Daily
+•	cyanocobalamin (Vitamin B12)	 1,000 mcg	Oral	Daily
+•	ferrous sulfate	 325 mg	Oral	Daily with breakfast
+•	metoprolol succinate XL	 100 mg	Oral	Daily
+•	rivaroxaban	 15 mg	Oral	Daily with breakfast
+•	amLODIPine	 5 mg	Oral	Daily
+ 
+ 
+OBJECTIVE
+ 
+BP 133/65  | Pulse 91  | Temp 36.6 °C (97.8 °F) (Oral)  | Resp 18  | Ht 1.676 m (5' 6")  | Wt (!) 116.8 kg (257 lb 8 oz)  | SpO2 100%  | BMI 41.56 kg/m² 
+GEN: obese dark skinned woman laing in bed, NAD
+CV: warm ext (L > R), edema in LLE, right leg c- fasciotomy scar
+PULM: distant breath sounds, no resp distress
+ABD: obese, soft
+PSYCH: mood/affect congruent, pleasant, cooperative
+ 
+All labs, studies, and imaging was personally reviewed.
+WBC 16
+Hb ~9
+Cr 1.0
+ 
+ASSESSMENT and PLAN
+ 
+Mevelyn McCloud is a 70 y.o. female h/o HTN, DHF, AF p/w LLE and swelling c/w cellulitis. Course c/b drug rxn to abx, but overall improving. 
+ 
+#. LLE cellulitis c/b fluid pockets, edema, leukocytosis, and fevers, s/p Tx clinda/linezolid (x14 days, DC d/t thrombocytopenia)
+- CT c- multiloculated fluid collections, venous insufficiency not found on sutdies of LLE
+- stable on current regimen, although leg significantly warmer on LLE than RLE
+- sig IV daptomycin, end point TBD
+- edema still present, imaging suggested SQ abscesses
+- MH surgery would prefer to not operate
+- pain control c- PO opioids
+ 
+#. A/C DHF c/b hypomagnesemia
+- tolerating torsemide c- lyte replacement
+ 
+#. AKI of mixed etiology (prerenal, AIN, cardiorenal)
+- renal signed off, rheumatology didn't recommend further w/u
+- improving c- diuretic regimen above
+ 
+#. Noncardiac chest pain - controlled c- lidocaine patches
+ 
+CHRONIC:
+ 
+#. AF - sig home BB, DOAC
+#. HTN - sig home BB, CCB
+#. Morbid obesity c/b impaired mobility
+- baseline needs of rollator
+- PT/OT, SAR at DC
+
+#. B12 deficiency - sig replacement
+ 
+RESOLVED
+ 
+#. Drug eruption/rash - derm cs agrees likely supportive care sufficient
+#. Elevated bilirubin - returned to baseline
+ 
+Code:  Full
+Prophylaxis: DOAC
+Lines: PIV, external female foley
+Diet: low salt
+Contact: pt alert/oriented
+Disposition: SAR likely
+ 
+Anish Shah
+Emory Team O
+PIC 67004
+Hospital Medicine Attending
+
+INTERNAL MEDICINE PROGRESS NOTE
+Service: Emory Medicine Team O
+Name: Elroy Williams
+Hospital Day: 2
+
+SUBJECTIVE
+
+Pt insists that his eyes are burning into "something"
+Although he denies a ROS, not clear how much insight he has
+Denies pain
+
+Review of systems negative for constitutional, cardiac, upper or lower respiratory, gastrointestinal,  or neurological symptoms except as reflected as above
+
+Scheduled Meds:
+•	normal saline	 10 mL	Intravenous	EVERY 8 HOURS
+•	atorvastatin	 40 mg	Oral	Daily
+•	donepezil	 10 mg	Oral	Nightly
+•	mirtazapine	 7.5 mg	Oral	Nightly
+•	thiamine	 100 mg	Oral	Daily
+•	cholecalciferol	 1,000 Units	Oral	Daily
+•	enoxaparin	 60 mg	Subcutaneous	Q12H SCH
+•	vancomycin	 1,000 mg	Intravenous	Q24H
+•	piperacillin-tazobactam	 4.5 g	Intravenous	Q8H
+•	zinc sulfate	 220 mg	Oral	Daily
+•	ascorbic acid	 500 mg	Oral	BID
+•	multivitamin	 1 tablet	Oral	Daily
+
+
+OBJECTIVE
+
+BP 122/76  | Pulse 99  | Temp 36.7 °C (98 °F) (Axillary)  | Resp 18  | Ht 1.702 m (5' 7")  | SpO2 100%  | BMI 21.28 kg/m² 
+GEN: laying in bed, elderly, at angle to protect his decub
+CV: +2 radial, mild edema of both upper ext
+PULM: easy wob
+ABD: soft, NTTP
+PSYCH: pleasant, has Jamaican accent (states he is from there), unable to assess insight 
+
+All labs, studies, and imaging was personally reviewed.
+CBC for today pending
+UC shows Ecoli (Sens) and Proteus (Res) >100 k, both sens to cefazolin
+BC c- staph epi (x1)
+Wound Cx c- no ID, numerous WBC/GNR
+
+ASSESSMENT and PLAN
+
+Elroy Williams is a 79 y.o. male h/o dementia, chronic decub ulcer of left hip, CKD, and prior DVT brought in from Crestview c- worsening mental status. Was recently at Grady for Proteus UTI in September, as well as DVT. 
+
+#. Acute metabolic encephalopathy
+- mixed etiology (UTI vs hypoglycemia)
+
+#. Moderate PCM c/b dehydration, c/b hypoglycemia
+- fluid resuscitation, D5LR hanging as pt refusing PO occasionally
+
+#. Mildly purulent decubitus ulcer
+- on VAN/PTZ, MRI pending
+- will leave broad spectrum until MRI results, although low suspicion for deep tissue infection
+
+#. UTI d/t E. Coli and Proteus, >100k
+- both sensitive to cefazolin, but will wait on imaging of above before deescalting abx
+- pt remains stable
+
+#. GPC bacteremia, suspected contaminant (CONS)
+- repeat BC
+ 
+#. Acute on chronic anemia, normocytic
+- baseline ~ 10, currently ~ 7, T&S in system
+- repeat CBC pending, reach out to family to consent
+- no active bleeding in GI track seen
+
+#. Severe dementia, likely vascular
+- sig home meds
+- palliative cs hepful in GOC, family wants full code though
+ 
+RESOLVED:
+
+Code:  Full
+Prophylaxis: LMWH
+Lines: PIV
+Diet: Pureed
+Contact: in chart
+Disposition: SAR likely
+
+Anish Shah
+Emory Team O
+PIC 67004
+Hospital Medicine Attending
+
+INTERNAL MEDICINE PROGRESS NOTE
+Service: Emory Medicine Team O
+Name: Eddie H Beck
+Hospital Day: 9
+ 
+SUBJECTIVE
+ 
+Believes that the rocks left his body and entered that of others
+Does knwo that multiple KUBs were taken
+ 
+Review of systems negative for constitutional, cardiac, upper or lower respiratory, gastrointestinal,  or neurological symptoms except as reflected as above
+ 
+Scheduled Meds:
+•	normal saline	 10 mL	Intravenous	EVERY 8 HOURS
+•	multivitamin	 1 tablet	Oral	Daily
+•	thiamine	 100 mg	Oral	Daily
+•	risperiDONE	 2 mg	Oral	BID
+ 
+ 
+OBJECTIVE
+ 
+BP 99/64  | Pulse 66  | Temp 36.8 °C (98.2 °F) (Oral)  | Resp 18  | Ht 1.778 m (5' 10")  | Wt 81.6 kg (180 lb)  | SpO2 100%  | BMI 25.83 kg/m² 
+GEN: laying in bed completely the opposite direction
+CV: warm ext, no edema
+PULM: easy wob
+ABD: nontender
+PSYCH: noncooperative, no insight, poor judgment, disheveled
+ 
+All labs, studies, and imaging was personally reviewed.
+KUB c- stones still in stomach
+ 
+ASSESSMENT and PLAN
+ 
+Eddie H Beck is a 48 y.o. male with bipolar/schizophrenia/depression c- multiple prior SI and attempts, p/w after suicide attempt through rock consumption. 
+ 
+#. Suicide attempt by rock eating c/b abdominal pain from rock consumption
+ - 20+ large rocks, noted on imaging.  Majority of stones passed but 3 stones remain in distal stomach.
+- no obstruction currently, but at risk for obstruction
+- trauma following, daily abd exam and KUB
+- GI to do EGD on Monday if rocks remain
+- CLD and NPO after MN on Sunday night
+ 
+#. Bipolar disorder, h/o schizophrenia
+- pt notes he was trying to kill himself but wasn't instructed by any AH/VH
+- off of medications for 2-3 months (unknown)
+- started on Risperdal per Psych recs
+- benadryl, ativan and haldol all PRN as pt very agitated and aggressive 
+- on medical hold, will 
+- patient does not have capacity to refuse procedure or AMA at this time
+ 
+#. Incidental large right adrenal mass
+47 x 66 x 48 mm smoothly marginated right adrenal mass, not definitively characterized. Asymptomatic.
+- discuss w/ surgery team, may benefit from resection if goes to surgery
+- Serum metanephrines and 24 hour urine metanephrines and catecholamines to r/o presymptomatic pheo, pending
+- consider repeat imaging once stones passed in order to better visualize
+ 
+# Hypoglycemia - likely d/t poor PO intake, monitor
+ 
+Diet: Clear liquid diet
+Lines and Catheters:  PIV
+VTE Prophylaxis: SCD given possible need for OR
+Advanced Directives: presumed FULL
+Family Contact:  Primary Emergency Contact: None,Given, Home Phone: 770-678-1111
+Dispo: pending passage of stones, per psych does not meet criteria for inpatient admission.  SW consult for safe dispo given homelessness.  
+ 
+Anish Shah
+Emory Team O
+PIC 67004
+Hospital Medicine Attending
+
+MEDICAL DISCHARGE SUMMARY
+ 
+NAME: Charles Beasley         MRN: 100141009       DOB: 7/13/1974
+ADMIT Date: 10/3/2019 11:15 AM                 D/C Date: No discharge date for patient encounter.
+ 
+Attending of Record: Silverton, Alexandra L.,*
+Admitting Physician: Alexandra L. Silverton, MD
+Discharge Physician: Anish Shah, MD, Alexandra L. Silverton, MD
+Outpatient PCP: No primary care provider on file.
+ 
+Principal and Secondary Diagnoses:
+1. ETOH withdrawal
+2. Schizoaffective disorder / bipolard disorder
+3. Polysubstance abuse
+ 
+Diagnostic Tests:
+No significant testing
+ 
+Brief Presenting History:
+Patient presented from jail with agitations and tremors, found to be tachycardic, hypertensive, and c- tongue fasciculations.
+ 
+Hospital Course by Problem List:
+1.  ETOH withdrawal
+- pt was started on GAWAS protocol
+- had minimal requirements of ETOH, became normotensive, less tachycardic
+- pt claimed to have DT withdrawals, and demanded BZD
+- pt discharged after further evaluation of improved clinical status
+ 
+The remainder of the patient's medical problems were chronic and stable without any further intervention this admission. The patient will continue the current treatments and medications.
+ 
+Discharge Condition: 
+ 
+BP 96/75  | Pulse 96  | Temp 36.7 °C (98 °F) (Oral)  | Resp 24  
+Gen: middle aged man, laying in bed at an angle, has chain around foot
+Head/neck: no tongue fasciculations, no nystagmus
+CV: warm ext, not tachycardic
+Pulm: easy WOB, no resp distress, pulse ox of ~95%
+Abd: soft, pt refused examination
+Psych: belligerent, cursing at staff
+ 
+Discharge To: prior location (jail)
+ 
+Discharge Medication Reconcilitation:
+Current Discharge Medication List
+ 
+CONTINUE these medications which have NOT CHANGED
+ 	Details
+pantoprazole DR (PROTONIX) 40 mg tablet	Take 1 tablet (40 mg total) by mouth every day.
+Qty: 30 tablet, Refills: 3
+ 
+acetaminophen (TYLENOL) 325 MG tablet	Take 1 tablet (325 mg total) by mouth every 6 hours as needed for Pain.
+Qty: 30 tablet, Refills: 0
+ 
+ 
+ 
+ 
+ 
+Discharge Instructions:
+The patient was educated on warning signs regarding the current medical conditions. If any of these issues were to arise or worsen, the patient was instructed to contact the PCP or seek further medical evaluation in the emergency room.
+ 
+Test Pending/Items to Follow Up:
+- pt would likely benefit from outpatient psychiatry for primary axis 1 disorders
+ 
+Follow-up Appointment Date and Time:
+No future appointments.
+ 
+ 
+Anish Shah, MD
+10/5/2019
+1:07 PM
+
+INTERNAL MEDICINE PROGRESS NOTE
+Service: Emory Medicine Team O
+Name: Corey S Green
+Hospital Day: 3
+ 
+SUBJECTIVE
+ 
+Remains nauseated
+Hasn't had BM yet 
+Doesn't want to eat d/t this discomfort
+ 
+Review of systems negative for constitutional, cardiac, upper or lower respiratory, gastrointestinal,  or neurological symptoms except as reflected as above
+ 
+Scheduled Meds:
+¿	polyethylene glycol	 17 g	Oral	4x Daily
+¿	apixaban	 5 mg	Oral	BID
+¿	docusate sodium	 100 mg	Oral	BID
+¿	esomeprazole	 40 mg	Oral	every morning before breakfast
+¿	metoprolol	 12.5 mg	Oral	Q12H
+¿	sennosides	 17.2 mg	Oral	BID
+¿	sevelamer carbonate	 800 mg	Oral	TID w/meals
+ 
+ 
+OBJECTIVE
+ 
+BP 112/78  | Pulse 106  | Temp 36.8 °C (98.3 °F) (Oral)  | Resp 16  | Ht 1.803 m (5' 11")  | Wt (!) 106.6 kg (235 lb)  | SpO2 99%  | BMI 32.78 kg/m² 
+GEN: sitting at bedside chair, stable
+CV: warm ext, obese LE c- +1 pitting edema 
+PULM: easy wob, no respiratory distress
+ABD: obese, soft, RUQ drain is C/D/I, small amount of bilious fluid
+PSYCH: mood/affect congruent, mildly flat, cooperative
+ 
+All labs, studies, and imaging was personally reviewed.
+K 3.4
+AG 14 from 19
+Hb 10
+ 
+ASSESSMENT and PLAN
+ 
+Corey S Green is a 48 y.o. male with a history of HTN, recent GSW injury to LLE (6/2019), recent debridemnet PE/DVT s/p IVC filter (7/2015), OSA, morbid obesity, and recent prolonged hospital course c/b cholecystitis s/p cholecystostomy tube and AKI requiring HD. P/w presyncope from rehab, found to have elevated lactate, tachycardia, and hypotension c/w sepsis of unknown etiology.
+ 
+#. Concern for sepsis (d/t hypotension, tachcyardia, lactic acidosis), s/p IVF
+- initial ddx included biliary drain, tunneled cath, recent PICC
+- CT a/p and exam not c/w intraabdominal source, and LA improved c- IVF
+- ABX were stopped, close observation instead
+ 
+#. Pre-syncopal episode
+- likely due to volume depletion / deconditioning, similar to prior hospitalization
+- s/p IVF, tele, PT/OT
+ 
+#. Persistent tachycardia 
+- home metoprolol
+ 
+#. AKI d/t ischemic ATN
+- worsened d/t relative hypotension, last HD 9/27, tunneled HD catheter placed during prior hospitalization
+- nephrology cs appreciated, will check lytes regularly
+- suspect prolonged renal recovery
+ 
+#. Cholecystitis s/p PCT, c/b ileus
+- PCT placed 8/21, c- gen surg to operate as OP electively
+- aggressive BR increased to four agents
+ 
+#. Transaminitis 
+- hepatitis negative, CT wnl, monitoring
+ 
+#. Provoked DVT of LLE, h/o unprovoked PE s/p IVC filter (2015), h/o PFO
+- historically on warfarin, however had occasional hematachezia and DC'd
+- pt now changed to apixiban while evaluating fluctuating renal function
+ 
+#. Morbid obesity c/b deconditioning
+- SAR recommended
+ 
+#. Nutrition and poor PO intake
+- likely d/t nausea, on antiemetic regimen
+ 
+Diet: Renal
+VTE: Apixaban
+Code Status: FULL
+Lines: tunneled cath
+Contacts: in chart
+ 
+Anish Shah
+Emory Team O
+PIC 67004
+Hospital Medicine Attending
+ 
+INTERNAL MEDICINE PROGRESS NOTE
+Service: Emory Medicine Team O
+Name: Barry Norman
+Hospital Day: 5
+
+SUBJECTIVE
+
+Patients only request this morning was a treatment for erectile dysfunction
+Tolerated HD well from yesterday
+
+Review of systems negative for constitutional, cardiac, upper or lower respiratory, gastrointestinal,  or neurological symptoms except as reflected as above
+
+Scheduled Meds:
+¿	cloNIDine	 0.3 mg	Oral	Q8H SCH
+¿	haloperidol	 2 mg	Oral	Nightly
+¿	epoetin Alfa-epbx	 4,000 Units	Subcutaneous	Once per day on Mon Wed Fri
+¿	NIFEdipine ER/XL	 90 mg	Oral	Daily
+¿	carvedilol	 12.5 mg	Oral	Q12H SCH
+¿	pantoprazole	 40 mg	Intravenous	Q12H
+¿	heparin	 5,000 Units	Subcutaneous	Q12H SCH
+¿	calcium acetate	 1,334 mg	Oral	TID w/meals
+
+
+OBJECTIVE
+
+BP 134/88  | Pulse 69  | Temp 36.9 °C (98.4 °F) (Oral)  | Resp 18  | Ht 1.93 m (6' 4")  | Wt 80.7 kg (178 lb)  | SpO2 100%  | BMI 21.67 kg/m² 
+GEN: NAD, well appearing, cooperative
+CV: warm ext, palpable thrill over LUE fistula
+PULM: easy WOB, no respiratory distrss
+ABD: soft, nontender
+PSYCH: cooperative, but appears to be fixated on discussing erectile dysfunction, suggesting poor insight/judgment in current condition
+
+All labs, studies, and imaging was personally reviewed.
+K 5.2
+Hb 8.3
+
+ASSESSMENT and PLAN
+
+Barry Norman is a 41 y.o. male with ESRD on HD p/w encephalopathy in setting of missing HD, also found to be anemic and c- hyperkalemia.
+
+#. Acute hyperkalemia d/t HD noncompliance
+#. ESRD
+- initially c- peaked T waves, which improved c- HD
+- renal following, on MWF schedule through AV fistula
+
+#. Anemia of chronic dz/renal dz, received pRBC x 3 
+- unlikely GIB c- no melena/hematachezia, Hb stable x 2 weeks now
+- transfuse for Hb < 7
+- PO PPI
+
+#. Encephalopathy, undifferentiated
+- potentially through uremia, intoxication, or underlying psych do
+- infectious w/u negative
+- improvement in delusions, no squirrels mentioned today
+- maintain on risperidol 
+
+#. HTN - retain on home medications
+
+RESOLVED
+
+Code:  Full
+Prophylaxis: SQH
+Lines: PIV, AVF
+Diet: Renal
+Contact: Primary Emergency Contact: Watson,Terry, Home Phone: 404-784-1413
+Disposition: HD chair placment on Monday
+
+Anish Shah
+Emory Team O
+PIC 67004
+Hospital Medicine Attending
+
+INTERNAL MEDICINE PROGRESS NOTE
+Service: Emory Medicine Team O
+Name: James Spires
+Hospital Day: 9
+
+SUBJECTIVE
+
+Doing well, minimal scrotal pain
+Curious about his stroke imaging, and would like a picture of his hernia
+
+Review of systems negative for constitutional, cardiac, upper or lower respiratory, gastrointestinal,  or neurological symptoms except as reflected as above
+
+Scheduled Meds:
+¿	aspirin EC	 81 mg	Oral	Daily
+¿	atorvastatin	 80 mg	Oral	Daily
+¿	clindamycin	 450 mg	Oral	Q6H SCH
+¿	diclofenac	 2 g	Topical	4x Daily
+¿	lidocaine	 1 patch	Transdermal	Q24H
+¿	insulin lispro	 4 Units	Subcutaneous	TID w/meals
+¿	docusate sodium	 100 mg	Oral	BID
+¿	insulin lispro	 0-8 Units	Subcutaneous	TID w/meals
+	And
+¿	insulin lispro	 0-4 Units	Subcutaneous	Nightly
+
+
+OBJECTIVE
+
+BP (!) 165/98  | Pulse 66  | Temp 37 °C (98.6 °F) (Oral)  | Resp 19  | Ht 1.93 m (6' 4")  | Wt 93 kg (205 lb)  | SpO2 100%  | BMI 24.95 kg/m² 
+GEN: NAD, well appearing
+CV: warm ext, NRRR
+PULM: easy WOB
+ABD: scrotal surgical site appears well, dressing C/D/I
+PSYCH: mood/affect congruent
+NEURO: right hand c- 4/5 extension/flexion at wrist
+
+All labs, studies, and imaging was personally reviewed.
+Cr 1.7
+MRI c/w lacunar infarct
+
+ASSESSMENT and PLAN
+
+James Spires is a 46 y.o. male h/o unstable housing, diabetes, HTN p/w scrotal pain that began on 9/22. He was found to have scrotal abscess of unclear etiology, and also developed right hand weakness and found to have lacunar infarct during hospitalization.
+
+#. Scrotal abscess s- known risk factors (HIV negative, no discharge, no new sexual contacts), s/p I&D by urology on 9/29
+- currently stable, c- improving pain
+- daily packing changes
+- switched from IV vanc to PO clinda, tolerating well
+
+#. AKI, potentially d/t vancomycin vs prerenal
+- IVF and reassessed, however Cr ~1.7, b/l 1.0
+- monitoring x 1 more day, will ask for OP f/u
+
+#. Acute lacunar infarct c/b right hand weakness
+- neurology f/u, recommend further risk reduction
+- MRA brain c/w lacunar etiology, TTE WNL
+- ASA/statin, and BP goals
+
+#. DMT2, on home metformin and glipizide
+- scheduled insulin 4U + SSI while inpatient
+- hold off on metforming as OP until Cr stabilizes
+
+Code:  Full
+Prophylaxis: LMWH
+Lines: PIV
+Diet: Diabetic
+Contact: Dianne Stukes
+Disposition: Home tomorrow, OT as outpatient
+
+Anish Shah
+Emory Team O
+PIC 67004
+Hospital Medicine Attending
+
+INTERNAL MEDICINE PROGRESS NOTE
+Service: Emory Medicine Team O
+Name: Joshua D Dotson
+Hospital Day: 0
+
+SUBJECTIVE
+
+Pt requests to leave
+Syaing no further syncope
+Although still has some mild chest "discomfort", nonexertional, positional
+
+Review of systems negative for constitutional, cardiac, upper or lower respiratory, gastrointestinal,  or neurological symptoms except as reflected as above
+
+Scheduled Meds:
+¿	[START ON 10/6/2019] warfarin	 10 mg	Oral	Once per day on Sun Tue Thu
+	And
+¿	warfarin	 5 mg	Oral	Once per day on Mon Wed Fri Sat
+¿	ranitidine	 150 mg	Oral	Q12H
+¿	rosuvastatin	 10 mg	Oral	Nightly
+
+
+OBJECTIVE
+
+BP 102/72  | Pulse 96  | Temp 36.5 °C (97.7 °F) (Oral)  | Resp 17  | Ht 1.676 m (5' 6")  | Wt 54.8 kg (120 lb 13 oz)  | SpO2 98%  | BMI 19.50 kg/m² 
+GEN: NAD, well appearing
+CV: warm ext, +2 radial, regular, mechanical S1
+PULM: easy WOB, no crackles
+ABD: thing, soft, scar on chest along sternotomy
+PSYCH: mood/affect congruent
+
+All labs, studies, and imaging was personally reviewed.
+TTE c- EF of 20%
+
+ASSESSMENT and PLAN
+
+Joshua D Dotson is a 30 y.o. male with NICM (LVEF 20%, LVIDD 6.2 cm) d/t rheumatic heart disease, aortic regurgitation s/p AVR in June 2019.  
+
+#. Presyncopal episode
+- increased activity level at home (working more), no leg edema, no diuretics
+- likely intravascular dehydration, improved c- IVF
+
+#. Pericarditis, suspected
+- chest pain not anginal traditionally, non-exertional, however better c- sitting, Tn also negative
+- ECG remains the same as prior ECG c- diffuse ST elevations
+- cardiology recommends tx, will start c- colchicine low dose daily and look for improvement
+
+#. NICM d/t RHD
+- candidate for ICD in future, currently warm/well compensated
+- no signs of volume overload
+- sig BB/ACEI (restart today)... Switch beta blocker to XL d/t efficacy
+
+RESOLVED
+
+
+
+Code:  Full
+Prophylaxis:  VKA
+Lines: PIV
+Diet: Cardiac
+Contact: Per chart
+Disposition: Home
+
+Anish Shah
+Emory Team O
+PIC 67004
+Hospital Medicine Attending
+
+

@@ -1,0 +1,36 @@
+## {background-image="tte-plax.gif" background-size="contain"}
+## {background-image="tte-plax-zoom.gif" background-size="contain"}
+## {background-image="tte-plax-zoom-color.gif" background-size="contain"}
+## {background-image="tte-plax-lvidd.gif" background-size="contain"}
+## {background-image="tte-psax-mid.gif" background-size="contain"}
+## {background-image="tte-psax-mv.gif" background-size="contain"}
+## {background-image="tte-psax-mv-color.gif" background-size="contain"}
+## {background-image="tte-rv-inflow-color.gif" background-size="contain"}
+## {background-image="tte-rv-inflow-cw.gif" background-size="contain"}
+
+## {background-image="tte-psax-high.gif" background-size="contain"}
+## {background-image="tte-psax-high-rv-inflow-pw.gif" background-size="contain"}
+## {background-image="tte-psax-high-rv-outflow-cw.gif" background-size="contain"}
+## {background-image="tte-psax-high-rv-outflow-pw.gif" background-size="contain"}
+
+## {background-image="tte-rv-outflow.gif" background-size="contain"}
+## {background-image="tte-rv-outflow-cw-vti.gif" background-size="contain"}
+## {background-image="tte-rv-outflow-pw-vti.gif" background-size="contain"}
+
+## {background-image="tte-a4c.gif" background-size="contain"}
+## {background-image="tte-a4c-color.gif" background-size="contain"}
+## {background-image="tte-a4c-color-2.gif" background-size="contain"}
+## {background-image="tte-a4c-mv-color.gif" background-size="contain"}
+## {background-image="tte-a4c-mitral-inflow-pw.gif" background-size="contain"}
+## {background-image="tte-a4c-td-lateral.gif" background-size="contain"}
+## {background-image="tte-a4c-td-septal.gif" background-size="contain"}
+## {background-image="tte-a4c-m-mode-color.gif" background-size="contain"}
+## {background-image="tte-a4c-zoom.gif" background-size="contain"}
+## {background-image="tte-a4c-thrombus.gif" background-size="contain"}
+## {background-image="tte-a2c.gif" background-size="contain"}
+## {background-image="tte-a3c.gif" background-size="contain"}
+## {background-image="tte-a5c-color.gif" background-size="contain"}
+## {background-image="tte-a5c-cw.gif" background-size="contain"}
+## {background-image="tte-a5c-pw.gif" background-size="contain"}
+## {background-image="tte-a2c-definity.gif" background-size="contain"}
+

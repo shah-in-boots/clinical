@@ -1,0 +1,301 @@
+---
+title: "Cath Conference"
+subtitle: "JBVA Cardiac Catheterization Lab"
+date: "September 21, 2021"
+author: "Anish Sanjay Shah, MD<br><span style = 'font-size: 70%;'>Cardiology Fellow<br>University of Illinois at Chicago</span>"
+output:
+  xaringan::moon_reader:
+    css: xaringan-themer.css
+    self_contained: false
+    nature:
+      titleSlideClass: [center, middle, inverse]
+      highlightLines: true
+---
+
+```{r setup, echo = FALSE, include = FALSE}
+library(tidyverse)
+
+print.tbl_df <- function(x, ...) {
+	print.data.frame(x, right = FALSE, ...)
+	invisible(x)
+}
+
+# Options
+options(digits = 0)
+```
+
+```{r themer, echo=FALSE, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_duo_accent(primary_color = "#091F40", secondary_color = "#AC1E2D")
+```
+
+class: center, middle, inverse
+# Case 1
+
+63M h/o smoldering myeloma, HTN, HLD  
+p/w newly reduced EF (40%) and signs of volume overload  
+s/s of exertional dyspnea/angina  
+c/s LHC/COR for etiology  
+
+---
+background-image: url("j3916-long-lad.gif")
+background-size: contain
+
+---
+background-image: url("j3916-lad-lao-caud.gif")
+background-size: contain
+
+---
+background-image: url("j3916-lad-lao-crani.gif")
+background-size: contain
+
+---
+background-image: url("j3916-rca.gif")
+background-size: contain
+
+---
+background-image: url("j3916-rca-splayed.gif")
+background-size: contain
+
+---
+.pull-left[
+### Access
+Right radial, 5F
+Terumo Tiger, 5F
+
+### Interventions
+None
+]
+
+.pull-right[
+### Outcomes
+- No obstructive CAD
+- Mixed dominance
+]
+
+---
+
+class: center, middle, inverse
+# Case 2
+
+77M h/o CAD s/p CABG x3V (however anatomy unknown, back in 1996)  
+p/w atypical chest pain with risk factors, no recent angiography  
+c/s LHC/COR for angina evaluation and intervention  
+
+---
+background-image: url("h0357-lcx-dz-2.gif")
+background-size: contain
+
+---
+background-image: url("h0357-lcx-dz-3.gif")
+background-size: contain
+
+---
+background-image: url("h0357-rca-cto.gif")
+background-size: contain
+
+---
+background-image: url("h0357-svg-ostially-occluded.gif")
+background-size: contain
+
+---
+background-image: url("h0357-svg-rpda-ectatic.gif")
+background-size: contain
+
+---
+background-image: url("h0357-svg-rpda-timi-2.gif")
+background-size: contain
+
+---
+background-image: url("h0357-lcx-wired.gif")
+background-size: contain
+
+---
+background-image: url("h0357-lcx-ballooned.gif")
+background-size: contain
+
+---
+background-image: url("h0357-lcx-ballooned-again.gif")
+background-size: contain
+
+---
+background-image: url("h0357-lcx-long-stent.gif")
+background-size: contain
+
+---
+background-image: url("h0357-lm-balloon.gif")
+background-size: contain
+
+---
+background-image: url("h0357-lca-reflow-shot.gif")
+background-size: contain
+
+---
+background-image: url("h0357-lm-prox-balloon.gif")
+background-size: contain
+
+---
+background-image: url("h0357-final-shot.gif")
+background-size: contain
+
+---
+.pull-left[
+### Access
+Right radial, 6F  
+RCA: JR-4, 5F  
+LCA: JL-3.5, 5F  
+Grafts: IM, JR-4, MPA, and LCB (5F)  
+Guide: XB 3.5, 6F  
+
+### Interventions
+IVUS to size lesion  
+Balloon of distal to proximal LCX to LM  
+DES x2 (2.75 x 38 mm, 3.5 x 12 mm) placed sequentially  
+Post-dilation with 3 x 20 mm and 4 x 8 mm   
+Post IVUS to confirm sizing  
+]
+
+.pull-right[
+### Outcomes
+- CTO of pRCA and pLAD
+- CTO of SVG-OM
+- Ectatic disease of SVG-dRCA
+- Culprit lesion of LM/LCX to OM1
+- Placement of DES x2 
+]
+
+---
+class: center, middle, inverse
+# Case 3
+
+74M h/o CAD s/p PCI in 1994, and CABG x4V (no records available) in 2001  
+h/o OSA on CPAP, COPD, HTN, DMT2, HLD   
+p/w newly reduced EF, worsening DOE, and angina   
+
+---
+background-image: url("r4106-dx-lima.gif")
+background-size: contain
+
+---
+background-image: url("r4106-dx-lima-pan.gif")
+background-size: contain
+
+---
+background-image: url("r4106-dx-lca.gif")
+background-size: contain
+
+---
+background-image: url("r4106-dx-lca-2.gif")
+background-size: contain
+
+---
+background-image: url("r4106-dx-rca.gif")
+background-size: contain
+
+---
+background-image: url("r4106-dx-svg-d1.gif")
+background-size: contain
+
+---
+background-image: url("r4106-dx-svg-jump.gif")
+background-size: contain
+
+---
+background-image: url("r4106-dx-svg-jump-dz.gif")
+background-size: contain
+
+---
+
+class: center, middle
+**left radial spasm...**
+
+---
+background-image: url("r4106-hunting-for-svg.gif")
+background-size: contain
+
+---
+background-image: url("r4106-hunting-for-svg-2.gif")
+background-size: contain
+
+---
+background-image: url("r4106-svg-shot.gif")
+background-size: contain
+
+---
+background-image: url("r4106-hunting-for-svg-new-catheter.gif")
+background-size: contain
+
+---
+background-image: url("r4106-svg-disease.gif")
+background-size: contain
+
+---
+background-image: url("r4106-svg-wired.gif")
+background-size: contain
+
+---
+background-image: url("r4106-svg-disengaged.gif")
+background-size: contain
+
+---
+background-image: url("r4106-svg-buddy-wire.gif")
+background-size: contain
+
+---
+background-image: url("r4106-svg-re-engaging.gif")
+background-size: contain
+
+---
+background-image: url("r4106-svg-ostial-disease.gif")
+background-size: contain
+
+---
+background-image: url("r4106-svg-prox-balloon.gif")
+background-size: contain
+
+---
+background-image: url("r4106-svg-ostial-stent-flare-failed.gif")
+background-size: contain
+
+---
+background-image: url("r4106-svg-reopening-flared-stent.gif")
+background-size: contain
+
+---
+background-image: url("r4106-svg-reopening-balloon.gif")
+background-size: contain
+
+---
+background-image: url("r4106-svg-final.gif")
+background-size: contain
+
+---
+background-image: url("r4106-stent-boost-fail.gif")
+background-size: contain
+
+---
+.pull-left[
+### Access
+Left radial, 6F
+RCA: JR-4, 5F  
+LCA: JL-3.5, 5F  
+Grafts: IMA, JR-4 for SVGs  
+Right radial, 6F   
+Guide: XB 3.5 -> AL 0.75 -> JR4 -> AL1  
+
+### Intervention (staged)
+Guide "escalation" for successful engagement  
+Buddy wire (Sion Blue and BMW) for support  
+Sequential balloon d/t difficulty delivering equipment  
+Primary stent placement in ostial lesion  
+Reshaping with NC balloons  
+]
+
+.pull-right[
+### Outcomes
+- 4V CABG with LIMA-LAD, SVG-D1, SVG-OM/RPDA (single conduit jump graft)  
+- Significant obstruction of ostial SVG-OM/RPDA   
+- Placement of DES x 1
+
+**SVG engagement is challenging.**
+]

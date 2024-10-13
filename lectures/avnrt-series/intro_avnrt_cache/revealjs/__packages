@@ -1,0 +1,17 @@
+tidyverse
+ggplot2
+tibble
+tidyr
+readr
+purrr
+dplyr
+stringr
+forcats
+coraline
+rhythm
+sf
+scales
+ggsci
+gganimate
+data.table
+vctrs

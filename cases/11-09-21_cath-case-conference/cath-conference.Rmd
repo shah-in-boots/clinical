@@ -1,0 +1,170 @@
+---
+title: "Cath Conference"
+subtitle: "JBVA Cardiac Catheterization Lab"
+date: "November 09, 2021"
+author: "Anish Sanjay Shah, MD<br><span style = 'font-size: 70%;'>Cardiology Fellow<br>University of Illinois at Chicago</span>"
+output:
+  xaringan::moon_reader:
+    css: xaringan-themer.css
+    self_contained: false
+    nature:
+      titleSlideClass: [center, middle, inverse]
+      highlightLines: true
+---
+
+```{r setup, echo = FALSE, include = FALSE}
+library(tidyverse)
+
+print.tbl_df <- function(x, ...) {
+	print.data.frame(x, right = FALSE, ...)
+	invisible(x)
+}
+
+# Options
+options(digits = 0)
+```
+
+```{r themer, echo=FALSE, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_duo_accent(primary_color = "#091F40", secondary_color = "#AC1E2D")
+```
+
+class: center, middle, inverse
+# Case 1
+
+68M h/o HTN, DM  
+p/w anterior STEMI to SAH, +COVID  
+
+---
+background-image: url("0562-1086-2103-0167_series_1.gif")
+background-size: contain
+
+---
+background-image: url("0562-1086-2103-0167_series_2.gif")
+background-size: contain
+
+---
+background-image: url("0562-1086-2103-0167_series_3.gif")
+background-size: contain
+
+---
+background-image: url("0562-1086-2103-0167_series_4.gif")
+background-size: contain
+
+---
+background-image: url("0562-1086-2103-0167_series_5.gif")
+background-size: contain
+
+---
+background-image: url("0562-1086-2103-0167_series_6.gif")
+background-size: contain
+
+---
+background-image: url("0562-1086-2103-0167_series_7.gif")
+background-size: contain
+
+---
+background-image: url("0562-1086-2103-0167_series_9.gif")
+background-size: contain
+
+---
+background-image: url("0562-1086-2103-0167_series_11.gif")
+background-size: contain
+
+---
+background-image: url("0562-1086-2103-0167_series_13.gif")
+background-size: contain
+
+---
+background-image: url("0562-1086-2103-0167_series_14.gif")
+background-size: contain
+
+---
+background-image: url("0562-1086-2103-0167_series_16.gif")
+background-size: contain
+
+
+
+---
+background-image: url("0562-1086-2103-0167_series_21.gif")
+background-size: contain
+
+---
+background-image: url("0562-1086-2103-0167_series_22.gif")
+background-size: contain
+
+---
+background-image: url("0562-1086-2103-0167_series_25.gif")
+background-size: contain
+
+---
+background-image: url("0562-1086-2103-0167_series_26.gif")
+background-size: contain
+
+
+---
+background-image: url("0562-1086-2103-0167_series_30.gif")
+background-size: contain
+
+---
+background-image: url("0562-1086-2103-0167_series_40.gif")
+background-size: contain
+
+---
+background-image: url("0562-1086-2103-0167_series_43.gif")
+background-size: contain
+
+---
+background-image: url("0562-1086-2103-0167_series_47.gif")
+background-size: contain
+
+---
+background-image: url("0562-1086-2103-0167_series_48.gif")
+background-size: contain
+
+---
+background-image: url("0562-1086-2103-0167_series_50.gif")
+background-size: contain
+
+---
+background-image: url("0562-1086-2103-0167_series_52.gif")
+background-size: contain
+
+---
+background-image: url("0562-1086-2103-0167_series_54.gif")
+background-size: contain
+
+---
+background-image: url("0562-1086-2103-0167_series_61.gif")
+background-size: contain
+
+---
+background-image: url("0562-1086-2103-0167_series_55.gif")
+background-size: contain
+
+---
+.pull-left[
+### Access
+Right radial artery  
+5F JR4 diagnostic  
+6F XB 3.5 guide  
+Right femoral artery  
+
+### Intervention
+Impella placement d/t LVEDP/CO  
+Sion blue into dLAD and D1  
+IVUS to identify calcium  
+Sequential dilation with Takeru balloons  
+Rotational atherectomy  
+Stents placed  
+]
+
+.pull-right[
+### Outcomes
+- 2.5 x 38 mm Resolute Onyx dLAD
+- 3.0 x 38 mm Resolute Onyx mLAD
+- 3.5 x 26 mm Resolute Onyx pLAD
+- TIMI-1 / no-reflow of LAD
+- Impella removal d/t hematoma/movement 
+- Perclose x3 + angioseal  
+]

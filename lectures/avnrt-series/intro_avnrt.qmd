@@ -1,0 +1,717 @@
+---
+title: "Introduction to AVNRT"
+subtitle: Clinical Electrophysiology Conference
+author: Anish S. Shah, MD, MS
+institute: Division of Cardiology @ UIC
+date: December 7, 2022
+date-format: long
+engine: knitr
+format:
+  revealjs:
+    transition: fade
+    transition-speed: fast
+    slide-number: true
+    incremental: false
+revealjs-plugins:
+  - attribution
+---
+
+```{r}
+#| label: setup
+#| echo: false
+library(tidyverse)
+library(coraline)
+library(gganimate)
+library(rhythm)
+library(sf)
+library(scales)
+library(ggsci)
+
+blue <- pal_material("blue", reverse = TRUE)(9)
+orange <- pal_material("yellow", reverse = TRUE)(9)
+red <- pal_material("pink", reverse = TRUE)(9)
+green <- pal_material("teal", reverse = TRUE)(9)
+grey <- pal_material("blue-grey", reverse = TRUE)(9)
+
+
+find_project_folder <- function() {
+	x <- sessionInfo()$running
+	if (grepl("mac", x)) {
+		file.path("/Users", "asshah4", "projects")
+	} else if (grepl("Windows", x)) {
+		file.path("C:/Users", "asshah4", "projects")
+	}
+}
+
+loc <- file.path(find_project_folder(), "clinical", "lectures", "avnrt-series")
+```
+
+> When you come to a fork in the road, take it.
+
+. . .
+
+::: {.right} 
+\~ Yogi Berra
+:::
+
+## Objectives
+
+1. Understand the relevant anatomy and physiology that allow for AVNRT
+1. Know how to diagnose typical AVNRT from ...
+	- Clinical history
+	- Surface ECG
+	- Intracardiac electrograms
+1. Understand the underlying mechanisms behind treatment strategies
+
+
+## Outline
+
+1. Introduction to AVNRT
+1. Non-invasive diagnosis
+1. Non-invasive treatment approach
+1. Relevant anatomy and physiology
+1. Intracardiac electrograms
+
+---
+
+## {.smaller}
+
+| Abbr. | Abbreviation |
+|:--- |:---- |
+| AAD | antiarrhythmia drugs | 
+| AH | atrial-His |
+| AP | accessory pathway |
+| [AVNRT]{.orange} | AV nodal reentrant tachycardia |
+| CS | coronary sinus |
+| HPS | His-Purkinje system |
+| HB | His bundle |
+| HA | His-atrial interval |
+| HV | His-ventricular interval |
+| ST | sinus tachycardia |
+| SVT | supraventricular tachycardia |
+| TCL | tachycardia cycle length |
+
+---
+
+## Definition 
+
+- SVT implies involvement of &ge; 1 structure above bifurcation of the His bundle (HB).
+- [AVNRT]{.orange} is usually a narrow-complex tachycardia that uses the AV node, and functional/anatomical pathways (slow/fast)
+
+. . .
+
+[_Remains unclear if there are anatomical correlates with the regions of slow versus fast conduction._]{.grey}
+
+## Requirements
+
+To initiate and maintain a re-entrant rhythm:
+
+1. &ge; 2 functionally/anatomically distinct pathways that join proximally and distally to form a closed circuit of conduction
+1. unidirectional block in one of those potential pathways
+1. slow conduction down the unblocked pathway, allowing the previous pathway to recover
+
+[Sina qua non]{.green} of reentrant arrhythmia is the ability to _reproducibly_ intiate the tachycardia by timed extrastimuli
+
+# Diagnosis
+
+---
+
+- Most common paroxysmal supraventricular tachycardia [@Kwaku2002]
+- Approximately 50% of SVT cases in adults are from an AVNRT mechanism  [@Issa2018]
+- Woman are affected twice as frequently as men [@Goyal1996]
+- Most patients are between 18-40 years of age [@Goyal1996]
+- [Typical AVNRT]{.orange} accounts for 90% of cases
+
+---
+
+![](resources/svt-incidence-by-age.png){.r-stretch}
+
+::: attribution
+Porter et al 2004, HRS [@Porter2004]
+:::
+
+## {background-image="resources/svt-example.png" background-size="cover"}
+
+::: {.center}
+[What's the rhythm?]{.red}
+:::
+
+---
+
+## A [differential]{.green} for a regular SVT?
+
+::: {.columns}
+
+::: {.column width="45%"}
+__Narrow QRS__
+
+- AVNRT
+- AT
+- Orthodromic AVRT due to an accessory pathway
+- AFL with fixed AV conduction
+- SANRT
+- High septal VT
+- ST
+:::
+
+::: {.column width="45%"}
+__Wide QRS__
+
+- AVNRT or AT  with aberrancy
+- AVNRT with a bystander accessory pathway
+- Antidromic AVRT due to an accessory pathway
+- SVT with wider QRS due to electrolyte/AAD therapies
+:::
+
+:::
+
+---
+
+## Does the history matter?
+
+- Sudden onset and termination (often positional) more often re-entrant
+- Abortive measures such as drinking iced water
+- Dizziness and hypotension occur more commonly in short RP tachycardias
+- Polyuria/diuresis during tachycardia or at termination due to increased ANP secretion [@Abe1997b]
+
+---
+
+What next?
+
+::: {.fragment .highlight-red}
+- Physical exam?
+:::
+- 24-48 hour Holter?
+- 2-4 weeks of cardiac event monitoring?
+- Exercise testing?
+- Echocardiogram?
+- EP testing?
+
+---
+
+![](resources/frog-sign.mp4){.r-stretch}
+
+::: attribution
+https://youtu.be/csVn_kvdeBM
+:::
+
+## Does the exam matter?
+
+- _Neck pounding_ manifests with continuous pulsing cannon A waves, as the RA contracts against a closed tricuspid valve, described as the [frog sign]{.green} [@Sakhuja2009]
+	- Does not occur in orthodromic AVRT, as longer VA interval separates the chamber contractions
+	- 7-fold increase in AVNRT over other SVT with this symptom 
+	
+---
+
+![](resources/esc-narrow-qrs-dx-flowchart.png){fig-align="center"}
+
+# Treatment
+
+## Guidelines
+
+::: columns
+
+::: {.column width="50%"}
+![](resources/esc-tachycardia-updates.png){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+![](resources/esc-avnrt-updates.png){fig-align="center"}
+:::
+
+:::
+
+::: attribution
+2019 ESC SVT Guidelines [@Brugada2020a]
+:::
+
+---
+
+![](resources/esc-avnrt-treatment-strategy.png){fig-align="center" .r-stretch}
+
+## Vagal Maneuvers {.smaller}
+
+---
+
+### Valsalva maneuver
+
+- Also called _Flack's test_, where intrapleural pressure is raised to 40 mm Hg (expiration against closed airway)
+- Bradycardia effect seen within first 10-15 seconds
+
+![](resources/valsalva-hemodynamics.png){fig-align="center" .r-stretch}
+
+---
+
+### Carotid sinus massage
+
+1. Holding constant pressure (not a "massage") for 5-10 seconds
+1. Increases pressure in carotid body, firing baroreceptors
+1. SNS afferent response leads to PNS efferents via vagus (right = SA, left = AV)
+1. Responses...
+	- _cardioinhibitory_ with &ge; 3s pause
+	- _vasodepressor_ is drop of &ge; 50 mm Hg in pressure
+	- _mixed_
+	
+---
+
+### Adenosine
+
+::: columns
+
+::: {.column width="50%"}
+- an endogenous purine nuceloside, binding to cardiac adenosine A1 receptors 
+- dose-related prolongation of AV conduction at AH interval
+:::
+
+::: {.column width="50%"}
+90% success rate:
+
+1. 6 mg bolus
+1. 12 mg bolus
+1. 18 mg bolus
+
+Repeat dosing after 1 minute (30 seconds for complete effect). Better efficacy with "single syringe strategy" [@Kotruchin2022]
+:::
+
+:::
+
+
+# Right Atrial Anatomy 
+
+```{r}
+#| include: false
+
+# SF objects
+chambers <- coraline::cardiac_atlas$right_atrium_rao$chambers
+vessels <- coraline::cardiac_atlas$right_atrium_rao$vessels
+projections <- coraline::cardiac_atlas$right_atrium_rao$projections
+valves <- coraline::cardiac_atlas$right_atrium_rao$valves
+septum <- coraline::cardiac_atlas$right_atrium_rao$septum
+conduction <- coraline::cardiac_atlas$right_atrium_rao$conduction
+reference <- coraline::cardiac_atlas$right_atrium_rao$reference
+pathways <- coraline::cardiac_atlas$right_atrium_rao$pathways
+
+# Basic figure
+ra <- 
+	st_union(chambers, projections, by_feature = TRUE) |>
+	st_union(vessels, by_feature = TRUE) |>
+	st_union(septum, by_feature = TRUE) |>
+	st_union(valves, by_feature = TRUE) |>
+	{\(.x) .x["geometry"]}() |>
+	unique()
+
+ra_grey <-
+	ggplot(ra) +
+	geom_sf(fill = grey[9], alpha = 0.1) +
+	theme_void()
+
+```
+
+---
+
+```{r}
+#| label: RA base
+#| cache: true
+ra_grey
+```
+
+---
+
+```{r}
+#| label: RA chambers
+#| cache: true
+ra_grey +
+	geom_sf(data = chambers, fill = red[5], alpha = 0.5) +
+	geom_sf(data = septum, fill = red[5], alpha = 0.5) +
+	geom_sf_label(data = chambers, aes(label = label)) +
+	geom_sf_label(data = septum, aes(label = label))
+```
+
+---
+
+```{r}
+#| label: RA vessels
+#| cache: true
+ra_grey +
+	geom_sf(data = chambers, fill = red[5], alpha = 0.2) +
+	geom_sf(data = septum, fill = red[5], alpha = 0.2) +
+	geom_sf(data = vessels, fill = blue[5], alpha = 0.5) +
+	geom_sf_label(data = vessels, aes(label = label), nudge_y = 1)
+```
+
+---
+
+```{r}
+#| label: RA projections and structures
+#| cache: true
+ra_grey +
+	geom_sf(data = chambers, fill = red[5], alpha = 0.2) +
+	geom_sf(data = septum, fill = red[5], alpha = 0.2) +
+	geom_sf(data = vessels, fill = blue[5], alpha = 0.2) +
+	geom_sf(data = projections, fill = red[2], alpha = 0.5) +
+	geom_sf_label(data = projections, aes(label = label))
+```
+
+---
+
+```{r}
+#| label: RA valves
+#| cache: true
+ra_grey +
+	geom_sf(data = chambers, fill = red[5], alpha = 0.2) +
+	geom_sf(data = septum, fill = red[5], alpha = 0.2) +
+	geom_sf(data = vessels, fill = blue[5], alpha = 0.2) +
+	geom_sf(data = projections, fill = red[2], alpha = 0.2) +
+	geom_sf(data = valves, fill = grey[9], alpha = 0.9) +
+	geom_sf_label(data = valves, aes(label = label))
+```
+
+---
+
+```{r}
+#| label: RA conduction
+#| cache: true
+ra_grey +
+	geom_sf(data = chambers, fill = red[5], alpha = 0.2) +
+	geom_sf(data = septum, fill = red[5], alpha = 0.2) +
+	geom_sf(data = vessels, fill = blue[5], alpha = 0.2) +
+	geom_sf(data = projections, fill = red[2], alpha = 0.2) +
+	geom_sf(data = valves, fill = grey[9], alpha = 0.2) +
+	geom_sf(data = conduction, fill = orange[2], alpha = 0.5) +
+	geom_sf_label(data = conduction[conduction$component == "whole", ], aes(label = label), nudge_y = c(1.5, 3))
+```
+
+---
+
+```{r}
+#| label: RA AV node parts
+#| cache: true
+ra_grey +
+	geom_sf(data = chambers, fill = red[5], alpha = 0.2) +
+	geom_sf(data = septum, fill = red[5], alpha = 0.2) +
+	geom_sf(data = vessels, fill = blue[5], alpha = 0.2) +
+	geom_sf(data = projections, fill = red[2], alpha = 0.2) +
+	geom_sf(data = valves, fill = grey[9], alpha = 0.2) +
+	geom_sf(data = conduction, fill = orange[1], alpha = 0.2) +
+	geom_sf(data = subset(conduction, structure == "av_node" & component != "whole"), fill = orange[1], alpha = 0.9) +
+	geom_sf_label(data = subset(conduction, structure == "av_node" & component != "whole" & type == "nodal"), aes(label = label), nudge_x = c(-3.5, 3), nudge_y = c(0, 0)) +
+	geom_sf_label(data = subset(conduction, structure == "av_node" & component != "whole" & type == "extension"), aes(label = label), nudge_x = c(-4, 5.5), nudge_y = c(-0.5, -2.5))
+```
+
+---
+
+```{r}
+#| label: RA conduction regions
+#| cache: true
+ra_grey +
+	geom_sf(data = chambers, fill = red[5], alpha = 0.2) +
+	geom_sf(data = septum, fill = red[5], alpha = 0.2) +
+	geom_sf(data = vessels, fill = blue[5], alpha = 0.2) +
+	geom_sf(data = projections, fill = red[2], alpha = 0.2) +
+	geom_sf(data = valves, fill = grey[9], alpha = 0.2) +
+	geom_sf(data = conduction, fill = orange[1], alpha = 0.2) +
+	geom_sf(data = filter(reference, type == "anatomy"), fill = orange[2], alpha = 0.5) +
+	geom_sf_label(data = filter(reference, type == "anatomy"), aes(label = label)) 
+```
+
+# Fork in the Road {.r-fit-text}
+
+## {background-image="tmf_data/ecg-case-nsr.png" background-size="contain"}
+
+## {background-image="tmf_data/ecg-case-svt-new.png" background-size="contain"}
+
+---
+
+::: {.columns}
+
+::: {.column width="50%"}
+__Sinus Rhythm__
+
+- Normal P and R axis
+- RR = 900
+- PP = 900
+- QRS = 80
+- P = 120
+- PR = 160
+- QT = 440
+
+:::
+
+::: {.column width="50%"}
+__SVT__
+
+- Suspected retro-grade P 
+- RR = 350
+- QRS = 70
+- PR = 300  
+
+::: {.fragment .highlight-red}
+- RP = 40
+:::
+
+:::
+
+:::
+
+---
+
+## {background-image="resources/josephsen-avnrt-schematic.png" background-size="contain"}
+
+---
+
+```{r}
+#| label: normal conduction
+#| cache: true
+ra_colors <-
+	ra_grey +
+	geom_sf(data = chambers, fill = red[5], alpha = 0.1) +
+	geom_sf(data = septum, fill = red[5], alpha = 0.1) +
+	geom_sf(data = vessels, fill = blue[5], alpha = 0.1) +
+	geom_sf(data = projections, fill = red[2], alpha = 0.1) +
+	geom_sf(data = valves, fill = grey[9], alpha = 0.1) +
+	geom_sf(data = conduction, fill = orange[1], alpha = 0.3) 
+
+ra_colors
+```
+
+---
+
+```{r}
+#| label: normal with pathways
+#| cache: true
+ra_colors + 
+	geom_sf(data = pathways, fill = "white", color = NA, alpha = 0.8) +
+	geom_sf_label(data = filter(pathways, type == "pathway"), aes(label = label), nudge_y = 1)
+```
+
+---
+
+```{r}
+#| label: animated sinus pathways
+#| cache: true
+nsr <-
+	ra_grey +
+	geom_sf(data = pathways, fill = "white", color = NA_character_) +
+	geom_sf(data = filter(pathways, structure == "atrial_extension"),
+					fill = orange[3]) +
+	geom_sf(data = filter(pathways, structure == "upper_common"),
+					fill = orange[3]) +
+	geom_sf(
+		data = filter(
+			pathways,
+			(structure == "fast" & component == "proximal") |
+				(structure == "bridge" & component == "proximal")
+			),
+		fill = orange[3]
+	) +
+	geom_sf(
+		data = filter(
+			pathways,
+			(structure == "fast" & component == "middle") |
+				(structure == "slow" & component == "proximal")
+			),
+		fill = orange[3]
+	) +
+	geom_sf(
+		data = filter(
+			pathways,
+			(structure == "fast" & component == "distal") |
+				(structure == "bridge" & component == "distal")
+			),
+		fill = orange[3]
+	) +
+	geom_sf(
+		data = filter(pathways, structure == "lower_common"),
+		fill = orange[3]
+	) + 
+	geom_sf(
+		data = filter(
+			pathways,
+			(structure == "slow" & component == "distal") |
+				(structure == "slow" & component == "middle")
+			),
+		fill = c(red[2], orange[3])
+	) 
+
+nsr +
+	transition_layers(
+		keep_layers = c(Inf, Inf, rep(2, 7)),
+		layer_length = 1,
+		from_blank = FALSE
+	) +
+	enter_fade() +
+	exit_fade(alpha = 0)
+```
+
+---
+
+```{r}
+#| label: sinus beats
+#| cache: true
+#| fig-cap: Normal sinus beat on multiple electrodes
+#| fig-cap-location: bottom
+nsr_egm <- read_lspro(file.path(loc, "tmf_data/lsp-single-pvc.txt"))
+
+ggm(data = nsr_egm,
+		channels = c("I", "CS", "RV", "HIS D", "HIS M", "HIS P"),
+		time_frame = c(0.25, 0.7)) 
+```
+
+## {background-image="resources/fluoro-catheter-positions.png" background-size="contain"}
+
+---
+
+```{r}
+#| label: tach start low sweep
+#| cache: true
+#| fig-cap-location: bottom
+#| fig-cap: Tachycardia initiation
+tach_start <- read_lspro(file.path(loc, "tmf_data/lsp-tach-initiation.txt"))
+
+ggm(data = tach_start,
+		channels = c("I", "CS", "RV", "HIS d", "HIS m")) |>
+	add_intervals(channel = "I")
+```
+
+---
+
+```{r}
+#| label: tach beats with high sweep
+#| cache: true
+#| fig-cap: A beat from the tachycardia
+#| output-location: column
+ggm(data = tach_start,
+		channels = c("I", "CS", "RV", "HIS d", "HIS m"),
+		time_frame = c(2.6, 2.9))
+```
+
+---
+
+```{r}
+#| label: sinus beat with  high sweep
+#| cache: true
+#| fig-cap-location: bottom
+#| fig-cap: A beat from the sinus
+ggm(data = tach_start,
+		channels = c("I", "CS", "RV", "HIS d", "HIS m"),
+		time_frame = c(0.6, 1.0))
+```
+
+---
+
+```{r}
+#| label: initiation
+#| cache: true
+#| fig-cap: APD leads to tachycardia
+ggm(data = tach_start,
+		channels = c("I", "CS", "RV", "HIS d", "HIS m"),
+		time_frame = c(1.5, 3.0))
+```
+
+---
+
+```{r}
+#| label: animated AVNRT
+#| cache: true
+avnrt <-
+	ra_grey +
+	geom_sf(data = pathways, fill = "white", color = NA_character_) +
+	geom_sf(
+		data = filter(pathways,
+									structure == "slow" & component == "middle"),
+		fill = orange[3]
+	) +
+	geom_sf(
+		data = filter(
+			pathways,
+			(structure == "slow" & component == "distal") |
+				(structure == "bridge" & component == "distal")
+			),
+		fill = orange[3]
+	) +
+	geom_sf(
+		data = filter(pathways, structure == "lower_common"), 
+		fill = orange[3]
+	) +
+	geom_sf(
+		data = filter(pathways,
+									structure == "fast" & component == "distal"),
+		fill = red[2]
+	) +
+	geom_sf(
+		data = filter(pathways,
+									structure == "fast" & component == "middle"),
+		fill = red[2]
+	) +
+	geom_sf(
+		data = filter(
+			pathways,
+			(structure == "fast" & component == "proximal") |
+				(structure == "bridge" & component == "proximal")
+			),
+		fill = red[2]
+	) +
+	geom_sf(
+		data = filter(
+			pathways,
+			(structure == "upper_common" & component == "distal") |
+				(structure == "upper_common" & component == "upper_fast")
+			),
+		fill = red[2]
+	) +
+	geom_sf(
+		data = filter(pathways,
+									structure == "upper_common" & component == "upper_slow"),
+		fill = orange[2]
+	) +
+	geom_sf(
+		data = filter(
+			pathways, 
+			(structure == "atrial_extension") |
+				(structure == "slow" & component == "proximal")
+		),
+		fill = c(red[2], orange[3], rep(red[2], 4))
+	) 
+
+avnrt +
+	transition_layers(
+		keep_layers = c(Inf, Inf, rep(1, 9)),
+		layer_length = 1,
+		from_blank = FALSE
+	) +
+	enter_fade() +
+	exit_fade(alpha = 0)
+```
+
+---
+
+```{r}
+#| label: decremental at 800
+#| cache: true
+#| fig-cap: Decremental pacing at 800 ms
+decremental_800 <-
+	read_lspro(file.path(loc, "tmf_data/lsp-cs-pacing-800.txt")) 
+
+ggm(decremental_800, channels = c("I", "CS", "HIS")) |>
+	add_intervals(channel = "CS 9-10")
+```
+
+---
+
+```{r}
+#| label: dec and jump
+#| cache: true
+#| fig-cap: Decremental pacing at 400 ms
+decremental_400 <-
+	read_lspro(file.path(loc, "tmf_data/lsp-cs-pace-decremental-400ms-jump.txt"))
+
+ggm(decremental_400, channels = c("I", "CS", "HIS")) |>
+	add_intervals(channel = "CS 9-10")
+```
+
+# References
+
+## {.smaller}
+
+::: {#refs}
+:::

@@ -1,0 +1,668 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.4.555">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Clinical</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="../../index.html">
+    <span class="navbar-title">Clinical</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://shah-in-boots.github.io"> <i class="bi bi-house-door" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item compact">
+    <a class="nav-link" href="mailto:ashah282@uic.edu"> <i class="bi bi-envelope" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="http://github.com/shah-in-boots"> <i class="bi bi-github" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://twitter.com/shah_in_boots"> <i class="bi bi-twitter" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://www.linkedin.com/in/anish-shah-326991177/"> <i class="bi bi-linkedin" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+          <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#course" id="toc-course" class="nav-link active" data-scroll-target="#course">Course</a>
+  <ul class="collapse">
+  <li><a href="#anesthesia-hp" id="toc-anesthesia-hp" class="nav-link" data-scroll-target="#anesthesia-hp">Anesthesia H&amp;P</a></li>
+  <li><a href="#post-op" id="toc-post-op" class="nav-link" data-scroll-target="#post-op">Post Op</a>
+  <ul class="collapse">
+  <li><a href="#resident-note" id="toc-resident-note" class="nav-link" data-scroll-target="#resident-note">02/04/23 Resident Note</a></li>
+  </ul></li>
+  <li><a href="#consult" id="toc-consult" class="nav-link" data-scroll-target="#consult">Consult</a>
+  <ul class="collapse">
+  <li><a href="#tee-hp" id="toc-tee-hp" class="nav-link" data-scroll-target="#tee-hp">01/31/23 TEE H&amp;P</a></li>
+  <li><a href="#ep-progress-note" id="toc-ep-progress-note" class="nav-link" data-scroll-target="#ep-progress-note">01/31/23 EP Progress Note</a></li>
+  <li><a href="#structural-consult" id="toc-structural-consult" class="nav-link" data-scroll-target="#structural-consult">01/31/23 Structural Consult</a></li>
+  <li><a href="#epcv-note" id="toc-epcv-note" class="nav-link" data-scroll-target="#epcv-note">02/05/23 EP/CV Note</a></li>
+  <li><a href="#general-note" id="toc-general-note" class="nav-link" data-scroll-target="#general-note">02/06/23 General Note</a></li>
+  </ul></li>
+  <li><a href="#discharge-summary" id="toc-discharge-summary" class="nav-link" data-scroll-target="#discharge-summary">Discharge Summary</a></li>
+  </ul></li>
+  </ul>
+<div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="draft.html"><i class="bi bi-file-slides"></i>RevealJS</a></li></ul></div></nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+
+
+
+<section id="course" class="level1">
+<h1>Course</h1>
+<section id="anesthesia-hp" class="level2">
+<h2 class="anchored" data-anchor-id="anesthesia-hp">Anesthesia H&amp;P</h2>
+<p>Cardio last saw cardiology 10/12/22 (+) Aortic stenosis (moderate AS and moderate AR on TEE 10/2022) (+) Benign essential hypertension (on metoprolol, reports at home BPs 130s/80s, BP in office 106/74 today) (+) Congestive heart failure (CMS/HCC) (EF 55 to 60% on TEE 10/2022, on Lasix, denies pedal edema or SOB (but wife reports patient “sounds like he has difficulty breathing at times”), +1-3 pillow orthopnea as well as sleeps with head of bed elevated (chronic, stable/unchanged), does not follow low salt diet) (+) Longstanding persistent atrial fibrillation (CMS/HCC) (on Eliquis) (+) Pulmonary hypertension (CMS/HCC) (moderate-severe on RHC 1/4/23, on sildenafil) (-) Chest pain (-) MI (myocardial infarction) (CMS/HCC) (-) Stented coronary artery</p>
+<p>Pulmonary wife reports apneic episodes for patient but no previous sleep study</p>
+</section>
+<section id="post-op" class="level2">
+<h2 class="anchored" data-anchor-id="post-op">Post Op</h2>
+<section id="resident-note" class="level3">
+<h3 class="anchored" data-anchor-id="resident-note">02/04/23 Resident Note</h3>
+<p>Mr.&nbsp;Powell is a 58 year old male who underwent a mitral and aortic valve replacement for symptomatic moderate mitral regurgitation and moderate aortic stenosis and regurgitation. He received 1 platelet intraop. He was transferred to the ICU in stable condition. Large pericardial effusion noted on CT chest 2/3/23.</p>
+<p>Cardiovascular: -S/p AVR and MVR on 1/27 -POD1 single chamber pacemaker, V paced at 60 -Boston Scientific Model Number L310, Serial Number 834450 -no evidence of pocket hematoma -hemodynamically stable -Increased lasix to 40mg BID -Preop medications: Toprol XL 25mg daily, Lasix 40 daily. - restarted home lasix, not started BB as patient is baseline bradycardic and requiring pacing -LAA thrombus seen on TEE -discussed indications for coumadin in the case with a history of valvular afib and left atrial thrombus. Patient prefers to be on Eliquis. -Continue ASA 81mg and pre op statin -Preop LCEF 55% - repeat TTE stat - NPO 2/2 hemoptysis</p>
+</section>
+</section>
+<section id="consult" class="level2">
+<h2 class="anchored" data-anchor-id="consult">Consult</h2>
+<section id="tee-hp" class="level3">
+<h3 class="anchored" data-anchor-id="tee-hp">01/31/23 TEE H&amp;P</h3>
+<p>58 yr old M with MR, AS and AR s/p surgical MVR and AVR with carpenter-edwards bioprosthetic valves (23mm aortic, 25mm mitral) on 1-27-2023, kidney transplant in 2015, pAF, pHTN who was admitted for the valve replacement surgery. Postoperatively he had persistent junctional escape needing transvenous pacing, being planned for PPM. Yesterday he had a TTE that showed a large left atrial echodensity concerning for thrombus, so he presents today for TEE for better evaluation.</p>
+</section>
+<section id="ep-progress-note" class="level3">
+<h3 class="anchored" data-anchor-id="ep-progress-note">01/31/23 EP Progress Note</h3>
+<p>58M h/o ESRD s/p transpant in 2015 (on IS), persistent AF, and calcific VHD now s/p SMVR/SAVR on 01/27 c- Edwards-Carpentier bovine bioprosthetic valves. He had ?junctional escape in 40s, and epicardial pacer was left on 60 to help c- this block.</p>
+<p>Pt feels much better now, overall, and is on top of his pain medications. There was some suspicion of HIT in setting of his thrombocytopenia and need for platelets, along with this new found suspected thrombus in LA. He hasn’t noticed any stroke like sx, and feels his pain is better controlled. Doesn’t note any dizzy/LH/syncopal sx when his PM rate is decreased.</p>
+<p>Currently c- HR in 60s c- irregular wide complex pattern and underlying AF. S1/S2 observed, distant. Less crackles noted on lateral lung fields. TTE with potential LA thrombus.</p>
+<p>High grade AV block in setting of persistent AF after SMVR/SAVR, with new dx of LA thrombus d/t ?HIT:</p>
+<ol type="1">
+<li>As pt may have changes in AC options d/t this, we will defer DC-PPM placement until resolution or a plan is solidified. We can do this procedure under oral AC but would wait until this LA thrombus issue has resolved before proceding.</li>
+<li>Of note, he is less rate dependent on the pacemaker, as has been able to generate rates as high as mid-60s. We set his back-up rate at 50 for now.</li>
+<li>Will continue to follow along, and have initiated the conversation with IC/general cards about interventions. TEE pending.</li>
+</ol>
+</section>
+<section id="structural-consult" class="level3">
+<h3 class="anchored" data-anchor-id="structural-consult">01/31/23 Structural Consult</h3>
+<p>Echo 1/30/23: Mild LVH, normal LV function EF 55-60%, severely dilated LA and RA, moderate to severely elevated pulmonary artery pressure, well seated mitral and aortic valve. Large left atrial echodensity concerning for thrombus.</p>
+<p>Assessment/Plan: Calvin D Powell is an 58 y.o. male with MR, AR, AS, kidney transplant in 2015, on immunosuppression, afib, pHTN on sildenafil who was admitted on 1/26/2023 for aortic and mitral valve replacement on 1/27. Cardiology consulted for recommendations regarding LA thrombus seen on TTE.</p>
+<p>Problem List: Left atrial thrombus Bradycardia with pacemaker at 60bpm Mitral and Aortic Regurgitation s/p bioprosthetic valve replacements on 1/27 hx of kidney transplant on immunosuppression AKI thrombocytopenia, concern for HIT</p>
+<p>Recommendations: - Obtain TEE to further characterize LA thrombus - Anticoagulation per CT surgery, but no objection to keep the patient on AC for now from a cardiology standpoint</p>
+</section>
+<section id="epcv-note" class="level3">
+<h3 class="anchored" data-anchor-id="epcv-note">02/05/23 EP/CV Note</h3>
+<p>Mr.&nbsp;Powell is a 58 year old AA M w/ hx of kidney transplant in 2015, on immunosuppression, afib, pHTN on sildenafil, mod-severe calcified AS/moderate AI/mod-severe MR s/p 23mm Bioprosthetic AVR and 25mm bioprosthetic MVR on 1/27/23 c/b Patient-prostheis mismatch and mild-mod periprosthetic regurgitation, CHB s/p Boston Scientific SC-ppm 2/1/23, Long standing persistent Atrial Fibrillation, large posterior pericardial effusion who remains in ICU with volume overload and suboptimal urine output (currently Cr 2.26, hovering close to ~2 since surgery). This AM paged that patient has not been feeling well, poor urine output and he is V-paced at 60 bpm.</p>
+<p>TTE 2/4/23: 1. Ventricular wall thickness is mildly increased. There is normal global left ventricular function. Overall left ventricular ejection fraction by visual estimate is 60%. 2. There is a well-seated bioprosthetic valve in the aortic position (bioAVR, 23mm Carpentier Edwards; placed 1/26/23). Bioprosthetic leaflets not well seen, though appear to be normally thin and mobile consistent with normal leaflet function. Mean gradient 26 mmHg and peak velocity of 3.5 m/s and acceleration time around 95msec and DI 0.45 suggestive of patient prosthesis mismatch. 3. There appears to be very eccentric, mild-moderate bioAVR regurgitation that is likely periprosthetic, seen along the mitral-aortic continuity. 4. There is a well-seated bioprosthetic valve in the mitral position (bioMVR, 25mm Carpentier Edwards, placed 1/26/23). Bioprosthetic leaflets not well seen, though there appears to be some leaflet thickening and reduced excursion of one of the leaflets. Elevated mean transmitral diastolic gradient 6 mm Hg at a HR of 60 bpm. 5. There is a small highly-mobile echodensity seen along the ventricular surface of the bioMVR measuring approximately 7mm in length and 3mm in width (i.e.&nbsp;image 34); similar echodensity not well seen on prior TTE 1/30/2023 or TEE 1/31/2023. Differential includes residual chordal structure (not seen on prior echos) or possibly a new vegetation. Consider further evaluation with TEE if clinically indicated. 6. Mild tricuspid valve regurgitation. The estimated right ventricular systolic pressure is elevated at 55 mmHg. 7. IVC size is dilated with &lt;50% collapse consistent with an RA pressure of 15 - 20 mmHg. 8. There is a large, mostly posteriorly-located pericardial effusion measuring only about 0.5cm in diameter anteriorly at end-ventricular diastole and and approximately 2.6 cm in diameter posteriorly at end-ventricular diastole in the parasternal long axis view. Limited study to evaluate for respiratory changes, though no clear significant intracardiac hemodynamic compromise (no clear chamber collapse) from this predominantly posteriorly-located pericardial effusion.</p>
+<p>Mr.&nbsp;Powell is a 58 year old AA M admitted to ICU with the following:</p>
+<p>Volume overload Stage C chronic systolic HF with preserved EF, NYHA class III-IV symptoms AKI in setting of prior kidney transplant in 2015 on immunosuppression, pHTN<br>
+mod-severe calcified AS with moderate AI s/p 23mm Carpentier Edwards Bioprosthetic AV on 1/27/23 mod-severe MR s/p 25mm Carpentier Edwards bioprosthetic MV on 1/27/23 Patient-prostheis mismatch mild-mod periprosthetic regurgitation CHB s/p Boston Scientific SC-ppm 2/1/23 Long standing persistent Atrial Fibrillation large posterior pericardial effusion</p>
+<p>Impression: discussed with Dr.&nbsp;Avitall with EP and increased patient’s back-up ventricular rate to 80 bpm with hopes to augment CO. From EP perspective, we are limited in further optimizing device as it is single lead ppm. Patient also seen and assessed with Dr.&nbsp;Ibrahim. Low concern that there is tamponade physiology from the posterior effusion and that the bioprostethetic valves are responsible for the current issues. He is clinically volume overloaded and out diuretic strategy thus far appears to be suboptimal. No stigmata of cardiogenic shock at this time.</p>
+<p>Recommendations: 1. Please increase our lasix dosing and frequency to lasix 80mg BID for goal urine output of 1-2 L in 24 hours. If patient is not achieving this goal, we will need to increase to a lasix drip +/- thiaxide diuretic such as metolazone. Suspect that we may see transient Cr rise with diuresis but suspect that is cardiorenal and will improve once we diuresis and relieve the venous congestion.</p>
+</section>
+<section id="general-note" class="level3">
+<h3 class="anchored" data-anchor-id="general-note">02/06/23 General Note</h3>
+<ol type="1">
+<li>Volume overload/large posterior pericardial effusion</li>
+<li>S/p 23 mm Carpentier Edwards bioprosthetic AVR 1/26/23. Elevated Vmax 3.5 m/s mm MG 26 mm Hg c/w PPM (normal AT, DI). Mild-moderate periprosthetic aortic regurgitation not well characterized on TTE or TEE 1/31/23, which will need f/u</li>
+<li>S/p 25 mm Carpentier Edwards bioprosthetic MVR 1/26/23. MG elevated 6 mm Hg (HR 60 BPM). Valve appears normal on TEE 1/31/23</li>
+<li>LAA thrombus</li>
+<li>High grade AV block post operative, now s/p single lead Boston Scientific PM implanted 2/1/23</li>
+<li>Paroxysmal atrial fibrillation</li>
+<li>Renal transplant 2015 on immunosuppression</li>
+<li>Pulmonary hypertension on sildenafil</li>
+</ol>
+<p>58 y.o. M, cardiology following for volume overload, LA thrombus management.</p>
+<p>Agree with continued IV diuresis, can increase to lasix 80 mg IV TID, goal -2-3L/day as he remains quite overloaded. BUN/Cr are stable, no contraction alkalosis. He reports improvement, but dyspnea not completely resolved. No clinical evidence of tamponade from the predominantly posterior pericardial effusion. No c/o chest pain beyond incisional discomfort to suggest marked pericarditis; patient is already on prednisone for renal tx. Otherwise, continue apixaban AC for LA thrombus.</p>
+</section>
+</section>
+<section id="discharge-summary" class="level2">
+<h2 class="anchored" data-anchor-id="discharge-summary">Discharge Summary</h2>
+<p>Patient: Calvin D Powell Admission Date: 1/26/2023 Discharge Date: 2/16/2023 Discharge Disposition: Home with family<br>
+Discharge Service: Cardiothoracic Surgery Discharge Attending: Malek Massad, MD Primary Diagnosis: S/P aortic valve and mitral valve replacement for mitral valve insufficiency and aortic valve stenosis.</p>
+<p>Secondary Diagnosis Bradycardia symptomatic requiring PPM Hx of atrial fibrilation Left atrial thrombus on DOAC Hemorrhoids Bloody stools Right lower lobe consolidation Constipation BPH Deconditioning Surgical blood loss anemia Large pericardial effusion ATN AKI non oliguric Pulmonary hypertension Restrictive Lung disease Orthopnea Surgeries Performed</p>
+<p>1/26/2023 OPERATIONS: 1. Median sternotomy. 2. Total cardiopulmonary bypass. 3. Aortic valve replacement with a 23 mm Carpentier-Edwards pericardial bovine tissue valve. 4. Mitral valve replacement with a 25 mm Carpentier-Edwards pericardial bovine tissue valve. 5. Insertion of 2 temporary ventricular bipolar pacing wires. 6. Insertion of 2 mediastinal and 1 right pleural chest tubes.</p>
+<p>2/1/2023 Procedure Performed: Placement of a single chamber permanent pacemaker via the right subclavian vein under fluoroscopy.</p>
+<p>2/14/2023 OPERATIONS:<br>
+7. Subxiphoid pericardiostomy with drainage of 650 cc of nonclotting serosanguineous fluid. 8. Insertion of a Jackson-Pratt catheter in the pericardial sac.</p>
+<p>Hospital Course Mr.&nbsp;Powell is a 58 year old male who underwent a mitral and aortic valve replacement for symptomatic moderate mitral regurgitation and moderate aortic stenosis and regurgitation. He received 1 platelet intraop. He was transferred to the ICU in stable condition. He was noted to be baseline bradycardic after surgery and EP was consulted for PPM which was placed on 2/1. Transplant nephrology was consulted given patient had a kidney transplant in 2016. Post operative echo showed large left atrial appendage thrombus and patient preferred to be anticoagulated with eliquis. GI was consulted for intermittent bloody stools and thought likely to be internal hemorrhoids and deferred colonoscopy to 3 months post discharge. Aspirin held and eliquis continued given risks of stroke remain high given size and location of thrombus, hemoglobin and hemodynamics remained stable and concern for large bleed were low. Pacemaker set to 80 BPM to help with cardiac output. Ongoing diuresis with IV lasix given patient had enlarged IVC on echo. On 2/14 patient underwent pericardial window with drainage of 650cc of serosanguineous fluid and immediate improvement in hemodynamics. Renal function continued to improve. Sleep medicine consult was placed as RN noticed patient would snore and desaturate at night- patient preferred to do sleep study after discharge. Patient was deemed stable for discharge. Extensive time was taken to explain discharge instructions to both patient and wife. Numbers were given in the event patient would need to contact the team prior to follow up visit 2/21/2023.</p>
+
+
+</section>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      &nbsp;
+    </div>   
+    <div class="nav-footer-center">
+<p>Copyright (c) 2024, Anish. S. Shah, MD, MS</p>
+</div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
+
+
+
+
+</body></html>

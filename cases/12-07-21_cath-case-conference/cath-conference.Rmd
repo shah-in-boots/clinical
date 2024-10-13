@@ -1,0 +1,242 @@
+---
+title: "Cath Conference"
+subtitle: "UIC Cardiac Catheterization Lab"
+date: "December 07, 2021"
+author: "Anish Sanjay Shah, MD<br><span style = 'font-size: 70%;'>Cardiology Fellow<br>University of Illinois at Chicago</span>"
+output:
+  xaringan::moon_reader:
+    css: xaringan-themer.css
+    self_contained: false
+    nature:
+      titleSlideClass: [center, middle, inverse]
+      highlightLines: true
+---
+
+```{r setup, echo = FALSE, include = FALSE}
+library(tidyverse)
+
+print.tbl_df <- function(x, ...) {
+	print.data.frame(x, right = FALSE, ...)
+	invisible(x)
+}
+
+# Options
+options(digits = 0)
+```
+
+```{r themer, echo=FALSE, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_duo_accent(primary_color = "#091F40", secondary_color = "#AC1E2D")
+```
+
+class: middle, inverse
+# Case RG
+
+- 64F h/o DM, ESRD
+- p/w HTN urgency/emergency
+- ACS/NSTEMI c/s for coronary angiography
+
+---
+background-image: url("rg-1.gif")
+background-size: contain
+
+---
+background-image: url("rg-2.gif")
+background-size: contain
+
+---
+background-image: url("rg-3.gif")
+background-size: contain
+
+---
+background-image: url("rg-4.gif")
+background-size: contain
+
+---
+background-image: url("rg-5.gif")
+background-size: contain
+
+---
+background-image: url("rg-6.gif")
+background-size: contain
+
+---
+
+.pull-left[
+#### Access
+- 5F right radial 
+- 5F Tiger diagnostic
+
+#### Interventions
+- No interventions
+]
+
+.pull-right[
+#### Outcomes
+- 80% proximal LAD
+- 60% proximal LCX
+- 70% proximal RCA
+- CABG evaluation
+]
+
+---
+class: middle, inverse
+# Case DG
+
+- 63M h/o CAD s/p PCI to RCA, ICM (EF 10%), SQ-ICD, ESRD
+- p/w pre-transplant eval (LHC/RHC)
+
+------
+background-image: url("dg-1.gif")
+background-size: contain
+
+---
+background-image: url("dg-2.gif")
+background-size: contain
+
+---
+background-image: url("dg-3.gif")
+background-size: contain
+
+---
+background-image: url("dg-4.gif")
+background-size: contain
+
+---
+background-image: url("dg-5.gif")
+background-size: contain
+
+---
+background-image: url("dg-6.gif")
+background-size: contain
+
+---
+background-image: url("dg-7.gif")
+background-size: contain
+
+---
+background-image: url("dg-8.gif")
+background-size: contain
+
+---
+
+.pull-left[
+#### Access
+- 5F right radial
+- 5F Jacky
+
+#### Interventions
+- IVUS
+- FFR
+]
+
+.pull-right[
+#### Outcomes
+- CTO of LCX
+- 90% distal RCA
+- FFR positive of LM
+- Staged protected PCI
+]
+
+---
+class: middle, inverse
+# Case RB
+
+- 47M h/o CAD s/p PCI in 2016, PVD, prior CVA, DM, HTN
+- p/w staged PCI and potential revascularization of RCA CTO
+
+---
+background-image: url("rb-01-rca-cto-old.gif")
+background-size: contain
+
+---
+background-image: url("rb-02-femoral-old.gif")
+background-size: contain
+
+---
+background-image: url("rb-03-cto-fixed.gif")
+background-size: contain
+
+---
+background-image: url("rb-04-lca.gif")
+background-size: contain
+
+---
+background-image: url("rb-05-femoral-stick.gif")
+background-size: contain
+
+---
+background-image: url("rb-06-sfa-channel.gif")
+background-size: contain
+
+---
+background-image: url("rb-07-sfa-cto.gif")
+background-size: contain
+
+---
+background-image: url("rb-08-wire-on-cap.gif")
+background-size: contain
+
+---
+background-image: url("rb-09-cto-digging.gif")
+background-size: contain
+
+---
+background-image: url("rb-10-trailblazer-crossed-short.gif")
+background-size: contain
+
+---
+background-image: url("rb-11-sizing.gif")
+background-size: contain
+
+---
+background-image: url("rb-12-initial-balloon.gif")
+background-size: contain
+
+---
+background-image: url("rb-13-balloon.gif")
+background-size: contain
+
+---
+background-image: url("rb-14-distal-spider.gif")
+background-size: contain
+
+---
+background-image: url("rb-15-atherectomy.gif")
+background-size: contain
+
+---
+background-image: url("rb-16-flow-return.gif")
+background-size: contain
+
+---
+background-image: url("rb-17-dcb.gif")
+background-size: contain
+
+---
+background-image: url("rb-18-final.gif")
+background-size: contain
+
+---
+
+.pull-left[
+#### Access
+- 6F right radial
+- 6F RCFA (antegrade) 
+- JR4 and JL3.5 diagnostic
+- 4F MP1 for peripherals
+
+#### Interventions
+- DSE of LE
+- Wire escalation of CTO (Glidewire, Asahi, Corsair, Confianza, Turnpike LP, Astato)
+- Spider filter wire
+- Directional atherectomy (Hawk One)
+- DCB
+]
+
+.pull-right[
+#### Outcomes
+- Historical revascularization of RCA CTO
+- Successful atherectomy
+- 6.0 x 12 mm DCB 
+]
