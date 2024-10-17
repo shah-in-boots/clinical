@@ -1,0 +1,68 @@
+---
+title: Tracings
+subtitle: EP Didactics
+author: Anish S. Shah, MD, MS
+institute: Division of Cardiology, Department of Medicine, University of Utah
+date: October 16, 2024
+format:
+  revealjs:
+    theme: night
+    transition: fade
+    transition-speed: fast
+    slide-number: true
+    incremental: true
+    auto-animate-easing: ease-in-out
+    auto-animate-unmatched: false
+    progress: true
+    chalkboard: true
+    scrollable: true
+
+csl: ../../apa.csl
+---
+
+# Baseline
+
+## {background-image="baseline-sinus-ecg.png" background-size="contain"}
+## {background-image="baseline-intervals.png" background-size="contain"}
+## {background-image="baseline-rv-pacing-600.png" background-size="contain"}
+## {background-image="baseline-rv-pacing-change-in-retrograde-conduction.png" background-size="contain"}
+## {background-image="baseline-rv-pacing-retrograde-fast-and-slow-intervals.png" background-size="contain"}
+## {background-image="baseline-rv-pacing-retrograde-va-wcl-360.png" background-size="contain"}
+## {background-image="baseline-rv-s1-s2-450-220-with-conduction.png" background-size="contain"}
+## {background-image="baseline-rv-s1-s2-verp.png" background-size="contain"}
+## {background-image="baseline-cs-s1-av-wcl-370.png" background-size="contain"}
+## {background-image="baseline-cs-s1-s2-450-310-av-frp-decrement.png" background-size="contain"}
+## {background-image="baseline-cs-s1-s2-450-210-atrial-erp.png" background-size="contain"}
+## {background-image="baseline-cs-s1-s2-450-300-block-in-fast-pathway-echo-slow.png" background-size="contain"}
+## {background-image="baseline-cs-s1-s2-450-240-fast-pathway-blocks-echo-from-slow.png" background-size="contain"}
+## {background-image="parahisian-pacing-nodal-response.png" background-size="contain"}
+
+# Isoproterenol
+
+## {background-image="iso-rv-s1-retrograde-activation-changes.png" background-size="contain"}
+## {background-image="iso-rv-s1-retrograde-va-wcl-250.png" background-size="contain"}
+## {background-image="iso-rv-s1-s2-400-190-ventricular-erp.png" background-size="contain"}
+## {background-image="iso-cs-s1-av-wcl-340.png" background-size="contain"}
+## {background-image="iso-cs-s1-s2-450-200-atrial-erp.png" background-size="contain"}
+
+# Tachycardia
+
+## {background-image="tach-surface-ecg.png" background-size="contain"}
+## {background-image="tach-onset-with-atrial-pes.png" background-size="contain"}
+## {background-image="tach-spontaneous-termination.png" background-size="contain"}
+## {background-image="tach-stable-onset-with-atrial-pes.png" background-size="contain"}
+## {background-image="tach-intervals.png" background-size="contain"}
+## {background-image="tach-rv-pacing-progressive-fusion.png" background-size="contain"}
+## {background-image="tach-rv-pacing-entrainment-310.png" background-size="contain"}
+## {background-image="tach-vop-response-vahv.png" background-size="contain"}
+## {background-image="tach-his-refractory-pvc-without-advancing-atria.png" background-size="contain"}
+
+# Ablation
+
+## {background-image="ablation-off-because-of-pvc.png" background-size="contain"}
+## {background-image="ablation-extrastimuli-response-with-an-echo.png" background-size="contain"}
+## {background-image="ablation-off-because-v-no-a.png" background-size="contain"}
+## {background-image="ablation-extrastimuli-with-echo-beats-after-more-burning.png" background-size="contain"}
+## {background-image="ablation-final-burn-close-to-his.png" background-size="contain"}
+## {background-image="post-ablation-extras-with-atrial-frp-no-echo.png" background-size="contain"}
+## {background-image="post-ablation-extras-with-atrial-erp.png" background-size="contain"}
