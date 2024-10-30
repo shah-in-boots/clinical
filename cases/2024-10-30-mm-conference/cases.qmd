@@ -1,0 +1,53 @@
+---
+title: Morbidity and Mortality Conference
+subtitle: Division of Cardiology, Section of Cardiac Electrophysiology
+author: Anish S. Shah, MD, MS
+institute: University of Utah
+date: October 30, 2024
+format:
+  revealjs:
+    theme: night
+    transition: fade
+    transition-speed: fast
+    slide-number: true
+    incremental: true
+    auto-animate-easing: ease-in-out
+    auto-animate-unmatched: false
+    progress: true
+    chalkboard: true
+    scrollable: true
+
+csl: ../../apa.csl
+---
+
+# P15278336 ~ "Nurse Sedate"
+
+## Course
+
+## Complications
+
+## Points
+
+# SH21103891 ~ "Contact Dermatitis"
+
+## Course
+
+## Complications
+
+## Points
+
+# MB07151335 ~ "Lead Dislodgement"
+
+## Course
+
+## Complications
+
+## Points
+
+# JB22574806 - Phrenic Stimulation
+
+## Course
+
+## Complications
+
+## Points
