@@ -20,6 +20,11 @@ format:
 csl: ../../apa.csl
 ---
 
+Case with JB
+Elderly woman with "SVT" and syncope 
+Not seen for > 2 years prior to visit
+Some SVT on distant MCT
+
 # Baseline
 
 ## {background-image="baseline-sinus-ecg.png" background-size="contain"}

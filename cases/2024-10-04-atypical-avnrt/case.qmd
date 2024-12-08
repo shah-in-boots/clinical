@@ -20,6 +20,11 @@ format:
 csl: ../../apa.csl
 ---
 
+With KK
+Young gentleman (LW) with palpitations
+Prior AFL ablation
+No retrograde AV conduction
+
 # Baseline
 
 ## {background-image="ecg-baseline-intervals-sinus.png" background-size="contain"}
