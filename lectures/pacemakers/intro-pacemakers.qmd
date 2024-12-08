@@ -1,0 +1,25 @@
+---
+title: Introduction to Pacemakers
+subtitle: A Guide for EP Staff and Trainees
+author: Anish S. Shah, MD, MS
+institution: University of Utah
+date: "December 9th, 2024"
+format:
+  revealjs:
+	  theme: simple
+    transition: fade
+    transition-speed: fast
+    slide-number: true
+    incremental: true
+    auto-animate-easing: ease-in-out
+    auto-animate-unmatched: false
+    progress: true
+    chalkboard: true
+    scrollable: true
+---
+
+# Outline
+
+1. Types of cardiac implantable electronic devices (CIED)
+1. Purpose of CIEDs
+1. Procedural aspects of CIEDs (and complications)
