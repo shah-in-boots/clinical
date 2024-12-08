@@ -6,7 +6,10 @@ institution: University of Utah
 date: "December 9th, 2024"
 format:
   revealjs:
-	  theme: simple
+    theme: 
+      - simple
+      - themes/colors.scss
+      - themes/revealjs-format.scss
     transition: fade
     transition-speed: fast
     slide-number: true
