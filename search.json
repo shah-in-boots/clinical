@@ -2665,5 +2665,124 @@
     "title": "Morbidity and Mortality Conference",
     "section": "Points",
     "text": "Points\n\nPhrenic stimulation can be a complication of CS lead placement\nIntra-op testing can be limited by anesthetics and paralytics\nConsider a disclaimer in lab about paralytics in the Anethesiology workspace, partially to help with the signficant hand-offs?"
+  },
+  {
+    "objectID": "lectures/pacemakers/intro-pacemakers.html#outline",
+    "href": "lectures/pacemakers/intro-pacemakers.html#outline",
+    "title": "Introduction to Pacemakers",
+    "section": "Outline",
+    "text": "Outline\n\nRelevant cardiac anatomy and physiology\nTypes of cardiac implantable electronic devices (CIED)\nPurpose of CIEDs\nProcedural aspects of CIEDs (and complications)"
+  },
+  {
+    "objectID": "lectures/pacemakers/intro-pacemakers.html#objectives",
+    "href": "lectures/pacemakers/intro-pacemakers.html#objectives",
+    "title": "Introduction to Pacemakers",
+    "section": "Objectives",
+    "text": "Objectives\n\nKnow the types of cardiac implantable electronic devices (CIED)\nUnderstand generally how pacemakers and defibrillators work\nRecognize common complications of CIEDs"
+  },
+  {
+    "objectID": "lectures/pacemakers/intro-pacemakers.html#basic-cardiac-electrophysiology",
+    "href": "lectures/pacemakers/intro-pacemakers.html#basic-cardiac-electrophysiology",
+    "title": "Introduction to Pacemakers",
+    "section": "Basic cardiac electrophysiology",
+    "text": "Basic cardiac electrophysiology\n\n\n\n\n\ngraph TD\n    %% Define the main conduction pathway\n    SA[(\"SA Node&lt;br/&gt;60-100 bpm\")] --&gt; RA{\"RA&lt;br/&gt;Activation\"}\n    RA --&gt; AVN[\"AV Node\"]\n    AVN --&gt; HB[\"His Bundle\"]\n    HB --&gt; RBB[\"Right Bundle&lt;br/&gt;Branch\"]\n    HB --&gt; LBB[\"Left Bundle&lt;br/&gt;Branch\"]\n    LBB --&gt; LAF[\"Left Anterior&lt;br/&gt;Fascicle\"]\n    LBB --&gt; LPF[\"Left Posterior&lt;br/&gt;Fascicle\"]\n    RBB --&gt; RV[\"RV&lt;br/&gt;Activation\"]\n    LAF --&gt; LV[\"LV&lt;br/&gt;Activation\"]\n    LPF --&gt; LV\n\n    %% Group by ECG components using subgraphs\n    subgraph P_Wave [\"P Wave (80-120ms)\"]\n        style P_Wave fill:#82ada9,stroke:#2a5653\n        SA\n        RA\n    end\n\n    subgraph PR_Segment [\"PR Segment\"]\n        style PR_Segment fill:#9cb5b3,stroke:#2a5653\n        AVN\n    end\n\n    subgraph QRS_Early [\"Early QRS (20-40ms)\"]\n        style QRS_Early fill:#b6bcbb,stroke:#2a5653\n        HB\n        RBB\n        LBB\n        LAF\n        LPF\n    end\n\n    subgraph QRS_Late [\"Late QRS (40-120ms)\"]\n        style QRS_Late fill:#d4a789,stroke:#8b4513\n        RV\n        LV\n    end\n\n    %% Style nodes with gradient colors\n    style SA fill:#82ada9,stroke:#2a5653,stroke-width:2px\n    style RA fill:#82ada9,stroke:#2a5653,stroke-width:2px\n    style AVN fill:#9cb5b3,stroke:#2a5653,stroke-width:2px\n    style HB fill:#b6bcbb,stroke:#2a5653,stroke-width:2px\n    style RBB fill:#b6bcbb,stroke:#2a5653,stroke-width:2px\n    style LBB fill:#b6bcbb,stroke:#2a5653,stroke-width:2px\n    style LAF fill:#b6bcbb,stroke:#2a5653,stroke-width:2px\n    style LPF fill:#b6bcbb,stroke:#2a5653,stroke-width:2px\n    style RV fill:#d4a789,stroke:#8b4513,stroke-width:2px\n    style LV fill:#d4a789,stroke:#8b4513,stroke-width:2px\n\n    %% Add timing reference\n    subgraph Timing [\"Surface ECG Correlation\"]\n        direction LR\n        P[/\"P\"/] --- PQ[/\"PQ\"/] --- QRS[/\"QRS\"/]\n        style Timing fill:#f5f5f5,stroke:#333\n    end"
+  },
+  {
+    "objectID": "lectures/pacemakers/intro-pacemakers.html#section",
+    "href": "lectures/pacemakers/intro-pacemakers.html#section",
+    "title": "Introduction to Pacemakers",
+    "section": "",
+    "text": "Visible Heart Lab, 2021, University of Minnesota"
+  },
+  {
+    "objectID": "lectures/pacemakers/intro-pacemakers.html#background-image-visible-heart-2021-ecg-and-conduction-system.png-background-sizecontain",
+    "href": "lectures/pacemakers/intro-pacemakers.html#background-image-visible-heart-2021-ecg-and-conduction-system.png-background-sizecontain",
+    "title": "Introduction to Pacemakers",
+    "section": "{background-image: “visible-heart-2021-ecg-and-conduction-system.png”, background-size=“contain”}",
+    "text": "{background-image: “visible-heart-2021-ecg-and-conduction-system.png”, background-size=“contain”}"
+  },
+  {
+    "objectID": "lectures/pacemakers/intro-pacemakers.html#background-imagevisible-heart-2021-ecg-and-conduction-system.png-background-sizecontain",
+    "href": "lectures/pacemakers/intro-pacemakers.html#background-imagevisible-heart-2021-ecg-and-conduction-system.png-background-sizecontain",
+    "title": "Introduction to Pacemakers",
+    "section": "{background-image=“visible-heart-2021-ecg-and-conduction-system.png”, background-size=“contain”}",
+    "text": "{background-image=“visible-heart-2021-ecg-and-conduction-system.png”, background-size=“contain”}"
+  },
+  {
+    "objectID": "lectures/pacemakers/intro-pacemakers.html#section-1",
+    "href": "lectures/pacemakers/intro-pacemakers.html#section-1",
+    "title": "Introduction to Pacemakers",
+    "section": "",
+    "text": "graph LR\n    %% Define node styles\n    classDef pWave fill:#eceada,color:black,font-size:12px\n    classDef earlyQRS fill:#ffb954,color:white,font-size:12px\n    classDef lateQRS fill:#d11807,color:white,font-size:12px\n\n    %% Define nodes and connections\n    SAN{{\"SAN\"}} --&gt; RAAS[\"RAAS\"]\n    RAAS --&gt; AVN{{\"AVN\"}}\n    AVN --&gt; HB[\"HB\"]\n    HB --&gt; RBB[\"RB\"]\n    HB --&gt; LBB[\"LB\"]\n    LBB --&gt; LAF[\"LAF\"] & LPF[\"LPF\"]\n    RBB & LAF & LPF --&gt; V[\"Ventricle\"]\n\n    %% Apply styles\n    class SAN,RAAS pWave\n    class AVN,HB,RBB,LBB,LAF,LPF earlyQRS\n    class V lateQRS"
+  },
+  {
+    "objectID": "lectures/pacemakers/intro-pacemakers.html#arrhythmia-conditions",
+    "href": "lectures/pacemakers/intro-pacemakers.html#arrhythmia-conditions",
+    "title": "Introduction to Pacemakers",
+    "section": "Arrhythmia Conditions",
+    "text": "Arrhythmia Conditions\n\n\nAtrial disease\n\nSinus node dysfunction\nSinus arrest, sinus pauses\nSick sinus syndrome (atrial fibrillation)\n\n\nAV Nodal and His-Purkinje disease\n\nHigh grade AV block\nAV nodal ablation (atrial fibrillation)\nLeft bundle branch block and/or interventricular conduction delay\n\n\nVentricular disease\n\nVentricular tachcyardia\nSudden cardiac death\nSystolic heart failure"
+  },
+  {
+    "objectID": "lectures/pacemakers/intro-pacemakers.html#types",
+    "href": "lectures/pacemakers/intro-pacemakers.html#types",
+    "title": "Introduction to Pacemakers",
+    "section": "Types",
+    "text": "Types\n\nTransvenous pacemakers: single chamber, dual chamber, cardiac resynchronization therapy (CRT-P)\nTransvenous defibrillators: single coil implantable cardiac defibrillator (ICD), dual coil ICD\nLeadless pacemakers: MICRA (MDT), AVEIR (ABT)\nExtracardiac defibrillators: subcutaneous ICD (S-ICD), extravascular ICD (EV-ICD, MDT)"
+  },
+  {
+    "objectID": "lectures/pacemakers/intro-pacemakers.html#programming",
+    "href": "lectures/pacemakers/intro-pacemakers.html#programming",
+    "title": "Introduction to Pacemakers",
+    "section": "Programming",
+    "text": "Programming\n\n\n\n\n\n\n\n\nPosition\nCategory\nCode Letters\n\n\n\n\nI\nChamber(s) Paced\nO = NoneA = AtriumV = VentricleD = Dual (A+V)\n\n\nII\nChamber(s) Sensed\nO = NoneA = AtriumV = VentricleD = Dual (A+V)\n\n\nIII\nResponse to Sensing\nO = NoneI = InhibitedT = TriggeredD = Dual (I+T)\n\n\nIV\nRate Modulation\nO = NoneR = Rate Modulation\n\n\nV\nMultisite Pacing\nO = NoneA = AtriumV = VentricleD = Dual (A+V)\n\n\n\n\nNASPE/BPEG generic codes for pacing modes, 2003"
+  },
+  {
+    "objectID": "lectures/pacemakers/intro-pacemakers.html#simplified-programming",
+    "href": "lectures/pacemakers/intro-pacemakers.html#simplified-programming",
+    "title": "Introduction to Pacemakers",
+    "section": "Simplified Programming",
+    "text": "Simplified Programming\n\nPacing chamber\nSensing chamber\nResponse to sensing\n\n\n\n\n\n\n\ngraph LR\n    %% Define styles for the three positions\n    classDef pace fill:#d11807,color:white\n    classDef sense fill:#00767b,color:white\n    classDef response fill:#eceada,color:black\n\n    %% Create the three main positions in one line\n    P[\"Paced (A/V/D)\"] --&gt; S[\"Sensed (A/V/D)\"] --&gt; R[\"Response\"]\n\n    %% Add inhibit/trigger feedback arrows\n    R -.-&gt;|\"Inhibit\"| P\n    R -.-&gt;|\"Trigger\"| P\n\n    %% Apply styles\n    class P pace\n    class S sense\n    class R response"
+  },
+  {
+    "objectID": "lectures/pacemakers/intro-pacemakers.html#telemetry",
+    "href": "lectures/pacemakers/intro-pacemakers.html#telemetry",
+    "title": "Introduction to Pacemakers",
+    "section": "Telemetry",
+    "text": "Telemetry\n\n\n\n\n\n\nImportant\n\n\nPacer spikes do not mean pacing!\n\n\n\n\nAtrial pacing may look like a normal P wave\nRV pacing will look like a LBBB pattern, since the left-side will activate late\nBiventricular pacing will look like both a LBBB and RBBB (hard to tell!)\nLeft bundle area pacing will look more like a RBBB pattern"
+  },
+  {
+    "objectID": "lectures/pacemakers/intro-pacemakers.html#transvenous-pacemakers",
+    "href": "lectures/pacemakers/intro-pacemakers.html#transvenous-pacemakers",
+    "title": "Introduction to Pacemakers",
+    "section": "Transvenous pacemakers",
+    "text": "Transvenous pacemakers\n\nSingle-chamber pacemaker\n\nVentricle-only: used in the case of AV block that is intermittent, e.g. low pacing burden expected\nAtrial-only (less common): used if disease limited to the SA node, e.g. no problems with AV node)\n\nDual-chamber pacemaker\n\nHave one of the above indications but expect an increased pacing burden\nAllows the device to “track”…\n\nIf there is 2:1 AVB, hard to get the heart rate up to go for a run\nIf the device can track the atria, can increase the ventricular rate to match"
+  },
+  {
+    "objectID": "lectures/pacemakers/intro-pacemakers.html#leadless-pacemakers",
+    "href": "lectures/pacemakers/intro-pacemakers.html#leadless-pacemakers",
+    "title": "Introduction to Pacemakers",
+    "section": "Leadless pacemakers",
+    "text": "Leadless pacemakers\nLeadless pacemakers tend to be used when we want to avoid additional wires/leads in the veins reaching the heart, and decrease amount of hardware (i.e. endocarditis/infection).\n\n\n\nMICRA\n\nVR: paces only in the RV, but has a rate responsive mode\nAV: tracks the atria by “hearing” the mechanical motion of the atria and tricuspid valve\n\n\nAVEIR\n\nCan be placed in atria alone, ventricle alone, or both\nCommunicates through a wireless system to help track\nE.g. allows for similar functionality as a transvenous dual-chamber pacemaker"
+  },
+  {
+    "objectID": "lectures/pacemakers/intro-pacemakers.html#cardiac-resynchronization-devices",
+    "href": "lectures/pacemakers/intro-pacemakers.html#cardiac-resynchronization-devices",
+    "title": "Introduction to Pacemakers",
+    "section": "Cardiac resynchronization devices",
+    "text": "Cardiac resynchronization devices\n\nCRT-P and CRT-D devices\n\nUsed when expecting a high ventricular pacing burden in a “sick” heart with significant conduction delay, like LBBB in setting of reduced LVEF\n\nConduction system pacing\n\nPacing the septum, and attempting to directly capture the left bundle, leading to a more “normal” cardiac conduction pattern\nUsed for resynchronization therapy, either directly or as a bail-out (EP-dependent)"
+  },
+  {
+    "objectID": "lectures/pacemakers/intro-pacemakers.html#defibrillators",
+    "href": "lectures/pacemakers/intro-pacemakers.html#defibrillators",
+    "title": "Introduction to Pacemakers",
+    "section": "Defibrillators",
+    "text": "Defibrillators\n\nRV defibrillator lead\n\nPlaced in the RV\nUsed for both pacing and defibrillation\nPlaced from the left to create a better vector across the heart (similar to defibrillator pad placement)\nRequires low amounts of energy to successfully shock\nCan also provide ATP (fast pacing to outrace a ventricular tachycardia)\n\nS-ICD\n\nPlaces a suprasternal lead and a lateral can underneath the skin or muscle on the side of the chest\nAllows for defibrillation without need for intracardiac wires\n\nEV-ICD\n\nPlaces a substernal lead and a lateral battery\nCan shock at lower voltages than an S-ICD and deliver ATP therapy"
+  },
+  {
+    "objectID": "lectures/pacemakers/intro-pacemakers.html#complications",
+    "href": "lectures/pacemakers/intro-pacemakers.html#complications",
+    "title": "Introduction to Pacemakers",
+    "section": "Complications",
+    "text": "Complications\n\nPneumothoraces\n\nWhenever accessing the subclavian vein (less common with axillary or cephalic)\nCXR immediately after procedure, along with following morning\n\nPocket hematomas\n\nWorsened by being on heparin (vs. all other AC agents)\nPressure dressings can help staunch superficial bleeding\nIncreases risk for infection if not addressed\n\nFemoral bleeding\n\nWhen access for a TVP or leadless pacemaker\nIf for leadless, can be &gt;20F in size of venotomy\n\nLead issues:\n\nDislodgement\n\nAlthough rare, occurs most commonly in first 24-48 hours\nCan be seen on CXR, but also with device interrogation (change in pacing pattern suddenly)\n\nPhrenic stimulation\n\nMore common with CS leads but can happen with atrial and RV leads depending on placement\nIntermittent and positional “hiccups”"
   }
 ]

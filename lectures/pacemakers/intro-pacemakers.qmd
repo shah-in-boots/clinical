@@ -3,13 +3,10 @@ title: Introduction to Pacemakers
 subtitle: A Guide for EP Staff and Trainees
 author: Anish S. Shah, MD, MS
 institution: University of Utah
-date: "December 9th, 2024"
+date: December 9, 2024
 format:
   revealjs:
-    theme: 
-      - simple
-      - themes/colors.scss
-      - themes/revealjs-format.scss
+    theme: simple
     transition: fade
     transition-speed: fast
     slide-number: true
@@ -19,10 +16,275 @@ format:
     progress: true
     chalkboard: true
     scrollable: true
+    height: 1080
+    width: 1920
 ---
 
-# Outline
+## Objectives
 
+- Know the types of cardiac implantable electronic devices (**CIED**)
+- Understand generally how pacemakers and defibrillators work
+- Recognize common complications of CIEDs
+
+## Outline
+
+1. Relevant cardiac anatomy and physiology
 1. Types of cardiac implantable electronic devices (CIED)
 1. Purpose of CIEDs
 1. Procedural aspects of CIEDs (and complications)
+
+# Relevant Cardiac Electrophysiology
+
+## {background-image="visible-heart-2021-ecg-and-conduction-system.png" background-size="contain"}
+
+::: footer
+[Visible Heart Lab, 2021, University of Minnesota](https://www.vhlab.umn.edu/atlas/conduction-system-tutorial/gap-junctions.shtml)
+:::
+
+##
+
+```{mermaid}
+graph LR
+    %% Define node styles
+    classDef pWave fill:#eceada,color:black,font-size:12px
+    classDef earlyQRS fill:#ffb954,color:white,font-size:12px
+    classDef lateQRS fill:#d11807,color:white,font-size:12px
+
+    %% Define nodes and connections
+    SAN{{"SAN"}} --> RAAS["RAAS"]
+    RAAS --> AVN{{"AVN"}}
+    AVN --> HB["HB"]
+    HB --> RBB["RB"]
+    HB --> LBB["LB"]
+    LBB --> LAF["LAF"] & LPF["LPF"]
+    RBB & LAF & LPF --> V["Ventricle"]
+
+    %% Apply styles
+    class SAN,RAAS pWave
+    class AVN,HB,RBB,LBB,LAF,LPF earlyQRS
+    class V lateQRS
+```
+
+## Arrhythmia Conditions
+
+:::: {.columns}
+
+::: {.column width=33%}
+[Atrial disease]{.light}
+
+- Sinus node dysfunction
+- Sinus arrest, sinus pauses
+- Sick sinus syndrome (atrial fibrillation)
+:::
+
+::: {.column width=33%}
+[AV Nodal and His-Purkinje disease]{.orange}
+
+- High grade AV block
+- AV nodal ablation (atrial fibrillation)
+- Left bundle branch block and/or interventricular conduction delay
+:::
+
+::: {.column width=33%}
+[Ventricular disease]{.red}
+
+- Ventricular tachcyardia
+- Sudden cardiac death
+- Systolic heart failure
+:::
+
+::::
+
+# Cardiac Implantable Electronic Devices
+
+## Types
+
+- Transvenous pacemakers: single chamber, dual chamber, cardiac resynchronization therapy (CRT-P)
+- Transvenous defibrillators: single coil implantable cardiac defibrillator (ICD), dual coil ICD
+- Leadless pacemakers: MICRA (MDT), AVEIR (ABT)
+- Extracardiac defibrillators: subcutaneous ICD (S-ICD), extravascular ICD (EV-ICD, MDT)
+
+## Programming
+
+| Position | Category               | Code Letters                                    |
+|----------|------------------------|-------------------------------------------------|
+| I        | Chamber(s) Paced       | O = None<br>A = Atrium<br>V = Ventricle<br>D = Dual (A+V) |
+| II       | Chamber(s) Sensed      | O = None<br>A = Atrium<br>V = Ventricle<br>D = Dual (A+V) |
+| III      | Response to Sensing    | O = None<br>I = Inhibited<br>T = Triggered<br>D = Dual (I+T) |
+| IV       | Rate Modulation        | O = None<br>R = Rate Modulation                 |
+| V        | Multisite Pacing       | O = None<br>A = Atrium<br>V = Ventricle<br>D = Dual (A+V) |
+
+::: footer
+NASPE/BPEG generic codes for pacing modes, 2003
+:::
+
+---
+
+## Simplified Programming
+
+1. Pacing chamber
+1. Sensing chamber
+1. Response to sensing
+
+. . .
+
+```{mermaid}
+graph LR
+    %% Define styles for the three positions
+    classDef pace fill:#d11807,color:white
+    classDef sense fill:#00767b,color:white
+    classDef response fill:#eceada,color:black
+
+    %% Create the three main positions in one line
+    P["Paced (A/V/D)"] --> S["Sensed (A/V/D)"] --> R["Response"]
+
+    %% Add inhibit/trigger feedback arrows
+    R -.->|"Inhibit"| P
+    R -.->|"Trigger"| P
+
+    %% Apply styles
+    class P pace
+    class S sense
+    class R response
+```
+
+---
+
+![Modey-Davies & Cohhe 1997, *The Lancet*](modey-davies-1997-vvi-and-ddd.png.png)
+
+---
+
+[VVI?]{.bigger}
+
+. . .
+
+I'm a single-chamber device [sitting in the RV]{.green}. If I see the ventricle beat, I will stay quiet and [inhibit]{.light} my pacing. If I don't see anything, I will [pace]{.red} the ventricle.
+
+. . .
+
+[AAI?]{.bigger}
+
+I'm a single-chamber device [sitting in the RA]{.green}. If I see the atria beat, I will stay quiet and [inhibit]{.light} my pacing. If I don't see anything, I will [pace]{.red} the atria.
+
+. . .
+
+[DDD?]{.bigger}
+
+I'm tricky. I do both. I'm listening [in both chambers]{.green}. If I don't hear the atria, I will [pace]{.red} the atria, and if I don't hear the ventricle, than I will [pace]{.red} the ventricle.  
+
+## Telemetry
+
+::: {.callout-important}
+Pacer spikes do not mean pacing!
+:::
+
+- Atrial pacing may look like a normal P wave
+- RV pacing will look like a LBBB pattern, since the left-side will activate **late**
+- Biventricular pacing will look like both a LBBB and RBBB (hard to tell!)
+- Left bundle area pacing will look more like a RBBB pattern
+
+---
+
+![RV pacing pattern](ecg-rv-pacing.png)
+
+---
+
+![BiV pacing pattern](ecg-biv-pacing.png)
+
+# Indications
+
+## Transvenous pacemakers
+
+- Single-chamber pacemaker
+  - Ventricle-only: used in the case of AV block that is intermittent, e.g. low pacing burden expected
+  - Atrial-only (less common): used if disease limited to the SA node, e.g. no problems with AV node)
+- Dual-chamber pacemaker
+  - Have one of the above indications but expect an increased pacing burden
+  - Allows the device to "track"...
+    - If there is 2:1 AVB, hard to get the heart rate up to go for a run
+    - If the device can track the atria, can increase the ventricular rate to match
+    
+---
+
+![Dual-chamber pacemaker CXR](cxr-dual-chamber-pacer.png)
+    
+## Leadless pacemakers
+
+Leadless pacemakers tend to be used when we want to avoid additional wires/leads in the veins reaching the heart, and decrease amount of hardware (i.e. endocarditis/infection).
+
+. . .
+
+:::: {.columns}
+::: {.column width=50%}
+### MICRA
+
+- VR: paces only in the RV, but has a rate responsive mode
+- AV: tracks the atria by "hearing" the mechanical motion of the atria and tricuspid valve
+:::
+
+::: {.column width=50%}
+### AVEIR
+
+- Can be placed in atria alone, ventricle alone, or both
+- Communicates through a wireless system to help track
+- E.g. allows for similar functionality as a transvenous dual-chamber pacemaker
+:::
+::::
+
+---
+
+![MICRA along with a prevously implanted ILR](cxr-micra-ilr.png)
+
+## Cardiac resynchronization devices
+
+- CRT-P and CRT-D devices
+  - Used when expecting a high ventricular pacing burden in a "sick" heart with significant conduction delay, like LBBB in setting of reduced LVEF
+- Conduction system pacing
+  - Pacing the septum, and attempting to directly capture the left bundle, leading to a more "normal" cardiac conduction pattern
+  - Used for resynchronization therapy, either directly or as a bail-out (EP-dependent)
+
+---
+
+![CRT-D device seen, with quadrapolar CS-lead and RV with shock coil](cxr-crt-d.png)
+
+## Defibrillators
+
+- RV defibrillator lead
+  - Placed in the RV 
+  - Used for both pacing and defibrillation
+  - Placed from the left to create a better vector across the heart (similar to defibrillator pad placement)
+  - Requires low amounts of energy to successfully shock
+  - Can also provide ATP (fast pacing to *outrace* a ventricular tachycardia)
+- S-ICD
+  - Places a suprasternal lead and a lateral can underneath the skin or muscle on the side of the chest
+  - Allows for defibrillation without need for intracardiac wires
+- EV-ICD
+  - Places a *substernal* lead and a lateral battery
+  - Can shock at lower voltages than an S-ICD and deliver ATP therapy
+  
+---
+
+![S-ICD device with suprasternal lead/defibrillator coil](cxr-s-icd.png)
+
+# Complications
+
+---
+
+- Pneumothoraces
+  - Whenever accessing the subclavian vein (less common with axillary or cephalic)
+  - **CXR immediately after procedure, along with following morning**
+- Pocket hematomas
+  - Worsened by being on heparin (vs. all other AC agents)
+  - Increases risk for infection if not addressed
+- Femoral bleeding
+  - For leadless devices, venotomy is >20F
+- Lead dislodgement:
+  - Although rare, occurs most commonly in first 24-48 hours
+  - Can be seen on CXR, but also with device interrogation (change in pacing pattern suddenly)
+- Phrenic stimulation
+  - More common with CS leads 
+  - Intermittent and positional "hiccups"
+
+# Questions?
+
+# Thank you!
