@@ -1,0 +1,60 @@
+---
+title: "Para-Hisian PVC"
+subtitle: M&M Conference
+author: Anish S. Shah, MD, MS
+institute: Division of Cardiology, University of Utah
+date: December 20, 2024
+format:
+  revealjs:
+    transition: fade
+    transition-speed: fast
+    slide-number: true
+    incremental: true
+    auto-animate-easing: ease-in-out
+    auto-animate-unmatched: false
+    progress: true
+    chalkboard: true
+    scrollable: true
+    height: 1080
+    width: 1920
+
+csl: ../../apa.csl
+---
+
+# F8270 2024-12-05
+
+## History & Physical
+
+# Electrocardiography {background-color='{{< brand color primary >}}'}
+
+## {background-image="ecg-pvc-morphology.png" background-size="contain"}
+## {background-image="ecg-12-lead-bigeminy.png" background-size="contain"}
+
+# Baseline Electrograms {background-color='{{< brand color primary >}}'}
+
+## {background-image="baseline-cs-far-field-pvc-earliest-proximally.png" background-size="contain"}
+## {background-image="baseline-grid-catheter-early-to-pvc.png" background-size="contain"}
+## {background-image="baseline-pacing-with-ablator.png" background-size="contain"}
+
+# Maps {background-color='{{< brand color primary >}}'}
+
+## {background-image="map-starting-with-grid.jpg" background-size="contain"}
+## {background-image="map-grid-earliest-point.jpg" background-size="contain"}
+## {background-image="map-bracketed.jpg" background-size="contain"}
+## {background-image="map-ablation-location.jpg" background-size="contain"}
+## {background-image="map-ablation-lesion-cloud.jpg" background-size="contain"}
+## {background-image="map-heart-block.jpg" background-size="contain"}
+## {background-image="map-final-lesions-60-ms-pre.jpg" background-size="contain"}
+## {background-image="map-review-lesion-locations.jpg" background-size="contain"}
+
+# Ablation {background-color='{{< brand color primary >}}'}
+
+## {background-image="abl-50-sweep-a-no-v.png" background-size="contain"}
+## {background-image="abl-back-on-after-av-recovery.png" background-size="contain"}
+## {background-image="abl-final-5-sec.png" background-size="contain"}
+## {background-image="abl-last-maybe-his-arrow.png" background-size="contain"}
+## {background-image="abl-off-after-a-no-v-again.png" background-size="contain"}
+## {background-image="abl-slow-junctionals.png" background-size="contain"}
+## {background-image="abl-transition-to-vpacing-in-between-ablations.png" background-size="contain"}
+
+# Hospital Course

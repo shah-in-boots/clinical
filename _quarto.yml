@@ -33,13 +33,14 @@ format:
   revealjs:
     theme:
       - simple
-      - colors.scss
       - revealjs-format.scss
+      - brand
     slide-tone: false
     fig-cap-location: bottom
     fig-align: center
     fig-responsive: true
 
+brand: ../themes/_brand.yml
 
 bibliography:
   - ../bibliography/publications.bib
