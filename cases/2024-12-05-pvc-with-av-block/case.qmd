@@ -25,6 +25,18 @@ csl: ../../apa.csl
 
 ## History & Physical
 
+::::: {.columns}
+::: {.column width="50%"}
+**HPI**: XXX year old gentleman 
+
+Hx:
+:::
+
+::: {.column width="50%"}
+Exam: 
+:::
+::::
+
 # Electrocardiography {background-color='{{< brand color primary >}}'}
 
 ## {background-image="ecg-pvc-morphology.png" background-size="contain"}

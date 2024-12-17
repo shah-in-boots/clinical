@@ -1,12 +1,12 @@
 ---
 title: Morbidity and Mortality Conference
-subtitle: Division of Cardiology, Section of Cardiac Electrophysiology
+subtitle: Section of Cardiac Electrophysiology
 author: Anish S. Shah, MD, MS
-institute: University of Utah
-date: October 30, 2024
+institute: Division of Cardiology, University of Utah
+date: December 18, 2024
 format:
   revealjs:
-    theme: simple
+    navigation-mode: vertical
     transition: fade
     transition-speed: fast
     slide-number: true
@@ -16,13 +16,17 @@ format:
     progress: true
     chalkboard: true
     scrollable: true
+    height: 1080
+    width: 1920
 
 csl: ../../apa.csl
 ---
 
-# *Nurse Sedate*
+# October 30, 2024 {background-color='{{< brand color primary >}}'}
 
-> AP15278336
+# AP15278336
+
+> *Nurse Sedate* ~ September 2024
 
 ## Course {.smaller}
 
@@ -50,9 +54,11 @@ csl: ../../apa.csl
 - Inadequate sedation should prompt consideration of rescheduling non-emergent procedures
 - Language barriers intra-op should be accounted for
 
-# *Contact Dermatitis*
+# December 18, 2024 {background-color='{{< brand color primary >}}'}
 
-> SH21103891 
+# SH21103891 
+
+> *Contact Dermatitis* ~ September 2024
 
 ## Course {.smaller}
 
@@ -86,9 +92,9 @@ csl: ../../apa.csl
 - Only case reports of Mastisol-induced contact dermatitis
 - MAUDE adverse event report (FDA) mentions at least one Aquacel contact dermatitis case
 
-# *Lead Dislodgement*
+# MB07151335 
 
-> MB07151335 
+> *Lead Dislodgement* ~ October 2024
 
 ## Course {.smaller}
 
@@ -133,9 +139,9 @@ csl: ../../apa.csl
 - Adiposity should be considered when deciding on device anchoring strategies
 - Chronic leads upon extraction may have increased risk of UE DVT
 
-# *Phrenic Stimulation*
+# JB22574806 
 
-> JB22574806 
+> Phrenic Stimulation ~ October 2024
 
 ## Course {.smaller}
 
@@ -165,3 +171,63 @@ csl: ../../apa.csl
 - Phrenic stimulation can be a complication of CS lead placement
 - Intra-op testing can be limited by anesthetics and paralytics
 - *Consider a disclaimer in lab about paralytics in the Anethesiology workspace, partially to help with the signficant hand-offs?*
+
+# DC19428945
+
+> *Shocks for VT/VF after device "turned off"*
+
+> November 2024
+
+## Course {.smaller}
+
+- 67M with ICM (LVEF 40%) with VT s/p CRT-D, AF, HTN, and ILD 
+- Presents to MICU for acute/chronic hypoxic respiratory failure
+- Worsening ILD on top of ADHF
+- [Consult]{.red} for withdrawal of care and device interrogation (to turn off therapies)
+
+---
+
+## {background-image="dc-first-interrogation.png" background-size="contain"}
+
+## Complications
+
+- Patient had device interrogated and therapies turned off
+- After, had continual grimacing and "jumping" in bed, consistent with device therapy
+- No magnet was available on MICU, and patient received multiple defibrillation events
+
+## {background-image="dc-second-interrogation.png" background-size="contain"}
+
+## Points
+
+- Magnets should be available on every crash cart and in multiple places on an ICU floor
+- Device interrogation resources should be readily available to general fellows to help in common scenarios
+
+# TH22676934 
+
+> Post-venous access site infection
+> Ablation patient for SVT (typical AVNRT)
+> October 2024
+
+## Course {.smaller}
+
+- 39 year old with symptomatic SVT
+- Initial palpitaiton history since 2014
+- SVT episodes terminated with ice pack to neck and IV adenosine
+- Diagnosis of typical AVNRT from EPS
+- Bilateral femoral venous access and ablation with RF and focal cryo
+
+## {background-image="th-femoral-cellulitis.png" background-size="contain"}
+
+## Complications
+
+- Developed femoral site itching and tenderness within 24-hours post-op
+- Was seen and DC from ER with oral antibiotics for presumed cellulitis
+
+## {background-image="th-dermatology-consult.png" background-size="contain"}
+
+## Points
+
+- Femoral access site infections are *rare*
+- Allergic reaction to surgical prep being more common
+
+

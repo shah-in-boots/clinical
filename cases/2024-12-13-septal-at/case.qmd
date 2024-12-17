@@ -1,0 +1,39 @@
+---
+title: "Supraventricular Tachycardia"
+subtitle: "Case Conference"
+author: Anish S. Shah, MD, MS
+institute: Division of Cardiology, University of Utah
+date: Decemember 12, 2025
+format:
+  revealjs:
+    transition: fade
+    transition-speed: fast
+    slide-number: true
+    incremental: true
+    auto-animate-easing: ease-in-out
+    auto-animate-unmatched: false
+    progress: true
+    chalkboard: true
+    scrollable: true
+    height: 1080
+    width: 1920
+
+csl: ../../apa.csl
+---
+
+# T0370 2024-12-13
+
+## History & Physical
+
+::::: {.columns}
+::: {.column width="50%"}
+**HPI**: XXX year old gentleman 
+
+Hx:
+:::
+
+::: {.column width="50%"}
+Exam: 
+:::
+::::
+
