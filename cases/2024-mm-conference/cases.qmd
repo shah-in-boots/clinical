@@ -26,7 +26,9 @@ csl: ../../apa.csl
 
 # AP15278336
 
-> *Nurse Sedate* ~ September 2024
+> September 2024  
+> Nurse sedate case  
+> Inadequate pain/analgesia provided despite medications  
 
 ## Course {.smaller}
 
@@ -58,7 +60,10 @@ csl: ../../apa.csl
 
 # SH21103891 
 
-> *Contact Dermatitis* ~ September 2024
+> September 2024  
+> Developed rash at site  
+> Concerned for early pocket infection  
+> Final diagnosis of contact dermatitis  
 
 ## Course {.smaller}
 
@@ -94,7 +99,10 @@ csl: ../../apa.csl
 
 # MB07151335 
 
-> *Lead Dislodgement* ~ October 2024
+> October 2024  
+> Lead dislodgement case  
+> VT/VF undersensing with syncope for primary prevention device  
+> Reduced slack post-op with eventual atrial lead dislodgement  
 
 ## Course {.smaller}
 
@@ -141,7 +149,10 @@ csl: ../../apa.csl
 
 # JB22574806 
 
-> Phrenic Stimulation ~ October 2024
+> October 2024  
+> Re-do CRT-P case for pacing induced cardiomyopathy  
+> Paralyzed during procedure  
+> Significant phrenic stimulation afterwards  
 
 ## Course {.smaller}
 
@@ -174,9 +185,10 @@ csl: ../../apa.csl
 
 # DC19428945
 
-> *Shocks for VT/VF after device "turned off"*
-
-> November 2024
+> November 2024  
+> Shocks for VF after device *turned off* for comfort care  
+> Magnets not available in ICU   
+> Required second device interrogation to correct  
 
 ## Course {.smaller}
 
@@ -204,9 +216,9 @@ csl: ../../apa.csl
 
 # TH22676934 
 
-> Post-venous access site infection
-> Ablation patient for SVT (typical AVNRT)
-> October 2024
+> October 2024  
+> Post-venous access site infection  
+> Ablation patient for SVT (typical AVNRT)  
 
 ## Course {.smaller}
 
