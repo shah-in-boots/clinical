@@ -1,0 +1,301 @@
+ LOCAL TITLE: ARRHYTHMIA CLINIC                                  
+STANDARD TITLE: CARDIOLOGY OUTPATIENT NOTE                      
+DATE OF NOTE: OCT 09, 2024@09:30     ENTRY DATE: OCT 09, 2024@09:30:28      
+      AUTHOR: ANDERSON,AMY B       EXP COSIGNER:                           
+     URGENCY:                            STATUS: COMPLETED                     
+
+   *** ARRHYTHMIA CLINIC Has ADDENDA ***
+
+********H I S T O R Y**************************************
+CHIEF COMPLAINT/REASON FOR VISIT: evaluate or ablation
+
+HX OF PRESENT ILLNESS: Mr. Fandell is a 78 year old MALE with HFimpEF 
+(diagnosed 1/2019, EF<10% 2/23/2021, improved to 40% 5/2023 on GDMT) secondary 
+to NICM (LHC 3/3/2021 with nonobstructive CAD) complicated by cardiogenic shock 
+and VT storm requiring inotropes and MCS (ECMO+impella) in 2021, s/p dual 
+chamber ICD placement (11/2020), Afib currently on Eliquis, suspected 
+amiodarone-induced hypothyroidism (on amio for Afib + VT suppression), prostate 
+cancer diagnosed in 2023 s/p chemoradiation and currently on hormone suppressive 
+therapy (leuprorelin), left renal artery stenosis (>60%), HTN, HLD, and hiatal 
+hernia. Here today to follow up with EP regarding possible PVI and PVC ablation 
+and coming off of amiodarone since he completing radiation therapy for prostate 
+cancer. 
+
+We saw him last on 11/8/2023 via VVC to evaluate for PVC ablation. At that 
+time we discussed option for possible ablation in detail and he was interested 
+and wished to pursue, however he had a recent diagnosis of prostate cancer and 
+was starting radiation treatment so decision was made hold off on ablation at 
+that time and re-evaluate after his radiation therapy was complete. 
+
+VVC follow up today. He is feeling well overall, he finished radiation treatment 
+for prostate cancer which lasted for about a year. He continues on hormone 
+treatment. States it has been a long recovery, and he is still recovering, but 
+overall doing much better. He has been on amiodarone for about 4 years for AF 
+and PVCs, would like to be able to come off of it if possible. 
+
+At our last visit, we reviewed his previous monitor results and saw he had >15% 
+PVC burden in 5/2023 after stopping amiodarone. He had not had AF on device 
+checks at that time. Reviewed last device remote transmission in Vista from 
+8/1/2024. <1% AF burden. He is scheduled for device check next week in Boise. 
+
+Repeat echo on 9/13/2024 in Boise. Results are in Vista imaging: 
+        -EF moderately reduced at 35-40%. Left atrium mildly dilated, right 
+atrial borderline dilated. Mild aortic stenosis and mild aortic regurgitation. 
+
+Reviewed EKGs from Boise for May 2024 and May 2023 with Dr. Shelton. PVCs felt 
+to be likely RVOT, reasonable to pursue ablation. 
+
+Discussed risks and benefits of ablation. Discussed procedure in detail of AF 
+and PVC ablation as well as discussed risks and benefits. He would like to 
+proceed with scheduling ablation in SLC. 
+
+
+ 
+Past Medical History: 
+
+PROBLEM LIST:
+# Chronic HFimpEF 2/2 NICM s/p ICD
+# Admission for cardiogenic shock 3/2021, possibly r/t RV pacing
+# VT storm, provoked from inotropes & Impella for cardiogenic shock
+# Paroxysmal A. fib on anticoagulation
+# Hypothyroidism, possible amiodarone induced
+# Left renal artery stenosis
+# CKD stage IIIa
+# Prostate cancer
+ 
+    FAMILY HISTORY:
+      No change since last visit.
+ 
+ 
+    SOCIAL HISTORY:
+      Living situation:  lives with wife in Idaho
+
+MEDICATIONS: 
+Active Medications from Remote Data
+NOTE: Remote meds display is limited to those items matched to
+National Drug File at the originating site.
+
+EPLERENONE 50MG TAB
+Sig:  TAKE ONE TABLET BY MOUTH EVERY DAY FOR HEART. REPLACES 
+     SPIRONOLACTONE. APPROVED 5/13/22. NOTE DOSE CHANGE 
+Quantity: 90    Days Supply: 90
+Rx Expiration Date: 02/22/25
+Last filled 05/12/24 at BOISE VA MEDICAL CENTER (Active)
+
+EMPAGLIFLOZIN 25MG TAB
+Sig:  TAKE ONE-HALF TABLET BY MOUTH DAILY FOR CHRONIC HEART FAILURE 
+     FOR DIABETES 
+Quantity: 45    Days Supply: 90
+Rx Expiration Date: 10/24/24
+Last filled 07/29/24 at BOISE VA MEDICAL CENTER (Active)
+
+NALOXONE HCL 4MG/SPRAY SOLN,SPRAY,NASAL
+Sig:  INSTILL 1 SPRAY IN ONE NOSTRIL ONCE FOR OVERDOSE REVERSAL 
+     CALL 911 IMMEDIATELY AFTER FIRST DOSE. PROVIDE RESUSCITATION 
+     IF NEEDED. CONSIDER GIVING 2ND DOSE IN 2-3 MINUTES IF NO 
+     RESPONSE 
+Quantity: 2    Days Supply: 90
+Rx Expiration Date: 02/27/25
+Last filled 02/27/24 at BOISE VA MEDICAL CENTER (Active)
+
+DIGOXIN 125MCG TAB
+Sig:  TAKE ONE TABLET BY MOUTH EVERY DAY FOR YOUR HEART
+Quantity: 90    Days Supply: 90
+Rx Expiration Date: 03/27/25
+Last filled 07/29/24 at BOISE VA MEDICAL CENTER (Active)
+
+VENLAFAXINE HCL 75MG 24HR CAP,SA
+Sig:  TAKE ONE CAPSULE BY MOUTH EVERY DAY FOR MOOD
+Quantity: 90    Days Supply: 90
+Rx Expiration Date: 10/01/25
+Last filled 09/30/24 at BOISE VA MEDICAL CENTER (Active)
+
+APIXABAN 5MG TAB
+Sig:  TAKE ONE TABLET BY MOUTH EVERY 12 HOURS TO PREVENT STROKE 
+     FROM AFIB. APPROVED 4/7/21 
+Quantity: 180    Days Supply: 90
+Rx Expiration Date: 12/15/24
+Last filled 08/10/24 at BOISE VA MEDICAL CENTER (Active)
+
+CARVEDILOL 25MG TAB
+Sig:  TAKE TWO TABLETS BY MOUTH TWICE A DAY FOR YOUR HEART - 
+     REPLACES METOPROLOL 
+Quantity: 360    Days Supply: 90
+Rx Expiration Date: 03/19/25
+Last filled 07/29/24 at BOISE VA MEDICAL CENTER (Active)
+
+TROSPIUM CL 20MG TAB
+Sig:  TAKE ONE TABLET BY MOUTH ONCE FOR BLADDER CONTROL
+Quantity: 60    Days Supply: 60
+Rx Expiration Date: 06/21/25
+Last filled 06/20/24 at BOISE VA MEDICAL CENTER (Active)
+
+INCONT LINER DEPEND SHIELD #35641
+Sig:  USE 1 SHIELD    THREE TIMES DAILY IF NEEDED FOR INCONTINENCE 
+
+Quantity: 174    Days Supply: 60
+Rx Expiration Date: 02/01/25
+Last filled 08/13/24 at BOISE VA MEDICAL CENTER (Active)
+
+ATORVASTATIN CA 80MG TAB
+Sig:  TAKE ONE-HALF TABLET BY MOUTH EVERY DAY FOR HEART/CHOLESTEROL 
+     -LIMIT USE OF GRAPEFRUIT PRODUCTS 
+Quantity: 45    Days Supply: 90
+Rx Expiration Date: 10/04/25
+Last filled 10/03/24 at BOISE VA MEDICAL CENTER (Active)
+
+MAGNESIUM OXIDE 250MG TAB
+Sig:  TAKE ONE TABLET BY MOUTH TWICE A DAY TO REPLACE MAGNESIUM
+Quantity: 180    Days Supply: 90
+Rx Expiration Date: 08/14/25
+Last filled 08/13/24 at BOISE VA MEDICAL CENTER (Active)
+
+EZETIMIBE 10MG TAB
+Sig:  TAKE ONE TABLET BY MOUTH EVERY DAY FOR HEART/CHOLESTEROL
+Quantity: 90    Days Supply: 90
+Rx Expiration Date: 06/22/25
+Last filled 09/12/24 at BOISE VA MEDICAL CENTER (Active)
+
+AMIODARONE HCL (PACERONE) 200MG TAB
+Sig:  TAKE ONE TABLET BY MOUTH EVERY DAY FOR HEART RHYTHM
+Quantity: 90    Days Supply: 90
+Rx Expiration Date: 09/06/25
+Last filled 11/14/24 at BOISE VA MEDICAL CENTER (Active/Suspended)
+
+LEVOTHYROXINE NA 75MCG TAB (SYNTHROID)
+Sig:  TAKE ONE TABLET BY MOUTH EVERY DAY TAKE WITH A FULL GLASS 
+     OF WATER FOR THYROID REPLACEMENT PLEASE NOTE DOSE CHANGE 
+
+Quantity: 90    Days Supply: 90
+Rx Expiration Date: 05/23/25
+Last filled 08/26/24 at BOISE VA MEDICAL CENTER (Active)
+
+ALENDRONATE 70MG TAB
+Sig:  TAKE ONE TABLET BY MOUTH EVERY WEEK FOR OSTEOPOROSIS WITH 
+     FULL GLASS OF WATER - DO NOT LIE DOWN FOR 30 MINUTES 
+Quantity: 12    Days Supply: 84
+Rx Expiration Date: 07/11/25
+Last filled 07/10/24 at BOISE VA MEDICAL CENTER (Active)
+
+SACUBITRIL 97MG/VALSARTAN 103MG TAB
+Sig:  TAKE 1 TABLET BY MOUTH TWICE A DAY FOR HEART FAILURE. APPROVED 
+     4/7/21 **CHANGE PER TRANSPLANT TEAM 
+Quantity: 180    Days Supply: 90
+Rx Expiration Date: 10/24/24
+Last filled 07/02/24 at BOISE VA MEDICAL CENTER (Active)
+
+CALCIUM POLYCARBOPHIL 625MG TAB
+Sig:  TAKE ONE TABLET BY MOUTH DAILY IF NEEDED FOR BOWEL REGULARITY 
+     FOR CONSTIPATION 
+Quantity: 90    Days Supply: 90
+Rx Expiration Date: 03/27/25
+Last filled 06/18/24 at BOISE VA MEDICAL CENTER (Active)
+
+Active Outpatient Medications (including Supplies):
+
+ATORVASTATIN CALCIUM 40MG TAB TAKE ONE TABLET BY MOUTH      ACTIVE
+  EVERY EVENING FOR CHOLESTEROL
+
+******************************************************************
+MEDICATION RECONCILIATION:
+   [ ] The following information sources were consulted and the 
+       patient's CPRS medication profile was updates with 
+       medication, allergy, OTC, herbal, or illicit drug use 
+       information as necessary. 
+   [ ] I have verified patient's understanding of indications. 
+   [ ] Medication reconciled
+*******************************************************************
+
+ALLERGIES/ADR: PENICILLIN, SULFA DRUGS, DARUNAVIR
+
+CARDIAC TESTING SUMMARY:
+
+9/13/2024 ECHO completed at Boise VA. See Vista imaging for full report: 
+-EF moderately reduced at 35-40%. Left atrium mildly dilated, right atrial 
+borderline dilated. Mild aortic stenosis and mild aortic regurgitation. 
+
+EKG 5/12/2023: AP with narrow QRS and frequent PVCs (LBBB v1, v3 transition, 
+right inferior axis, NSSTs
+
+5/2023 event monitor: 
+        -NSR with AV demand pacing average HR 75 BPM. 28 bried NSVT episodes , 
+longest 7 beats. Frequent PVCs with 15.4% burden. no pt triggered events. 
+
+Echo Boise 6/27/2023:
+-mildly dilated LV with moderate global hypokinesis with estimated LVEF of 
+approx 40%
+-Aortic valve schlerosis with triviala stenosis and mild aortic regurgitation
+-mild mitral regurgitation
+-normal estimated pulmonary systolic pressure
+-compared to prior echo in 4/2023, LVEWF is slightly improved. 
+
+REVIEW OF SYSTEMS: negative except as above in HPI
+
+
+
+********P H Y S I C A L  E X A M **************************
+Deferred, VVC
+
+********M E D I C A L  D E C I S I O N   M A K I N G*******
+
+Mr. Fandell is a 78 year old male veteran with PMH significant for HFrEF 
+secondary to NICM (LHC in 2021 with nonobstructive CAD; s/p ICD (SJM/Abbott DC 
+ICD) in 2020 for primary prevention), paroxysmal afib on apixaban, VT storm 
+2/2021 started on amiodarone, hypothyroidism (?2/2 to amiodarone), HTN and 
+PVCs. He was referred to EP by the HF team for management of afib and frequent 
+PVCs. 
+
+ #Paroxysmal atrial fibrillation
+ #Frequent PVCs
+        -He is due for device check in Boise next week, but looking at most 
+recent remote transmission on 8/1/2024, he has <1% AF burden. CHA2DS2-VASc 
+score3, on apixaban 5mg BID, amiodarone 200 mg daily, digoxin 0.125 mcg daily, 
+and carvedilol 25mg BID (Medications are managed by Boise VA). Repeat echo in 
+Boise on 9/13/2024 with EF 35-40%.   5/2023 event monitor showed 15.4% PVC 
+burden, he was symptomatic from PVCs after stopping amiodarone on 4/1/2023. 
+Symptoms improved after he resumed amiodarone. 
+        -He is overall feeling well today, has completed radiation therapy for 
+prostate cancer. Continues on hormone therapy. He saw HF here in SLC on 8/2/2024 
+and is OK to  proceed with ablation from heart failure standpoint. 
+        -discussed PVI and PVC ablation in detail, including risks and 
+benefits of procedure. After discussion, he would like to proceed with 
+scheduling ablation here in SLC.  We will call him to 
+schedule. 
+
+Pt evaluated with Dr. Shelton. 30 minutes spent on evaluation, and plan of 
+care. 
+
+
+ 
+
+
+ 
+/es/ AMY B ANDERSON, APRN
+NURSE PRACTITIONER
+Signed: 10/09/2024 14:10
+
+Receipt Acknowledged By:
+10/10/2024 15:27        /es/ RICHARD S SHELTON MD                              
+                             ATTENDING PHYSICIAN                               
+
+10/09/2024 ADDENDUM                      STATUS: COMPLETED
+Tracy, see above to schedule PVI and PVC ablation. Thanks!
+ 
+/es/ AMY B ANDERSON, APRN
+NURSE PRACTITIONER
+Signed: 10/09/2024 14:11
+
+Receipt Acknowledged By:
+10/09/2024 15:28        /es/ TRACY A JOHNSON                                   
+                             EKG TECH                                          
+
+10/09/2024 ADDENDUM                      STATUS: COMPLETED
+He will need to hold amiodarone for 4 weeks prior to ablation per Dr. Shelton. 
+ 
+/es/ AMY B ANDERSON, APRN
+NURSE PRACTITIONER
+Signed: 10/09/2024 14:19
+
+Receipt Acknowledged By:
+10/09/2024 15:33        /es/ TRACY A JOHNSON                                   
+                             EKG TECH                                          

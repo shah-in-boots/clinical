@@ -27,15 +27,26 @@ csl: ../../apa.csl
 
 ::::: {.columns}
 ::: {.column width="50%"}
-**HPI**: XXX year old gentleman 
+**HPI**: 78M with NICM s/p DC-ICD with amiodarone intolerance presents for PVC ablation
 
-Hx:
+**PMHx**: NICM, HFimpEF (10% in 2019 to 40% in 2023), non-obstructive CAD, cardiogenic shock & VT storm s/p DC-ICD in 2011, amiodarone-induced hypothyroidism, HTN, HLD, pxAF, CKDIII
+
+**Social**: Lives with Wife in Idaho
+ 
 :::
 
 ::: {.column width="50%"}
-Exam: 
+**Meds**: eplerenone, empagliflozin, digoxin 125, apixaban, atorvastatin, amiodarone 200, sacubitril-valsartan
+
+**Exam**: 130s/70s, HR 70s, 95% on room air. NAD, AOx4. Systolic murmur II/VI. Clear lungs. Gait intact. 
+
+**Studies**:  TTE in 09/2024 with LVEF of 35%, ++LA, +AS, +AI. CIED interrogation with ~70% AP and ~20% VP and 0% AF/AMS episodes.
 :::
 ::::
+
+## {background-image="fandell-pre-cxr.png" background-size="contain"}
+
+## {background-image="fandell-pre-ecg-ap-vs.png" background-size="contain"}
 
 # Electrocardiography {background-color='{{< brand color primary >}}'}
 
@@ -61,6 +72,14 @@ Exam:
 
 # Ablation {background-color='{{< brand color primary >}}'}
 
+## Ablation details
+
+- Used RF energy with a non-irrigated 4 mm tip catheter, power-limited at 50W with a target of 60˚C $\rightarrow$ *Sapphire*
+
+- Ran into temperature limits, leading to low power output (5-15W)
+
+- Switched to irrigated catheter $\rightarrow$ *FlexAbility* with improved applied energy
+
 ## {background-image="abl-50-sweep-a-no-v.png" background-size="contain"}
 ## {background-image="abl-back-on-after-av-recovery.png" background-size="contain"}
 ## {background-image="abl-final-5-sec.png" background-size="contain"}
@@ -70,3 +89,18 @@ Exam:
 ## {background-image="abl-transition-to-vpacing-in-between-ablations.png" background-size="contain"}
 
 # Hospital Course
+
+## Summary
+
+1. Day of presentation has device interrogation showing 0% AF burden, with 60-70% atrial pacing and 20-30% ventricular pacing with intact conduction.
+
+1. Peri-annular PVC on posteroseptal side of tricuspid valve seen on ECG during EPS. Ablation performed using non-irrigated $\rightarrow$ irrigated catheter
+
+1. Subsequent increase to 100% ventricular pacing without signs of native conduction
+
+1. Following day recieved CRT-D upgrade and then discharged in appropriate condition
+
+## {background-image="fandell-post-ecg-ap-vp.png" background-size="contain"}
+## {background-image="fandell-post-cxr-ap.png" background-size="contain"}
+## {background-image="fandell-post-cxr-lateral.png" background-size="contain"}
+## {background-image="fandell-post-ecg-ap-bvp.png" background-size="contain"}

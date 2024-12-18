@@ -2790,7 +2790,7 @@
     "href": "cases/2024-12-05-pvc-with-av-block/case.html#history-physical",
     "title": "Para-Hisian PVC",
     "section": "History & Physical",
-    "text": "History & Physical\n\n\nHPI: XXX year old gentleman\nHx:\n\nExam:"
+    "text": "History & Physical\n\n\nHPI: 78M with NICM s/p DC-ICD with amiodarone intolerance presents for PVC ablation\nPMHx: NICM, HFimpEF (10% in 2019 to 40% in 2023), non-obstructive CAD, cardiogenic shock & VT storm s/p DC-ICD in 2011, amiodarone-induced hypothyroidism, HTN, HLD, pxAF, CKDIII\nSocial: Lives with Wife in Idaho\n\nMeds: eplerenone, empagliflozin, digoxin 125, apixaban, atorvastatin, amiodarone 200, sacubitril-valsartan\nExam: 130s/70s, HR 70s, 95% on room air. NAD, AOx4. Systolic murmur II/VI. Clear lungs. Gait intact.\nStudies: TTE in 09/2024 with LVEF of 35%, ++LA, +AS, +AI. CIED interrogation with ~70% AP and ~20% VP and 0% AF/AMS episodes."
   },
   {
     "objectID": "cases/2024-12-05-pvc-with-av-block/case.html#electrograms",
@@ -2952,5 +2952,19 @@
     "title": "Morbidity and Mortality Conference",
     "section": "Points",
     "text": "Points\n\nDevice interrogations post-operatively require confirmation with likely close-loop-communication"
+  },
+  {
+    "objectID": "cases/2024-12-05-pvc-with-av-block/case.html#ablation-details",
+    "href": "cases/2024-12-05-pvc-with-av-block/case.html#ablation-details",
+    "title": "Para-Hisian PVC",
+    "section": "Ablation details",
+    "text": "Ablation details\n\nUsed RF energy with a non-irrigated 4 mm tip catheter, power-limited at 50W with a target of 60˚C \\(\\rightarrow\\) Sapphire\nRan into temperature limits, leading to low power output (5-15W)\nSwitched to irrigated catheter \\(\\rightarrow\\) FlexAbility with improved applied energy"
+  },
+  {
+    "objectID": "cases/2024-12-05-pvc-with-av-block/case.html#summary",
+    "href": "cases/2024-12-05-pvc-with-av-block/case.html#summary",
+    "title": "Para-Hisian PVC",
+    "section": "Summary",
+    "text": "Summary\n\nDay of presentation has device interrogation showing 0% AF burden, with 60-70% atrial pacing and 20-30% ventricular pacing with intact conduction.\nPeri-annular PVC on posteroseptal side of tricuspid valve seen on ECG during EPS. Ablation performed using non-irrigated \\(\\rightarrow\\) irrigated catheter\nSubsequent increase to 100% ventricular pacing without signs of native conduction\nFollowing day recieved CRT-D upgrade and then discharged in appropriate condition"
   }
 ]
