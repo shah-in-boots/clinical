@@ -242,4 +242,25 @@ csl: ../../apa.csl
 - Femoral access site infections are *rare*
 - Allergic reaction to surgical prep being more common
 
+# YT20270503
 
+> August 2024  
+> Post-generator exchange, device therapies not reset appropriately  
+> Received multiple inappropriate shocks  
+
+## Course
+
+- 62 year old with ASD repair at age 9 with sternotomy
+- NICM, LVEF 30%, with prior AF/AFL and AF ablation c/b RMCA CVA, and LVEF recovery by 2018
+- Generator change in 07/2024 with DFT testing, 17J termination of R-on-T VF induction
+- Device settings not changed afterwards, with VF zone set at 150 bpm
+
+## Complications
+
+- VF zone was set at 150 bpm (settings made during DFT, but not subsequently changed)
+- Received inappropriate shocks x 7 during domestive violence dispute
+- Presented to ED in Wyoming $\rightarrow$ VT 170 and VF 210
+
+## Points
+
+- Device interrogations post-operatively require confirmation with likely close-loop-communication
