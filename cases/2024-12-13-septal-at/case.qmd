@@ -3,7 +3,7 @@ title: "Supraventricular Tachycardia"
 subtitle: "Case Conference"
 author: Anish S. Shah, MD, MS
 institute: Division of Cardiology, University of Utah
-date: Decemember 12, 2025
+date: Decemember 12, 2024
 format:
   revealjs:
     transition: fade

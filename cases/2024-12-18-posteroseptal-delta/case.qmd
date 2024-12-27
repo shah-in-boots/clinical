@@ -1,0 +1,85 @@
+---
+title: "Supraventricular Tachycardia"
+subtitle: "Case Conference"
+author: Anish S. Shah, MD, MS
+institute: Division of Cardiology, University of Utah
+date: Decemember 18, 2024
+format:
+  revealjs:
+    transition: fade
+    transition-speed: fast
+    slide-number: true
+    incremental: true
+    auto-animate-easing: ease-in-out
+    auto-animate-unmatched: false
+    progress: true
+    chalkboard: true
+    scrollable: true
+    height: 1080
+    width: 1920
+
+csl: ../../apa.csl
+---
+
+# T0370 2024-12-13
+
+## History & Physical
+
+::::: {.columns}
+::: {.column width="50%"}
+**HPI**: XXX year old gentleman 
+
+Hx:
+:::
+
+::: {.column width="50%"}
+Exam: 
+:::
+::::
+
+## {background-image="abl-a1-380-jump-slow-then-wcl.png" background-size="contain"}
+
+## {background-image="abl-a1-600-a2-460-normal-far-field-v-activation.png" background-size="contain"}
+
+## {background-image="abl-a1-600-a2-470-pre-excited-ventricular-far-field.png" background-size="contain"}
+
+## {background-image="abl-first-ablation-delta-gone.png" background-size="contain"}
+
+## {background-image="abl-pace-during-ablate-based-on-far-field-v.png" background-size="contain"}
+
+## {background-image="abl-pathway-potentials-atrial-position.png" background-size="contain"}
+
+## {background-image="abl-still-eccentric-continue-burning.png" background-size="contain"}
+
+## {background-image="bl-a1-380-wcl.png" background-size="contain"}
+
+## {background-image="bl-a1-500-a2-360-ap-erp-narrow-qrs.png" background-size="contain"}
+
+## {background-image="bl-ecg-12-lead-100-sweep.png" background-size="contain"}
+
+## {background-image="bl-ecg-12-lead-25-sweep.png" background-size="contain"}
+
+## {background-image="bl-egm-intervals.png" background-size="contain"}
+
+## {background-image="bl-parahisian-nodal-response.png" background-size="contain"}
+
+## {background-image="bl-v1-600-v2-270-nsvt-intervals.png" background-size="contain"}
+
+## {background-image="bl-v1-600-v2-270-nsvt.png" background-size="contain"}
+
+## {background-image="bl-v1-600-v2-460-ap-erp-jump-to-slow.png" background-size="contain"}
+
+## {background-image="bl-v1-600-v2-490-eccentric-cs-early-mid.png" background-size="contain"}
+
+## {background-image="bl-v1-wcl-520.png" background-size="contain"}
+
+## {background-image="iso-post-a1-350-wcl.png" background-size="contain"}
+
+## {background-image="iso-post-a1-400-a2-200-avn-erp.png" background-size="contain"}
+
+## {background-image="iso-post-v1-420-retrograde-av-wcl.png" background-size="contain"}
+
+## {background-image="post-ecg-12-lead-100-sweep.png" background-size="contain"}
+
+## {background-image="post-intervals.png" background-size="contain"}
+
