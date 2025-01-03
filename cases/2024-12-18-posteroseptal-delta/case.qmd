@@ -21,7 +21,7 @@ format:
 csl: ../../apa.csl
 ---
 
-# T0370 2024-12-13
+# Pre-excited ECG in 27F with syncope
 
 ## History & Physical
 
@@ -36,6 +36,20 @@ Hx:
 Exam: 
 :::
 ::::
+
+## Procedure
+
+**Access**: US-guided, RCFV x 2, LCFV x 2
+
+**Diagnostic catheters**: RA = Josephson, RV = Josephson, His = CRD2, CS = decapolar
+
+**Mapping**: Prucka, CARTO
+
+**Transeptal**: BRK-1 through SL-0, pressure-confirmation
+
+**Ablation**: RF ablation with 3.5 mm irrigated catheter, DF curve (Thermocool SmartTouch), 30-40W lesions
+
+# Baseline
 
 ## {background-image="abl-a1-380-jump-slow-then-wcl.png" background-size="contain"}
 
@@ -83,3 +97,13 @@ Exam:
 
 ## {background-image="post-intervals.png" background-size="contain"}
 
+
+# Take Aways
+
+- Delta wave risk stratification
+
+- Flight / pilot school
+
+- Ablation purpose
+
+- Not-inducible
