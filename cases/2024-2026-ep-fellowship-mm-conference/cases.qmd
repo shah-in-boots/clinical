@@ -58,6 +58,10 @@ csl: ../../apa.csl
 
 # December 18, 2024 {background-color='{{< brand color primary >}}'}
 
+## No cases presented due to time limitations 
+
+# January 8, 2025 {background-color='{{< brand color primary >}}'}
+
 # SH21103891 
 
 > September 2024  
@@ -120,6 +124,9 @@ csl: ../../apa.csl
 
 ![Existing device](cxr-existing-device.png)
 
+
+## {background-video="mb-cine-post-extraction.mp4" background-video-loop="true"} 
+
 ---
 
 ![Post-extraction](cxr-immediately-post-op.png)
@@ -181,7 +188,30 @@ csl: ../../apa.csl
 
 - Phrenic stimulation can be a complication of CS lead placement
 - Intra-op testing can be limited by anesthetics and paralytics
-- *Consider a disclaimer in lab about paralytics in the Anethesiology workspace, partially to help with the signficant hand-offs?*
+- *Consider a disclaimer in lab about paralytics in the Anesthesiology workspace, partially to help with the signficant hand-offs?*
+
+# YT20270503
+
+> August 2024  
+> Post-generator exchange, device therapies not reset appropriately  
+> Received multiple inappropriate shocks  
+
+## Course
+
+- 62 year old with ASD repair at age 9 with sternotomy
+- NICM, LVEF 30%, with prior AF/AFL and AF ablation c/b RMCA CVA, and LVEF recovery by 2018
+- Generator change in 07/2024 with DFT testing, 17J termination of R-on-T VF induction
+- Device settings not changed afterwards, with VF zone set at 150 bpm
+
+## Complications
+
+- VF zone was set at 150 bpm (settings made during DFT, but not subsequently changed)
+- Received inappropriate shocks x 7 during domestive violence dispute
+- Presented to ED in Wyoming $\rightarrow$ VT 170 and VF 210
+
+## Points
+
+- Device interrogations post-operatively require confirmation with likely close-loop-communication
 
 # DC19428945
 
@@ -214,11 +244,13 @@ csl: ../../apa.csl
 - Magnets should be available on every crash cart and in multiple places on an ICU floor
 - Device interrogation resources should be readily available to general fellows to help in common scenarios
 
+# February 2025 {background-color='{{< brand color primary >}}'}
+
 # TH22676934 
 
 > October 2024  
-> Post-venous access site infection  
 > Ablation patient for SVT (typical AVNRT)  
+> Post-venous access site infection  
 
 ## Course {.smaller}
 
@@ -242,25 +274,3 @@ csl: ../../apa.csl
 - Femoral access site infections are *rare*
 - Allergic reaction to surgical prep being more common
 
-# YT20270503
-
-> August 2024  
-> Post-generator exchange, device therapies not reset appropriately  
-> Received multiple inappropriate shocks  
-
-## Course
-
-- 62 year old with ASD repair at age 9 with sternotomy
-- NICM, LVEF 30%, with prior AF/AFL and AF ablation c/b RMCA CVA, and LVEF recovery by 2018
-- Generator change in 07/2024 with DFT testing, 17J termination of R-on-T VF induction
-- Device settings not changed afterwards, with VF zone set at 150 bpm
-
-## Complications
-
-- VF zone was set at 150 bpm (settings made during DFT, but not subsequently changed)
-- Received inappropriate shocks x 7 during domestive violence dispute
-- Presented to ED in Wyoming $\rightarrow$ VT 170 and VF 210
-
-## Points
-
-- Device interrogations post-operatively require confirmation with likely close-loop-communication

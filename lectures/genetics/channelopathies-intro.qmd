@@ -1,0 +1,208 @@
+---
+title: Channelopathies
+subtitle: Introduction to Basic EP and Genetics
+author: Anish S. Shah, MD, MS
+institute: University of Utah
+date: January 22, 2025
+format:
+  revealjs:
+    theme: simple
+    transition: fade
+    transition-speed: fast
+    slide-number: true
+    incremental: true
+    auto-animate-easing: ease-in-out
+    auto-animate-unmatched: false
+    progress: true
+    chalkboard: true
+    scrollable: true
+---
+
+# Introduction
+
+## Objectives {.smaller}
+
+1. Recall the fundamental mechanisms behind arrhythmogenesis
+1. Recognize the inherited arrhythmia syndromes 
+1. Predict effects of gain-of-function and loss-of-function on action potential durations
+1. Know potential pharmalogical treatment strategies based on mechanisms
+
+. . .
+
+[*...We are trying to understand the relationship between genotype, phenotype, and treatment mecahnism.*]{.center}
+
+## Overview {.smaller}
+
+::: {.fragment fragment-index=1}
+::: {.fragment .highlight-red fragment-index=11}
+Brugada syndrome
+:::
+:::
+
+::: {.fragment fragment-index=2}
+::: {.fragment .highlight-red fragment-index=11}
+Long QT syndrome
+:::
+:::
+
+::: {.fragment fragment-index=3}
+::: {.fragment .highlight-red fragment-index=11}
+Catecholaminergic polymorphic ventricular tachycardia
+:::
+:::
+
+::: {.fragment fragment-index=4}
+Arrhythmogenic cardiomyopathy
+:::
+
+::: {.fragment fragment-index=5}
+J-wave syndromes and related early repolarization syndromes
+:::
+
+::: {.fragment fragment-index=6}
+Short QT syndrome
+:::
+
+::: {.fragment fragment-index=7}
+Progressive cardiac conduction disease
+:::
+
+::: {.fragment fragment-index=8}
+Idiopathic VF
+:::
+
+::: {.fragment fragment-index=9}
+Sick sinus syndrome
+:::
+
+::: {.notes}
+Focus on the channelopathies that are CV-board relevant... Brugada, LQTS, and CPVT. Reason for relevance is due to monogenic nature, with medication treatment options that are well-described.
+:::
+
+# Arrhythmia Mechanisms {background-color='{{< brand color primary >}}'}
+
+## Action potential
+
+## {background-image='schwartz-2020-channel-proteins.png' background-size='contain'}
+
+## Antiarrhythmic drugs and their effect
+
+# Brugada Syndrome {background-color='{{< brand color primary >}}'}
+
+---
+
+A 28 year old woman presents with syncope to the emergency room, found to be febrile to 40C. She has no known past medical history and no prior ECGs.
+
+## {background-image='kb-brugada-wct.png' background-size='contain'}
+
+## {background-image='kb-brugada-type-1.png' background-size='contain'}
+
+---
+
+What is the effect on the genetic mutation that leads to the above findings?
+
+::: {.fragment fragment-index=1}
+::: {.fragment .semi-fade-out fragment-index=7}
+A. Gain-of-function
+:::
+:::
+
+::: {.fragment fragment-index=2}
+::: {.fragment .highlight-red fragment-index=7}
+B. Loss-of-function
+:::
+:::
+
+::: {.fragment fragment-index=3}
+::: {.fragment .semi-fade-out fragment-index=6}
+C. Dominant-negative
+:::
+:::
+
+::: {.fragment fragment-index=4}
+::: {.fragment .semi-fade-out fragment-index=5}
+C. Dominant-positive
+:::
+:::
+
+---
+
+She is prescribed an anti-arrhythmic agent to good effect. What phase of the action potential accounts for the *therapeutic effect* of this medication? 
+
+::: {.fragment fragment-index=1}
+::: {.fragment .semi-fade-out fragment-index=6}
+A. Phase 0
+:::
+:::
+
+::: {.fragment fragment-index=2}
+::: {.fragment .highlight-red fragment-index=6}
+B. Phase 1
+:::
+:::
+
+::: {.fragment fragment-index=3}
+::: {.fragment .semi-fade-out fragment-index=6}
+C. Phase 2
+:::
+:::
+
+::: {.fragment fragment-index=4}
+::: {.fragment .semi-fade-out fragment-index=6}
+D. Phase 3
+:::
+:::
+
+::: {.fragment fragment-index=5}
+::: {.fragment .semi-fade-out fragment-index=6}
+E. Phase 4
+:::
+:::
+
+##
+
+- go over phases
+- quinidine effect
+- Ito
+- Sodium channel
+
+# Long QT Syndrome {background-color='{{< brand color primary >}}'}
+
+- LQTS1
+- LQTS2
+- LQTS3
+
+---
+
+A 30 year old newly-wed man was brought to clinic by his partner because he "stopped breathing at night". Was a swimmer in college and remains physically active. Resting heart rate in the 50s.
+
+## {background-image='krahn-2022-lqt3-ecg.png' background-size='contain'}
+
+What is the probable mechanism underlying the event?
+
+::: {.fragment fragment-index=1}
+::: {.fragment .semi-fade-out fragment-index=5}
+A. Loss of function in inward rectifying potassium channel
+:::
+:::
+
+::: {.fragment fragment-index=2}
+::: {.fragment .highlight-red fragment-index=5}
+C. Gain of function in voltage-gated sodium channel
+:::
+:::
+
+::: {.fragment fragment-index=3}
+::: {.fragment .semi-fade-out fragment-index=5}
+C. Loss-of-function in long-lasting calcium channel
+:::
+:::
+
+::: {.fragment fragment-index=4}
+::: {.fragment .semi-fade-out fragment-index=5}
+D. Gain-of-function in voltage-gated potassium channel
+:::
+:::
+
+
+# Catecholaminergic Polymorphic Ventricular Tachycardia {background-color='{{< brand color primary >}}'}
