@@ -16,9 +16,12 @@ format:
     progress: true
     chalkboard: true
     scrollable: true
+
+revealjs-plugins:
+  - attribution
 ---
 
-# Introduction
+# Introduction {background-color='{{< brand color primary >}}'}
 
 ## Objectives {.smaller}
 
@@ -29,7 +32,7 @@ format:
 
 . . .
 
-[*...We are trying to understand the relationship between genotype, phenotype, and treatment mecahnism.*]{.center}
+[*...We are trying to understand the relationship between genotype, phenotype, and treatment mecahnism from a basic cardiac electrophysiology perspective.*]{.center}
 
 ## Overview {.smaller}
 
@@ -81,15 +84,72 @@ Focus on the channelopathies that are CV-board relevant... Brugada, LQTS, and CP
 
 # Arrhythmia Mechanisms {background-color='{{< brand color primary >}}'}
 
-## Action potential
+---
 
-## {background-image='schwartz-2020-channel-proteins.png' background-size='contain'}
+![Antzelevitch 2011, CEC](antzelevitch-2011-arrhythmia-mechanisms.png)
 
-## Antiarrhythmic drugs and their effect
+## Three major mechanisms
 
-# Brugada Syndrome {background-color='{{< brand color primary >}}'}
+1. Re-entry, both functional and anatomical
+1. Enhanced automaticity, usually with *less polarized* resting membrane potential
+1. After depolarizations, both early and late
 
 ---
+
+![Varro et al. 2021, Physiological Review](varro-2021-after-depolarization-reentry.jpeg)
+
+## Action potential
+
+- Resting membrane potential is approximately -90 mV
+- Peak depolarization potential is approximately +30 mV
+- Generally... $\downarrow Na^{+}$ & $\uparrow K^{+}$
+
+---
+
+![WikiMedia Commons](wiki-cardiac-action-potential.svg)
+
+---
+
+![Nerborne & Kass 2005, Physiological Review](kass-2005-action-potential-types.jpeg)
+
+---
+
+![Varro et al. 2021, Physiological Review](varro-2021-action-potential-currents.jpeg)
+
+::: {.notes}
+Draw a figure of the action potential components here based on the currents. Focus on INa, Ito, ICaL, NCX, IKAch, IKs, IKr
+:::
+
+---
+
+![Schwartz et al. 2020, JACC EP](schwartz-2020-channel-proteins.png)
+
+---
+
+![Schwartz et al. 2020, JACC EP](schwartz-2020-protein-units.png)
+
+## Antiarrhythmic drugs 
+
+*Vaughn-Williams Classification*
+
+1. Sodium channel blockers
+1. Beta blockers
+1. Potassium channel blockers 
+1. Calcium channel blockers
+
+::: aside
+The *Sicilian Gambit* is an alternative that is worthy of reading - ESC in 1991
+:::
+
+::: {.notes}
+VW classification is limited because of overlap in effects and mixed effects of drugs. Also, excludes other related medications like ivabradine and digitalis. The *Sicilian gambit* however is more complex but thoroughly groups AADs by actions.
+:::
+
+---
+
+![Klabunde 2022, CV Pharmacology](klabunde-2022-sodium-channel-blockers-apd.png)
+
+# Case Examples {background-color='{{< brand color primary >}}'}
 
 A 28 year old woman presents with syncope to the emergency room, found to be febrile to 40C. She has no known past medical history and no prior ECGs.
 
@@ -99,22 +159,22 @@ A 28 year old woman presents with syncope to the emergency room, found to be feb
 
 ---
 
-What is the effect on the genetic mutation that leads to the above findings?
+What is the type of genetic mutation that leads to the above findings?
 
 ::: {.fragment fragment-index=1}
-::: {.fragment .semi-fade-out fragment-index=7}
+::: {.fragment .semi-fade-out fragment-index=5}
 A. Gain-of-function
 :::
 :::
 
 ::: {.fragment fragment-index=2}
-::: {.fragment .highlight-red fragment-index=7}
+::: {.fragment .highlight-red fragment-index=5}
 B. Loss-of-function
 :::
 :::
 
 ::: {.fragment fragment-index=3}
-::: {.fragment .semi-fade-out fragment-index=6}
+::: {.fragment .semi-fade-out fragment-index=5}
 C. Dominant-negative
 :::
 :::
@@ -159,18 +219,16 @@ E. Phase 4
 :::
 :::
 
-##
+## RE-/DE-polarization hypotheses
 
-- go over phases
-- quinidine effect
-- Ito
-- Sodium channel
+- RVOT fibrosis due to decreased connexin 43
+- Spatial dispersion
+- Phase 2 reentry
+- Quinidine effects on both $I_{Na}$ and $I_{to}$
 
-# Long QT Syndrome {background-color='{{< brand color primary >}}'}
+---
 
-- LQTS1
-- LQTS2
-- LQTS3
+![Schwartz et al. 2020, JACC EP](schwartz-2020-spatial-dispersion.png)
 
 ---
 
@@ -178,17 +236,19 @@ A 30 year old newly-wed man was brought to clinic by his partner because he "sto
 
 ## {background-image='krahn-2022-lqt3-ecg.png' background-size='contain'}
 
+---
+
 What is the probable mechanism underlying the event?
 
 ::: {.fragment fragment-index=1}
 ::: {.fragment .semi-fade-out fragment-index=5}
-A. Loss of function in inward rectifying potassium channel
+A. Loss-of-function in inward rectifying potassium channel
 :::
 :::
 
 ::: {.fragment fragment-index=2}
 ::: {.fragment .highlight-red fragment-index=5}
-C. Gain of function in voltage-gated sodium channel
+B. Gain-of-function in voltage-gated sodium channel
 :::
 :::
 
@@ -204,5 +264,118 @@ D. Gain-of-function in voltage-gated potassium channel
 :::
 :::
 
+---
 
-# Catecholaminergic Polymorphic Ventricular Tachycardia {background-color='{{< brand color primary >}}'}
+The long QT syndromes comprise of *3 major types* and many other *minor* types
+
+1. $LQT1 = KCNQ1 \Longrightarrow \downarrow I_{Ks}$
+1. $LQT2 = KCNH2 \Longrightarrow \downarrow I_{Kr}$
+1. $LQT3 = SCN5A \Longrightarrow \uparrow I_{Na}$
+
+. . .
+
+T-wave morphology differs between these major types based on the underlying ion channel
+
+---
+
+![Schwartz et al. 2020, JACC EP](schwartz-2020-lqts-ecg-types.png)
+
+---
+
+A woman in her 20s presents for several episodes of syncope. She notes having episodes of muscle weakness following exercise. 
+
+On exam, her heart rate is in the 70s. She has a short stature. Mild clinodactyly of digit 5 on both hands is noted. Her electrolytes are normal. 
+
+## {background-image='nagashima-2010-ats-ecg.jpg' background-size='contain'}
+
+::: aside
+Nagashima et al. 2010, ATS
+:::
+
+--- 
+
+What is the primary arrhythmia mechanism of her syncopal episodes?
+
+::: {.fragment fragment-index=1}
+::: {.fragment .semi-fade-out fragment-index=5}
+A. Functional reentry
+:::
+:::
+
+::: {.fragment fragment-index=2}
+::: {.fragment .highlight-red fragment-index=5}
+B. Enhanced automaticity
+:::
+:::
+
+::: {.fragment fragment-index=3}
+::: {.fragment .semi-fade-out fragment-index=5}
+C. Early after-depolarizations
+:::
+:::
+
+::: {.fragment fragment-index=4}
+::: {.fragment .semi-fade-out fragment-index=5}
+D. Late after-depolarizations
+:::
+:::
+
+---
+
+- Anderson-Tawil Syndrome, LQT7 - arguably a long **QU** syndrome
+- $I_{K1}$ occurs predominantly during phase 4
+- Phase 4 represents the baseline polarized resting membrane potential
+- Loss-of-function in KCNJ2 leads to decreased $I_{K1}$ current, raising resting membrane potential
+
+---
+
+A 18 year old is referred to your clinic for evaluation prior to participation in athletics. As a child, he was diagnosed with exercise-induced epilepsy had had refrained from further exertional activities. 
+
+Baseline QTc is 390 ms. An exercise stress test is performed, and during phase 3 develops bigeminy that persists for several minutes into rest.
+
+Genetic testing returns positive.
+
+---
+
+Nadolol is prescribed along with an additional agent. Which channel antagonism leads to the therapeutic effect of this agent?
+
+::: {.fragment fragment-index=1}
+::: {.fragment .semi-fade-out fragment-index=5}
+A. Sodium
+:::
+:::
+
+::: {.fragment fragment-index=2}
+::: {.fragment .highlight-red fragment-index=5}
+B. Calcium
+:::
+:::
+
+::: {.fragment fragment-index=3}
+::: {.fragment .semi-fade-out fragment-index=5}
+C. Potassium
+:::
+:::
+
+::: {.fragment fragment-index=4}
+::: {.fragment .semi-fade-out fragment-index=5}
+D. Acetylcholine
+:::
+:::
+
+---
+
+CPVT mimics LQT1 from a history perspective, but the underlying mechanism is through $Ca^{++}$ release from the sarcoplasmic reticulum.
+
+- CPVT1 is through *leaky* $RYR2$ channels
+- Flecainide blocks both $Na^{+}$ as well as $Ca^{++}$
+
+. . .
+
+Calsequestrin, triadin, and calmodulin are rarer subtypes of CPVT.
+
+---
+
+![Antzelevitch 2011, CEC](antzelevitch-2011-after-depolarizations.png)
+
+# Questions {background-color='{{< brand color primary >}}'}

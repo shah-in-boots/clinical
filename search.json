@@ -2979,7 +2979,7 @@
     "href": "lectures/genetics/channelopathies-intro.html#objectives",
     "title": "Channelopathies",
     "section": "Objectives",
-    "text": "Objectives\n\nRecall the fundamental mechanisms behind arrhythmogenesis\nRecognize the inherited arrhythmia syndromes\nPredict effects of gain-of-function and loss-of-function on action potential durations\nKnow potential pharmalogical treatment strategies based on mechanisms\n\n\n…We are trying to understand the relationship between genotype, phenotype, and treatment mecahnism."
+    "text": "Objectives\n\nRecall the fundamental mechanisms behind arrhythmogenesis\nRecognize the inherited arrhythmia syndromes\nPredict effects of gain-of-function and loss-of-function on action potential durations\nKnow potential pharmalogical treatment strategies based on mechanisms\n\n\n…We are trying to understand the relationship between genotype, phenotype, and treatment mecahnism from a basic cardiac electrophysiology perspective."
   },
   {
     "objectID": "lectures/genetics/channelopathies-intro.html#overview",
@@ -3021,7 +3021,7 @@
     "href": "lectures/genetics/channelopathies-intro.html#section-2",
     "title": "Channelopathies",
     "section": "",
-    "text": "What is the effect on the genetic mutation that leads to the above findings?\n\n\nA. Gain-of-function\n\n\n\n\nB. Loss-of-function\n\n\n\n\nC. Dominant-negative\n\n\n\n\nC. Dominant-positive\n\n\n\nShe is prescribed an anti-arrhythmic agent to good effect. What phase of the action potential accounts for the therapeutic effect of this medication?\n\n\nA. Phase 0\n\n\n\n\nB. Phase 1\n\n\n\n\nC. Phase 2\n\n\n\n\nD. Phase 3\n\n\n\n\nE. Phase 4"
+    "text": "What is the probable mechanism underlying the event?\n\n\nA. Loss of function in inward rectifying potassium channel\n\n\n\n\nC. Gain of function in voltage-gated sodium channel\n\n\n\n\nC. Loss-of-function in long-lasting calcium channel\n\n\n\n\nD. Gain-of-function in voltage-gated potassium channel"
   },
   {
     "objectID": "lectures/genetics/channelopathies-for-the-boards.html#objectives",
@@ -3049,7 +3049,7 @@
     "href": "lectures/genetics/channelopathies-intro.html#section-3",
     "title": "Channelopathies",
     "section": "",
-    "text": "go over phases\nquinidine effect\nIto\nSodium channel"
+    "text": "Nagashima et al. 2010, ATS"
   },
   {
     "objectID": "lectures/genetics/channelopathies-intro.html#section-4",
@@ -3057,5 +3057,89 @@
     "title": "Channelopathies",
     "section": "",
     "text": "What is the probable mechanism underlying the event?\n\n\nA. Loss of function in inward rectifying potassium channel\n\n\n\n\nC. Gain of function in voltage-gated sodium channel\n\n\n\n\nC. Loss-of-function in long-lasting calcium channel\n\n\n\n\nD. Gain-of-function in voltage-gated potassium channel"
+  },
+  {
+    "objectID": "lectures/genetics/channelopathies-intro.html#action-potential",
+    "href": "lectures/genetics/channelopathies-intro.html#action-potential",
+    "title": "Channelopathies",
+    "section": "Action potential",
+    "text": "Action potential\n\nResting membrane potential is approximately -90 mV\nPeak depolarization potential is approximately +30 mV\nGenerally… \\(\\downarrow Na^{+}\\) & \\(\\uparrow K^{+}\\)"
+  },
+  {
+    "objectID": "lectures/genetics/channelopathies-intro.html#antiarrhythmic-drugs-and-their-effect",
+    "href": "lectures/genetics/channelopathies-intro.html#antiarrhythmic-drugs-and-their-effect",
+    "title": "Channelopathies",
+    "section": "Antiarrhythmic drugs and their effect",
+    "text": "Antiarrhythmic drugs and their effect\nVaughn-Williams Classification\n\nSodium channel blockers\nBeta blockers\nPotassium channel blockers\nCalcium channel blockers"
+  },
+  {
+    "objectID": "lectures/genetics/channelopathies-intro.html#background-imagevarro-2021-action-potential-currents.jpeg-background-sizecontain",
+    "href": "lectures/genetics/channelopathies-intro.html#background-imagevarro-2021-action-potential-currents.jpeg-background-sizecontain",
+    "title": "Channelopathies",
+    "section": "{background-image=‘varro-2021-action-potential-currents.jpeg’ background-size=‘contain’)",
+    "text": "{background-image=‘varro-2021-action-potential-currents.jpeg’ background-size=‘contain’)"
+  },
+  {
+    "objectID": "lectures/genetics/channelopathies-intro.html#background-imageschwartz-2020-channel-proteins-background-sizecontain",
+    "href": "lectures/genetics/channelopathies-intro.html#background-imageschwartz-2020-channel-proteins-background-sizecontain",
+    "title": "Channelopathies",
+    "section": "{background-image=‘schwartz-2020-channel-proteins’ background-size=‘contain’)",
+    "text": "{background-image=‘schwartz-2020-channel-proteins’ background-size=‘contain’)"
+  },
+  {
+    "objectID": "lectures/genetics/channelopathies-intro.html#background-imageschwartz-2020-channel-proteins.png-background-sizecontain",
+    "href": "lectures/genetics/channelopathies-intro.html#background-imageschwartz-2020-channel-proteins.png-background-sizecontain",
+    "title": "Channelopathies",
+    "section": "{background-image=‘schwartz-2020-channel-proteins.png’ background-size=‘contain’)",
+    "text": "{background-image=‘schwartz-2020-channel-proteins.png’ background-size=‘contain’)\n\nVarro et al. 2021, Physiological Review"
+  },
+  {
+    "objectID": "lectures/genetics/channelopathies-intro.html#section",
+    "href": "lectures/genetics/channelopathies-intro.html#section",
+    "title": "Channelopathies",
+    "section": "",
+    "text": "Varro et al. 2021, Physiological Review"
+  },
+  {
+    "objectID": "lectures/genetics/channelopathies-intro.html#section-5",
+    "href": "lectures/genetics/channelopathies-intro.html#section-5",
+    "title": "Channelopathies",
+    "section": "",
+    "text": "What is the probable mechanism underlying the event?\n\n\nA. Loss of function in inward rectifying potassium channel\n\n\n\n\nC. Gain of function in voltage-gated sodium channel\n\n\n\n\nC. Loss-of-function in long-lasting calcium channel\n\n\n\n\nD. Gain-of-function in voltage-gated potassium channel"
+  },
+  {
+    "objectID": "lectures/genetics/channelopathies-intro.html#three-major-mechanisms",
+    "href": "lectures/genetics/channelopathies-intro.html#three-major-mechanisms",
+    "title": "Channelopathies",
+    "section": "Three major mechanisms",
+    "text": "Three major mechanisms\n\nRe-entry, both functional and anatomical\nEnhanced automaticity, usually with less polarized resting membrane potential\nAfter depolarizations, both early and late"
+  },
+  {
+    "objectID": "lectures/genetics/channelopathies-intro.html#antiarrhythmic-drugs",
+    "href": "lectures/genetics/channelopathies-intro.html#antiarrhythmic-drugs",
+    "title": "Channelopathies",
+    "section": "Antiarrhythmic drugs",
+    "text": "Antiarrhythmic drugs\nVaughn-Williams Classification\n\nSodium channel blockers\nBeta blockers\nPotassium channel blockers\nCalcium channel blockers\n\n\n\nVW classification is limited because of overlap in effects and mixed effects of drugs. Also, excludes other related medications like ivabradine and digitalis. The Sicilian gambit however is more complex but thoroughly groups AADs by actions.\n\n\nThe Sicilian Gambit is an alternative that is worthy of reading - ESC in 1991"
+  },
+  {
+    "objectID": "lectures/genetics/channelopathies-intro.html#repolarization-and-depolarization-hypothesis",
+    "href": "lectures/genetics/channelopathies-intro.html#repolarization-and-depolarization-hypothesis",
+    "title": "Channelopathies",
+    "section": "Repolarization and depolarization hypothesis",
+    "text": "Repolarization and depolarization hypothesis\n\n\n\nSchwartz et al. 2020, JACC EP\n\n\n\n\nTest"
+  },
+  {
+    "objectID": "lectures/genetics/channelopathies-intro.html#re-de-polarization-hypotheses",
+    "href": "lectures/genetics/channelopathies-intro.html#re-de-polarization-hypotheses",
+    "title": "Channelopathies",
+    "section": "RE-/DE-polarization hypotheses",
+    "text": "RE-/DE-polarization hypotheses\n\nRVOT fibrosis due to decreased connexin 43\nSpatial dispersion\nPhase 2 reentry\nQuinidine effects on both \\(I_{Na}\\) and \\(I_{to}\\)"
+  },
+  {
+    "objectID": "lectures/genetics/channelopathies-intro.html#section-1",
+    "href": "lectures/genetics/channelopathies-intro.html#section-1",
+    "title": "Channelopathies",
+    "section": "",
+    "text": "Nagashima et al. 2010, ATS"
   }
 ]

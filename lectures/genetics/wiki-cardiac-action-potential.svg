@@ -1,0 +1,57 @@
+<svg viewBox="150 100 2550 1954" width="2550" height="1954" xmlns="http://www.w3.org/2000/svg">
+  <g fill="#e2f0d9" stroke="#395b24" stroke-width="5">
+    <path d="M500 975h290v140H500z"/>
+    <path d="M900,300h435v140H900z"/>
+    <path d="M1400,400h310v140H1400z"/>
+    <path d="M1900 900h300v140H1900z"/>
+    <path d="M1950 1090h445v140H1950z"/>
+  </g>
+  <g font-family="Arial,sans-serif" font-size="70">
+    <text x="525" y="1070">Na<tspan dy="-30" font-size="40">+</tspan> <tspan dy="30">(In)</tspan></text>
+    <text x="925" y="395">K<tspan dy="-30" font-size="40">+</tspan> <tspan dy="30">/Cl</tspan><tspan dy="-30" font-size="40">−</tspan> <tspan dy="30">(Out)</tspan></text>
+    <text x="1425" y="495">Ca<tspan dy="-30" font-size="40">2+</tspan> <tspan dy="30">(In)</tspan></text>
+    <text x="1925" y="995">K<tspan dy="-30" font-size="40">+</tspan> <tspan dy="30">(Out)</tspan></text>
+    <text x="1975" y="1185">K<tspan dy="-30" font-size="40">+</tspan> <tspan dy="30">(Rectiﬁer)</tspan></text>
+  </g>
+
+  <path fill="#ffc000" stroke="#504830" stroke-width="5" d="M175,420h480v430H175z"/>
+  <text x="195" y="490" font-family="Arial,sans-serif" font-weight="700" font-size="60">Class 1</text>
+  <text x="195" y="530" font-family="Arial,sans-serif" font-weight="700" font-size="40">Na<tspan dy="-15" font-size="25">+</tspan> <tspan dy="15">channel blocker</tspan></text>
+  <g font-family="Arial,sans-serif" font-size="40">
+    <text x="195" y="595">1a (moderate):</text>
+    <text x="200" y="640">Quinidine, Procainamide</text>
+    <text x="195" y="690">1b (weak):</text>
+    <text x="200" y="735">Lidocaine, Phenytoin</text>
+    <text x="195" y="785">1c (strong):</text>
+    <text x="200" y="830">Flecainide, Propafenone</text>
+  </g>
+  <path fill="#00b0f0" stroke="#005e80" stroke-width="5" d="M2180,1350h480v250H2180z"/>
+  <text x="2200" y="1420" font-family="Arial,sans-serif" font-weight="700" font-size="60">Class 2</text>
+  <text x="2200" y="1460" font-family="Arial,sans-serif" font-weight="700" font-size="40">β-blocker</text>
+  <text x="2200" y="1525" font-family="Arial,sans-serif" font-size="40">Propranolol</text>
+  <text x="2200" y="1575" font-family="Arial,sans-serif" font-size="40">Metoprolol</text>
+  <path fill="#70ad47" stroke="#3b5a25" stroke-width="5" d="M2180,475h480v250H2180z"/>
+  <text x="2200" y="545" font-family="Arial,sans-serif" font-weight="700" font-size="60">Class 3</text>
+  <text x="2200" y="585" font-family="Arial,sans-serif" font-weight="700" font-size="40">K<tspan dy="-15" font-size="25">+</tspan> <tspan dy="15">channel blocker</tspan></text>
+  <text x="2200" y="650" font-family="Arial,sans-serif" font-size="40">Amiodarone</text>
+  <text x="2200" y="700" font-family="Arial,sans-serif" font-size="40">Sotalol</text>
+  <path fill="#f69" stroke="#602035" stroke-width="5" d="M1750,125h480v250H1750z"/>
+  <text x="1770" y="195" font-family="Arial,sans-serif" font-weight="700" font-size="60">Class 4</text>
+  <text x="1770" y="235" font-family="Arial,sans-serif" font-size="40" font-weight="700">Ca<tspan dy="-15" font-size="25">2+</tspan> <tspan dy="15">channel blocker</tspan></text>
+  <text x="1770" y="300" font-family="Arial,sans-serif" font-size="40">Verapamil</text>
+  <text x="1770" y="350" font-family="Arial,sans-serif" font-size="40">Diltiazem</text>
+  <path d="m425 875 7.634-11.17 75.862 51.842 11.454-16.761 29.424 52.89-59.966-8.197 11.454-16.761-75.862-51.843Z"/>
+  <path d="m1704.418 285 8.073 10.858-73.738 54.823 12.113 16.292-59.592 10.579 27.294-54.02 12.112 16.291 73.738-54.823Z"/>
+  <path d="m2300 760 10.143 8.955-60.815 68.88 15.218 13.435-56.119 22.667 15.54-58.494 15.218 13.436 60.815-68.88Z"/>
+  <path d="m2415 1300-4.957 12.59-85.496-33.665-7.438 18.889-40.454-45.018 60.287-5.35-7.438 18.89 85.496 33.664Z"/>
+  <path d="M537.376 1754.544h76.49c52.02-73.35 101.85-67.8 149.95 0h105.84l38.22 182.31 45.62-583.69 69.04 643.97 48.59-242.59h557.16c69.7-141.7 187.61-137.66 285.24 0h244.07" fill="none" stroke="#000" stroke-width="20" stroke-linejoin="round"/>
+  <path d="M515.466 1266.274h318.99V423.174c115.99 127.879 408.71 95.969 819.78 137.629 44.16 4.47 147.77 33.44 153.18 71.26 30.64 214.51 67.26 479.45 80.92 586.22 3.22 25.14 22.72 44.51 61.16 45.17 53.78.93 231.48 0 231.48 0" fill="none" stroke="#000" stroke-width="16" stroke-linejoin="round"/>
+  <g font-family="Arial,sans-serif" font-weight="700" font-size="160">
+    <text x="620" y="1420">4</text>
+    <text x="1985" y="1420">4</text>
+    <text x="875" y="930">0</text>
+    <text x="915" y="640">1</text>
+    <text x="1295" y="685">2</text>
+    <text x="1720" y="975">3</text>
+  </g>
+</svg>
