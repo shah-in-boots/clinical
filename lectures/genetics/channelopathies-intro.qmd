@@ -32,7 +32,7 @@ revealjs-plugins:
 
 . . .
 
-[*...We are trying to understand the relationship between genotype, phenotype, and treatment mecahnism from a basic cardiac electrophysiology perspective.*]{.center}
+[*...We are trying to understand the relationship between genotype, phenotype, and treatment mechanism from a basic cardiac electrophysiology perspective.*]{.center}
 
 ## Overview {.smaller}
 
@@ -150,6 +150,8 @@ VW classification is limited because of overlap in effects and mixed effects of 
 ![Klabunde 2022, CV Pharmacology](klabunde-2022-sodium-channel-blockers-apd.png)
 
 # Case Examples {background-color='{{< brand color primary >}}'}
+
+---
 
 A 28 year old woman presents with syncope to the emergency room, found to be febrile to 40C. She has no known past medical history and no prior ECGs.
 
@@ -284,6 +286,8 @@ T-wave morphology differs between these major types based on the underlying ion 
 
 A woman in her 20s presents for several episodes of syncope. She notes having episodes of muscle weakness following exercise. 
 
+. . .
+
 On exam, her heart rate is in the 70s. She has a short stature. Mild clinodactyly of digit 5 on both hands is noted. Her electrolytes are normal. 
 
 ## {background-image='nagashima-2010-ats-ecg.jpg' background-size='contain'}
@@ -316,7 +320,7 @@ C. Early after-depolarizations
 
 ::: {.fragment fragment-index=4}
 ::: {.fragment .semi-fade-out fragment-index=5}
-D. Late after-depolarizations
+D. Delayed after-depolarizations
 :::
 :::
 
@@ -331,7 +335,11 @@ D. Late after-depolarizations
 
 A 18 year old is referred to your clinic for evaluation prior to participation in athletics. As a child, he was diagnosed with exercise-induced epilepsy had had refrained from further exertional activities. 
 
+. . .
+
 Baseline QTc is 390 ms. An exercise stress test is performed, and during phase 3 develops bigeminy that persists for several minutes into rest.
+
+. . .
 
 Genetic testing returns positive.
 
