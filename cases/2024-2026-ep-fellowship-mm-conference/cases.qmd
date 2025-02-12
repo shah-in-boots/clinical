@@ -244,7 +244,7 @@ csl: ../../apa.csl
 - Magnets should be available on every crash cart and in multiple places on an ICU floor
 - Device interrogation resources should be readily available to general fellows to help in common scenarios
 
-# February 2025 {background-color='{{< brand color primary >}}'}
+# February 5, 2025 {background-color='{{< brand color primary >}}'}
 
 # TH22676934 
 

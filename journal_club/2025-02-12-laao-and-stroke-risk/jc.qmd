@@ -1,0 +1,429 @@
+---
+title: Left Atrial Occlusion Devices and Stroke Risk
+subtitle: Journal Club
+author: Anish S. Shah, MD, MS
+institute: Division of Cardiology, Department of Medicine, University of Utah
+date: February 12, 2025
+format:
+  revealjs:
+    navigation-mode: vertical
+    transition: fade
+    transition-speed: fast
+    slide-number: true
+    incremental: true
+    auto-animate-easing: ease-in-out
+    auto-animate-unmatched: false
+    progress: true
+    chalkboard: false
+    mermaid:
+      theme: neutral
+    mermaid-format: svg
+
+revealjs-plugins:
+  - attribution
+
+tbl-cap-location: bottom
+---
+
+# Who Watches the Watchmen? 
+
+. . .
+
+"Quis custodiet ipsos custodes?" ~ *Satires* by Juvenal
+
+# Introduction {background-color='{{< brand color primary >}}'}
+
+## Objectives {.smaller}
+
+a. Understand the landscape of stroke risk in AF
+a. Identify the competing and supporting roles of pharmalogical and device therapy
+a. Consider the standard-of-care and non-inferior (and superiority) in novel stroke mitigation strategies
+a. Ponder the risk/reward analysis in left atrial appendage occlusion strategies as part of AF rhythm management
+
+::: {.callout-important title="Disclaimer"}
+The focus is on non-valvular AF, and does not consider the differential risk in patients with inflammatory atrial myopathies or severe valve disease $\pm$ valve replacement).
+:::
+
+## Outline
+
+1. Background of stroke risk
+1. Relevant left atrial anatomy and physiology
+1. Left atrial appendage occlusion devices
+1. Post-occlusion stroke risk
+1. Occlusion devices with pulmonary vein isolation
+
+## Abbreviations {.smaller}
+
+**AF** = atrial fibrillation
+
+**DRT** = device-related thrombus
+
+**LA** = left atrium
+
+**LAA** = left atrial appendage
+
+**LAAO** = left atrial appendage occlusion
+
+**pLAAO** = percutaneous left atrial appendage occlusion
+
+**PDL** = peri-device leaks
+
+**PVI** = pulmonary vein isolation
+
+**sLAAO** = surgical left atrial appendage occlusion 
+
+**VKA** = vitamin K antagonist (e.g. warfarin)
+
+# Background on Stroke Risk in Atrial Fibrillation {background-color='{{< brand color primary >}}'}
+
+## {.smaller}
+
+:::: {.columns}
+
+::: {.column width="65%"}
+*Do not account for additional risk factors, such as AF type or burden, smoking, obesity, kidney disease, other cardiac structural abnormalities.*
+
+- $CHA_{2}DS_{2}VASc$ score
+- $ATRIA$ score (Anticoagluation and Risk Factors in Atrial Fibrillation)
+- $GARFIELD-AF$ (Global Anticoagulant Registry in the Field - Atrial Fibrillation)
+:::
+
+::: {.column width="35%"}
+| Category | Absolute Risk |
+| --- | --- |
+| Low | <1%/year |
+| Intermediate | 1-2%/year |
+| High | >2%/year |
+
+: General thromboembolism risk categories {#tbl-risk-categories}
+:::
+
+::::
+
+::: {.attribution}
+@Joglar2024
+:::
+
+## $CHADS_{2}$ Score {.smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+- C: Congestive heart failure (1 point)
+- H: Hypertension (1 point)
+- A: Age ≥75 (1 point)
+- D: Diabetes mellitus (1 point)
+- S: Stroke/TIA/thromboembolism (2 points)
+:::
+
+::: {.column width="50%"}
+| Score | Estimated Annual Stroke Risk |
+|:-:|:-:|
+| 0 | 1-2% | 
+| 1 | 3% | 
+| 2 | 4% |
+| 3 | 6% | 
+| 4 | 9% | 
+| 5 | 12% |
+| 6 | 18% |
+
+:::
+
+::::
+
+## $CHA_{2}DS_{2}VASc$ Score {.smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- C: Congestive heart failure (1 point)
+- H: Hypertension (1 point)
+- A₂: Age ≥ 75 (2 points)
+- D: Diabetes mellitus (1 point)
+- S₂: Stroke/TIA/thromboembolism (2 points)
+- V: Vascular disease (e.g., prior MI, peripheral artery disease) (1 point)
+- A: Age 65–74 (1 point)
+- Sc: Sex category (female) (1 point)
+:::
+
+::: {.column width="50%"}
+
+| Score | Estimated Annual Stroke Risk |
+|:--:|:--:|
+| 0 | 0% |
+| 1 | 1% |
+| 2 | 2% |
+| 3 | 3% |
+| 4 | 5% |
+| 5 | 7% |
+| 6 | 10% |
+| 7 | 11% | 
+| 8 | 11% |
+| 9 | 12% |
+:::
+
+::::
+
+---
+
+```{mermaid}
+%%| fig-width: 200%
+%%| fig-height: 200%
+%%| fig-responsive: false
+timeline
+  section Warfarin Era
+    1980s : ~7% CVA risk without medication : 4% with aspirin
+    1991 : SPAF trial (aspirin v. warfarin) : 2% with warfarin
+  section DOAC Era
+    2009 : RE-LY Trial (dabigatran) : DOAC non-inferior
+    2011 : ARISTOTLE Trial (apixaban) : ROCKET-AF (rivaroxaban) : DOAC superior
+    2013 : ENGAGE AF-TIMI 48 Trial (edoxaban) : DOAC non-inferior : 1-2% with DOAC
+```
+
+::: {.attribution}
+@Joglar2024
+:::
+
+# Left Atrial Anatomy and Physiology {background-color='{{< brand color primary >}}'}
+
+---
+
+
+## Left atrial appendage?
+
+- Primordial atrium derivation from pulmonary bud fusion into the primitive LA
+- LAA is 2-fold more compliant than LA, and acts like a decompression chamber (thus exclusion leads to decreased reservoir function)
+- LAA also secretes majority of atrial natriuretic peptide
+
+## Anatomy {.smaller}
+
+:::: {.columns}
+
+::: {.column width="40%"}
+![Diagram of LAA anatomy](garg-2024-laa-anatomy.png){#fig-laa-anatomy}
+:::
+
+::: {.column width="60%"}
+- Anatomical position:
+    - pulmonary arteries (superior)
+    - left ventricle free wall (inferomedial) 
+    - left circumflex coronary artery (LAA ostium)
+    - left phrenic nerve (posterolateral)
+    - left superior pulmonary vein (posterior)
+    - mitral valve (inferior)
+- 4 parts = ostium, neck, body, and tip
+- Ostium is oval-shaped (can be triangular or teardrop)
+- Body described by morphology: chicken wing, windsock, broccoli, cactus
+:::
+
+::::
+
+---
+
+![LAA examples using CT renderings, anatomical representations, and shape-based archetypes. Chicken wings are the most prominent, followed by cacti.](garg-2024-laa-morphology.png){#fig-laa-morphology}
+
+::: {.attribution}
+@Garg2024
+:::
+
+# LAAO Devices {background-color='{{< brand color primary >}}'}
+
+---
+
+![Recent pLAAO device options, with most common devices now include Watchman FLX/FLX Pro and Amulet device](garg-2024-plaao-devices.png){#fig-plaao-devices}
+
+# LAAO Stroke Risk {background-color='{{< brand color primary >}}'}
+
+## Procedural safety {.smaller}
+
+1. *EWOLUTION* by @Turagam2019 (Watchman) $\rightarrow$ showed low ischemic stroke risk peri-procedurally without OAC therapy
+1. *PINNACLE FLX* by @Kar2021 (Watchman FLX) $\rightarrow$ showed 99% safety of implant and <1% ischemic stroke risk (7 days of follow-up), with mean $CHA_{2}DS_{2}VASc = 4$ 
+
+## Future CVA risk {.smaller}
+
+1. *ASAP* by @Reddy2013 (Watchman) $\rightarrow$ pLAAO in those intolerant to VKA had reduced CVA risk from 7% (based on $CHADS_{2}$) to 2%
+1. *PROTECT AF* by @Reddy2014 (Watchman) $\rightarrow$ noninferiority RCT of pLAAO v. VKA, with pLAAO being *safer* than VKA, however low event rate and primary endpoints were composite MACE (e.g. ischemic stroke risk was 1.4 vs. 1.1 events (per 100 patient-years) in device v. VKA)
+1. *PREVAIL* by @Holmes2014 (Watchman) $\rightarrow$ non-inferiority between pLAAO and VKA, showing non-inferiority, mean $CHADS_{2} = 2$
+1. *PRAGUE-17* by @Osmancik2020 (Watchman, FLX, & Amulet) $\rightarrow$ non-inferiority of pLAAO v. DOAC, with mean $CHA_{2}DS_{2}VASc = 5$
+
+## Reduction in CVA risk?
+
+Anticoagulation alone reduced CVA risk by 50-70%
+
+. . .
+
+Difficult to ascertain true incidence because these scores likely **underestimate** risk.
+
+. . .
+
+::: {.r-fit-text}
+Does pLAAO truly reduce risk to 1-2%?
+:::
+
+## Device complications
+
+Peri-device leaks are generally described as residual communications between the LA and LAA body behind the LAAO device.
+
+. . .
+
+Device-related thrombus is usually seen on any exposed metal hubs of pLAAO devices or exposed LA surfaces, and usually affected by the shape of that surface (e.g. differences between Amulet and Watchman).
+
+::: {.attribution}
+@Garg2024
+:::
+
+## PDLs {.smaller}
+
+About a quarter of pLAAO had PDL at 1 year...
+
+- 1st generation of pLAAO had rates of PDL between 30-40% 
+- 2nd generation about 15%-20% risk (Watchman FLX)
+
+PDL usually categorized by size, with small being <3 mm to <5 mm in size. 
+
+. . .
+
+**PDLs increase the risk of ischemic stroke by ~2 fold**, in follow-up data from the *NCDR LAAO Registry* and *PROTECT-AF*
+
+
+::: {.attribution}
+@Alkhouli2023; @Dukkipati2022
+:::
+
+## DRTs {.smaller}
+
+Rates of DRT...
+
+- In *PROTECT-AF*, *PREVAIL*, and *CAP* registries was approximately 4% by 2 years
+- *EUROC-DRT* approximately 18% in 1st year
+
+. . .
+
+**Increases risk of stroke by 3- to 5-fold, with 7-fold risk of hemorrhagic stroke**
+
+. . .
+
+This was not seen in the *EWOLUTION* registry.
+
+::: {.attribution}
+@Dukkipati2018; @Alkhouli2018; @Turagam2019
+:::
+
+## PDLs and DRTs in CVA risk
+
+. . .
+
+::: {.r-fit-text}
+**PDL increases the risk category for 25% of implants to the 2-3% CVA incidence **
+:::
+
+. . .
+
+::: {.r-fit-text}
+**DRT increases the risk category for 5-10% of implants to the 20-30% CVA incidence **
+:::
+
+. . .
+
+*Candidates for these studies were predominantly deemed to not be candidates for OAC, leading to increased bleeding risk if OAC was forced to be restarted.*
+
+---
+
+![The risk of ischemic stroke favors that of OAC in the pooled results of *PROTECT-AF* and *PREVAIL*, but not powered to detect individual outcome differences](garg-2024-forest-plot.png){#fig-laao-hazard}
+
+## Modifiable factors?
+
+- PDL can theoretically be sealed by plugs and RF energy
+- Rhythm maintenance, with persistent AF increasing risk
+- Implanting > 1 cm deep from PV ridge
+
+# Occlusion Devices with PVI {background-color='{{< brand color primary >}}'}
+
+## Coupling of procedures
+
+- Rhythm control with ablation does decrease stroke risk if sinus is maintained
+- Device placement can make challenging ablation due to altered anatomy (not studied with PFA)
+- LAA isolation can potentially reduce AF burden by removing potential trigger, however may worsen heart failure
+
+## OPTION
+
+- RCT of n=1600 individuals after PVI to pLAAO v. OAC
+- Mean $CHA_{2}DS_{2}VASc = 3.5$
+- Primary safety end-point = major, non-procedural bleeding
+  - n=65 in pLAAO arm and n=137 in OAC arm
+- Primary efficacy end-point = ischemic stroke
+  - n=41 in pLAAO arm and n=44 in OAC arm
+- LAAO had lower bleeding rates, and similar thromboembolic rates
+
+::: {.attribution}
+@Wazni2024
+:::
+
+---
+
+![Patient flow diagram in randomization for LAAO vs. OAC after ablation](wazni-2024-consort-diagram.png){#fig-option-consort}
+
+---
+
+![Baseline characteristics](wazni-2024-baseline-characteristics.png){#fig-option-baseline}
+
+---
+
+![Outcomes based on KM estimates. Notably, they were comparing bleeding events in an arm **not** on a blood thinner versus an OAC arm.](wazni-2024-outcomes.png){#fig-option-outcomes}
+
+## COMBINATION
+
+- RCT of n=200 participants randomized to single-procedure PVI and pLAAO, with either pLAAO first or second
+- Mean $CHA_{2}DS_{2}VASc = 4$
+- Primary end-point = risk of ischemic stroke
+- Secondary end-point = risk of AF recurrence
+- If pLAAO was implanted first, risk of future AF and rates of PDL and DRT was lower
+
+. . .
+
+Feasibility and safety of combined procedure supported in by other groups (@Preisendorfer2024).
+
+::: {.attribution}
+@Du2024
+:::
+
+---
+
+![Patient flow for randomization](du-2024-consort-diagram.png){#fig-combination-consort}
+
+---
+
+![Baseline characteristics](du-2024-baseline-characteristics.png){#fig-combination-baseline}
+
+---
+
+![Procedural outcomes](du-2024-outcomes.png){#fig-combination-outcomes}
+
+---
+
+![Survival curves for ischemic stroke risk](du-2024-km-stroke-risk.png){#fig-combination-stroke-curves}
+
+---
+
+![Survival curves for future AF risk](du-2024-km-af-risk.png){#fig-combination-af-curves}
+
+## Considerations {.smaller}
+
+- $CHA_{2}DS_{2}VASc \ge 4$ to provide adequate stroke risk reduction
+- Candidates for PVI with RF energy
+- Ability to address acute PDL and reduce risk for DRT by acheiving sinus
+- pLAAO before PFA ablation has not been well studied (complicated by catheter touching device struts)
+- Ridge anatomy and edema with ablation
+- pLAAO prior to ablation as first line strategy?
+- *Authors for majority of trials are the same, with similar disclosures to Watchman and Amulet parent companies*
+
+# Conclusion {background-color='{{< brand color primary >}}'}
+
+## Questions?
+
+## References {.smaller}
+
+::: {#refs}
+:::
+

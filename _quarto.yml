@@ -49,4 +49,4 @@ bibliography:
   - ../bibliography/computational.bib
   - ../bibliography/epidemiology.bib
 
-csl: jacc.csl
+csl: apa.csl
