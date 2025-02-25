@@ -3526,5 +3526,19 @@
     "title": "Left Atrial Occlusion Devices and Stroke Risk",
     "section": "Considerations",
     "text": "Considerations\n\n\\(CHA_{2}DS_{2}VASc \\ge 4\\) to provide adequate stroke risk reduction\nCandidates for PVI with RF energy\nAbility to address acute PDL and reduce risk for DRT by acheiving sinus\npLAAO before PFA ablation has not been well studied (complicated by catheter touching device struts)\nRidge anatomy and edema with ablation\npLAAO prior to ablation as first line strategy?\nAuthors for majority of trials are the same, with similar disclosures to Watchman and Amulet parent companies"
+  },
+  {
+    "objectID": "cases/2024-12-18-posteroseptal-delta/case.html#history-physical",
+    "href": "cases/2024-12-18-posteroseptal-delta/case.html#history-physical",
+    "title": "Supraventricular Tachycardia",
+    "section": "History & Physical",
+    "text": "History & Physical\n\n\nHPI: XXX year old gentleman\nHx:\n\nExam:"
+  },
+  {
+    "objectID": "cases/2024-12-18-posteroseptal-delta/case.html#procedure",
+    "href": "cases/2024-12-18-posteroseptal-delta/case.html#procedure",
+    "title": "Supraventricular Tachycardia",
+    "section": "Procedure",
+    "text": "Procedure\nAccess: US-guided, RCFV x 2, LCFV x 2\nDiagnostic catheters: RA = Josephson, RV = Josephson, His = CRD2, CS = decapolar\nMapping: Prucka, CARTO\nTranseptal: BRK-1 through SL-0, pressure-confirmation\nAblation: RF ablation with 3.5 mm irrigated catheter, DF curve (Thermocool SmartTouch), 30-40W lesions"
   }
 ]

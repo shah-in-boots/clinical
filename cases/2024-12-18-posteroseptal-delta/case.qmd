@@ -15,19 +15,17 @@ format:
     progress: true
     chalkboard: true
     scrollable: true
-    height: 1080
-    width: 1920
 
 csl: ../../apa.csl
 ---
 
-# Pre-excited ECG in 27F with syncope
+# Pre-excited ECG in 27F with syncope {background-color='{{< brand color primary >}}'}
 
 ## History & Physical
 
 ::::: {.columns}
 ::: {.column width="50%"}
-**HPI**: XXX year old gentleman 
+**HPI**: 27 year old woman
 
 Hx:
 :::
@@ -49,7 +47,7 @@ Exam:
 
 **Ablation**: RF ablation with 3.5 mm irrigated catheter, DF curve (Thermocool SmartTouch), 30-40W lesions
 
-# Baseline
+# Baseline {background-color='{{< brand color primary >}}'}
 
 ## {background-image="abl-a1-380-jump-slow-then-wcl.png" background-size="contain"}
 
@@ -93,10 +91,11 @@ Exam:
 
 ## {background-image="iso-post-v1-420-retrograde-av-wcl.png" background-size="contain"}
 
+# Post-Ablation {background-color='{{< brand color primary >}}'}
+
 ## {background-image="post-ecg-12-lead-100-sweep.png" background-size="contain"}
 
 ## {background-image="post-intervals.png" background-size="contain"}
-
 
 # Take Aways
 

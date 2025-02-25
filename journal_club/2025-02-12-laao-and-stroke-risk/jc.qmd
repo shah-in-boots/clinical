@@ -25,6 +25,11 @@ revealjs-plugins:
 tbl-cap-location: bottom
 ---
 
+# Updates
+
+- [ ] Comparison of CABANA trial event rates
+- [ ] Explanation of high stroke risk in OPTION trial
+
 # Who Watches the Watchmen? 
 
 . . .
