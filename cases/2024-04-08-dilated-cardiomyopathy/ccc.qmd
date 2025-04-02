@@ -19,7 +19,6 @@ format:
 csl: ../../apa.csl
 ---
 
-
 # Introduction
 
 ## Objectives

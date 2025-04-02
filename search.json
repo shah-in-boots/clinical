@@ -3532,7 +3532,7 @@
     "href": "cases/2024-12-18-posteroseptal-delta/case.html#history-physical",
     "title": "Supraventricular Tachycardia",
     "section": "History & Physical",
-    "text": "History & Physical\n\n\nHPI: XXX year old gentleman\nHx:\n\nExam:"
+    "text": "History & Physical\nHPI: Ms. MK is a 27F with vasovagal syncope and WPW pattern on ECG\nHx: anxiety, ADHD, attending flight school\nMeds: escitalopram, birth control\nExam: NAD, AOx4, S1/S2, NRRR, CTAB, gait intact\nLabs: Hb 14, PLT 350, K 4.0, Cr 0.7, \\(\\beta\\)-HCG negative\nStudies: TTE with normal LVEF"
   },
   {
     "objectID": "cases/2024-12-18-posteroseptal-delta/case.html#procedure",
@@ -3540,5 +3540,26 @@
     "title": "Supraventricular Tachycardia",
     "section": "Procedure",
     "text": "Procedure\nAccess: US-guided, RCFV x 2, LCFV x 2\nDiagnostic catheters: RA = Josephson, RV = Josephson, His = CRD2, CS = decapolar\nMapping: Prucka, CARTO\nTranseptal: BRK-1 through SL-0, pressure-confirmation\nAblation: RF ablation with 3.5 mm irrigated catheter, DF curve (Thermocool SmartTouch), 30-40W lesions"
+  },
+  {
+    "objectID": "cases/2024-12-18-posteroseptal-delta/case.html#section",
+    "href": "cases/2024-12-18-posteroseptal-delta/case.html#section",
+    "title": "Supraventricular Tachycardia",
+    "section": "{{< background-video tte-plax.mp4 >}}",
+    "text": "{{&lt; background-video tte-plax.mp4 &gt;}}"
+  },
+  {
+    "objectID": "cases/2024-12-18-posteroseptal-delta/case.html#section-2",
+    "href": "cases/2024-12-18-posteroseptal-delta/case.html#section-2",
+    "title": "Supraventricular Tachycardia",
+    "section": "",
+    "text": "Standard EP study with four catheters, including RA, RV, His, and CS."
+  },
+  {
+    "objectID": "cases/2024-12-18-posteroseptal-delta/case.html#risk-stratification",
+    "href": "cases/2024-12-18-posteroseptal-delta/case.html#risk-stratification",
+    "title": "Supraventricular Tachycardia",
+    "section": "Risk stratification",
+    "text": "Risk stratification\n\nPersistent pre-excitation\nMultiple accessory pathways\nInducible AF or AVRT during EPS\nSPERRI &lt; 250 ms\nAccessory pathway refractory period &lt; 240 ms"
   }
 ]

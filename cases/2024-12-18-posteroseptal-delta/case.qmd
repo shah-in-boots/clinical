@@ -23,17 +23,25 @@ csl: ../../apa.csl
 
 ## History & Physical
 
-::::: {.columns}
-::: {.column width="50%"}
-**HPI**: 27 year old woman
+**HPI**: Ms. MK is a 27F with vasovagal syncope and WPW pattern on ECG
 
-Hx:
-:::
+**Hx**: anxiety, ADHD, attending flight school
 
-::: {.column width="50%"}
-Exam: 
-:::
-::::
+**Meds**: escitalopram, birth control
+
+**Exam**: NAD, AOx4, S1/S2, NRRR, CTAB, gait intact
+
+**Labs**: Hb 14, PLT 350, K 4.0, Cr 0.7, $\beta$-HCG negative
+
+**Studies**: TTE with normal LVEF
+
+---
+
+## {background-video="tte-plax.mp4"}
+
+---
+
+## {background-image="ecg-baseline.png" background-size="contain"}
 
 ## Procedure
 
@@ -49,60 +57,79 @@ Exam:
 
 # Baseline {background-color='{{< brand color primary >}}'}
 
-## {background-image="abl-a1-380-jump-slow-then-wcl.png" background-size="contain"}
+## {background-image="fluoro-diagnostic.png" background-size="contain"}
 
-## {background-image="abl-a1-600-a2-460-normal-far-field-v-activation.png" background-size="contain"}
-
-## {background-image="abl-a1-600-a2-470-pre-excited-ventricular-far-field.png" background-size="contain"}
-
-## {background-image="abl-first-ablation-delta-gone.png" background-size="contain"}
-
-## {background-image="abl-pace-during-ablate-based-on-far-field-v.png" background-size="contain"}
-
-## {background-image="abl-pathway-potentials-atrial-position.png" background-size="contain"}
-
-## {background-image="abl-still-eccentric-continue-burning.png" background-size="contain"}
-
-## {background-image="bl-a1-380-wcl.png" background-size="contain"}
-
-## {background-image="bl-a1-500-a2-360-ap-erp-narrow-qrs.png" background-size="contain"}
-
-## {background-image="bl-ecg-12-lead-100-sweep.png" background-size="contain"}
+::: {.notes}
+Standard EP study with four catheters, including RA, RV, His, and CS.
+:::
 
 ## {background-image="bl-ecg-12-lead-25-sweep.png" background-size="contain"}
-
+## {background-image="bl-ecg-12-lead-100-sweep.png" background-size="contain"}
 ## {background-image="bl-egm-intervals.png" background-size="contain"}
 
+## {background-image="bl-a1-380-wcl.png" background-size="contain"}
+## {background-image="bl-a1-500-a2-360-ap-erp-narrow-qrs.png" background-size="contain"}
 ## {background-image="bl-parahisian-nodal-response.png" background-size="contain"}
 
+## {background-image="bl-v1-wcl-520.png" background-size="contain"}
+## {background-image="bl-v1-600-v2-490-eccentric-cs-early-mid.png" background-size="contain"}
+## {background-image="bl-v1-600-v2-460-ap-erp-jump-to-slow.png" background-size="contain"}
+## {background-image="bl-v1-600-v2-270-nsvt.png" background-size="contain"}
 ## {background-image="bl-v1-600-v2-270-nsvt-intervals.png" background-size="contain"}
 
-## {background-image="bl-v1-600-v2-270-nsvt.png" background-size="contain"}
+# Ablation {background-color='{{< brand color primary >}}'}
 
-## {background-image="bl-v1-600-v2-460-ap-erp-jump-to-slow.png" background-size="contain"}
+## {background-image="fluoro-ablation.png" background-size="contain"}
 
-## {background-image="bl-v1-600-v2-490-eccentric-cs-early-mid.png" background-size="contain"}
+## {background-image="abl-pathway-potentials-atrial-position.png" background-size="contain"}
+## {background-image="abl-first-ablation-delta-gone.png" background-size="contain"}
+## {background-image="abl-pace-during-ablate-based-on-far-field-v.png" background-size="contain"}
+## {background-image="abl-still-eccentric-continue-burning.png" background-size="contain"}
 
-## {background-image="bl-v1-wcl-520.png" background-size="contain"}
-
-## {background-image="iso-post-a1-350-wcl.png" background-size="contain"}
-
-## {background-image="iso-post-a1-400-a2-200-avn-erp.png" background-size="contain"}
-
-## {background-image="iso-post-v1-420-retrograde-av-wcl.png" background-size="contain"}
+## {background-image="abl-a1-380-jump-slow-then-wcl.png" background-size="contain"}
+## {background-image="abl-a1-600-a2-470-pre-excited-ventricular-far-field.png" background-size="contain"}
+## {background-image="abl-a1-600-a2-460-normal-far-field-v-activation.png" background-size="contain"}
 
 # Post-Ablation {background-color='{{< brand color primary >}}'}
 
-## {background-image="post-ecg-12-lead-100-sweep.png" background-size="contain"}
+## {background-image="iso-post-a1-350-wcl.png" background-size="contain"}
+## {background-image="iso-post-a1-400-a2-200-avn-erp.png" background-size="contain"}
+## {background-image="iso-post-v1-420-retrograde-av-wcl.png" background-size="contain"}
 
+## {background-image="post-ecg-12-lead-100-sweep.png" background-size="contain"}
 ## {background-image="post-intervals.png" background-size="contain"}
 
-# Take Aways
+# Discussion {background-color='{{< brand color primary >}}'}
 
-- Delta wave risk stratification
+---
 
-- Flight / pilot school
+Ms. MK had WPW pattern on surface ECG. Her pre-excitation pointed towards a postero-septal pathway, confirmed to be left-sided on the inferoseptum during EP study and ablation.
 
-- Ablation purpose
+. . .
 
-- Not-inducible
+Her syncope was primarily vasovagal, with no prior atrial fibrillation. The indication for ablation was based off of her career choice - becoming an airplane pilot.
+
+---
+
+Although asymptomatic WPW (e.g. *WPW pattern*) is overall low risk, the subsequent overall risk for significant arrhythmia is over 20%. The mechanism of death in WPW is ventricular fibrillation.
+
+. . . 
+
+Risk stratification is to help identify higher-risk individuals who are asymptomatic. 
+
+## Risk stratification
+
+- Persistent pre-excitation
+- Multiple accessory pathways
+- Inducible AF or AVRT during EPS
+- SPERRI < 250 ms 
+- Accessory pathway refractory period < 240 ms
+
+---
+
+Additional indications for ablation include high-risk professions...
+
+- Competitive athlete
+- Pilots
+- **Astronauts**
+- Military service
