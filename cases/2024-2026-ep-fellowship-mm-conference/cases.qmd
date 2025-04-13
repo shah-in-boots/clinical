@@ -227,8 +227,6 @@ csl: ../../apa.csl
 - Worsening ILD on top of ADHF
 - [Consult]{.red} for withdrawal of care and device interrogation (to turn off therapies)
 
----
-
 ## {background-image="dc-first-interrogation.png" background-size="contain"}
 
 ## Complications
@@ -274,3 +272,147 @@ csl: ../../apa.csl
 - Femoral access site infections are *rare*
 - Allergic reaction to surgical prep being more common
 
+# April 2, 2025 {background-color='{{< brand color primary >}}'}
+
+# LW23397154
+
+> March 2025   
+> Admitted for perforated appendicitis  
+> Developed paroxysmal CHB  
+> Underwent MICRA implant with perforation   
+
+## Course
+
+- 84 year old female with no prior medical history except mild memory loss
+- Presents for perforated appendicitis, conservatively managed
+- Intermittent episodes of CHB 
+- Grade 1 diastology and normal LV function on surface echocardiogram
+- After stabilization of appendicitis, underwent MICRA implant
+
+---
+
+![Telemetry findings show complete heart block intermittently](lw-telemetry-chb.png)
+
+## MICRA implantation
+
+- Right common femoral vein access, US guided
+- 8F sheath with pre-close x 2
+- Standard MICRA implant technique
+
+## {background-video="lw-lao-cine.mp4" background-video-loop="true"}
+
+## {background-video="lw-rao-cine-pericardial-effusion.mp4" background-video-loop="true"}
+
+::: {.notes}
+MICRA when taken out showed exposed tines. Lock was still in place. No notable force issues on implant. However did not pull suture back and re-lock after flushing with contrast.
+:::
+
+## {background-video="lw-lao-second-position.mp4" background-video-loop="true"}
+
+## {background-video="lw-rao-second-position.mp4" background-video-loop="true"}
+
+## {background-video="lw-tte-subxiphoid-with-effusion.mp4" background-video-loop="true"}
+
+## {background-video="lw-tte-a4c-with-effusion.mp4" background-video-loop="true"}
+
+## Overnight
+
+- Monitored overnight in ICU
+- Started on colchicine empirically
+- Received several point-of-care echocardiograms
+- Revealed stable to slight increase in size between lab and arrival in ICU
+- Resolution and coagulation by following morning
+
+## {background-video="lw-tte-post-no-effusion.mp4" background-video-loop="true"}
+		
+## Considerations
+
+- MICRA perforation risk is primarily in elderly, low body mass, women, and kidney disease
+- Additional risks include tine exposure with flushing, *may help to re-lock tines after flushing*
+- Etiology of effusion from tine puncture or disk/cup perforation of RV?
+
+# JM09878836
+
+> March 2025  
+> Outpatient ablation for recurrent persistent AF with prior PVI/CTI  
+> VOM ETOH ablation   
+> Complicated by large pericardial effusion requiring drain  
+
+## Course
+
+- 77 year old women with long-standing AF with prior ablation of PVI and CTI in 09/2024 with recurrence
+- TEE with small/trivial pericardial effusion at baseline
+- Bilateral femoral venous access
+- Transeptal puncture with BRK1 and SafeSept system
+- Mapping using quadraspline grid catheter
+- RF ablation of CAFE lesions, with PW isolation and additional roof and inferior lines
+- ETOH ablation through Vein of Marshall cannulation (1.5 mm Sprinter balloon, inflated to 1-2 atmosphere), with slow infusion of 5 cc dehydrated ETOH
+- Performed through Agilis in CS, with IMA guide catheter
+- Intra-operative venogram showed no pericardial leak (although some blush noted post injection)
+- Post-ablation ICE showed larger pericardial effusion
+
+---
+
+![Voltage map during AF prior to ablation](jm-eam-pre-voltage-af.jpg)
+
+---
+
+![Areas of fractionation during AF](jm-eam-pre-fractionation.jpg)
+
+---
+
+![Fluoroscopic view of VOM visualization after CS cannulation](jm-fluoro-cs-vom.png)
+
+## {background-video="jm-fluoro-vom-wired.mp4" background-video-loop="true}
+
+---
+
+![Post-ablation mapping](jm-eam-post-voltage-lesions.jpg)
+
+## Pericardial effusion
+
+- However, noted there was a change in effusion prior to ablation based on TEE and ICE
+- Monitored in CP&R
+- Initially managed conservatively however later chose to call interventional 
+- Moved back to cath lab for pericardiocentesis and drainage
+- Post-course, AC was held (was cardioverted during procedure) for x1 day
+- Drain removed 48 hours later to good effect
+- Discharged in stable condition, *in sinus*
+
+## Considerations
+
+- What was the etiology of the effusion? *No high force noted during ablation*
+- Pericardiocentesis done during case? *Or call another colleague for assistance during case?*
+- VOM has small effusions associated up to 5%, however no evidence of leak on post-ablation contrast shots
+
+# TS22038271
+
+> March 2025  
+> Endocardial VT ablation with epicardial mapping  
+> RFA and PFA of LV and RV of VT re-entrant mechanism  
+
+## Course
+
+- 77M with ICM, with MDT ICD, VT leaading to shocks, with prior VT ablation (LV), here for repeat ablation
+- Right sided venous/arterial access
+- Isthmus of Wilber ablation based on S2/S3 mapping
+- No mid-diastolic potentials however, and on RV side noted potential corridor with multiple exit sites
+- RV pacing with concealed fusion, with VT ablation leading to termination
+- Slurred pattern of VT suggested epicardial/deep substrate
+- Epicardial access with small Agilis, using needle-in-needle technique with contrast (*protamine given to reverse prior to doing epicardial access*)
+- Epicardial mapping also suggesting large burden of RV basal scar
+- PFA in RV region to homogenize scar from endocardium
+- Pericardial drainage with about 200 serosanguinous fluid returned
+
+## Pericardial effusion
+
+- Became hypotensive in CP&R
+- Bedside point-of-care showed large effusion with tamponade physiology (per report)
+- Pericardiocentesis with return of approximately 400 cc of bloody fluid
+- Continued to drain for next 24 hours at decreasing rates
+- Drain removed after 2 days to good effect
+
+## Considerations
+
+- Known complication from epicardial access
+- Unclear etiology as no ablation was done, and mapped with grid catheter only 
