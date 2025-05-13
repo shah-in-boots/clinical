@@ -1,6 +1,6 @@
 ---
-title: "Supraventricular Tachycardia"
-subtitle: "Case Conference"
+title: "Multiple Atrial Tachycardias"
+subtitle: "Clinical Case Conference"
 author: Anish S. Shah, MD, MS
 institute: Division of Cardiology, University of Utah
 date: Decemember 12, 2024
@@ -15,8 +15,6 @@ format:
     progress: true
     chalkboard: true
     scrollable: true
-    height: 1080
-    width: 1920
 
 csl: ../../apa.csl
 ---
@@ -36,4 +34,102 @@ Hx:
 Exam: 
 :::
 ::::
+
+## {background-image="abl-frequent-pac-while-on-septum.png" background-size="contain"}
+
+## {background-image="bl--rv-510-wbcl.png" background-size="contain"}
+
+## {background-image="bl--rv-600-pvc-during-pacing.png" background-size="contain"}
+
+## {background-image="bl-cs-380-pac-330-averp.png" background-size="contain"}
+
+## {background-image="bl-cs-600-240-avn-erp.png" background-size="contain"}
+
+## {background-image="bl-hra-600-frequent-pac-switch-to-cs-pacing.png" background-size="contain"}
+
+## {background-image="bl-hra-600-normal-activation-sequence.png" background-size="contain"}
+
+## {background-image="bl-intervals.png" background-size="contain"}
+
+## {background-image="bl-parahissian-nodal-response.png" background-size="contain"}
+
+## {background-image="bl-rv-240-verp-shorter.png" background-size="contain"}
+
+## {background-image="bl-rv-490-wbcl.png" background-size="contain"}
+
+## {background-image="bl-rv-600.png" background-size="contain"}
+
+## {background-image="bl-vest-rv-600-220-verp-not-reached-vaerp.png" background-size="contain"}
+
+## {background-image="bl-vest-rv-600-230-ventricular-frp.png" background-size="contain"}
+
+## {background-image="bl-vest-rv-600-420-va-300-retrograde-jump.png" background-size="contain"}
+
+## {background-image="bl-vest-rv-600-430-va-190.png" background-size="contain"}
+
+## {background-image="post-hv-56.png" background-size="contain"}
+
+## {background-image="post-induction-no-arrhythmia.png" background-size="contain"}
+
+## {background-image="tach-2-earliest-mid-cs-tcl-250.png" background-size="contain"}
+
+## {background-image="tach-2-tcl-310-stable-eccentric.png" background-size="contain"}
+
+## {background-image="tach-2-transition-earliest-cs-mid.png" background-size="contain"}
+
+## {background-image="tach-la-tcl-310-grid.png" background-size="contain"}
+
+## {background-image="tach-onset-with-abberrancy-tcl-280.png" background-size="contain"}
+
+## {background-image="tach-pacing-in-sinus-cs-250-ah-80.png" background-size="contain"}
+
+## {background-image="tach-tcl-250-atrial-entrainment-230-onset.png" background-size="contain"}
+
+## {background-image="tach-tcl-250-broke-during-entrainment-ppi-270.png" background-size="contain"}
+
+## {background-image="tach-tcl-250-entrainment-from-cs-220-ppi-300.png" background-size="contain"}
+
+## {background-image="tach-tcl-250-narrow-ah-71.png" background-size="contain"}
+
+## {background-image="tach-tcl-250-vop-230-fails-to-entrain.png" background-size="contain"}
+
+## {background-image="tach-tcl-280-aberrancy-ah-95.png" background-size="contain"}
+
+## {background-image="map-sinus-catheter-positions.jpg" background-size="contain"}
+
+## {background-image="map-sinus-activation.jpg" background-size="contain"}
+
+## {background-image="map-sinus-activation-2.jpg" background-size="contain"}
+
+## {background-image="map-at-not-on-right.jpg" background-size="contain"}
+
+## {background-image="map-at-not-on-right-2.jpg" background-size="contain"}
+
+## {background-image="map-at-earliest-septum.jpg" background-size="contain"}
+
+## {background-image="map-at-his-position.jpg" background-size="contain"}
+
+## {background-image="map-ablate-septum.jpg" background-size="contain"}
+
+## {background-image="map-transition-to-other-at.jpg" background-size="contain"}
+
+## {background-image="map-la-lat.jpg" background-size="contain"}
+
+## {background-image="map-la-voltage.jpg" background-size="contain"}
+
+## {background-image="map-la-vectors.jpg" background-size="contain"}
+
+## {background-image="map-la-earliest-site.jpg" background-size="contain"}
+
+## {background-image="map-ablate-la-anterior.jpg" background-size="contain"}
+
+## {background-image="map-ablate-la-anterior-2.jpg" background-size="contain"}
+
+## {background-image="map-final-septal-at.jpg" background-size="contain"}
+
+## {background-image="map-final-la-at.jpg" background-size="contain"}
+
+## {background-image="ra-at-activation.gif" background-size="contain"}
+
+## {background-image="la-at-activation.gif" background-size="contain"}
 
