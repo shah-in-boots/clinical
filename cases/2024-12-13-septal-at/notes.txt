@@ -1,0 +1,459 @@
+********H I S T O R Y**************************************
+CHIEF COMPLAINT/REASON FOR VISIT: SVT
+ 
+HX OF PRESENT ILLNESS:(incl location, severity, timing, assoc s/s, etc.)
+Mr. T0370 is a 59 year old male with PMH significant for T2DM, BPH, Depression, 
+Peripheral Neuropathy, and tachycardia. SVT initially noted while on monitoring 
+for his umbilical hernia repair in 9/2023.  He had an event monitor post-surgery 
+and was found to have many episodes of SVT lasting as long as 2 mins. He had an 
+EP Study on 2/15/2024 which showed short episodes of SVT but nothing amenable to 
+ablation due to brief duration of about 3 to 4 secs.
+
+He is doing well with the Toprol XL 12.5mg daily and doesn't have much 
+tachycardia or palpitations. He has brief lightheadedness on occasion when he 
+stands which only lasts for a few secs.
+
+He denies any chest pain or shortness of breath.
+
+ 
+Past Medical/Surgical History:
+T2DM
+Peripheral neuropathy
+Depression
+BPH
+Ganglion cyst
+OSA
+
+
+Family History:
+Not significant
+ 
+Social/Military History:
+Lives in Ogden alone
+Quit smoking
+Occasional EtOH use
+Occ MJ use
+
+ 
+ 
+MEDICATIONS:
+Active Outpatient Medications (including Supplies):
+ 
+ACCU-CHEK GUIDE (GLUCOSE) TEST STRIP USE ONE (1) STRIP FOR  ACTIVE
+  TESTING BLOOD GLUCOSE AS DIRECTED FOR CHECK BLOOD SUGAR.
+  TENTAIVE HIGHER SUPPLY AS A1C IS ELEVATED
+ATORVASTATIN CALCIUM 10MG TAB TAKE ONE TABLET BY MOUTH      ACTIVE
+  EVERY EVENING FOR CHOLESTEROL LOWERING.
+BACLOFEN 10MG TAB TAKE ONE TABLET BY MOUTH THREE (3) TIMES  ACTIVE
+  A DAY FOR NERVE PAIN
+DULOXETINE HCL 30MG EC CAP TAKE ONE CAPSULE BY MOUTH EVERY  ACTIVE
+  MORNING FOR MOOD
+FAMOTIDINE 40MG TAB TAKE ONE TABLET BY MOUTH AT BEDTIME     ACTIVE
+  FOR STOMACH
+GABAPENTIN 300MG CAP TAKE ONE CAPSULE BY MOUTH EVERY EIGHT  ACTIVE
+  (8) HOURS FOR MOOD
+GLIMEPIRIDE 4MG TAB TAKE TWO TABLETS BY MOUTH EVERY DAY     ACTIVE (S)
+  WITH FIRST MEAL FOR DIABETES.
+LANCET,SOFTCLIX USE LANCET INTO AN AREA UNDER THE SKIN AS   ACTIVE
+  DIRECTED FOR BLOOD GLUCOSE TESTING.
+LURASIDONE HCL  20MG TAB UD TAKE ONE TABLET BY MOUTH EVERY  ACTIVE
+  EVENING, WITH FOOD IN THE AMOUNT GREATER THAN 350
+  CALORIES. FOR DEPRESSION
+METFORMIN HCL 500MG 24HR SA TAB TAKE FOUR TABLETS BY MOUTH  ACTIVE
+  EVERY DAY WITH MEAL FOR DIABETES
+METOPROLOL SUCCINATE 25MG SA TAB TAKE ONE-HALF TABLET BY    ACTIVE (S)
+  MOUTH EVERY DAY FOR HEART RATE
+SEMAGLUTIDE 1MG/0.75ML INJ PEN 3ML INJECT 1 MG INTO AN      ACTIVE
+  AREA UNDER THE SKIN EVERY WEEK FOR DIABETES.
+TAMSULOSIN HCL 0.4MG CAP TAKE ONE CAPSULE BY MOUTH EVERY    ACTIVE
+  DAY TO IMPROVE URINATION
+Non-VA MORPHINE  SULFATE 30MG 12HR SA TAB 30MG BY MOUTH     ACTIVE
+  THREE (3) TIMES A DAY
+Non-VA OXYCODONE  5-ACETAMINOPHEN 325MG TAB OXYCODONE       ACTIVE
+  HCL/APAP/7.5/325 BY MOUTH THREE (3) TIMES A DAY
+Non-VA PHENYLEPHRINE HCL 2.5% 15ML SOLN,OPH 1 DROP 1%       ACTIVE
+  NASAL SPRAY  NOT EYE SOLUTION  EVERY OTHER DAY
+Non-VA SODIUM CHLORIDE 0.65% SOLN NASAL SPRAY 2 SPRAYS      ACTIVE
+  EACH NOSTRIL IF NEEDED
+ 
+******************************************************************
+MEDICATION RECONCILIATION:
+   [ ] The following information sources were consulted and the
+       patient's CPRS medication profile was updates with
+       medication, allergy, OTC, herbal, or illicit drug use
+       information as necessary.
+   [ ] I have verified patient's understanding of indications.
+   [ ] Medication reconciled
+*******************************************************************
+ 
+ALLERGIES/ADR: EMPAGLIFLOZIN
+ 
+LABS/TESTING SUMMARY:
+ 
+REVIEW OF SYSTEMS:(from questions to patient)
+6 systems reviewed and negative except as stated above.
+
+ 
+********P H Y S I C A L  E X A M **************************
+PE:(organ systems)
+Temp:      97.6 F [36.4 C] (08/28/2024 10:58)
+Resp:      18 (08/28/2024 10:58)
+Pulse:     91 (08/28/2024 10:58)
+BP:        115/76 (08/28/2024 10:58)
+Pulse Ox:  93%   (8/28/24 @ 1058)     SUPP O2:   QUALIFIER: N/A
+Pain:      4 (08/28/2024 10:58)
+General: Awake, alert, and oriented x3
+HENT: NC, AT, no oral lesions
+Neck: No LAD
+CVS: RRR, no M/G/R
+Lungs: CTAB, no respiratory distress
+Abd: S/NT/ND
+Ext: No edema
+Skin: No rashes
+Neuro: Moves all extremities, no focal deficits 
+ 
+PROCEDURES:
+
+EKG: Today
+NSR
+Normal ECG
+
+EKG 5/1/2024: normal sinus rhythm, HR 82 bpm. 
+
+ECHO: 10/2023
+Summary
+  1. Outpatient  TTE performed on a  58 year old  Male with a history of DM,
+OSA, for an indication of SVT.
+  2. Left ventricular systolic function is normal with an ejection fraction by
+Biplane Method of Discs of 63 %.
+  3. Left ventricular segmental wall motion is normal.
+  4. There is normal geometry noted in the left ventricle.
+  5. Left ventricular filling pressure is normal.
+  6. The left ventricular diastolic function is normal.
+  7. Right ventricular chamber dimension is normal.
+  8. Right ventricular systolic function is normal.
+  9. Unable to estimate pulmonary artery pressure due to lack of tricuspid
+regurgitation jet.
+  10. Normal inferior vena cava with <50% collapse upon inspiration consistent
+with normal right atrial pressure, 8 mmHg.
+  11. No significant valvular disease.
+  12. No prior TTE for comparison.
+
+EKG: 12/19/2023
+NSR
+Normal EKG
+
+Event Monitor 10/2023
+ 1. Predominant underlying rhythm was Sinus Rhythm.
+ 2. There were 4012 runs of Supraventricular Tachycardia, the longest
+ lasting 2 mins 10 secs with an avg rate of 212 bpm, some of which
+ were symptomatic to the patient.
+ 3. PACs and PVCs were occasional.
+
+
+
+ 
+********M E D I C A L  D E C I S I O N   M A K I N G*******
+DIAGNOSIS/ASSESSMENT/TREATMENT:
+ 
+#Frequent, brief SVT, likely short ATach on EP Study
+
+Not very symptomatic. He has some brief orthostatic lightheadedness. Otherwise, 
+he feels fine. He doesn't have any palpitations.
+
+- Continue Metoprolol Succinate 12.5mg daily
+- Ordered Event Monitor
+
+
+
+ LOCAL TITLE: ARRHYTHMIA CONSULT                                 
+STANDARD TITLE: CARDIOLOGY CONSULT                              
+DATE OF NOTE: DEC 13, 2024@17:58     ENTRY DATE: DEC 13, 2024@17:58:48      
+      AUTHOR: SHAH,ANISH S         EXP COSIGNER: SHELTON,RICHARD S MD      
+     URGENCY:                            STATUS: COMPLETED                     
+
+
+ 
+     VA CART Program for Clinical Assessment, Reporting, and Tracking
+_____________________________________________________________________________
+ 
+ELECTROPHYSIOLOGY DIAGNOSTIC AND THERAPEUTIC PROCEDURE REPORT
+ 
+Procedure Date:   12/13/2024  Associated Assessment: EP (12/13/2024)
+Procedure Status: Elective outpatient procedure
+Attending: SHELTON,RICHARD S MD
+Assisting: SHAH,ANISH S
+ 
+PROCEDURE INDICATIONS
+ Symptoms:
+   Palpitations
+ Indications:
+   Supraventricular Tachycardia (SVT)
+   Premature Atrial Complexes (PAC)
+ 
+PROCEDURES PERFORMED
+ 
+ Diagnostic Procedures:
+   Complex EP study
+   Induction of arrhythmia
+   Left atrial pacing/recording
+   Drug infusion
+   Induction of arrhythmia after drug infusion
+   Post-ablation EP Study
+ Therapeutic Procedures:
+   Supraventricular tachycardia ablation
+   Additional SVT Arrhythmia ablation
+   External direct current cardioversion
+ Adjunctive Procedures:
+   Ultrasound guidance for vascular access
+   Intracardiac Echocardiography
+   3D electroanatomic mapping
+   Transseptal catheterization
+ 
+TIME-OUT
+  A time-out was performed addressing all safety requirements relevant to the
+  procedure.
+  Type of procedure, site, and patient ID were verified with the patient.
+  The attending has assessed or re-assessed the patient and there are no
+  changes to the pre-procedure assessment.
+ 
+PROCEDURE DETAILS
+ Procedure:
+ 
+ Fluoroscopy
+ Electrophysiology study
+ Electroanatomical mapping
+ Central venous access x 4
+ External direct-current cardioversion
+ Arrhythmia induction with pharmacological therapy
+ Post ablation EP study
+ Transseptal puncture
+ Intracardiac echocardiography
+ 
+ Ablation of right-sided atrial arrhythmia, distinct mechanism
+ Ablation of left-sided atrial arrhythmia, distinct mechanism
+ 
+ 
+ Indication:
+ 
+ Recurrent palpitations with event monitor consistent with supraventricular
+ tachycardia, with previous EP study with noninducible SVT, here for
+ ablation.  Has held beta-blocker for 2 weeks prior.
+ 
+ Operators:
+ 
+ Attending = Shelton
+ Fellow = Shaw
+ 
+ Details:
+ 
+ Informed consent and timeout was performed before procedure start.  The
+ patient was prepared in the usual sterile fashion.  Electroanatomical
+ mapping was performed using the ESI mapping company.  When left-sided,
+ heparin was given to maintain an ACT between 303 50 using a combination of
+ bolus/infusion.
+ 
+ Central venous access was obtained bilaterally with 2 on each side under
+ ultrasound guidance.  A 4 catheter EP study was conducted.  A coronary sinus
+ catheter was put in the 7 French on the left leg, with an RV catheter placed
+ and an 8 French introducer on the left leg.  Another single curve
+ quadripolar catheter was placed in the HRA position through an 8 French on
+ the right leg.  A dual curve CRD 2 catheter was placed at the level of the
+ hiss through a 7 French on the right leg.  We performed burst pacing and
+ extra stimulation protocol from atrial and ventricular positions.  After
+ arrhythmia induction, with the support of isoproterenol, an ablation
+ catheter was placed through an Agilis sheath after removing the HRA
+ quadripolar catheter.
+ 
+ Mapping was performed of the right atrium during sinus and during the
+ arrhythmia.  Ablation was performed on the anterior septum as detailed.
+ 
+ Additional arrhythmia mechanisms were noted. This additional arrhythmia
+ appeared to be earliest on the left side and a transseptal puncture was
+ performed.
+ 
+ Transseptal puncture was performed under fluoroscopy and intracardiac
+ echocardiography guidance.  The arrhythmia was induced and mapped on the
+ left atrial side.  Ablation was performed on the anterior wall of the left
+ atrium.
+ 
+ Post ablation, no arrhythmia was able to be induced.  The patient tolerated
+ the procedure well.  Hemostasis was obtained with manual pressure.
+ 
+ Findings:
+ 
+ 1.  Electrophysiology study: A full catheter EP study was performed.  The
+ initial sinus rhythm showed an AH of approximately 100 ms, with an HV of 40
+ ms, QRS of 80 ms.  Ventricular pacing resulted in a VA Wenchkebach block of
+ 600/510 ms.  Ventricular ERP was less than 240 ms.  VA Wenckebach block was
+ approximately 600/220.  Atrial stimulation resulted in an atrial ERP of
+ approximately 220 ms.  AV Wenke block of 600/240-270.  When assessing
+ Wenchebach, we used the earliest/longest coupling intervals.  The frequency
+ of block increased with decrement.  During atrial extra stimulation,
+ decrement was seen in AH conduction time, however no distinct jump was
+ noted.  No arrhythmia was induced during initial extra stimulation or burst
+ pacing.  Isoproterenol was then started at 2 mcg/min.  ParaHissian pacing
+ was performed however lead to induction of arrhythmia. 
+ 
+ 2.  Arrhythmia #1 characteristics: Arrhythmia #1 had a tachycardia cycle
+ length of approximately 250 ms with a VA interval of approximately 110 ms in
+ a long RP fashion.  Initial attempted VOP for entrainment did not lead to or
+ advance the TCL.  Atrial entrainment was attempted from the HRA position but
+ due to ectopy and catheter instability was changed to CS proximal pacing. 
+ Entrainment was limited due to frequent atrial ectopy and changes in cycle
+ length of the primary atrial arrhythmia.  The initial entrainment from CS
+ 910-lead to a PPI minus TCL of 80 ms.  Distal CS atrial entrainment was not
+ possible due to termination/ectopy.  Prior to ablation, repeat Para-Hisian
+ pacing showed a nodal response. We treated this arrhythmia as a focal atrial
+ tachycardia based on the lack of VA penetration of the atrial arrhythmia
+ with robust retrograde conduction.  Delta AH was less than 40 ms also
+ suggesting against atypical AVNRT.  Although there was WCT during
+ arrhythmia, this appeared to be rate dependent aberrancy.  The QRS was
+ narrow with a positive HV interval throughout.  No eccentric activation was
+ seen however had robust AV conduction and it appeared to be a similar
+ activation sequence as sinus rhythm.
+ 
+ 3.  Arrhythmia #1 mapping: As above, we treated this as a focal/Micra
+ reentrant atrial tachycardia that was septal.  We mapped to the earliest a
+ during tachycardia along the right atrium with the anteroseptum above the
+ level of the coronary sinus being the earliest sites.
+ 
+ 4.  Ablation of arrhythmia #1: We used a nonirrigated 4 mm catheter through
+ the Agilis sheath to both map and ablate the arrhythmia.  We used a
+ temperature limit of 60 degrees and a power limit of 50 W.  We ablated above
+ what appeared to be the tendon of Todaro focusing on 10 to 15% impedance
+ drops and lack of local atrial signal in that region.  We were careful to
+ map the extent of the right atrial side of the hiss which appeared to be
+ over 20 mm away from our ablation targets.
+ 
+ 5.  Arrhythmia mechanism #2 characteristics: During the previous EP study we
+ noted additional ectopy that appeared to be earliest from CS 5 6 which was
+ in a traditional position we would occasionally get runs of this tachycardia
+ which had a cycle length under isoproterenol of approximately 310 ms.
+ 
+ 6.  Transseptal puncture: Because of the left-sided earliest activation
+ pattern seen, it was decided to go transseptal.  We had also mapped on the
+ right side and noted there was always earlier activation in CS 5 6 then our
+ roving catheter.  This transseptal puncture was complex.  Due to edema after
+ ablation of the septum, visibility was somewhat limited on ultrasound. 
+ Additionally, there was difficulty in finding a thin part of the septum.  We
+ initially tried using the Accu cross system.  2 attempts were made which did
+ not pass through the septum, but with electrocautery we were able to pass
+ the wire and placed it into the left inferior pulmonary vein.  However, the
+ dilator/introducer nor Agilis could pass through the septal puncture.  We
+ attempted transseptal puncture again but send elevated.  We then decided to
+ switch to a alternative approach.  We used a BR K1 catheter through an SLO
+ sheath that we switched over wire from the Agilis.  We had the PRK needle
+ connected to pressure transduction.  With this, transseptal puncture was
+ facilitated and the sheath was able to cross.  The left atrial pressure was
+ approximately 12.  We then brought across a multi spline grid catheter to
+ induce and mapped the left atrium.
+ 
+ 7.  Arrhythmia mapping #2: The second arrhythmia mechanism was mapped in the
+ left atrium.  We also incorporated data from the right atrium.  Both sinus
+ and pace mapping for voltage was performed.  Arrhythmia was then induced
+ with isoproterenol and burst pacing.  The activation sequence connected/in
+ the pattern of arrhythmia mechanism to appear to be from the anterior aspect
+ of the left atrium above the mitral valve.  This appeared to be focal and
+ nonreentrant. 
+ 
+ 8. Arrhythmia #2 ablation: The grid catheter was switched for a force/vector
+ irrigated ablation catheter.  We ablated during arrhythmia and cause
+ cessation of the arrhythmia.  We homogenized the region of the anterior wall
+ with a multiple of 40 W lesions continued until loss of EGM was noted.
+ 
+ 9.  Post ablation EP study: We performed a post ablation induction of
+ arrhythmia with aggressive burst pacing under isoproterenol and off
+ isoproterenol during washout.  No arrhythmia of any kind was able to be
+ induced, when initially the arrhythmia was almost incessant.
+ 
+ 10.  Cardioversion of induced atrial fibrillation: The patient during burst
+ pacing eventually degenerated into atrial fibrillation for several minutes.
+  He tolerated this well from a hemodynamic perspective but we were unable to
+ continue the study in this fashion.  The patient was electively cardioverted
+ with a synchronized shock at 100 J successfully.
+ 
+ Summary:
+ 
+ Successful ablation of 2 focal atrial tachycardias, 1 from the anteroseptum
+ of the right atrium and 1 from the anterior wall of the left atrium just
+ above the annulus.  These arrhythmias appear to be somewhat linked in that
+ the tachyarrhythmia would alternate between activation patterns during EP
+ study.  The patient was noninducible afterwards even with aggressive burst
+ pacing.
+ 
+ Recommendations:
+ 
+ -Follow-up in EP clinic in 3 months
+ -Okay to continue all home medications including beta-blocker
+ -Watch overnight to monitor vascular access
+ -Postop ECG on arrival to floor
+ 
+IN-LAB MEDICATIONS
+ 
+PERIPROCEDURAL COMPLICATIONS
+ No Major Adverse Events or Complications
+ 
+The attending was present throughout the procedure.
+ 
+PROCEDURE SUMMARY
+  Successful ablation of 2 focal atrial tachycardias, 1 from the anteroseptum
+  of the right atrium and 1 from the anterior wall of the left atrium just
+  above the annulus.  These arrhythmias appear to be somewhat linked in that
+  the tachyarrhythmia would alternate between activation patterns during EP
+  study.  The patient was noninducible afterwards even with aggressive burst
+  pacing.
+ 
+RECOMMENDATIONS
+  -Follow-up in EP clinic in 3 months
+  -Okay to continue all home medications including beta-blocker
+  -Watch overnight to monitor vascular access
+  -Postop ECG on arrival to floor
+ 
+PROCEDURE CODING
+ Coding                     Procedure
+-----------------------------------------------------------------------------
+ 93620                      Complex EP study
+ 93618                      Induction of arrhythmia
+ 93621-26                   Left atrial pacing/recording
+ N/A                        Drug infusion
+ 93623                      Induction of arrhythmia after drug infusion
+ 93624                      Post-ablation EP Study
+ 93653                      Supraventricular tachycardia ablation
+ 93655                      Additional SVT Arrhythmia ablation
+ 92960                      External direct current cardioversion
+ 76937                      Ultrasound guidance for vascular access
+ 93662                      Intracardiac Echocardiography
+ 93613                      3D electroanatomic mapping
+ 93462                      Transseptal catheterization
+ 
+DEVICES AND MAJOR SUPPLIES
+-----------------------------------------------------------------------------
+ #  Manufacturer      Description                              SN/Lot
+-----------------------------------------------------------------------------
+ 0: Abbott            Ensite Surface Electrode Kit ENSITE-SEK- 10575468
+ 1: Abbott            Inquiry Steerable 6F 2-5-2mm x 110cm Med 10538844
+ 2: Abbott            5F Supreme Quad CRD-2 5mm 120cm          10226886
+ 3: Abbott            Supreme EP Catheter 5fr Quad JSN 120cm   10311677
+ 4: Abbott            Supreme EP Catheter 5fr Quad JSN 120cm   10418063
+ 5: Abbott            Sheath Agilis NxT Steerable 8.5F x 71cm  10505815
+ 6: Abbott            Safire Bi-Directional Ablation Catheter  8723699
+ 7: Medtronic         AcQCross Qx Integrated Transseptal Dilat 105595
+ 8: Abbott            Cool Point Tubing Set 2.6m               H3043486
+ 9: Siemens           AcuNav Diagnostic Ultrasound Catheter 8F G2211955
+10: Abbott            Swartz 8.5F Braided Transs Guide Intro S 10535808
+11: Abbott            Response Needle Transseptal BRK-1 71c    10127402
+12: Abbott            Sensor Enabled Bi-D High Density Mapping 10574701
+13: Abbott            TactiFlex Bi-D Irrigated Ablation Cathet 10512710
+ 
+_____________________________________________________________________________
+660            CART-EP:066000-004BD20E-CPEP0001          12/13/2024
+ 
+ 
+/es/ ANISH S SHAH
+RESIDENT PHYSICIAN
+Signed: 12/13/2024 17:59
+ 
+/es/ RICHARD S SHELTON MD
+ATTENDING PHYSICIAN
+Cosigned: 12/16/2024 08:28

@@ -3659,5 +3659,82 @@
     "title": "Multiple Atrial Tachycardias",
     "section": "History & Physical",
     "text": "History & Physical\n\n\nHPI: XXX year old gentleman\nHx:\n\nExam:"
+  },
+  {
+    "objectID": "cases/2024-12-13-septal-at/case.html#history",
+    "href": "cases/2024-12-13-septal-at/case.html#history",
+    "title": "Multiple Atrial Tachycardias",
+    "section": "History",
+    "text": "History\n\nHPI: 59M with recurrent SVT, dx in 09/2023 peri-operatively (umbilical hernia repair), with subsequent MCT showing maximum duration of ~2 minutes. EPS in 02/2024 non-inducible.\n\n\nHx: DMT2 c/b neuropathy, ETOH/THC usage, lives alone in Ogden\n\n\nMeds: duloxetine, gabapentin, metoprolol succinate 25, no allergies"
+  },
+  {
+    "objectID": "cases/2024-12-13-septal-at/case.html#physical",
+    "href": "cases/2024-12-13-septal-at/case.html#physical",
+    "title": "Multiple Atrial Tachycardias",
+    "section": "Physical",
+    "text": "Physical\n\nExam: 91 bpm, 118/76, 96% on RA. AOx4, thin gentleman, S1/S2 without M/G/R. Easy WOB with symmetrical chest rise. Antalgic gait (cane).\n\n\nStudies: LVEF 65% with normal filling pressures. MCT with 4k runs of SVT, longest 2 minutes (symptomatic)."
+  },
+  {
+    "objectID": "cases/2024-12-13-septal-at/case.html#section-5",
+    "href": "cases/2024-12-13-septal-at/case.html#section-5",
+    "title": "Multiple Atrial Tachycardias",
+    "section": "",
+    "text": "PVC comes in early to pacing, leading to pacing into refractory tissue. Morphology consistent with catheter bump."
+  },
+  {
+    "objectID": "cases/2024-12-13-septal-at/case.html#section-7",
+    "href": "cases/2024-12-13-septal-at/case.html#section-7",
+    "title": "Multiple Atrial Tachycardias",
+    "section": "",
+    "text": "The retrograde block actually comes with a narrow QRS morphlogy, suggesting His capture. RV lead is basal (positive in V6 when just having myocardial capture)."
+  },
+  {
+    "objectID": "cases/2024-12-13-septal-at/case.html#section-14",
+    "href": "cases/2024-12-13-septal-at/case.html#section-14",
+    "title": "Multiple Atrial Tachycardias",
+    "section": "",
+    "text": "With HRA pacing, had lots of ectopy leading to us moving to pacing from CS proximal instead."
+  },
+  {
+    "objectID": "cases/2024-12-13-septal-at/case.html#section-15",
+    "href": "cases/2024-12-13-septal-at/case.html#section-15",
+    "title": "Multiple Atrial Tachycardias",
+    "section": "",
+    "text": "Attempting to find Wenckebach but had frequent PAC, switch surrogate as an S2 to test refractoriness."
+  },
+  {
+    "objectID": "cases/2024-12-13-septal-at/case.html#section-16",
+    "href": "cases/2024-12-13-septal-at/case.html#section-16",
+    "title": "Multiple Atrial Tachycardias",
+    "section": "",
+    "text": "Skipped to AVNERP because we induced with atrial pacing while checking Wenckebach."
+  },
+  {
+    "objectID": "cases/2024-12-13-septal-at/case.html#section-20",
+    "href": "cases/2024-12-13-septal-at/case.html#section-20",
+    "title": "Multiple Atrial Tachycardias",
+    "section": "",
+    "text": "Could add section on delta AH maneuver here"
+  },
+  {
+    "objectID": "cases/2024-12-13-septal-at/case.html#section-21",
+    "href": "cases/2024-12-13-septal-at/case.html#section-21",
+    "title": "Multiple Atrial Tachycardias",
+    "section": "",
+    "text": "The surface leads show change in morphology, suggesting left bundle aberrancy."
+  },
+  {
+    "objectID": "cases/2024-12-13-septal-at/case.html#section-30",
+    "href": "cases/2024-12-13-septal-at/case.html#section-30",
+    "title": "Multiple Atrial Tachycardias",
+    "section": "",
+    "text": "Recurrent arrhythmia however, but the activation sequence changes. CS 5-6 is now earliest."
+  },
+  {
+    "objectID": "cases/2024-12-13-septal-at/case.html#section-36",
+    "href": "cases/2024-12-13-septal-at/case.html#section-36",
+    "title": "Multiple Atrial Tachycardias",
+    "section": "",
+    "text": "We decide to use the grid to help map the LA, as has never had AF or PVI prior. Initially place grid in the LV and move up. Highlighting some fractionation and late potentials at the annulus."
   }
 ]
