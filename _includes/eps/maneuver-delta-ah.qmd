@@ -1,0 +1,59 @@
+# Delta AH Maneuver
+
+## Indication
+
+. . .
+
+:::: {.columns}
+::: {.column width="60%"}
+
+**Long RP tachycardia** can be challenging, particularly with posteroseptal accessory pathways and right atrial tachycardias.
+
+Useful for differentiating between atypical AVNRT from ORT/AT
+:::
+
+::: {.column width="40%"}
+1. Atypical AVNRT
+1. Atrial tachycardia
+1. ORT with slowly conducting accessory pathway
+:::
+::::
+
+## Utilization
+
+. . .
+
+- Long RP tachycardia, RP $\ge$ PR, e.g. VA $\gt$ 70 ms
+- Narrow complex, regular tachycardia, with 1:1 conduction
+- 1:1 AV conduction when pacing during sinus at TCL
+- Visible His bundle recording
+
+. . .
+
+::: {.callout-warning title="Limitations"}
+- AV block during pacing at TCL
+- Does not exclude dual AV nodal physiology during ORT or AT (leading to longer $\Delta AH$
+:::
+
+## Technique
+
+$\Delta AH = | AH_{S1} - AH_{tach}|$ 
+$\Delta AH > 40 ms \Rightarrow atypical\ AVNRT$
+$\Delta AH < 20 ms \Rightarrow ORT \lor AT$
+
+1. HRA pacing during sinus rhythm at $PCL = TCL$, with measurement of AH interval
+1. Measurement of AH interval during tachycardia 
+
+---
+
+::: {layout-ncol=2}
+
+![AH during ORT versus RA pacing at matching cycle length.](../../figures/man-1995-ort-example.png)
+
+![Findings from Man et al. 1995 study.](../../figures/man-1995-results.png)
+
+:::
+
+---
+
+![Schematic showing difference for the AH interval for atypical AVNRT and atrial pacing by Man et al. 1995](../../figures/man-1995-delta-ah-schematic.png)

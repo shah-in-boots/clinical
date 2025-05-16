@@ -3,7 +3,7 @@ title: "Multiple Atrial Tachycardias"
 subtitle: "Clinical Case Conference"
 author: Anish S. Shah, MD, MS
 institute: Division of Cardiology, University of Utah
-date: Decemember 12, 2024
+date: May 14, 2025
 format:
   revealjs:
     transition: fade
@@ -108,23 +108,31 @@ Skipped to AVNERP because we induced with atrial pacing while checking Wenckebac
 # Tachycardia #1 {background-color='{{< brand color primary >}}'}
 
 ## {background-image="tach-onset-with-aberrancy-tcl-280.png" background-size="contain"}
+
+## {background-image="tach-tcl-250-vop-230-fails-to-entrain.png" background-size="contain"}
+## {background-image="tach-tcl-250-atrial-entrainment-230-onset.png" background-size="contain"}
+## {background-image="tach-tcl-250-broke-during-entrainment-ppi-270.png" background-size="contain"}
+## {background-image="tach-tcl-250-entrainment-from-cs-220-ppi-300.png" background-size="contain"}
+
 ## {background-image="tach-pacing-in-sinus-cs-250-ah-80.png" background-size="contain"}
+
+::: {.notes}
+Pacing during sinus rhythm at approximately the same cycle length as tachycardia. The AH interval is approximately 80 ms. We can then compare AH interval during tachycardia.
+:::
+
 ## {background-image="tach-tcl-250-narrow-ah-71.png" background-size="contain"}
 
 ::: {.notes}
-- [ ] Could add section on delta AH maneuver here
+The tachcyardia, of a similar cycle length, has an AH interval that is approximately the same as that during sinus pacing. About 71 ms.
 :::
 
 ## {background-image="tach-tcl-280-aberrancy-ah-95.png" background-size="contain"}
 
 ::: {.notes}
-The surface leads show change in morphology, suggesting left bundle aberrancy. 
+The surface leads show change in morphology, suggesting left bundle aberrancy. The AH interval is the same during this however, approximately 90 miliseconds.
 :::
 
-## {background-image="tach-tcl-250-atrial-entrainment-230-onset.png" background-size="contain"}
-## {background-image="tach-tcl-250-broke-during-entrainment-ppi-270.png" background-size="contain"}
-## {background-image="tach-tcl-250-entrainment-from-cs-220-ppi-300.png" background-size="contain"}
-## {background-image="tach-tcl-250-vop-230-fails-to-entrain.png" background-size="contain"}
+{{< include ../../_includes/eps/maneuver-delta-ah.qmd >}}
 
 ## {background-image="map-at-his-position.jpg" background-size="contain"}
 ## {background-image="map-at-earliest-septum.jpg" background-size="contain"}

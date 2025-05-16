@@ -3736,5 +3736,61 @@
     "title": "Multiple Atrial Tachycardias",
     "section": "",
     "text": "We decide to use the grid to help map the LA, as has never had AF or PVI prior. Initially place grid in the LV and move up. Highlighting some fractionation and late potentials at the annulus."
+  },
+  {
+    "objectID": "cases/2024-12-13-septal-at/case.html#section-19",
+    "href": "cases/2024-12-13-septal-at/case.html#section-19",
+    "title": "Multiple Atrial Tachycardias",
+    "section": "",
+    "text": "Pacing during sinus rhythm at approximately the same cycle length as tachycardia."
+  },
+  {
+    "objectID": "cases/2024-12-13-septal-at/case.html#section-23",
+    "href": "cases/2024-12-13-septal-at/case.html#section-23",
+    "title": "Multiple Atrial Tachycardias",
+    "section": "",
+    "text": "Pacing during sinus rhythm at approximately the same cycle length as tachycardia. The AH interval is approximately 80 ms. We can then compare AH interval during tachycardia."
+  },
+  {
+    "objectID": "cases/2024-12-13-septal-at/case.html#section-24",
+    "href": "cases/2024-12-13-septal-at/case.html#section-24",
+    "title": "Multiple Atrial Tachycardias",
+    "section": "",
+    "text": "The tachcyardia, of a similar cycle length, has an AH interval that is approximately the same as that during sinus pacing. About 71 ms."
+  },
+  {
+    "objectID": "cases/2024-12-13-septal-at/case.html#section-25",
+    "href": "cases/2024-12-13-septal-at/case.html#section-25",
+    "title": "Multiple Atrial Tachycardias",
+    "section": "",
+    "text": "The surface leads show change in morphology, suggesting left bundle aberrancy. The AH interval is the same during this however, approximately 90 miliseconds."
+  },
+  {
+    "objectID": "cases/2024-12-13-septal-at/case.html#indication",
+    "href": "cases/2024-12-13-septal-at/case.html#indication",
+    "title": "Multiple Atrial Tachycardias",
+    "section": "Indication",
+    "text": "Indication\n\n\n\nLong RP tachycardia can be challenging, particularly with posteroseptal accessory pathways and right atrial tachycardias.\nUseful for differentiating between atypical AVNRT from ORT/AT\n\n\nAtypical AVNRT\nAtrial tachycardia\nORT with slowly conducting accessory pathway"
+  },
+  {
+    "objectID": "cases/2024-12-13-septal-at/case.html#utilization",
+    "href": "cases/2024-12-13-septal-at/case.html#utilization",
+    "title": "Multiple Atrial Tachycardias",
+    "section": "Utilization",
+    "text": "Utilization\n\n\nLong RP tachycardia, RP \\(\\ge\\) PR, e.g. VA \\(\\gt\\) 70 ms\nNarrow complex, regular tachycardia, with 1:1 conduction\n1:1 AV conduction when pacing during sinus at TCL\nVisible His bundle recording\n\n\n\n\n\n\n\n\n\n\nLimitations\n\n\n\nAV block during pacing at TCL\nDoes not exclude dual AV nodal physiology during ORT or AT (leading to longer \\(\\Delta AH\\)"
+  },
+  {
+    "objectID": "cases/2024-12-13-septal-at/case.html#technique",
+    "href": "cases/2024-12-13-septal-at/case.html#technique",
+    "title": "Multiple Atrial Tachycardias",
+    "section": "Technique",
+    "text": "Technique\n\nHRA pacing during sinus rhythm at \\(PCL = TCL\\), with measurement of AH interval\nMeasurement of AH interval during tachycardia\n\nInterpretation:\n\\(\\Delta AH = | AH_{S1} - AH_{tach}|\\) \\(\\Delta AH &gt; 40 ms \\Rightarrow atypical\\ AVNRT\\) \\(\\Delta AH &lt; 20 ms \\Rightarrow ORT \\lor AT\\)"
+  },
+  {
+    "objectID": "cases/2024-12-13-septal-at/case.html#section-48",
+    "href": "cases/2024-12-13-septal-at/case.html#section-48",
+    "title": "Multiple Atrial Tachycardias",
+    "section": "",
+    "text": "Man, K. C., Niebauer, M., Daoud, E., Strickberger, S. A., Kou, W., Williamson, B. D., & Morady, F. (1995). Comparison of Atrial-His Intervals During Tachycardia and Atrial Pacing in Patients with Long RP Tachycardia. Journal of Cardiovascular Electrophysiology, 6(9), 700–710. https://doi.org/10.1111/j.1540-8167.1995.tb00446.x"
   }
 ]
